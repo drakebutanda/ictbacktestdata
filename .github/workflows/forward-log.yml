@@ -1,0 +1,47 @@
+name: MNQ forward logger
+
+# Runs on GitHub's servers — your Mac can be off. The scan is gap-proof and
+# resolves trades retroactively, so one evening run captures the full day.
+on:
+  schedule:
+    - cron: "0 1 * * *"      # 01:00 UTC daily (~7-8pm Central) — after the
+                             # afternoon session and its 4h max-hold have resolved.
+  workflow_dispatch: {}      # manual "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write            # needed to commit the updated journal back
+
+concurrency:                 # never let two runs race on the journal
+  group: forward-log
+  cancel-in-progress: false
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run forward logger
+        env:
+          # All optional. Set whichever notification channel you want as repo
+          # secrets (Settings → Secrets and variables → Actions). Unset = no ping.
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT:  ${{ secrets.TELEGRAM_CHAT }}
+          WEBHOOK_URL:    ${{ secrets.WEBHOOK_URL }}
+          FRED_API_KEY:   ${{ secrets.FRED_API_KEY }}
+        run: python mnq_forward_logger.py
+
+      - name: Commit updated journal
+        run: |
+          git config user.name  "forward-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add mnq_forward_journal.csv .mnq_forward_state
+          git commit -m "forward log $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "no changes to commit"
+          git push || echo "nothing to push"

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# Standalone backtest logs are reproducible — don't track them.
+backtest*_results.txt
+backtest_baseline_*.txt
+# NOTE: the forward journal + state ARE tracked on purpose — they are the record.
