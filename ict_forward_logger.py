@@ -18,13 +18,16 @@ Cloud-ready (script-relative paths). Run: python3 ~/Desktop/ict_forward_logger.p
 import os, json, random, urllib.request
 import pandas as pd
 
-from backtest10_institutional import load, INSTRUMENTS, RISK_PCT, MAX_CONTRACTS, SLIP_TICKS
+from backtest10_institutional import load, INSTRUMENTS, MAX_CONTRACTS, SLIP_TICKS
 from backtest13_ict_orb import sig_fvg, MAX_HOLD
 
 _HERE   = os.path.dirname(os.path.abspath(__file__))
 JOURNAL = os.path.join(_HERE, "ict_forward_journal.csv")
 STATE   = os.path.join(_HERE, ".ict_forward_state")
 ORIGIN  = 10_000
+RISK    = 0.005                   # SINGLE shared account: 0.5%/trade (halved for the
+                                  # 0.85-0.95 cross-market correlation). One open
+                                  # position per market at a time (max 4 concurrent).
 SCAN_LOOKBACK_BARS = 576          # ~2 days; first run only (no historical backfill)
 
 COLUMNS = ["entry_ts", "instrument", "status", "contracts", "entry", "entry_fill",
@@ -53,7 +56,7 @@ def save_state(s):
 def size(stop_pts, pt):
     if stop_pts <= 0:
         return 1
-    return max(1, min(int((ORIGIN * RISK_PCT) / (stop_pts * pt)), MAX_CONTRACTS))
+    return max(1, min(int((ORIGIN * RISK) / (stop_pts * pt)), MAX_CONTRACTS))
 
 
 # ── SCAN (gap-proof, no backfill) ───────────────────────────────────────────────
@@ -67,18 +70,28 @@ def scan(mkts, journal, last_scanned):
         if last_scanned:
             cutoff = last_scanned
         else:                                          # first run: start CLEAN — a pure
-            cutoff = ts_of(df.iloc[len(df) - 2])       # forward record, zero backfill, so
-                                                       # the bootstrap verdict means something
-        for e in sig_fvg(df):
-            if e["bar"] >= len(df) - 1:  continue       # skip the forming bar
-            ts = ts_of(df.iloc[e["bar"]])
+            cutoff = ts_of(df.iloc[len(df) - 2])       # forward record, zero backfill
+        free_at = -10**9                                # one position per market: busy
+        for e in sig_fvg(df):                           # until its trade actually EXITS
+            b = e["bar"]
+            if b >= len(df) - 1:  continue               # skip the forming bar
+            ts = ts_of(df.iloc[b])
             if ts <= cutoff or (name, ts) in known:  continue
+            if b < free_at:  continue                    # still holding a position here
             known.add((name, ts))
             c = size(abs(e["entry"] - e["stop"]), pt)
             new.append(dict(entry_ts=ts, instrument=name, status="OPEN", contracts=c,
                             entry=round(e["entry"], 2), entry_fill=round(e["entry"] + slip, 2),
                             stop=round(e["stop"], 2), target=round(e["target"], 2),
                             exit_ts="", exit_price="", bars_held="", pnl=""))
+            ex = b + MAX_HOLD                            # when does this trade free the market?
+            for k in range(1, MAX_HOLD + 1):
+                j = b + k
+                if j >= len(df):  break                  # runs into the future → still open
+                rr = df.iloc[j]
+                if rr["Low"] <= e["stop"] or rr["High"] >= e["target"]:
+                    ex = j; break
+            free_at = ex
     return new, latest
 
 
