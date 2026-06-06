@@ -1,0 +1,41 @@
+name: Macro news agent
+
+# 24/7 macro-news sentiment + burst detector (free, VADER — zero LLM cost).
+# Hourly keeps GitHub Actions minutes modest (~720 runs/mo). Bump to '*/30 * * * *'
+# for tighter coverage, or '0 */2 * * *' to save minutes.
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-agent
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install vaderSentiment
+      - name: Run news agent
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT:  ${{ secrets.TELEGRAM_CHAT }}
+          WEBHOOK_URL:    ${{ secrets.WEBHOOK_URL }}
+        run: python news_agent.py
+      - name: Commit news state
+        run: |
+          git config user.name  "news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git pull --rebase --autostash || true
+          git add news_state.json news_log.csv
+          git commit -m "news $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "no changes"
+          git push || echo "nothing to push"

@@ -50,7 +50,8 @@ RVOL_SKIP   = 1.5          # PROVISIONAL stand-aside filter: skip signals during
 COLUMNS = [
     "entry_ts", "status", "session", "zone", "near_vwap", "confidence",
     "contracts", "risk_pct", "entry", "entry_fill", "stop", "target",
-    "macd", "rsi", "vix", "rvol", "exit_ts", "exit_price", "bars_held", "pnl",
+    "macd", "rsi", "vix", "rvol", "news_sent", "news_burst",
+    "exit_ts", "exit_price", "bars_held", "pnl",
 ]
 
 
@@ -290,6 +291,16 @@ if __name__ == "__main__":
     new    = scan(df, slow, journal, pos_of, fresh_ts)
 
     fresh = [s for s in new if s.pop("fresh", False)]   # strip flag before persisting
+    _news = {}                                          # stamp concurrent macro news
+    try:
+        import json as _json
+        with open(os.path.join(_HERE, "news_state.json")) as _f:
+            _news = _json.load(_f)
+    except Exception:
+        pass
+    for _s in new:
+        _s["news_sent"]  = _news.get("avg_sentiment", "")
+        _s["news_burst"] = _news.get("burst", "")
     if new:
         journal = pd.concat([journal, pd.DataFrame(new)], ignore_index=True)
     save_journal(journal)

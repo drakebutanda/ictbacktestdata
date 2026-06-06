@@ -4,3 +4,4 @@ requests
 pytz
 fredapi
 ta
+vaderSentiment
