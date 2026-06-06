@@ -1,5 +1,8 @@
 name: ICT FVG forward logger
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"   # run actions on Node 24 (Node 20 deprecated)
+
 # Forward paper-trade record for the validated ICT fair-value-gap strategy across
 # 4 index micros. Runs daily after the session; gap-proof scan + self-resolving.
 on:

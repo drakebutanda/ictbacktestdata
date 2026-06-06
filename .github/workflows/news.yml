@@ -1,5 +1,8 @@
 name: Macro news agent
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"   # run actions on Node 24 (Node 20 deprecated)
+
 # 24/7 macro-news sentiment + burst detector (free, VADER — zero LLM cost).
 # Hourly keeps GitHub Actions minutes modest (~720 runs/mo). Bump to '*/30 * * * *'
 # for tighter coverage, or '0 */2 * * *' to save minutes.

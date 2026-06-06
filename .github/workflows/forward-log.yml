@@ -1,5 +1,8 @@
 name: MNQ forward logger
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"   # run actions on Node 24 (Node 20 deprecated)
+
 # Runs on GitHub's servers — your Mac can be off. The scan is gap-proof and
 # resolves trades retroactively, so one evening run captures the full day.
 on:
