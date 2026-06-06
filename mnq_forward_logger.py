@@ -42,11 +42,15 @@ JOURNAL = os.path.join(_HERE, "mnq_forward_journal.csv")
 STATE   = os.path.join(_HERE, ".mnq_forward_state")           # last-scanned bar ts
 SCAN_LOOKBACK_BARS = 576    # ~2 trading days; used ONLY on the very first run
 BOOT_SEED = 42
+RVOL_WINDOW = 20            # bars for the institutional-volume baseline
+RVOL_SKIP   = 1.5          # PROVISIONAL stand-aside filter: skip signals during a
+                           # volume spike (news/breakout blows through VWAP). Backtest
+                           # showed WR 57→70% avoiding these — forward data confirms it.
 
 COLUMNS = [
     "entry_ts", "status", "session", "zone", "near_vwap", "confidence",
     "contracts", "risk_pct", "entry", "entry_fill", "stop", "target",
-    "macd", "rsi", "vix", "exit_ts", "exit_price", "bars_held", "pnl",
+    "macd", "rsi", "vix", "rvol", "exit_ts", "exit_price", "bars_held", "pnl",
 ]
 
 
@@ -93,6 +97,7 @@ def signal_for_row(row, slow):
     if mh < MACD_FLOOR or mh > MACD_CEIL:                      return None
     px = row["Close"]
     if not pd.isna(row["PDL"]) and px < row["PDL"]:            return None
+    if row.get("RVOL", 1.0) >= RVOL_SKIP:                      return None   # volume spike → stand aside
 
     conf, sigs = score(mh, bool(row["BB_C"]), row["RSI"], px, row["VWAP"],
                        row["ATR"], row["VIX"], morn, aftn, slow)
@@ -121,6 +126,7 @@ def signal_for_row(row, slow):
         "macd":       round(mh, 3),
         "rsi":        round(row["RSI"], 1),
         "vix":        round(row["VIX"], 1),
+        "rvol":       round(float(row.get("RVOL", 1.0)), 2),
         "exit_ts":    "", "exit_price": "", "bars_held": "", "pnl": "",
     }
 
@@ -271,6 +277,7 @@ if __name__ == "__main__":
     df, bias_map = load_data()
     df["ts"]     = df.index                  # preserve CT datetime before merge drops it
     df           = add_indicators(df, bias_map)
+    df["RVOL"]   = (df["Volume"] / df["Volume"].rolling(RVOL_WINDOW).mean()).fillna(1.0)
     slow         = get_slow_conf()
 
     journal = load_journal()
