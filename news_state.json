@@ -1,31 +1,27 @@
 {
-  "ts": "2026-06-06 10:58 UTC",
+  "ts": "2026-06-06 15:53 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 0,
-  "avg_sentiment": 0.004,
+  "recent": 4,
+  "avg_sentiment": -0.152,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "How the \u2018double scar\u2019 of past inflation woes and geopolitical shocks amid the Iran war is hitting consumers",
-      "s": -0.86
+      "t": "Marvell, Micron shares tumble as the chip sector suffers its worst day in 6 years",
+      "s": -0.72
     },
     {
-      "t": "Lululemon cuts annual outlook, citing 'negative' media commentary and disappointing product launches",
-      "s": -0.84
+      "t": "SpaceX, Anthropic and other mega-IPOs could leave your index fund completely out of luck",
+      "s": 0.47
     },
     {
-      "t": "Iran's threats against this Red Sea choke point are a big vulnerability for the oil market",
-      "s": -0.8
+      "t": "Silicon Valley was built on public money \u2014 now it\u2019s fighting California\u2019s billionaire tax",
+      "s": -0.36
     },
     {
-      "t": "The AI economy is rewriting the American Dream \u2014 and blue-collar workers are poised to win",
-      "s": 0.78
-    },
-    {
-      "t": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
-      "s": 0.78
+      "t": "The Fed can\u2019t protect consumers from supply shocks and price gouging \u2014 but Congress can",
+      "s": 0.0
     }
   ]
 }
