@@ -1,0 +1,40 @@
+name: ICT FVG forward logger
+
+# Forward paper-trade record for the validated ICT fair-value-gap strategy across
+# 4 index micros. Runs daily after the session; gap-proof scan + self-resolving.
+on:
+  schedule:
+    - cron: "0 1 * * *"      # 01:00 UTC (~7-8pm CT), after morning entries resolve
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ict-forward
+  cancel-in-progress: false
+
+jobs:
+  ict:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install -r requirements.txt
+      - name: Run ICT forward logger
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT:  ${{ secrets.TELEGRAM_CHAT }}
+          WEBHOOK_URL:    ${{ secrets.WEBHOOK_URL }}
+        run: python ict_forward_logger.py
+      - name: Commit journal
+        run: |
+          git config user.name  "ict-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git pull --rebase --autostash || true
+          git add ict_forward_journal.csv .ict_forward_state
+          git commit -m "ict forward $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "no changes"
+          git push || echo "nothing to push"
