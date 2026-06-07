@@ -1,19 +1,15 @@
 {
-  "ts": "2026-06-06 20:20 UTC",
+  "ts": "2026-06-07 08:39 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 2,
-  "avg_sentiment": -0.201,
+  "recent": 1,
+  "avg_sentiment": 0.542,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-on",
   "top": [
     {
-      "t": "U.S. confirms second Texas screwworm case, Canada restricts livestock imports",
-      "s": -0.4
-    },
-    {
-      "t": "Tired of nausea or taking a GLP-1 pill every day? These experimental drugs could be better than Zepbound and Wegovy.",
-      "s": 0.0
+      "t": "\u2018He\u2019s taking advantage of me\u2019: My husband won\u2019t sell his home so we can combine our finances and live in comfort. Am I unreasonable?",
+      "s": 0.54
     }
   ]
 }
