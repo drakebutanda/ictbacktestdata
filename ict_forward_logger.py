@@ -25,9 +25,11 @@ _HERE   = os.path.dirname(os.path.abspath(__file__))
 JOURNAL = os.path.join(_HERE, "ict_forward_journal.csv")
 STATE   = os.path.join(_HERE, ".ict_forward_state")
 ORIGIN  = 10_000
-RISK    = 0.005                   # SINGLE shared account: 0.5%/trade (halved for the
-                                  # 0.85-0.95 cross-market correlation). One open
-                                  # position per market at a time (max 4 concurrent).
+RISK    = 0.03                    # SINGLE shared account: 3%/trade — quarter-Kelly
+                                  # (full Kelly ≈ 19%), the risk-adjusted optimum after
+                                  # the MNQ/MES correlation + estimation-error haircut.
+                                  # One position per market (max 2 concurrent now).
+MARKETS = {"MES (S&P 500)", "MNQ (Nasdaq)"}   # focus: 2 most-liquid index micros only
 SCAN_LOOKBACK_BARS = 576          # ~2 days; first run only (no historical backfill)
 
 COLUMNS = ["entry_ts", "instrument", "status", "contracts", "entry", "entry_fill",
@@ -184,6 +186,7 @@ def report(journal):
 if __name__ == "__main__":
     mkts = {}
     for name, inst in INSTRUMENTS.items():
+        if name not in MARKETS:  continue          # MNQ + MES only
         df = load(inst["data"])
         if df is not None:
             mkts[name] = (df, inst)
