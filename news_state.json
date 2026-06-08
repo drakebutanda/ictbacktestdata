@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-08 12:53 UTC",
+  "ts": "2026-06-08 21:16 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 18,
-  "avg_sentiment": -0.125,
+  "headlines": 99,
+  "recent": 14,
+  "avg_sentiment": -0.059,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Gold has tumbled during the Iran war \u2014 exposing a massive myth about geopolitical risk",
-      "s": -0.8
+      "t": "Is your tech portfolio on the wrong side of the AI boom? Why a $1,000 videogame console will squeeze hardware stocks.",
+      "s": -0.48
     },
     {
-      "t": "I\u2019m 65, widowed and collecting Social Security survivor benefits. Should I claim my own benefits now?",
-      "s": 0.72
+      "t": "Micron\u2019s stock bounces back in a big way: \u2018The memory trade is alive and well\u2019",
+      "s": 0.38
     },
     {
-      "t": "Trump storms out of interview after being challenged about election fraud claims, DOJ fund",
-      "s": -0.64
+      "t": "\u2018I have no experience with investing\u2019: I inherited $2,000. I\u2019m 42 with two children. What should I do with this money?",
+      "s": -0.3
     },
     {
-      "t": "Iran announces 'end of military operations' against Israel, but warns Lebanon strikes could trigger escalation",
-      "s": -0.59
+      "t": "Judge blocks Trump's $100,000 H-1B visa fee",
+      "s": -0.23
     },
     {
-      "t": "Retirees fear running out of money. Many are spending too little instead",
-      "s": -0.49
+      "t": "Inflation could top 4% this week. The bond market wants Fed Chair Warsh to prove he\u2019ll fight it.",
+      "s": -0.2
     }
   ]
 }
