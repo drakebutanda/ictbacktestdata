@@ -1,15 +1,31 @@
 {
-  "ts": "2026-06-07 20:46 UTC",
+  "ts": "2026-06-08 12:53 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": -0.477,
-  "burst": false,
-  "mood": "risk-off",
+  "recent": 18,
+  "avg_sentiment": -0.125,
+  "burst": true,
+  "mood": "neutral",
   "top": [
     {
-      "t": "Fragile ceasefire in jeopardy as Iran reportedly fires first missiles at Israel",
-      "s": -0.48
+      "t": "Gold has tumbled during the Iran war \u2014 exposing a massive myth about geopolitical risk",
+      "s": -0.8
+    },
+    {
+      "t": "I\u2019m 65, widowed and collecting Social Security survivor benefits. Should I claim my own benefits now?",
+      "s": 0.72
+    },
+    {
+      "t": "Trump storms out of interview after being challenged about election fraud claims, DOJ fund",
+      "s": -0.64
+    },
+    {
+      "t": "Iran announces 'end of military operations' against Israel, but warns Lebanon strikes could trigger escalation",
+      "s": -0.59
+    },
+    {
+      "t": "Retirees fear running out of money. Many are spending too little instead",
+      "s": -0.49
     }
   ]
 }
