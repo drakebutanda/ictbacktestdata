@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-08 21:16 UTC",
+  "ts": "2026-06-09 10:46 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 14,
-  "avg_sentiment": -0.059,
-  "burst": true,
+  "recent": 7,
+  "avg_sentiment": -0.133,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Is your tech portfolio on the wrong side of the AI boom? Why a $1,000 videogame console will squeeze hardware stocks.",
-      "s": -0.48
+      "t": "A massive 16% market swing just rocked South Korea over 24 hours. The retail \u2018ants\u2019 holding the wheel are driving dangerously.",
+      "s": -0.46
     },
     {
-      "t": "Micron\u2019s stock bounces back in a big way: \u2018The memory trade is alive and well\u2019",
-      "s": 0.38
+      "t": "Trump booed before Knicks lose to Spurs at Madison Square Garden in NBA Finals Game 3",
+      "s": -0.4
     },
     {
-      "t": "\u2018I have no experience with investing\u2019: I inherited $2,000. I\u2019m 42 with two children. What should I do with this money?",
-      "s": -0.3
+      "t": "Nuvalent shares surge 39% after UK's GSK agrees to buy the cancer drugmaker for $10.6 billion",
+      "s": -0.34
     },
     {
-      "t": "Judge blocks Trump's $100,000 H-1B visa fee",
-      "s": -0.23
+      "t": "51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey",
+      "s": 0.27
     },
     {
-      "t": "Inflation could top 4% this week. The bond market wants Fed Chair Warsh to prove he\u2019ll fight it.",
-      "s": -0.2
+      "t": "The latest rally may be only a dead-cat bounce, warns normally bullish boutique",
+      "s": -0.1
     }
   ]
 }
