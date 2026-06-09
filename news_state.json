@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-09 10:46 UTC",
+  "ts": "2026-06-09 18:34 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 7,
-  "avg_sentiment": -0.133,
-  "burst": false,
+  "headlines": 100,
+  "recent": 9,
+  "avg_sentiment": 0.261,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "A massive 16% market swing just rocked South Korea over 24 hours. The retail \u2018ants\u2019 holding the wheel are driving dangerously.",
-      "s": -0.46
+      "t": "Social Security retirement trust fund may be depleted in 2032, new trustees report finds",
+      "s": 0.72
     },
     {
-      "t": "Trump booed before Knicks lose to Spurs at Madison Square Garden in NBA Finals Game 3",
-      "s": -0.4
+      "t": "A powerful inflation storm is brewing \u2014 and your portfolio isn\u2019t ready",
+      "s": 0.65
     },
     {
-      "t": "Nuvalent shares surge 39% after UK's GSK agrees to buy the cancer drugmaker for $10.6 billion",
-      "s": -0.34
+      "t": "Semiconductor shorts pile on as winning trade reverses",
+      "s": 0.53
     },
     {
-      "t": "51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey",
-      "s": 0.27
+      "t": "We're updating our rating on recently spun FedEx Freight after a strong run-up",
+      "s": 0.51
     },
     {
-      "t": "The latest rally may be only a dead-cat bounce, warns normally bullish boutique",
-      "s": -0.1
+      "t": "White House border czar Tom Homan blames New York Gov. Hochul for promised ICE surge",
+      "s": -0.05
     }
   ]
 }
