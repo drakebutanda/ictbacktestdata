@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-09 23:54 UTC",
+  "ts": "2026-06-10 12:43 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 6,
-  "avg_sentiment": 0.127,
-  "burst": false,
+  "headlines": 98,
+  "recent": 14,
+  "avg_sentiment": 0.036,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Super Micro stock tumbles on $7 billion financing plans as company touts AI server orders",
-      "s": 0.59
+      "t": "How exploding investor euphoria and leveraged ETFs turned one stock-market bull cautious",
+      "s": 0.6
     },
     {
-      "t": "$70 billion immigration funding package passes in U.S. House in a win for Speaker Johnson",
-      "s": 0.59
+      "t": "Two reasons for optimism after Tuesday's whipsaw market sell-off",
+      "s": 0.54
     },
     {
-      "t": "Trump family got about $500M from crypto venture \u2014 but investors saw steep losses",
-      "s": -0.55
+      "t": "Weekly mortgage demand surges nearly 11% higher, despite volatile interest rates",
+      "s": -0.46
     },
     {
-      "t": "Jim Cramer says tech stocks are losing the qualities that made them the leaders of the rally",
-      "s": -0.38
+      "t": "Social Security could face an automatic 22% cut in 2032. These 4 moves will protect your retirement.",
+      "s": 0.44
     },
     {
-      "t": "Energy Secretary Chris Wright says traffic in Strait of Hormuz is rising 'very meaningfully'",
-      "s": 0.27
+      "t": "SoftBank sinks over 8% as global tech stocks tumble, tracking Wall Street losses",
+      "s": -0.4
     }
   ]
 }
