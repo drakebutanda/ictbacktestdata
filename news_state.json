@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-11 12:33 UTC",
+  "ts": "2026-06-11 21:32 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 15,
-  "avg_sentiment": 0.055,
+  "recent": 18,
+  "avg_sentiment": 0.041,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "SpaceX IPO hype is massive \u2014 and especially dangerous for investors over 50",
-      "s": -0.53
+      "t": "Oracle\u2019s stock is seeing its worst run in a quarter-century as this key AI debate rages on",
+      "s": -0.8
     },
     {
-      "t": "Big Tech is preventing new stock-market highs as investors change the way they play AI, says this top strategist",
-      "s": 0.51
+      "t": "Intel\u2019s stock could push even higher thanks to this subtle dynamic, BofA says",
+      "s": 0.67
     },
     {
-      "t": "\u2018It\u2019s causing friction\u2019: I\u2019m taking a trip with 14 friends. What is the fairest way to split the food bill?",
-      "s": 0.48
+      "t": "Trump claims Iran war settled 'subject to finalization,' expects signing in 'next few days'",
+      "s": -0.6
     },
     {
-      "t": "RIP Euro summer: Americans are trading Tuscany for Tacoma, thanks to soaring airfares",
-      "s": 0.44
+      "t": "SpaceX IPO hype is massive \u2014 and the FOMO can ruin your retirement",
+      "s": -0.59
     },
     {
-      "t": "SpaceX IPO won\u2019t \u2018break\u2019 the bull market. But investors are worried about what comes next",
-      "s": -0.42
+      "t": "SpaceX is way ahead of competitors with Starlink, but growth is harder heading into IPO",
+      "s": 0.53
     }
   ]
 }
