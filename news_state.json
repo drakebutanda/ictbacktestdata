@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-10 21:31 UTC",
+  "ts": "2026-06-11 12:33 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 13,
-  "avg_sentiment": -0.047,
+  "headlines": 99,
+  "recent": 15,
+  "avg_sentiment": 0.055,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "USDA's Rollins called screwworm a 'little pest' amid U.S. spread. Last year, she called it 'terrifying'",
-      "s": -0.62
+      "t": "SpaceX IPO hype is massive \u2014 and especially dangerous for investors over 50",
+      "s": -0.53
     },
     {
-      "t": "Worried that big IPOs will torpedo the stock market? These factors suggest otherwise.",
-      "s": -0.3
+      "t": "Big Tech is preventing new stock-market highs as investors change the way they play AI, says this top strategist",
+      "s": 0.51
     },
     {
-      "t": "Bisignano says Social Security Administration's phone helpline wait times have reached a record low",
-      "s": 0.18
+      "t": "\u2018It\u2019s causing friction\u2019: I\u2019m taking a trip with 14 friends. What is the fairest way to split the food bill?",
+      "s": 0.48
     },
     {
-      "t": "Amazon trucking expansion sparks freight stock sell-off",
-      "s": 0.18
+      "t": "RIP Euro summer: Americans are trading Tuscany for Tacoma, thanks to soaring airfares",
+      "s": 0.44
     },
     {
-      "t": "College sticker prices top $100,000 at 16 schools \u2014 but many students pay significantly less",
-      "s": -0.05
+      "t": "SpaceX IPO won\u2019t \u2018break\u2019 the bull market. But investors are worried about what comes next",
+      "s": -0.42
     }
   ]
 }
