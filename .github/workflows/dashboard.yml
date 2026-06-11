@@ -1,0 +1,39 @@
+name: Dashboard
+
+# Regenerates DASHBOARD.md (clean GitHub-rendered view) from the journal.
+# Runs shortly after the ICT logger's daily run, and can be triggered manually.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+on:
+  schedule:
+    - cron: "30 1 * * *"      # 30 min after the ICT logger (01:00 UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dashboard
+  cancel-in-progress: false
+
+jobs:
+  dash:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install pandas
+      - name: Build dashboard
+        run: python make_dashboard.py
+      - name: Commit dashboard
+        run: |
+          git config user.name  "dash-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git pull --rebase --autostash || true
+          git add DASHBOARD.md
+          git commit -m "dashboard $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "no changes"
+          git push || echo "nothing to push"
