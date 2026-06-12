@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-12 11:55 UTC",
+  "ts": "2026-06-12 19:32 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 11,
-  "avg_sentiment": 0.121,
+  "headlines": 100,
+  "recent": 9,
+  "avg_sentiment": -0.008,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018It seems too good to be true\u2019: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
-      "s": 0.69
+      "t": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 23% on debut",
+      "s": 0.84
     },
     {
-      "t": "Oil prices pare gains in wake of report that Iran won\u2019t restore Strait of Hormuz to prewar levels",
-      "s": 0.56
+      "t": "Social Security COLA for 2027 may jump to 4.7%, one estimate finds. This chart shows prices driving the increase",
+      "s": 0.57
     },
     {
-      "t": "\u2018I have no experience with investing\u2019: I inherited $2,000. I\u2019m 42 with two children. What should I do with this money?",
+      "t": "U.S. crude oil falls below $85 as U.S. and Iran near a deal to reopen Hormuz",
+      "s": -0.57
+    },
+    {
+      "t": "Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'",
+      "s": -0.53
+    },
+    {
+      "t": "Trump admin: Iran deal signing likely in coming days, but not '100%' certain",
       "s": -0.3
-    },
-    {
-      "t": "SpaceX\u2019s Gwynne Shotwell had IPO doubts for years, now she has a message for investors",
-      "s": -0.3
-    },
-    {
-      "t": "Here\u2019s what could be SpaceX\u2019s biggest upside surprise, according to a leading Silicon Valley investor",
-      "s": 0.27
     }
   ]
 }
