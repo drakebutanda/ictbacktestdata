@@ -1,14 +1,22 @@
 {
-  "ts": "2026-06-13 08:33 UTC",
+  "ts": "2026-06-13 15:20 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": 0.0,
+  "recent": 3,
+  "avg_sentiment": 0.181,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Former Tesla board member says SpaceX needs to achieve 2 of its 3 moonshots to keep its valuation",
+      "t": "U.S.-Iran peace deal could be finalized 'in the next 24 hours,' Pakistan's PM says",
+      "s": 0.54
+    },
+    {
+      "t": "My elderly mother and I own a home together. Will Medicaid force its sale?",
+      "s": 0.0
+    },
+    {
+      "t": "This 28-year-old paid off her law school loans selling stickers and coloring books",
       "s": 0.0
     }
   ]
