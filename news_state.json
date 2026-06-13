@@ -1,31 +1,15 @@
 {
-  "ts": "2026-06-12 19:32 UTC",
+  "ts": "2026-06-13 08:33 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 9,
-  "avg_sentiment": -0.008,
-  "burst": true,
+  "recent": 1,
+  "avg_sentiment": 0.0,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 23% on debut",
-      "s": 0.84
-    },
-    {
-      "t": "Social Security COLA for 2027 may jump to 4.7%, one estimate finds. This chart shows prices driving the increase",
-      "s": 0.57
-    },
-    {
-      "t": "U.S. crude oil falls below $85 as U.S. and Iran near a deal to reopen Hormuz",
-      "s": -0.57
-    },
-    {
-      "t": "Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'",
-      "s": -0.53
-    },
-    {
-      "t": "Trump admin: Iran deal signing likely in coming days, but not '100%' certain",
-      "s": -0.3
+      "t": "Former Tesla board member says SpaceX needs to achieve 2 of its 3 moonshots to keep its valuation",
+      "s": 0.0
     }
   ]
 }
