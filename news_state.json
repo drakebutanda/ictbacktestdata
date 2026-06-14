@@ -1,14 +1,26 @@
 {
-  "ts": "2026-06-14 08:57 UTC",
+  "ts": "2026-06-14 15:29 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": 0.0,
+  "recent": 4,
+  "avg_sentiment": -0.151,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "UK forces board sanctioned Russian shadow fleet oil tanker",
+      "t": "We thought we found the perfect luxury retirement community, but it\u2019s millions of dollars in debt. Are we trapped?",
+      "s": -0.76
+    },
+    {
+      "t": "U.S. peace deal with Iran in question as Israel strikes Lebanon, Trump warns not to 'blow it'",
+      "s": 0.15
+    },
+    {
+      "t": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
+      "s": 0.0
+    },
+    {
+      "t": "32-year-old quit teaching and built a fidget-toy business with her dad. It brought in $428,000 last year",
       "s": 0.0
     }
   ]
