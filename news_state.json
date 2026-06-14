@@ -1,15 +1,15 @@
 {
-  "ts": "2026-06-13 20:50 UTC",
+  "ts": "2026-06-14 08:57 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 1,
-  "avg_sentiment": 0.477,
+  "avg_sentiment": 0.0,
   "burst": false,
-  "mood": "risk-on",
+  "mood": "neutral",
   "top": [
     {
-      "t": "Trump says peace deal will be signed Sunday after Iran said it remains cautious on timing",
-      "s": 0.48
+      "t": "UK forces board sanctioned Russian shadow fleet oil tanker",
+      "s": 0.0
     }
   ]
 }
