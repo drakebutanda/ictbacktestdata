@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-15 16:28 UTC",
+  "ts": "2026-06-15 23:24 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 17,
-  "avg_sentiment": 0.12,
+  "recent": 10,
+  "avg_sentiment": -0.041,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Treasury yields slide as Iran deal drives rethink on Fed interest rate hikes",
-      "s": 0.59
+      "t": "Here\u2019s when gas prices will come down if the U.S. deal to end the Iran war pans out",
+      "s": -0.6
     },
     {
-      "t": "Vance says U.S. expects Strait of Hormuz to be open 'toll free' long term",
-      "s": 0.51
+      "t": "Nvidia plans to raise at least $20 billion in its first debt sale since start of AI boom",
+      "s": -0.36
     },
     {
-      "t": "Fiserv CEO flees after presiding over 71% stock drop in his short tenure",
-      "s": -0.42
+      "t": "\u2018We own our home outright\u2019: I am 67 and earn $100,000. Do I take my $30,000 Social Security now or wait?",
+      "s": 0.34
     },
     {
-      "t": "Anthropic to meet with Trump administration over Mythos dispute",
-      "s": -0.4
+      "t": "Need a credit-score boost? Call your credit-card company and ask for this \u2014 but proceed with caution.",
+      "s": 0.21
     },
     {
-      "t": "Salesforce to buy AI customer service platform Fin for $3.6 billion to boost agentic offerings",
-      "s": 0.4
+      "t": "Roku\u2019s sale to Fox for $22 billion raises a big question",
+      "s": 0.0
     }
   ]
 }
