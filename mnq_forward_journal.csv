@@ -1,2 +1,2 @@
 entry_ts,status,session,zone,near_vwap,confidence,contracts,risk_pct,entry,entry_fill,stop,target,macd,rsi,vix,rvol,news_sent,news_burst,exit_ts,exit_price,bars_held,pnl
-2026-06-11 10:20,OPEN,AM,DEEP,True,84,1,0.03,28830.5,28830.75,28676.26,29216.09,-2.526,52.4,21.7,0.68,0.0,False,,,,
+2026-06-11 10:20,WIN,AM,DEEP,True,84,1,0.03,28830.5,28830.75,28676.26,29216.09,-2.526,52.4,21.7,0.68,0.0,False,2026-06-11 12:30,29216.09,26.0,769.18
