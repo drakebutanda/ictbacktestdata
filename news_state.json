@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-17 14:26 UTC",
+  "ts": "2026-06-17 22:17 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 13,
-  "avg_sentiment": 0.067,
+  "headlines": 99,
+  "recent": 12,
+  "avg_sentiment": -0.06,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Mortgage rates are now falling but demand is still weaker",
-      "s": -0.71
+      "t": "Defense contractors would be barred from buying back their stock in bill approved by Senate panel",
+      "s": 0.51
     },
     {
-      "t": "The Great Wealth Transfer is real \u2014 but the IRS or a nursing home might get your money first",
-      "s": 0.56
+      "t": "It\u2019s \u2018unavoidable\u2019: Apple says it will be forced to raise prices due to the AI boom",
+      "s": -0.46
     },
     {
-      "t": "More united Fed board seen at Warsh's first meeting, according to Kalshi traders",
-      "s": 0.48
+      "t": "Stock-market pessimists have one less reason to worry as shares of banks and retailers perk up",
+      "s": -0.35
     },
     {
-      "t": "America\u2019s fertility rate has never been lower. Blame smartphones \u2014 and these 4 financial realities.",
-      "s": 0.44
+      "t": "The market didn't like what it heard from the Fed and its new leader Kevin Warsh",
+      "s": -0.28
     },
     {
-      "t": "An oil bull\u2019s \u2018insane\u2019 bet: Why this veteran trader is buying energy stocks as crude prices tumble",
-      "s": -0.38
+      "t": "Fed holds rates steady, pares down statement to remove cutting bias",
+      "s": -0.23
     }
   ]
 }
