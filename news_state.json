@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-16 18:21 UTC",
+  "ts": "2026-06-17 00:04 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 14,
-  "avg_sentiment": 0.052,
-  "burst": true,
+  "recent": 5,
+  "avg_sentiment": -0.092,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Jim Cramer: Why we're headed back to pre-Iran war oil prices and what it means",
-      "s": -0.6
+      "t": "Japan exports in May grow at fastest pace in more than three years, beating estimates",
+      "s": -0.46
     },
     {
-      "t": "What have the U.S. and Iran agreed to? This is what markets are focused on.",
-      "s": 0.57
+      "t": "Intel takes a major step toward turning around a business that\u2019s bleeding cash",
+      "s": 0.0
     },
     {
-      "t": "SpaceX rises 12% to leapfrog Amazon, briefly top Microsoft in market cap",
-      "s": 0.36
+      "t": "Jim Cramer says SpaceX investors aren't buying earnings \u2014 they're buying Elon Musk",
+      "s": 0.0
     },
     {
-      "t": "Student loan borrowers face glitches and misinformation ahead of major July 1 changes, advocates say",
-      "s": -0.32
+      "t": "Cramer's lightning round: Buy Cava",
+      "s": 0.0
     },
     {
-      "t": "Brent falls below $80 per barrel on report U.S. will allow Iran to sell oil immediately",
-      "s": 0.23
+      "t": "DOJ assists Musk's xAI in NAACP air pollution suit, asks court to toss case",
+      "s": 0.0
     }
   ]
 }
