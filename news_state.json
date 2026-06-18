@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-17 22:17 UTC",
+  "ts": "2026-06-18 12:13 UTC",
   "feeds_live": 5,
-  "headlines": 99,
+  "headlines": 98,
   "recent": 12,
-  "avg_sentiment": -0.06,
+  "avg_sentiment": 0.072,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Defense contractors would be barred from buying back their stock in bill approved by Senate panel",
-      "s": 0.51
+      "t": "Swiss central bank readies for FX intervention if safe haven franc strengthens",
+      "s": 0.71
     },
     {
-      "t": "It\u2019s \u2018unavoidable\u2019: Apple says it will be forced to raise prices due to the AI boom",
-      "s": -0.46
+      "t": "Godfather of AI blasts Musk's xAI as 'failure,' says labs are risking a 'big bubble explosion'",
+      "s": -0.68
     },
     {
-      "t": "Stock-market pessimists have one less reason to worry as shares of banks and retailers perk up",
-      "s": -0.35
+      "t": "Oil prices fall after Trump signs deal to end Iran war",
+      "s": -0.6
     },
     {
-      "t": "The market didn't like what it heard from the Fed and its new leader Kevin Warsh",
-      "s": -0.28
+      "t": "Bank of England holds interest rates at 3.75% amid Iran war peace prospects",
+      "s": 0.59
     },
     {
-      "t": "Fed holds rates steady, pares down statement to remove cutting bias",
-      "s": -0.23
+      "t": "Here are the odds of SpaceX becoming the world's most valuable company",
+      "s": 0.53
     }
   ]
 }
