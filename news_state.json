@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-18 21:31 UTC",
+  "ts": "2026-06-19 12:37 UTC",
   "feeds_live": 5,
-  "headlines": 100,
+  "headlines": 98,
   "recent": 10,
-  "avg_sentiment": 0.27,
+  "avg_sentiment": -0.282,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Vance says U.S. isn\u2019t giving Iran \u2018a cent\u2019 as he defends Trump peace deal",
-      "s": 0.71
+      "t": "Trading in French server company suspended after short seller\u2019s accusations trigger stock collapse",
+      "s": -0.82
     },
     {
-      "t": "Micron, other memory stocks are having their best year ever. Why do they still look so cheap?",
-      "s": 0.64
+      "t": "\u2018I became invisible when I turned 60\u2019: The hidden crisis of late-career unemployment",
+      "s": -0.79
     },
     {
-      "t": "In photos: Star-studded crowd gathers to celebrate the Obama Presidential Center dedication",
-      "s": 0.57
+      "t": "Social media declared Cursor dead. Then SpaceX handed the AI startup a $60 billion lifeline.",
+      "s": -0.65
     },
     {
-      "t": "NBA to begin naming winning bids for Europe teams in the coming months, deputy commissioner says",
-      "s": 0.53
+      "t": "The Fed\u2019s new hawkish reality just forced Goldman Sachs to slash its gold forecast by $500",
+      "s": -0.62
     },
     {
-      "t": "Trump administration temporarily cuts student loan interest rates for borrowers on autopay",
-      "s": 0.2
+      "t": "U.S.-Iran accord hits early snag after Swiss talks fail to proceed as planned",
+      "s": -0.54
     }
   ]
 }
