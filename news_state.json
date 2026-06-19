@@ -1,30 +1,18 @@
 {
-  "ts": "2026-06-19 19:16 UTC",
+  "ts": "2026-06-19 23:53 UTC",
   "feeds_live": 5,
-  "headlines": 97,
-  "recent": 5,
-  "avg_sentiment": 0.022,
+  "headlines": 98,
+  "recent": 2,
+  "avg_sentiment": 0.0,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018We are habitually frugal\u2019: My wife and I have money. How do we help our children without ruining their independence?",
-      "s": 0.53
-    },
-    {
-      "t": "Struggling to find a job? Try looking in Nevada",
-      "s": -0.42
-    },
-    {
-      "t": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?",
+      "t": "Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane",
       "s": 0.0
     },
     {
-      "t": "Employers to college students: Never mind that 4.0 GPA. Go out and get a summer job.",
-      "s": 0.0
-    },
-    {
-      "t": "\u2018I\u2019ll probably be working until I die\u2019: I\u2019m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
+      "t": "DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund",
       "s": 0.0
     }
   ]
