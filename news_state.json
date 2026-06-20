@@ -1,15 +1,31 @@
 {
-  "ts": "2026-06-20 10:20 UTC",
+  "ts": "2026-06-20 16:08 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 1,
-  "avg_sentiment": 0.7,
-  "burst": false,
-  "mood": "risk-on",
+  "headlines": 99,
+  "recent": 9,
+  "avg_sentiment": 0.051,
+  "burst": true,
+  "mood": "neutral",
   "top": [
     {
-      "t": "Massive bonuses for South Korea's chip workers puts central bank on inflation alert",
-      "s": 0.7
+      "t": "SpaceX\u2019s massive valuation may soon become its own worst enemy",
+      "s": -0.82
+    },
+    {
+      "t": "\u2018Money can make you happy\u2019: My wife and I have no heirs, but we\u2019re making the world a better place by giving it away",
+      "s": 0.75
+    },
+    {
+      "t": "\u2018We are habitually frugal\u2019: My wife and I have money. How do we help our children without ruining their independence?",
+      "s": 0.53
+    },
+    {
+      "t": "\u2018I\u2019ll probably be working until I die\u2019: I\u2019m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
+      "s": 0.0
+    },
+    {
+      "t": "I\u2019m 55 and retiring in 6 years. Should I be switching to Roth 401(k) contributions now?",
+      "s": 0.0
     }
   ]
 }
