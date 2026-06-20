@@ -1,19 +1,15 @@
 {
-  "ts": "2026-06-19 23:53 UTC",
+  "ts": "2026-06-20 10:20 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 2,
-  "avg_sentiment": 0.0,
+  "recent": 1,
+  "avg_sentiment": 0.7,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-on",
   "top": [
     {
-      "t": "Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane",
-      "s": 0.0
-    },
-    {
-      "t": "DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund",
-      "s": 0.0
+      "t": "Massive bonuses for South Korea's chip workers puts central bank on inflation alert",
+      "s": 0.7
     }
   ]
 }
