@@ -1,15 +1,19 @@
 {
-  "ts": "2026-06-21 16:57 UTC",
+  "ts": "2026-06-21 22:00 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 1,
-  "avg_sentiment": 0.0,
+  "headlines": 98,
+  "recent": 2,
+  "avg_sentiment": -0.603,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "Pixar's 'Toy Story 5' lassos biggest opening weekend in franchise history with $160 million haul",
-      "s": 0.0
+      "t": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it",
+      "s": -0.91
+    },
+    {
+      "t": "No one wants AI data centers on Earth. Do they make sense in space?",
+      "s": -0.3
     }
   ]
 }
