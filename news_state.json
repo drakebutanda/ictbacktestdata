@@ -1,15 +1,15 @@
 {
-  "ts": "2026-06-20 21:49 UTC",
+  "ts": "2026-06-21 10:54 UTC",
   "feeds_live": 5,
   "headlines": 99,
   "recent": 1,
-  "avg_sentiment": 0.0,
+  "avg_sentiment": -0.402,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks",
-      "s": 0.0
+      "t": "Vance arrives in Switzerland for talks with Iranian negotiators amid rising Strait of Hormuz tensions",
+      "s": -0.4
     }
   ]
 }
