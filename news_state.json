@@ -1,15 +1,15 @@
 {
-  "ts": "2026-06-21 10:54 UTC",
+  "ts": "2026-06-21 16:57 UTC",
   "feeds_live": 5,
   "headlines": 99,
   "recent": 1,
-  "avg_sentiment": -0.402,
+  "avg_sentiment": 0.0,
   "burst": false,
-  "mood": "risk-off",
+  "mood": "neutral",
   "top": [
     {
-      "t": "Vance arrives in Switzerland for talks with Iranian negotiators amid rising Strait of Hormuz tensions",
-      "s": -0.4
+      "t": "Pixar's 'Toy Story 5' lassos biggest opening weekend in franchise history with $160 million haul",
+      "s": 0.0
     }
   ]
 }
