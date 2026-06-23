@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-23 19:28 UTC",
+  "ts": "2026-06-23 23:38 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 16,
-  "avg_sentiment": 0.004,
+  "recent": 9,
+  "avg_sentiment": 0.036,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect",
-      "s": 0.59
+      "t": "I want to leave everything to my sons, but I\u2019m terrified they\u2019ll give it to my ex-husband. How do I prevent this?",
+      "s": -0.74
     },
     {
-      "t": "JPMorgan says Amazon Prime is worth 10x what members pay \u2014 a compelling case to hike fees",
-      "s": 0.48
+      "t": "\u2018It seems too good to be true\u2019: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
+      "s": 0.69
     },
     {
-      "t": "This tech \u2018fear gauge\u2019 is nearing a two-decade high. Investors should worry.",
-      "s": -0.44
-    },
-    {
-      "t": "SpaceX stock climbs 4%, rebounding from three-day losing streak",
-      "s": -0.38
-    },
-    {
-      "t": "SpaceX raises $25 billion in debt sale less than two weeks after IPO",
+      "t": "SpaceX pulls off one of the biggest AI debt deals yet",
       "s": -0.36
+    },
+    {
+      "t": "\u2018We own our home outright\u2019: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
+      "s": 0.34
+    },
+    {
+      "t": "Alphabet\u2019s stock is set to join the Dow, pivoting index\u2019s industrial roots toward tech",
+      "s": 0.3
     }
   ]
 }
