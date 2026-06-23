@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-23 11:43 UTC",
+  "ts": "2026-06-23 19:28 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 7,
-  "avg_sentiment": 0.007,
-  "burst": false,
+  "headlines": 98,
+  "recent": 16,
+  "avg_sentiment": 0.004,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018It feels like a medical miracle\u2019: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
-      "s": 0.1
+      "t": "Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect",
+      "s": 0.59
     },
     {
-      "t": "Apollo curbs withdrawals after exit requests hit 17%, reigniting fears over private credit liquidity",
-      "s": -0.05
+      "t": "JPMorgan says Amazon Prime is worth 10x what members pay \u2014 a compelling case to hike fees",
+      "s": 0.48
     },
     {
-      "t": "Researchers cracked the code on predicting market bubbles. Here\u2019s what it\u2019s saying about today\u2019s stock prices.",
-      "s": 0.0
+      "t": "This tech \u2018fear gauge\u2019 is nearing a two-decade high. Investors should worry.",
+      "s": -0.44
     },
     {
-      "t": "Investor assumptions about the AI trade are starting to stretch reality, Goldman Sachs says",
-      "s": 0.0
+      "t": "SpaceX stock climbs 4%, rebounding from three-day losing streak",
+      "s": -0.38
     },
     {
-      "t": "Tech rout intensifies as sell-off grips global stocks",
-      "s": 0.0
+      "t": "SpaceX raises $25 billion in debt sale less than two weeks after IPO",
+      "s": -0.36
     }
   ]
 }
