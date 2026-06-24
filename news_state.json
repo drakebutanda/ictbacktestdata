@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-24 10:36 UTC",
+  "ts": "2026-06-24 18:13 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 7,
-  "avg_sentiment": 0.002,
-  "burst": false,
+  "headlines": 100,
+  "recent": 14,
+  "avg_sentiment": 0.033,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Ukraine is raising the cost of war for Russia \u2014 and testing Putin's resolve",
-      "s": -0.32
+      "t": "Slate Auto says $24,950 electric truck will be profitable; targets positive cash flow next year",
+      "s": 0.76
     },
     {
-      "t": "Why U.K. stocks can\u2019t escape the shadow of a \u2018lost decade\u2019 following Brexit",
-      "s": 0.18
+      "t": "Why energy could be a great place to invest even with oil prices retreating \u2014 5 stocks to buy",
+      "s": 0.74
     },
     {
-      "t": "Tech companies would have to pay AI data center energy costs under bill moving in Congress",
-      "s": 0.18
+      "t": "Bessent sees GDP growth booming again this year. Kalshi traders see little chance of that",
+      "s": 0.51
     },
     {
-      "t": "\u2018I\u2019m scared of making a huge financial mistake\u2019: I gave my brother half of my $1.5 million home. Can he force me to sell?",
-      "s": -0.15
+      "t": "Everyone on Wall Street now believes in buying the dip. That is exactly why you should worry.",
+      "s": -0.44
     },
     {
-      "t": "Tankmaker KNDS lays out IPO plans amid defense selloff in Europe",
-      "s": 0.13
+      "t": "Trump cancels signing of bipartisan housing bill, demanding voter ID provision",
+      "s": -0.42
     }
   ]
 }
