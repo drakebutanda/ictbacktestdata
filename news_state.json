@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-25 10:24 UTC",
+  "ts": "2026-06-25 18:35 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 11,
-  "avg_sentiment": 0.016,
+  "headlines": 97,
+  "recent": 8,
+  "avg_sentiment": -0.025,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Two years after her death, Shannen Doherty\u2019s Malibu home sells for $7.7 million",
-      "s": -0.6
+      "t": "Judge says lawsuit against Trump DOJ 'anti-weaponization' fund will proceed",
+      "s": -0.23
     },
     {
-      "t": "Micron stock jumps over 16% in premarket trading after blockbuster earnings",
-      "s": 0.6
+      "t": "Supreme Court limits Roundup cancer suits against Bayer's Monsanto",
+      "s": -0.2
     },
     {
-      "t": "Defense stocks slide again, as Germany\u2019s naval U-turn shakes confidence in Europe\u2019s rearmament boom",
-      "s": 0.59
+      "t": "Iranian leader scoffs at Trump claim that Tehran must buy U.S. farm products with unfrozen assets",
+      "s": 0.18
     },
     {
-      "t": "Retail investors have suddenly got more cautious in using options and margins. That may spell trouble for tech, says JPMorgan.",
-      "s": -0.53
+      "t": "Judge blocks Trump's rule limiting federal student loans for certain grad school borrowers",
+      "s": 0.05
     },
     {
-      "t": "Gold hovers around $4,000, silver holds below $60 \u2014 has the shimmer worn off the precious metal rally?",
-      "s": 0.36
+      "t": "Iran tightens its grip on Strait of Hormuz, sending oil prices higher",
+      "s": 0.0
     }
   ]
 }
