@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-25 18:35 UTC",
+  "ts": "2026-06-25 23:55 UTC",
   "feeds_live": 5,
   "headlines": 97,
-  "recent": 8,
-  "avg_sentiment": -0.025,
-  "burst": true,
+  "recent": 6,
+  "avg_sentiment": 0.024,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Judge says lawsuit against Trump DOJ 'anti-weaponization' fund will proceed",
-      "s": -0.23
+      "t": "Trump keeps turning Republican wins into loyalty tests \u2014 and political liabilities",
+      "s": 0.75
     },
     {
-      "t": "Supreme Court limits Roundup cancer suits against Bayer's Monsanto",
-      "s": -0.2
+      "t": "As Social Security faces trust fund depletion, some Washington lawmakers call for taxing high earners",
+      "s": 0.69
     },
     {
-      "t": "Iranian leader scoffs at Trump claim that Tehran must buy U.S. farm products with unfrozen assets",
-      "s": 0.18
+      "t": "SpaceX stock is a terrible buy \u2014 what that actually means for the bull market",
+      "s": -0.48
     },
     {
-      "t": "Judge blocks Trump's rule limiting federal student loans for certain grad school borrowers",
-      "s": 0.05
+      "t": "A world rejecting OPEC controls could usher in oil below $50 a barrel",
+      "s": -0.46
     },
     {
-      "t": "Iran tightens its grip on Strait of Hormuz, sending oil prices higher",
-      "s": 0.0
+      "t": "ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push",
+      "s": -0.36
     }
   ]
 }
