@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-25 23:55 UTC",
+  "ts": "2026-06-26 11:20 UTC",
   "feeds_live": 5,
   "headlines": 97,
-  "recent": 6,
-  "avg_sentiment": 0.024,
+  "recent": 7,
+  "avg_sentiment": -0.315,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump keeps turning Republican wins into loyalty tests \u2014 and political liabilities",
-      "s": 0.75
+      "t": "U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman",
+      "s": -0.86
     },
     {
-      "t": "As Social Security faces trust fund depletion, some Washington lawmakers call for taxing high earners",
-      "s": 0.69
+      "t": "Red Lobster's Ultimate Endless Shrimp promotion described as a 'car crash' for the company, lawsuit says",
+      "s": -0.56
     },
     {
-      "t": "SpaceX stock is a terrible buy \u2014 what that actually means for the bull market",
-      "s": -0.48
+      "t": "Why this earnings exuberance may be a problem for the stock market, according to this Wall Street veteran",
+      "s": -0.4
     },
     {
-      "t": "A world rejecting OPEC controls could usher in oil below $50 a barrel",
-      "s": -0.46
+      "t": "Estrogen patches are hard to find, and it may not be resolved any time soon",
+      "s": -0.23
     },
     {
-      "t": "ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push",
-      "s": -0.36
+      "t": "Binance says some European clients may be affected after pulling bid for Greek license",
+      "s": -0.15
     }
   ]
 }
