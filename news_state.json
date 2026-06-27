@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-27 15:04 UTC",
+  "ts": "2026-06-27 20:17 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 6,
-  "avg_sentiment": -0.222,
-  "burst": false,
+  "recent": 11,
+  "avg_sentiment": 0.011,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
-      "s": -0.8
+      "t": "Tanker struck in Strait of Hormuz as U.S.-Iran tensions escalate",
+      "s": -0.57
     },
     {
-      "t": "After losing my son, would it be a mistake to sell my recently purchased house and move to my hometown?",
-      "s": -0.61
-    },
-    {
-      "t": "\u2018Heated Rivalry\u2019 fuels a boom in gay romance stories, with women leading the fandom",
+      "t": "Take a cue from the rich: Do a midyear financial check-in",
       "s": 0.56
     },
     {
-      "t": "Red Lobster's Ultimate Endless Shrimp promotion is described as a 'car crash' for the company, lawsuit says",
-      "s": -0.56
+      "t": "This disease is more expensive than cancer and heart disease combined. And it\u2019s only going to get worse.",
+      "s": -0.55
     },
     {
-      "t": "Why investors may want to prioritize bond markets outside the U.S.",
-      "s": 0.08
+      "t": "Discounted bond funds, especially at scandal-hit Wamco, may offer an investment opportunity",
+      "s": 0.46
+    },
+    {
+      "t": "Older Americans will soon have Medicare access to GLP-1s for weight loss for the first time. Here\u2019s what they need to know.",
+      "s": -0.32
     }
   ]
 }
