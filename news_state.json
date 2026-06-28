@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-27 20:17 UTC",
+  "ts": "2026-06-28 08:33 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 11,
-  "avg_sentiment": 0.011,
-  "burst": true,
+  "recent": 0,
+  "avg_sentiment": -0.049,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Tanker struck in Strait of Hormuz as U.S.-Iran tensions escalate",
-      "s": -0.57
+      "t": "U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman",
+      "s": -0.86
     },
     {
-      "t": "Take a cue from the rich: Do a midyear financial check-in",
-      "s": 0.56
+      "t": "Rubio says Israel, Lebanon reach framework agreement aimed at 'lasting peace and security'",
+      "s": 0.85
     },
     {
-      "t": "This disease is more expensive than cancer and heart disease combined. And it\u2019s only going to get worse.",
-      "s": -0.55
+      "t": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
+      "s": -0.84
     },
     {
-      "t": "Discounted bond funds, especially at scandal-hit Wamco, may offer an investment opportunity",
-      "s": 0.46
+      "t": "The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players",
+      "s": -0.78
     },
     {
-      "t": "Older Americans will soon have Medicare access to GLP-1s for weight loss for the first time. Here\u2019s what they need to know.",
-      "s": -0.32
+      "t": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
+      "s": -0.74
     }
   ]
 }
