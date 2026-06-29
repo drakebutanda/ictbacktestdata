@@ -1,15 +1,31 @@
 {
-  "ts": "2026-06-28 20:38 UTC",
+  "ts": "2026-06-29 12:49 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": -0.625,
+  "headlines": 99,
+  "recent": 6,
+  "avg_sentiment": 0.054,
   "burst": false,
-  "mood": "risk-off",
+  "mood": "neutral",
   "top": [
     {
-      "t": "Iran talks on hold after fighting breaks out and Trump once again threatens annihilation",
-      "s": -0.62
+      "t": "The AI boom is colliding with a new threat: Severe weather",
+      "s": -0.76
+    },
+    {
+      "t": "Comcast\u2019s stock having best day in 18 years after plan to spin off NBCUniversal",
+      "s": 0.64
+    },
+    {
+      "t": "Trump says U.S. and Iran to hold fresh talks in Qatar on Tuesday following weekend clashes",
+      "s": 0.32
+    },
+    {
+      "t": "Laser weapons aren\u2019t science fiction anymore \u2014 and they\u2019re changing how defense stocks are valued",
+      "s": 0.13
+    },
+    {
+      "t": "There\u2019s a 67% chance stocks will suffer a bear market when this rare signal flashes \u2014 like it\u2019s doing now",
+      "s": 0.0
     }
   ]
 }
