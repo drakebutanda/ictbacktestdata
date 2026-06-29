@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-29 19:24 UTC",
+  "ts": "2026-06-29 23:38 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 9,
-  "avg_sentiment": -0.001,
-  "burst": true,
+  "headlines": 100,
+  "recent": 6,
+  "avg_sentiment": -0.157,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Inflation fears are overblown. What the rate-hike camp gets wrong about the stock market.",
-      "s": -0.71
+      "t": "Industry lobbyists push House committee to block a ban on Pentagon defense contractors buying back their own stock",
+      "s": -0.72
     },
     {
-      "t": "Chip stocks rebound, and Goldman racks up a series of M&A wins",
-      "s": 0.57
+      "t": "Supreme Court rulings on Fed, FTC: What they mean for consumers",
+      "s": 0.56
     },
     {
-      "t": "IRS says Trump Account contributions will not trigger annual gift tax reporting requirements",
-      "s": -0.34
+      "t": "Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again",
+      "s": -0.42
     },
     {
-      "t": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?",
-      "s": 0.34
+      "t": "Trump\u2019s weekend Iran strikes keep sparking Monday stock rallies. Here\u2019s what the data shows us.",
+      "s": -0.36
     },
     {
-      "t": "Comcast's NBCUniversal spinoff raises hope for more deals. There may not be good options",
-      "s": 0.13
+      "t": "AeroVironment soars 19% on earnings beat, backlog grows to $1.2 billion",
+      "s": 0.0
     }
   ]
 }
