@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-30 20:08 UTC",
+  "ts": "2026-06-30 22:22 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 17,
-  "avg_sentiment": -0.015,
+  "recent": 14,
+  "avg_sentiment": 0.081,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Social Security gender gap means women receive about $4,800 less in annual benefits. What to know before claiming",
-      "s": 0.58
+      "t": "Small-cap stocks just had their best start to a year since 1991. The rest of 2026 could look very different.",
+      "s": 0.64
     },
     {
-      "t": "Japanese yen sinks to 40-year low, keeping intervention risks in focus",
-      "s": -0.49
+      "t": "\u2018I don\u2019t think I\u2019ll make it to 80\u2019: I\u2019m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
+      "s": 0.49
     },
     {
-      "t": "Millions of Americans can get Medicare to cover GLP-1s for weight loss starting this week. Here\u2019s how much it costs.",
-      "s": -0.32
+      "t": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+      "s": 0.49
     },
     {
-      "t": "The chip rally has a dark side \u2014 and a rare market risk is at its highest level since 2015",
-      "s": -0.27
+      "t": "Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test.",
+      "s": -0.38
     },
     {
-      "t": "Only a fraction of eligible kids are signed up for \u2018Trump accounts.\u2019 All told, they could be missing out on billions of dollars in wealth.",
-      "s": 0.25
+      "t": "Will the Comcast-NBCU spinoff pay off for investors? Here\u2019s what history has to say.",
+      "s": -0.1
     }
   ]
 }
