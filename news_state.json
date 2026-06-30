@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-29 23:38 UTC",
+  "ts": "2026-06-30 11:29 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 6,
-  "avg_sentiment": -0.157,
+  "headlines": 99,
+  "recent": 5,
+  "avg_sentiment": 0.275,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Industry lobbyists push House committee to block a ban on Pentagon defense contractors buying back their own stock",
-      "s": -0.72
+      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
+      "s": 0.82
     },
     {
-      "t": "Supreme Court rulings on Fed, FTC: What they mean for consumers",
-      "s": 0.56
+      "t": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?",
+      "s": 0.34
     },
     {
-      "t": "Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again",
-      "s": -0.42
+      "t": "The big surprise for the year\u2019s second half could be the AI trade powering higher. Why it wouldn\u2019t take much.",
+      "s": 0.27
     },
     {
-      "t": "Trump\u2019s weekend Iran strikes keep sparking Monday stock rallies. Here\u2019s what the data shows us.",
-      "s": -0.36
+      "t": "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar",
+      "s": -0.27
     },
     {
-      "t": "AeroVironment soars 19% on earnings beat, backlog grows to $1.2 billion",
-      "s": 0.0
+      "t": "Mag 7 value shrinks by $2.3 trillion amid AI spending jitters \u2014 but investors are still backing chipmakers",
+      "s": 0.21
     }
   ]
 }
