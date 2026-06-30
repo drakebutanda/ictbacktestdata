@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-30 11:29 UTC",
+  "ts": "2026-06-30 14:35 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 5,
-  "avg_sentiment": 0.275,
-  "burst": false,
+  "recent": 17,
+  "avg_sentiment": -0.015,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
+      "t": "Supreme Court strikes down limits on political parties' campaign spending, in win for GOP",
       "s": 0.82
     },
     {
-      "t": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?",
-      "s": 0.34
+      "t": "Inflation fears are overblown. What the rate-hike camp gets wrong about the stock market.",
+      "s": -0.71
     },
     {
-      "t": "The big surprise for the year\u2019s second half could be the AI trade powering higher. Why it wouldn\u2019t take much.",
-      "s": 0.27
+      "t": "Value stocks beat growth when inflation is high. Here are 13 stocks top newsletters are betting on now.",
+      "s": 0.7
     },
     {
-      "t": "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar",
-      "s": -0.27
+      "t": "Trump's massive defense budget, depleted war machine, spark U.S. state battle for business and jobs",
+      "s": -0.62
     },
     {
-      "t": "Mag 7 value shrinks by $2.3 trillion amid AI spending jitters \u2014 but investors are still backing chipmakers",
-      "s": 0.21
+      "t": "My sister died and I\u2019m leaving New York to help raise my niece in Colorado. At 33, am I making a financial mistake?",
+      "s": -0.51
     }
   ]
 }
