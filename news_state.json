@@ -1,31 +1,31 @@
 {
-  "ts": "2026-06-30 14:35 UTC",
+  "ts": "2026-06-30 17:10 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 17,
-  "avg_sentiment": -0.015,
+  "recent": 23,
+  "avg_sentiment": 0.128,
   "burst": true,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Job openings rise to 2-year high, but good luck actually getting one",
+      "s": 0.83
+    },
     {
       "t": "Supreme Court strikes down limits on political parties' campaign spending, in win for GOP",
       "s": 0.82
     },
     {
-      "t": "Inflation fears are overblown. What the rate-hike camp gets wrong about the stock market.",
-      "s": -0.71
+      "t": "Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it",
+      "s": 0.81
     },
     {
-      "t": "Value stocks beat growth when inflation is high. Here are 13 stocks top newsletters are betting on now.",
-      "s": 0.7
+      "t": "GOP Rep. Tom Kean says depression diagnosis caused months-long absence from Congress",
+      "s": -0.57
     },
     {
-      "t": "Trump's massive defense budget, depleted war machine, spark U.S. state battle for business and jobs",
-      "s": -0.62
-    },
-    {
-      "t": "My sister died and I\u2019m leaving New York to help raise my niece in Colorado. At 33, am I making a financial mistake?",
-      "s": -0.51
+      "t": "Gold is on the verge of a \u2018death cross\u2019 that could surprisingly foreshadow gains",
+      "s": 0.56
     }
   ]
 }
