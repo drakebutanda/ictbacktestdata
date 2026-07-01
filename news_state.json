@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-01 13:37 UTC",
+  "ts": "2026-07-01 16:32 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 21,
-  "avg_sentiment": -0.113,
+  "recent": 16,
+  "avg_sentiment": 0.044,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Tech leads first half stock gains \u2014 but the biggest winners weren't in the U.S.",
-      "s": 0.7
+      "t": "This is the best time \u2018in a generation\u2019 to buy space and defense stocks, analysts say",
+      "s": 0.69
     },
     {
-      "t": "Businesses added 98,000 jobs in June, ADP says. Labor market is on the mend, but it\u2019s still not great.",
-      "s": -0.66
+      "t": "14 value stocks of companies primed for rapid growth through 2028",
+      "s": 0.61
     },
     {
-      "t": "Gold losses ease after worst quarter in 13 years as interest rate fears hit bullion",
-      "s": -0.62
-    },
-    {
-      "t": "This threat to the chip rally has surged to its highest level since 2015",
+      "t": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
       "s": -0.53
     },
     {
-      "t": "Employers who laid off workers citing AI are already starting to regret it",
-      "s": -0.42
+      "t": "\u2018I don\u2019t think I\u2019ll make it to 80\u2019: I\u2019m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
+      "s": 0.49
+    },
+    {
+      "t": "U.S. manufacturers keep on trucking despite a road littered with obstacles",
+      "s": -0.38
     }
   ]
 }
