@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-01 21:42 UTC",
+  "ts": "2026-07-01 23:22 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 6,
-  "avg_sentiment": 0.171,
-  "burst": false,
+  "recent": 8,
+  "avg_sentiment": 0.199,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
-      "s": 0.4
+      "t": "This is the best time \u2018in a generation\u2019 to buy space and defense stocks, analysts say",
+      "s": 0.69
     },
     {
-      "t": "This unheralded sector may be the one sure thing for bulls in July",
-      "s": 0.32
+      "t": "Jim Cramer says to use Wednesday's market rotation to your advantage. Here's how he'd play it",
+      "s": 0.53
     },
     {
-      "t": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
+      "t": "ServiceNow and Salesforce shares now look like buys, as \u2018Armageddon\u2019 fears are too extreme, analyst says",
       "s": 0.23
     },
     {
-      "t": "I\u2019m 53 and want to retire in 12 years. Is 5% enough to put in my 401(k)?",
-      "s": 0.08
+      "t": "Where can I invest my kid\u2019s \u2018Trump account\u2019 money? The Treasury Department just answered that question.",
+      "s": 0.2
     },
     {
-      "t": "Is Meta \u2018giving up\u2019 on cutting-edge AI? Wall Street is divided over potential cloud pivot.",
-      "s": 0.0
+      "t": "U.S. auto industry faces increased uncertainty without extension of USMCA trade deal",
+      "s": -0.08
     }
   ]
 }
