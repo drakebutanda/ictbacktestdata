@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-01 10:04 UTC",
+  "ts": "2026-07-01 13:37 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 10,
-  "avg_sentiment": 0.012,
+  "recent": 21,
+  "avg_sentiment": -0.113,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Gold prices fall further after worst quarter in 13 years as interest rate fears hit bullion",
-      "s": -0.6
+      "t": "Tech leads first half stock gains \u2014 but the biggest winners weren't in the U.S.",
+      "s": 0.7
     },
     {
-      "t": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?",
-      "s": 0.34
+      "t": "Businesses added 98,000 jobs in June, ADP says. Labor market is on the mend, but it\u2019s still not great.",
+      "s": -0.66
     },
     {
-      "t": "Oil prices wobble as breakdown in U.S.-Iran talks casts doubt over peace process",
-      "s": 0.25
+      "t": "Gold losses ease after worst quarter in 13 years as interest rate fears hit bullion",
+      "s": -0.62
     },
     {
-      "t": "Netflix\u2019s \u2018Owning Manhattan\u2019 star Ryan Serhant expands real estate empire to Texas in \u2018strategic\u2019 move",
-      "s": 0.1
+      "t": "This threat to the chip rally has surged to its highest level since 2015",
+      "s": -0.53
     },
     {
-      "t": "\u2018Ransom Canyon\u2019 star Josh Duhamel lists L.A. home for $3 million and commits more time to Minnesota cabin",
-      "s": 0.03
+      "t": "Employers who laid off workers citing AI are already starting to regret it",
+      "s": -0.42
     }
   ]
 }
