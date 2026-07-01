@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-01 19:03 UTC",
+  "ts": "2026-07-01 21:42 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 13,
-  "avg_sentiment": -0.024,
-  "burst": true,
+  "headlines": 98,
+  "recent": 6,
+  "avg_sentiment": 0.171,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Sandisk\u2019s and Micron\u2019s stocks sink as the rotation trade builds, but supply shortages should limit losses",
-      "s": -0.67
+      "t": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
+      "s": 0.4
     },
     {
-      "t": "Healthy Returns: Walmart, CVS step in to help seniors navigate Medicare coverage of obesity drugs",
-      "s": 0.66
+      "t": "This unheralded sector may be the one sure thing for bulls in July",
+      "s": 0.32
     },
     {
-      "t": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
-      "s": -0.53
+      "t": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
+      "s": 0.23
     },
     {
-      "t": "Is the U.S. jobs market getting better? June employment report to give us a heat check.",
-      "s": 0.44
+      "t": "I\u2019m 53 and want to retire in 12 years. Is 5% enough to put in my 401(k)?",
+      "s": 0.08
     },
     {
-      "t": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop",
-      "s": -0.44
+      "t": "Is Meta \u2018giving up\u2019 on cutting-edge AI? Wall Street is divided over potential cloud pivot.",
+      "s": 0.0
     }
   ]
 }
