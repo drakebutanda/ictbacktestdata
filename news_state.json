@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-01 16:32 UTC",
+  "ts": "2026-07-01 19:03 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 16,
-  "avg_sentiment": 0.044,
+  "recent": 13,
+  "avg_sentiment": -0.024,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "This is the best time \u2018in a generation\u2019 to buy space and defense stocks, analysts say",
-      "s": 0.69
+      "t": "Sandisk\u2019s and Micron\u2019s stocks sink as the rotation trade builds, but supply shortages should limit losses",
+      "s": -0.67
     },
     {
-      "t": "14 value stocks of companies primed for rapid growth through 2028",
-      "s": 0.61
+      "t": "Healthy Returns: Walmart, CVS step in to help seniors navigate Medicare coverage of obesity drugs",
+      "s": 0.66
     },
     {
       "t": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
       "s": -0.53
     },
     {
-      "t": "\u2018I don\u2019t think I\u2019ll make it to 80\u2019: I\u2019m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
-      "s": 0.49
+      "t": "Is the U.S. jobs market getting better? June employment report to give us a heat check.",
+      "s": 0.44
     },
     {
-      "t": "U.S. manufacturers keep on trucking despite a road littered with obstacles",
-      "s": -0.38
+      "t": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop",
+      "s": -0.44
     }
   ]
 }
