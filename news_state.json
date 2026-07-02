@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-02 20:24 UTC",
+  "ts": "2026-07-02 22:13 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 12,
-  "avg_sentiment": -0.126,
+  "recent": 10,
+  "avg_sentiment": -0.071,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
-      "s": -0.78
+      "t": "SpaceX panic sends AT&T stock to its worst week in years",
+      "s": -0.81
     },
     {
-      "t": "SpaceX panic sends Verizon and AT&T shares toward their worst week in years",
-      "s": -0.74
+      "t": "Palantir\u2019s stock bounces back as analyst cheers company\u2019s unique AI advantage",
+      "s": 0.62
     },
     {
-      "t": "Olympian David Hearn indicted in Reflecting Pool destruction of property case",
-      "s": -0.57
+      "t": "Why Tesla\u2019s stock sank to its worst day in a year despite blowout delivery numbers",
+      "s": -0.62
     },
     {
-      "t": "My doctor friend objected to his hospital\u2019s fundraising tactics. Did management go too far?",
-      "s": 0.49
+      "t": "Retiring abroad sounds like a dream \u2014 what could go wrong? Actually, a lot.",
+      "s": 0.1
     },
     {
-      "t": "Trump Accounts get a boost from employer contributions \u2014 Goldman Sachs\u00a0and\u00a0Morgan Stanley are the latest to offer matching programs",
-      "s": 0.4
+      "t": "Trump\u2019s real-estate licensing income in foreign countries nearly doubled \u2014 and now features Qatar and Romania",
+      "s": 0.0
     }
   ]
 }
