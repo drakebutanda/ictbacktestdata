@@ -1,27 +1,31 @@
 {
-  "ts": "2026-07-02 04:12 UTC",
+  "ts": "2026-07-02 08:16 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 4,
-  "avg_sentiment": 0.072,
+  "recent": 7,
+  "avg_sentiment": -0.034,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Oil falls as easing Middle East tensions send Brent to its worst quarter since 2020",
-      "s": -0.7
+      "t": "Google loses fight over record $4.7 billion EU antitrust fine",
+      "s": -0.48
     },
     {
-      "t": "Shares of BYD and Xiaomi surge as June delivery figures fuel optimism",
-      "s": 0.69
+      "t": "Tank maker KNDS postpones IPO amid market struggles for defense",
+      "s": -0.48
     },
     {
-      "t": "Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street",
+      "t": "Oil prices on pace for fourth straight weekly loss as Trump sees progress in U.S.-Iran talks",
+      "s": 0.34
+    },
+    {
+      "t": "Samsung Electronics, SK Hynix shares tumble over 9% as chip rout spreads from Wall Street",
       "s": 0.3
     },
     {
-      "t": "Europe wants to rebalance trade with Beijing, but can't quit Chinese air conditioners",
-      "s": 0.0
+      "t": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: report",
+      "s": 0.08
     }
   ]
 }
