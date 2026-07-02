@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-02 16:56 UTC",
+  "ts": "2026-07-02 18:41 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 10,
-  "avg_sentiment": 0.105,
+  "recent": 11,
+  "avg_sentiment": 0.102,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway",
-      "s": 0.77
+      "t": "Why Tesla\u2019s stock is sinking toward its worst day in a year despite blowout delivery numbers",
+      "s": -0.62
     },
     {
-      "t": "If you lost money on Trump crypto ventures, don\u2019t whine",
-      "s": -0.59
+      "t": "Concerts are increasingly for superfans and the rich, analysts say",
+      "s": 0.56
     },
     {
-      "t": "Tesla stock sinks 7% despite strong deliveries report",
-      "s": -0.4
+      "t": "GE Vernova's gas turbines aren't the only way it's winning from the AI boom",
+      "s": 0.53
     },
     {
-      "t": "High-end camping and a capital raise: AutoCamp is banking on summer travel to fuel growth",
+      "t": "Trump Accounts get a boost from employer contributions \u2014 Goldman Sachs\u00a0and\u00a0Morgan Stanley are the latest to offer matching programs",
+      "s": 0.4
+    },
+    {
+      "t": "Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years",
       "s": 0.38
-    },
-    {
-      "t": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
-      "s": 0.2
     }
   ]
 }
