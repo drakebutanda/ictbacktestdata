@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-02 11:39 UTC",
+  "ts": "2026-07-02 14:22 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 13,
-  "avg_sentiment": -0.026,
+  "recent": 20,
+  "avg_sentiment": -0.004,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Russia\u2019s neighbor Lithuania scraps constitutional ban on nuclear weapons. Here's why",
+      "t": "Russia\u2019s neighbor to scrap ban on nuclear weapons, says \u2018situation is getting worse\u2019",
       "s": -0.76
     },
     {
-      "t": "Google loses fight over record $4.7 billion EU antitrust fine",
-      "s": -0.48
+      "t": "How high hopes for Biden\u2019s student-loan forgiveness plans cost borrowers",
+      "s": 0.6
     },
     {
-      "t": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
-      "s": 0.4
+      "t": "\u2018I don\u2019t think I\u2019ll make it to 80\u2019: I\u2019m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
+      "s": 0.49
     },
     {
-      "t": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?",
-      "s": 0.34
+      "t": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+      "s": 0.49
     },
     {
-      "t": "Ford CEO wants level playing field with Toyota, GM imports as USMCA trade talks reopen",
-      "s": 0.2
+      "t": "Ford Q2 sales drop 10.3% due to F-Series supplier issue, falling EV demand",
+      "s": -0.49
     }
   ]
 }
