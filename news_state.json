@@ -1,30 +1,18 @@
 {
-  "ts": "2026-07-03 14:26 UTC",
+  "ts": "2026-07-03 16:41 UTC",
   "feeds_live": 5,
   "headlines": 97,
-  "recent": 5,
-  "avg_sentiment": -0.018,
+  "recent": 2,
+  "avg_sentiment": 0.0,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "A looming AI disappointment and rising yields. Why one research firm is hitting the brakes on U.S. stocks.",
-      "s": -0.59
-    },
-    {
-      "t": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
-      "s": 0.49
-    },
-    {
-      "t": "\u2018We were stunned\u2019: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
+      "t": "The World Cup has made Cape Verde goalkeeper Vozinha a $17 million social-media star",
       "s": 0.0
     },
     {
-      "t": "U.S. stocks have delivered 8.7% a year since independence was declared in 1776",
-      "s": 0.0
-    },
-    {
-      "t": "Don't throw away your shot to speak to an AI Alexander Hamilton at Boston's new finance museum",
+      "t": "AI infrastructure stocks have overtaken the tech hyperscalers in a shift UBS calls \u2018extraordinary\u2019",
       "s": 0.0
     }
   ]
