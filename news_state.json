@@ -1,19 +1,27 @@
 {
-  "ts": "2026-07-03 00:14 UTC",
+  "ts": "2026-07-03 04:49 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 2,
-  "avg_sentiment": 0.417,
+  "recent": 4,
+  "avg_sentiment": 0.182,
   "burst": false,
-  "mood": "risk-on",
+  "mood": "neutral",
   "top": [
     {
-      "t": "My doctor friend objected to his hospital\u2019s fundraising tactics. Did management go too far?",
-      "s": 0.49
+      "t": "Rafael Nadal talks tennis prize money, his hotels, and what sports taught him about business",
+      "s": 0.51
     },
     {
-      "t": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?",
-      "s": 0.34
+      "t": "Kuaishou shares jump after Tencent joins $2.8 billion raise for Kling AI subsidiary",
+      "s": 0.3
+    },
+    {
+      "t": "Venezuela quake toll climbs to 2,595 as damage estimates mount after strongest tremor in a century",
+      "s": -0.08
+    },
+    {
+      "t": "Is the stock market open today? Here\u2019s how Fourth of July weekend affects trading hours.",
+      "s": 0.0
     }
   ]
 }
