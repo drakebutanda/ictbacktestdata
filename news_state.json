@@ -1,19 +1,19 @@
 {
-  "ts": "2026-07-03 16:41 UTC",
+  "ts": "2026-07-03 18:18 UTC",
   "feeds_live": 5,
   "headlines": 97,
   "recent": 2,
-  "avg_sentiment": 0.0,
+  "avg_sentiment": -0.04,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "The World Cup has made Cape Verde goalkeeper Vozinha a $17 million social-media star",
-      "s": 0.0
+      "t": "American Express and Chase move luxury lounge wars beyond the airport",
+      "s": -0.56
     },
     {
-      "t": "AI infrastructure stocks have overtaken the tech hyperscalers in a shift UBS calls \u2018extraordinary\u2019",
-      "s": 0.0
+      "t": "Acting DNI Pulte fires dozens of intelligence officials: MS Now",
+      "s": 0.48
     }
   ]
 }
