@@ -1,19 +1,31 @@
 {
-  "ts": "2026-07-03 08:15 UTC",
+  "ts": "2026-07-03 11:38 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 2,
-  "avg_sentiment": -0.069,
+  "headlines": 97,
+  "recent": 5,
+  "avg_sentiment": 0.129,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Extreme heat wave threatens U.S. power grids and July 4 travel",
-      "s": -0.43
+      "t": "\u2018I don\u2019t think I\u2019ll make it to 80\u2019: I\u2019m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
+      "s": 0.49
     },
     {
-      "t": "Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a \u2018blind spot\u2019 for markets",
-      "s": 0.3
+      "t": "Booze-free beer is no longer a punchline \u2014 and big brewers see a billion-dollar opportunity",
+      "s": 0.15
+    },
+    {
+      "t": "Michael Burry makes a bearish bet against hot memory stock Micron: reports",
+      "s": 0.0
+    },
+    {
+      "t": "The Tech Download: Amazon\u2019s devices chief Panos Panay on tech giant's AI gadget push",
+      "s": 0.0
+    },
+    {
+      "t": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
+      "s": 0.0
     }
   ]
 }
