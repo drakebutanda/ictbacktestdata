@@ -1,9 +1,9 @@
 {
-  "ts": "2026-07-04 04:41 UTC",
+  "ts": "2026-07-04 07:52 UTC",
   "feeds_live": 5,
   "headlines": 97,
   "recent": 0,
-  "avg_sentiment": 0.041,
+  "avg_sentiment": 0.055,
   "burst": false,
   "mood": "neutral",
   "top": [
@@ -20,12 +20,12 @@
       "s": 0.8
     },
     {
-      "t": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
-      "s": -0.78
-    },
-    {
       "t": "Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway",
       "s": 0.77
+    },
+    {
+      "t": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
+      "s": -0.75
     }
   ]
 }
