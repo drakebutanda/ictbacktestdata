@@ -1,19 +1,31 @@
 {
-  "ts": "2026-07-04 10:20 UTC",
+  "ts": "2026-07-04 12:11 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 2,
-  "avg_sentiment": 0.392,
+  "recent": 0,
+  "avg_sentiment": 0.058,
   "burst": false,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
+      "s": -0.84
+    },
+    {
+      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
+      "s": 0.82
+    },
+    {
+      "t": "Your aging parent has a new romance. Here\u2019s how to protect your inheritance \u2014 without looking greedy.",
+      "s": 0.8
+    },
     {
       "t": "UK and France agree with Oman to ensure safety of its territorial waters",
       "s": 0.78
     },
     {
-      "t": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
-      "s": 0.0
+      "t": "Korea\u2019s KOSPI P/E valuation falls to lowest since global financial crisis",
+      "s": -0.77
     }
   ]
 }
