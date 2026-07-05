@@ -1,18 +1,22 @@
 {
-  "ts": "2026-07-05 21:11 UTC",
+  "ts": "2026-07-05 23:09 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": 0.229,
+  "recent": 3,
+  "avg_sentiment": 0.328,
   "burst": false,
   "mood": "neutral",
   "top": [
+    {
+      "t": "U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend",
+      "s": 0.53
+    },
     {
       "t": "OPEC+ raises output levels again despite tumbling crude prices",
       "s": 0.46
     },
     {
-      "t": "Trump asked FIFA to review Balogun's World Cup game suspension: Reports",
+      "t": "What caused the pre-holiday chip stock slump and what to do about it",
       "s": 0.0
     }
   ]
