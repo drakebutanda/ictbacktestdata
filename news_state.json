@@ -1,9 +1,9 @@
 {
-  "ts": "2026-07-05 09:18 UTC",
+  "ts": "2026-07-05 11:40 UTC",
   "feeds_live": 5,
   "headlines": 98,
   "recent": 0,
-  "avg_sentiment": 0.041,
+  "avg_sentiment": 0.071,
   "burst": false,
   "mood": "neutral",
   "top": [
@@ -20,12 +20,12 @@
       "s": 0.78
     },
     {
-      "t": "Korea\u2019s KOSPI P/E valuation falls to lowest since global financial crisis",
-      "s": -0.77
+      "t": "Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway",
+      "s": 0.77
     },
     {
-      "t": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
-      "s": -0.75
+      "t": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
+      "s": -0.74
     }
   ]
 }
