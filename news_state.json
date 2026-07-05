@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-05 11:40 UTC",
+  "ts": "2026-07-05 13:58 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 0,
-  "avg_sentiment": 0.071,
+  "headlines": 99,
+  "recent": 6,
+  "avg_sentiment": -0.127,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
-      "s": -0.84
+      "t": "Why the stock market\u2019s red-hot momentum trade might be headed for a violent unwind this month",
+      "s": -0.6
     },
     {
-      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
-      "s": 0.82
+      "t": "Top Wall Street analysts prefer these dividend stocks for boosting portfolio returns",
+      "s": 0.49
     },
     {
-      "t": "UK and France agree with Oman to ensure safety of its territorial waters",
-      "s": 0.78
+      "t": "Cargo vessel in Red Sea reports coming under attack, UK maritime body says",
+      "s": -0.48
     },
     {
-      "t": "Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway",
-      "s": 0.77
+      "t": "\u2018We were stunned\u2019: My daughter, 39, said her mother-in-law gives her more money than we do. Should I confront her?",
+      "s": -0.18
     },
     {
-      "t": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
-      "s": -0.74
+      "t": "Hybrids are the breakout star of the U.S. car market as EV demand fades",
+      "s": -0.13
     }
   ]
 }
