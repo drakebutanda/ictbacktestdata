@@ -1,19 +1,31 @@
 {
-  "ts": "2026-07-04 22:04 UTC",
+  "ts": "2026-07-05 00:07 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 2,
-  "avg_sentiment": 0.247,
+  "recent": 0,
+  "avg_sentiment": 0.029,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
-      "s": 0.49
+      "t": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
+      "s": -0.84
     },
     {
-      "t": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
-      "s": 0.0
+      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
+      "s": 0.82
+    },
+    {
+      "t": "UK and France agree with Oman to ensure safety of its territorial waters",
+      "s": 0.78
+    },
+    {
+      "t": "Korea\u2019s KOSPI P/E valuation falls to lowest since global financial crisis",
+      "s": -0.77
+    },
+    {
+      "t": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
+      "s": -0.75
     }
   ]
 }
