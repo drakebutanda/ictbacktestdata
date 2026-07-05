@@ -1,31 +1,27 @@
 {
-  "ts": "2026-07-05 13:58 UTC",
+  "ts": "2026-07-05 15:21 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 6,
-  "avg_sentiment": -0.127,
+  "recent": 4,
+  "avg_sentiment": 0.166,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Why the stock market\u2019s red-hot momentum trade might be headed for a violent unwind this month",
-      "s": -0.6
+      "t": "Brides are bringing back the one-night-only bachelorette party: 'You just come, have one perfect night and leave'",
+      "s": 0.74
     },
     {
-      "t": "Top Wall Street analysts prefer these dividend stocks for boosting portfolio returns",
-      "s": 0.49
+      "t": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
+      "s": -0.3
     },
     {
-      "t": "Cargo vessel in Red Sea reports coming under attack, UK maritime body says",
-      "s": -0.48
+      "t": "World Cup fans spent anywhere from $2,500 to $150,000 to see matches\u2014they say it was worth it",
+      "s": 0.23
     },
     {
-      "t": "\u2018We were stunned\u2019: My daughter, 39, said her mother-in-law gives her more money than we do. Should I confront her?",
-      "s": -0.18
-    },
-    {
-      "t": "Hybrids are the breakout star of the U.S. car market as EV demand fades",
-      "s": -0.13
+      "t": "Here are the 3 big things we're watching in the stock market this week",
+      "s": 0.0
     }
   ]
 }
