@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-06 13:54 UTC",
+  "ts": "2026-07-06 16:56 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 13,
-  "avg_sentiment": 0.05,
+  "recent": 11,
+  "avg_sentiment": 0.088,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "We're buying more shares of Jim Cramer's new favorite chip stock",
-      "s": 0.67
+      "t": "Student loan servicers begin 90-day countdown for borrowers to leave SAVE plan",
+      "s": 0.58
     },
     {
-      "t": "NATO tensions are \u2018growing pains,\u2019 U.S. ambassador says as Trump presses allies",
-      "s": -0.4
+      "t": "Rivian, Tesla and the 'Holly Index': How to trade the new EV Main Street battle",
+      "s": -0.38
     },
     {
-      "t": "Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios",
-      "s": -0.3
+      "t": "Need a \u2018Trump account\u2019 for your child? The Social Security Administration has set up automatic enrollment.",
+      "s": 0.34
     },
     {
-      "t": "TeraWulf shares soar after Anthropic leases data center in Kentucky",
+      "t": "Why Jim Cramer says this AI play \u2014 up 85% this year \u2014 is headed even higher",
+      "s": 0.34
+    },
+    {
+      "t": "Trump plugs Dell at first-ever White House opening bell, sending shares soaring",
       "s": 0.3
-    },
-    {
-      "t": "Your investing expectations are more than double the reality. Here is the tough truth.",
-      "s": 0.2
     }
   ]
 }
