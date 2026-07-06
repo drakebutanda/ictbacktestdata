@@ -1,23 +1,31 @@
 {
-  "ts": "2026-07-06 04:18 UTC",
+  "ts": "2026-07-06 09:06 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 3,
-  "avg_sentiment": 0.143,
+  "recent": 5,
+  "avg_sentiment": 0.005,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend",
-      "s": 0.53
+      "t": "Bitter dispute drags on between Brad Pitt and Angelina Jolie over French winery",
+      "s": -0.74
     },
     {
-      "t": "Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says",
-      "s": -0.23
+      "t": "The chip pullback is ushering in a bumpy market. These sectors are the best bets now, according to Morgan Stanley.",
+      "s": 0.64
     },
     {
-      "t": "Lockheed Martin leading race for $3.5 billion purchase of naval defense firm Ultra Maritime",
-      "s": 0.13
+      "t": "Kim Kardashian and the Property Brothers use this brilliant home design tool to avoid thousands in renovation mistakes",
+      "s": 0.2
+    },
+    {
+      "t": "Trump's calls, Ukraine's strikes and Russia's barrage on Kyiv put markets on alert",
+      "s": -0.08
+    },
+    {
+      "t": "Belgium set to appeal as FIFA reverses Balogun's World Cup suspension after Trump reportedly intervenes",
+      "s": 0.0
     }
   ]
 }
