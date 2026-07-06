@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-06 09:06 UTC",
+  "ts": "2026-07-06 13:54 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 5,
-  "avg_sentiment": 0.005,
-  "burst": false,
+  "recent": 13,
+  "avg_sentiment": 0.05,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Bitter dispute drags on between Brad Pitt and Angelina Jolie over French winery",
-      "s": -0.74
+      "t": "We're buying more shares of Jim Cramer's new favorite chip stock",
+      "s": 0.67
     },
     {
-      "t": "The chip pullback is ushering in a bumpy market. These sectors are the best bets now, according to Morgan Stanley.",
-      "s": 0.64
+      "t": "NATO tensions are \u2018growing pains,\u2019 U.S. ambassador says as Trump presses allies",
+      "s": -0.4
     },
     {
-      "t": "Kim Kardashian and the Property Brothers use this brilliant home design tool to avoid thousands in renovation mistakes",
+      "t": "Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios",
+      "s": -0.3
+    },
+    {
+      "t": "TeraWulf shares soar after Anthropic leases data center in Kentucky",
+      "s": 0.3
+    },
+    {
+      "t": "Your investing expectations are more than double the reality. Here is the tough truth.",
       "s": 0.2
-    },
-    {
-      "t": "Trump's calls, Ukraine's strikes and Russia's barrage on Kyiv put markets on alert",
-      "s": -0.08
-    },
-    {
-      "t": "Belgium set to appeal as FIFA reverses Balogun's World Cup suspension after Trump reportedly intervenes",
-      "s": 0.0
     }
   ]
 }
