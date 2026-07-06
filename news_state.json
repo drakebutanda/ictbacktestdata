@@ -1,14 +1,22 @@
 {
-  "ts": "2026-07-06 19:02 UTC",
+  "ts": "2026-07-06 21:42 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 12,
-  "avg_sentiment": -0.084,
+  "recent": 16,
+  "avg_sentiment": -0.108,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "NATO tensions are \u2018growing pains,\u2019 U.S. ambassador says as Trump presses allies",
+      "t": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation",
+      "s": -0.62
+    },
+    {
+      "t": "Platner Senate campaign taking 'time to reflect' on path forward after sexual assault allegation",
+      "s": -0.59
+    },
+    {
+      "t": "If the stock market\u2019s double bubble bursts, it could usher in the next crash",
       "s": -0.4
     },
     {
@@ -16,16 +24,8 @@
       "s": -0.38
     },
     {
-      "t": "Belgium loses appeal of Balogun eligibility after Trump defends intervention with FIFA",
-      "s": -0.32
-    },
-    {
-      "t": "\u2018The money would have been life-changing\u2019: My father told my grandmother to slash my inheritance. Is that fair?",
-      "s": 0.05
-    },
-    {
-      "t": "You want a portfolio that matches your morals. But that could sink your retirement plans.",
-      "s": 0.04
+      "t": "Micron\u2019s stock gains, signaling a \u2018return to optimism\u2019 about the chip sector",
+      "s": 0.34
     }
   ]
 }
