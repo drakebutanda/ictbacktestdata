@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-07 20:53 UTC",
+  "ts": "2026-07-07 22:17 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 13,
-  "avg_sentiment": -0.097,
+  "avg_sentiment": -0.201,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "I found a simple way to save money on frozen pizza. What\u2019s your best money-saving trick?",
-      "s": 0.8
+      "t": "Crude prices rise as U.S. launches strikes on Iran shortly after cancelling its license to sell oil",
+      "s": -0.79
+    },
+    {
+      "t": "GameStop investors clear the way for a fresh attempt at buying eBay",
+      "s": 0.6
+    },
+    {
+      "t": "Think the U.S. stock market is too heavily exposed to AI? It\u2019s even worse abroad.",
+      "s": -0.53
     },
     {
       "t": "Maine Senate race replacements circle amid pressure on Platner to drop out",
       "s": -0.51
     },
     {
-      "t": "\u2018Our family is broken beyond repair\u2019: My brother took over my parents\u2019 finances. What can I do?",
-      "s": -0.48
-    },
-    {
       "t": "DeSantis-backed 'Stop WOKE' law meets appeals court block, teeing up possible Supreme Court fight",
       "s": -0.48
-    },
-    {
-      "t": "U.S. revokes Iran oil sales authorization after tanker attacks",
-      "s": -0.44
     }
   ]
 }
