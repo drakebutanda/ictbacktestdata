@@ -1,14 +1,26 @@
 {
-  "ts": "2026-07-07 04:08 UTC",
+  "ts": "2026-07-07 08:29 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": 0.0,
+  "recent": 4,
+  "avg_sentiment": -0.183,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "World Cup in photos: Belgium beats U.S. 4-1 after Balogun controversy, Ronaldo exits",
+      "t": "Trump heads to Turkey as NATO is strained by Russian attacks, U.S. impatience",
+      "s": -0.81
+    },
+    {
+      "t": "Samsung Electronics shares fall as capex, demand concerns cloud record second-quarter profit report",
+      "s": 0.56
+    },
+    {
+      "t": "Oil prices rise after report of Iranian attack on commercial ships in Strait of Hormuz",
+      "s": -0.48
+    },
+    {
+      "t": "SpaceX\u2019s two lead underwriters have a $1 trillion chasm in their valuation as quiet period ends",
       "s": 0.0
     }
   ]
