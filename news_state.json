@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-07 12:03 UTC",
+  "ts": "2026-07-07 15:46 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 12,
-  "avg_sentiment": -0.204,
+  "recent": 13,
+  "avg_sentiment": 0.126,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump arrives in Turkey as NATO is strained by Russian attacks, U.S. impatience",
-      "s": -0.81
+      "t": "I found a simple way to save money on frozen pizza. What\u2019s your best money-saving trick?",
+      "s": 0.8
     },
     {
-      "t": "Why oil investors fear the next toll fight could be the Strait of Malacca",
-      "s": -0.7
-    },
-    {
-      "t": "Chinese lidar maker with Nvidia ties accused of being cyber risk for U.S.",
-      "s": -0.51
+      "t": "We're trimming a rotation winner and adding to an exciting new stock",
+      "s": 0.79
     },
     {
       "t": "\u2018Our family is broken beyond repair\u2019: My brother took over my parents\u2019 finances. What can I do?",
       "s": -0.48
     },
     {
-      "t": "\u2018I\u2019ve plenty of time on my hands\u2019: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?",
-      "s": 0.05
+      "t": "Amazon raising at least $25 billion in bond sale, won't issue more debt in 2026",
+      "s": 0.46
+    },
+    {
+      "t": "Trump renews Greenland threats at NATO summit, says U.S. could remove troops from Europe",
+      "s": -0.42
     }
   ]
 }
