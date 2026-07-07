@@ -1,27 +1,31 @@
 {
-  "ts": "2026-07-07 08:29 UTC",
+  "ts": "2026-07-07 12:03 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": -0.183,
-  "burst": false,
+  "recent": 12,
+  "avg_sentiment": -0.204,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump heads to Turkey as NATO is strained by Russian attacks, U.S. impatience",
+      "t": "Trump arrives in Turkey as NATO is strained by Russian attacks, U.S. impatience",
       "s": -0.81
     },
     {
-      "t": "Samsung Electronics shares fall as capex, demand concerns cloud record second-quarter profit report",
-      "s": 0.56
+      "t": "Why oil investors fear the next toll fight could be the Strait of Malacca",
+      "s": -0.7
     },
     {
-      "t": "Oil prices rise after report of Iranian attack on commercial ships in Strait of Hormuz",
+      "t": "Chinese lidar maker with Nvidia ties accused of being cyber risk for U.S.",
+      "s": -0.51
+    },
+    {
+      "t": "\u2018Our family is broken beyond repair\u2019: My brother took over my parents\u2019 finances. What can I do?",
       "s": -0.48
     },
     {
-      "t": "SpaceX\u2019s two lead underwriters have a $1 trillion chasm in their valuation as quiet period ends",
-      "s": 0.0
+      "t": "\u2018I\u2019ve plenty of time on my hands\u2019: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?",
+      "s": 0.05
     }
   ]
 }
