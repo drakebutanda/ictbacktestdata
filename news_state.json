@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-08 10:27 UTC",
+  "ts": "2026-07-08 12:27 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 12,
-  "avg_sentiment": 0.023,
+  "recent": 9,
+  "avg_sentiment": -0.061,
   "burst": true,
   "mood": "neutral",
   "top": [
+    {
+      "t": "I found a simple way to save money on frozen pizza. What\u2019s your best money-saving trick?",
+      "s": 0.8
+    },
+    {
+      "t": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
+      "s": -0.54
+    },
+    {
+      "t": "It can take as little as 5 minutes online to get prescribed a GLP-1 for weight loss. Why that\u2019s risky.",
+      "s": -0.48
+    },
     {
       "t": "Trump pours cold water on NATO allies' united front",
       "s": 0.42
     },
     {
-      "t": "Trump says Iran ceasefire is 'over' after latest round of strikes",
+      "t": "Weekly mortgage demand drops as rates remain stuck in a narrow range",
       "s": -0.36
-    },
-    {
-      "t": "Trump says he doesn't want anything to do with Spain: 'Cut off all trade'",
-      "s": -0.32
-    },
-    {
-      "t": "Trump opposes Carroll getting $5 million damages verdict, cites last-ditch Supreme Court bid",
-      "s": 0.32
-    },
-    {
-      "t": "OpenAI secures U.S. regulatory green light for GPT-5.6 rollout, Axios report says",
-      "s": 0.32
     }
   ]
 }
