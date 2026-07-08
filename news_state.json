@@ -1,31 +1,27 @@
 {
-  "ts": "2026-07-07 22:17 UTC",
+  "ts": "2026-07-08 00:05 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 13,
-  "avg_sentiment": -0.201,
-  "burst": true,
+  "recent": 4,
+  "avg_sentiment": 0.037,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Crude prices rise as U.S. launches strikes on Iran shortly after cancelling its license to sell oil",
-      "s": -0.79
-    },
-    {
-      "t": "GameStop investors clear the way for a fresh attempt at buying eBay",
-      "s": 0.6
-    },
-    {
-      "t": "Think the U.S. stock market is too heavily exposed to AI? It\u2019s even worse abroad.",
-      "s": -0.53
-    },
-    {
-      "t": "Maine Senate race replacements circle amid pressure on Platner to drop out",
-      "s": -0.51
-    },
-    {
-      "t": "DeSantis-backed 'Stop WOKE' law meets appeals court block, teeing up possible Supreme Court fight",
+      "t": "\u2018Our family is broken beyond repair\u2019: My brother took over my parents\u2019 finances. What can I do?",
       "s": -0.48
+    },
+    {
+      "t": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
+      "s": 0.42
+    },
+    {
+      "t": "Micron\u2019s stock falls as investors wonder if the memory market is near the top",
+      "s": 0.2
+    },
+    {
+      "t": "Kalshi traders see slim odds U.S. government will take a stake in OpenAI this year",
+      "s": 0.0
     }
   ]
 }
