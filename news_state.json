@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-08 17:46 UTC",
+  "ts": "2026-07-08 19:45 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 13,
-  "avg_sentiment": -0.034,
+  "recent": 18,
+  "avg_sentiment": 0.014,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump downplays Iran's nuclear threat as ceasefire collapses",
-      "s": -0.68
+      "t": "Oil prices jump more than 4% after Trump threatens to bomb Iran and reimpose naval blockade",
+      "s": -0.7
     },
     {
-      "t": "Why a founder at age 50 is twice as likely to find success as one at age 30",
-      "s": 0.57
+      "t": "Oil ends at its highest price in over two weeks as flare-up in U.S.-Iran hostilities suggests end to cease-fire",
+      "s": -0.48
     },
     {
-      "t": "Rivian tailspin hasn't shaken one trader's resolve",
-      "s": 0.43
+      "t": "Trump floats idea of Australia\u2019s retirement system again. But what about Social Security?",
+      "s": 0.48
     },
     {
-      "t": "Judge orders E. Jean Carroll be paid $5M in damages from Trump verdict",
-      "s": -0.32
+      "t": "Fed officials were split on direction of interest rates at last meeting, minutes show",
+      "s": 0.46
     },
     {
-      "t": "All entry-level jobs require 3-5 years of experience. How am I supposed to get that if no one will hire me?",
-      "s": -0.3
+      "t": "Higher gas prices aren\u2019t the only way rising tensions with Iran will hit home",
+      "s": -0.4
     }
   ]
 }
