@@ -1,27 +1,15 @@
 {
-  "ts": "2026-07-08 00:05 UTC",
+  "ts": "2026-07-08 04:20 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": 0.037,
+  "recent": 1,
+  "avg_sentiment": -0.66,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "\u2018Our family is broken beyond repair\u2019: My brother took over my parents\u2019 finances. What can I do?",
-      "s": -0.48
-    },
-    {
-      "t": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
-      "s": 0.42
-    },
-    {
-      "t": "Micron\u2019s stock falls as investors wonder if the memory market is near the top",
-      "s": 0.2
-    },
-    {
-      "t": "Kalshi traders see slim odds U.S. government will take a stake in OpenAI this year",
-      "s": 0.0
+      "t": "U.S. completes strikes on multiple Iranian targets after Hormuz Strait ship attacks, Centcom says",
+      "s": -0.66
     }
   ]
 }
