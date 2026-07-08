@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-08 15:28 UTC",
+  "ts": "2026-07-08 17:46 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 15,
-  "avg_sentiment": 0.033,
+  "recent": 13,
+  "avg_sentiment": -0.034,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018I\u2019ll happily wait\u2019: Does delaying Social Security make sense for high earners like me?",
-      "s": 0.82
+      "t": "Trump downplays Iran's nuclear threat as ceasefire collapses",
+      "s": -0.68
     },
     {
-      "t": "Why the stock market\u2019s biggest laggards might be your best defense against a summer selloff",
-      "s": 0.69
+      "t": "Why a founder at age 50 is twice as likely to find success as one at age 30",
+      "s": 0.57
     },
     {
-      "t": "Used EVs keep getting more expensive amid Iran war, high gas prices",
-      "s": -0.6
+      "t": "Rivian tailspin hasn't shaken one trader's resolve",
+      "s": 0.43
     },
     {
-      "t": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
-      "s": -0.54
+      "t": "Judge orders E. Jean Carroll be paid $5M in damages from Trump verdict",
+      "s": -0.32
     },
     {
-      "t": "I started retirement with $3 million. Now I\u2019m 89 and down to $2 million. What if I get sick?",
-      "s": -0.51
+      "t": "All entry-level jobs require 3-5 years of experience. How am I supposed to get that if no one will hire me?",
+      "s": -0.3
     }
   ]
 }
