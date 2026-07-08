@@ -1,23 +1,31 @@
 {
-  "ts": "2026-07-08 07:35 UTC",
+  "ts": "2026-07-08 10:27 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 3,
-  "avg_sentiment": -0.273,
-  "burst": false,
+  "recent": 12,
+  "avg_sentiment": 0.023,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. conducts strikes on multiple Iranian targets after Hormuz Strait ship attacks, Centcom says",
-      "s": -0.66
+      "t": "Trump pours cold water on NATO allies' united front",
+      "s": 0.42
     },
     {
-      "t": "Oil jumps as U.S. 'powerful strikes' against Iran risk stoke Mideast tensions",
-      "s": -0.54
+      "t": "Trump says Iran ceasefire is 'over' after latest round of strikes",
+      "s": -0.36
     },
     {
-      "t": "Denmark PM vows to defend Greenland after Trump revives push for U.S. control",
-      "s": 0.38
+      "t": "Trump says he doesn't want anything to do with Spain: 'Cut off all trade'",
+      "s": -0.32
+    },
+    {
+      "t": "Trump opposes Carroll getting $5 million damages verdict, cites last-ditch Supreme Court bid",
+      "s": 0.32
+    },
+    {
+      "t": "OpenAI secures U.S. regulatory green light for GPT-5.6 rollout, Axios report says",
+      "s": 0.32
     }
   ]
 }
