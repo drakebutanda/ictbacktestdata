@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-08 12:27 UTC",
+  "ts": "2026-07-08 15:28 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 9,
-  "avg_sentiment": -0.061,
+  "recent": 15,
+  "avg_sentiment": 0.033,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "I found a simple way to save money on frozen pizza. What\u2019s your best money-saving trick?",
-      "s": 0.8
+      "t": "\u2018I\u2019ll happily wait\u2019: Does delaying Social Security make sense for high earners like me?",
+      "s": 0.82
+    },
+    {
+      "t": "Why the stock market\u2019s biggest laggards might be your best defense against a summer selloff",
+      "s": 0.69
+    },
+    {
+      "t": "Used EVs keep getting more expensive amid Iran war, high gas prices",
+      "s": -0.6
     },
     {
       "t": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
       "s": -0.54
     },
     {
-      "t": "It can take as little as 5 minutes online to get prescribed a GLP-1 for weight loss. Why that\u2019s risky.",
-      "s": -0.48
-    },
-    {
-      "t": "Trump pours cold water on NATO allies' united front",
-      "s": 0.42
-    },
-    {
-      "t": "Weekly mortgage demand drops as rates remain stuck in a narrow range",
-      "s": -0.36
+      "t": "I started retirement with $3 million. Now I\u2019m 89 and down to $2 million. What if I get sick?",
+      "s": -0.51
     }
   ]
 }
