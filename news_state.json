@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-08 21:16 UTC",
+  "ts": "2026-07-08 23:16 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 10,
-  "avg_sentiment": -0.078,
-  "burst": true,
+  "recent": 6,
+  "avg_sentiment": 0.131,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. military launches new Iran strikes as Trump says 'not sure' he wants deal",
-      "s": -0.54
+      "t": "Levi\u2019s is finding new ways to win customers \u2014 by looking toward tops and \u2018denim luxury\u2019",
+      "s": 0.8
+    },
+    {
+      "t": "Trump announces long-shot bid to get Supreme Court to rehear birthright citizenship case",
+      "s": 0.56
+    },
+    {
+      "t": "I started retirement with $3 million. Now I\u2019m 89 and down to $2 million. What if I get sick?",
+      "s": -0.51
     },
     {
       "t": "Judge orders E. Jean Carroll be paid $5 million in damages from Trump verdict",
       "s": -0.32
     },
     {
-      "t": "The Strait of Hormuz is back under \u2018full-conflict conditions\u2019 \u2014 and energy markets are scrambling",
-      "s": 0.27
-    },
-    {
-      "t": "\u2018I\u2019d hate to end up with an unexpected tax bill\u2019: I\u2019m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
-      "s": -0.23
-    },
-    {
-      "t": "Apple commits $30 billion to Broadcom for U.S. chipmaking push",
-      "s": 0.03
+      "t": "Jim Cramer sees a big risk to the bull market resurfacing \u2014 and it's not the Iran war",
+      "s": 0.26
     }
   ]
 }
