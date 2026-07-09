@@ -1,19 +1,23 @@
 {
-  "ts": "2026-07-09 04:02 UTC",
+  "ts": "2026-07-09 08:38 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": -0.527,
+  "recent": 3,
+  "avg_sentiment": 0.074,
   "burst": false,
-  "mood": "risk-off",
+  "mood": "neutral",
   "top": [
     {
-      "t": "Trump loses appeals court bid to delay paying E. Jean Carroll $5M in damages",
-      "s": -0.76
+      "t": "AstraZeneca stock dives 9% after heart drug trial misses target",
+      "s": 0.51
     },
     {
-      "t": "Oil extends gains as Iran-U.S. tensions raise concerns over supply disruptions",
-      "s": -0.3
+      "t": "U.S., Iran trade fresh strikes as Trump says he's 'not sure' he wants deal",
+      "s": -0.29
+    },
+    {
+      "t": "Why the world\u2019s best-performing stock market this year fell into bear territory",
+      "s": 0.0
     }
   ]
 }
