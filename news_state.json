@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-09 16:06 UTC",
+  "ts": "2026-07-09 18:53 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 16,
-  "avg_sentiment": -0.187,
+  "recent": 15,
+  "avg_sentiment": 0.035,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
-      "s": -0.78
+      "t": "Oil prices fall more than 2% as mediators try to prevent U.S. and Iran from returning to war",
+      "s": -0.59
     },
     {
-      "t": "Oil prices fall as market bets U.S.-Iran fighting won't escalate into wider war",
-      "s": -0.75
+      "t": "Risky leveraged ETFs are booming in 2026. Some worry they could be making the stock market more volatile.",
+      "s": -0.57
     },
     {
-      "t": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
-      "s": 0.74
+      "t": "AstraZeneca stock drops 9% after heart drug trial miss deals rare blow to pharma powerhouse",
+      "s": 0.56
     },
     {
-      "t": "This is why paper checks refuse to die",
-      "s": -0.73
+      "t": "Anthropic appoints former Fed Chair Ben Bernanke to its independent trust",
+      "s": 0.51
     },
     {
-      "t": "Tanker traffic through Strait of Hormuz slows after Iranian attacks trigger renewed fighting with U.S.",
-      "s": -0.66
+      "t": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
+      "s": -0.4
     }
   ]
 }
