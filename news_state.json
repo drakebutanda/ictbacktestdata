@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-09 12:12 UTC",
+  "ts": "2026-07-09 16:06 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 17,
-  "avg_sentiment": 0.029,
+  "headlines": 100,
+  "recent": 16,
+  "avg_sentiment": -0.187,
   "burst": true,
   "mood": "neutral",
   "top": [
-    {
-      "t": "Trump says Iran called to make a deal after U.S. strikes; adds it's unclear if war is back on",
-      "s": -0.81
-    },
-    {
-      "t": "I found a simple way to save money on frozen pizza. What\u2019s your best money-saving trick?",
-      "s": 0.8
-    },
     {
       "t": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
       "s": -0.78
     },
     {
-      "t": "Gen Z-ers share how they\u2019re achieving financial freedom \u2014 and the old ideas they\u2019re leaving behind",
-      "s": 0.75
+      "t": "Oil prices fall as market bets U.S.-Iran fighting won't escalate into wider war",
+      "s": -0.75
     },
     {
-      "t": "Schwab strategists warn of a major market shift: The era of easy index gains is officially over",
-      "s": 0.6
+      "t": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
+      "s": 0.74
+    },
+    {
+      "t": "This is why paper checks refuse to die",
+      "s": -0.73
+    },
+    {
+      "t": "Tanker traffic through Strait of Hormuz slows after Iranian attacks trigger renewed fighting with U.S.",
+      "s": -0.66
     }
   ]
 }
