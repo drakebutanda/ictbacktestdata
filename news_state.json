@@ -1,31 +1,19 @@
 {
-  "ts": "2026-07-08 23:16 UTC",
+  "ts": "2026-07-09 04:02 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 6,
-  "avg_sentiment": 0.131,
+  "headlines": 99,
+  "recent": 2,
+  "avg_sentiment": -0.527,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "Levi\u2019s is finding new ways to win customers \u2014 by looking toward tops and \u2018denim luxury\u2019",
-      "s": 0.8
+      "t": "Trump loses appeals court bid to delay paying E. Jean Carroll $5M in damages",
+      "s": -0.76
     },
     {
-      "t": "Trump announces long-shot bid to get Supreme Court to rehear birthright citizenship case",
-      "s": 0.56
-    },
-    {
-      "t": "I started retirement with $3 million. Now I\u2019m 89 and down to $2 million. What if I get sick?",
-      "s": -0.51
-    },
-    {
-      "t": "Judge orders E. Jean Carroll be paid $5 million in damages from Trump verdict",
-      "s": -0.32
-    },
-    {
-      "t": "Jim Cramer sees a big risk to the bull market resurfacing \u2014 and it's not the Iran war",
-      "s": 0.26
+      "t": "Oil extends gains as Iran-U.S. tensions raise concerns over supply disruptions",
+      "s": -0.3
     }
   ]
 }
