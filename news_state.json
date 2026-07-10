@@ -1,26 +1,14 @@
 {
-  "ts": "2026-07-10 00:12 UTC",
+  "ts": "2026-07-10 04:59 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": 0.035,
+  "recent": 1,
+  "avg_sentiment": 0.0,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "New Fed task force members share Chairman Kevin Warsh's embrace of AI",
-      "s": 0.54
-    },
-    {
-      "t": "OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor",
-      "s": -0.4
-    },
-    {
-      "t": "Inside NATO's extraordinary 48 hours that revealed Trump's grip on global diplomacy",
-      "s": 0.0
-    },
-    {
-      "t": "Where Jim Cramer stands on SK Hynix's massive offering",
+      "t": "SK Hynix is set to make its Wall Street debut. Will that narrow the chipmaker's 'Korea discount'?",
       "s": 0.0
     }
   ]
