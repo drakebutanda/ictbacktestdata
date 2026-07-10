@@ -1,31 +1,27 @@
 {
-  "ts": "2026-07-09 22:37 UTC",
+  "ts": "2026-07-10 00:12 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 7,
-  "avg_sentiment": 0.075,
+  "recent": 4,
+  "avg_sentiment": 0.035,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
-      "s": -0.78
+      "t": "New Fed task force members share Chairman Kevin Warsh's embrace of AI",
+      "s": 0.54
     },
     {
-      "t": "A junior employee saved this company six figures using AI. Here\u2019s how.",
-      "s": 0.42
+      "t": "OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor",
+      "s": -0.4
     },
     {
-      "t": "Why a hidden divergence between the VIX and Nasdaq volatility has the smart money on edge",
-      "s": 0.4
+      "t": "Inside NATO's extraordinary 48 hours that revealed Trump's grip on global diplomacy",
+      "s": 0.0
     },
     {
-      "t": "Can Walmart help the Fed harness real-time U.S. economic data? We\u2019re about to find out.",
-      "s": 0.4
-    },
-    {
-      "t": "\u2018I\u2019ve no idea how they got her number\u2019: My student-loan servicer called a friend after I missed a payment. Is that legal?",
-      "s": 0.08
+      "t": "Where Jim Cramer stands on SK Hynix's massive offering",
+      "s": 0.0
     }
   ]
 }
