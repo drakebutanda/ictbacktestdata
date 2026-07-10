@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-10 17:52 UTC",
+  "ts": "2026-07-10 19:44 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 13,
-  "avg_sentiment": -0.02,
+  "avg_sentiment": 0.105,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
-      "s": -0.78
+      "t": "\u2018Trump accounts\u2019 are great \u2014 if you\u2019re already rich",
+      "s": 0.83
     },
     {
-      "t": "Traders fall back in love with Meta. Here's where bulls see it going",
+      "t": "I worked at a garden center for $17/hour after getting laid off\u2014why it's 'one of the best jobs I've ever had'",
       "s": 0.64
     },
     {
-      "t": "How the U.S.-Iran deal set the stage for renewed fighting over the Strait of Hormuz",
-      "s": -0.36
+      "t": "A hedge-fund trade blamed for a massive market blowup in 2024 has made a big comeback, Goldman Sachs says",
+      "s": -0.48
     },
     {
-      "t": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 5%",
-      "s": 0.3
+      "t": "Summer travel season is here: Make this vital purchase before your next vacation",
+      "s": 0.36
     },
     {
-      "t": "SK Hynix opens at $170 on Nasdaq. Chairman tells CNBC 'demand is enormous'",
-      "s": -0.13
+      "t": "Trump admin eases export controls for UAE; Warren blasts 'corrupt' provision",
+      "s": 0.32
     }
   ]
 }
