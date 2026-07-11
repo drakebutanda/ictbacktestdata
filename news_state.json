@@ -1,31 +1,19 @@
 {
-  "ts": "2026-07-11 17:06 UTC",
+  "ts": "2026-07-11 19:16 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 11,
-  "avg_sentiment": -0.059,
-  "burst": true,
-  "mood": "neutral",
+  "recent": 2,
+  "avg_sentiment": -0.434,
+  "burst": false,
+  "mood": "risk-off",
   "top": [
     {
-      "t": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
-      "s": -0.78
+      "t": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+      "s": -0.77
     },
     {
-      "t": "Is it better to spend my savings now so I can delay taking Social Security? How do I choose?",
-      "s": 0.48
-    },
-    {
-      "t": "You want a portfolio that matches your morals. Your retirement plan might disagree.",
-      "s": -0.32
-    },
-    {
-      "t": "\u2018I\u2019d hate to end up with an unexpected tax bill\u2019: I\u2019m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
-      "s": -0.23
-    },
-    {
-      "t": "Your investing expectations are more than double the reality. Here is the tough truth.",
-      "s": 0.2
+      "t": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
+      "s": -0.1
     }
   ]
 }
