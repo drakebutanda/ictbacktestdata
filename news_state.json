@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-11 15:02 UTC",
+  "ts": "2026-07-11 17:06 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 8,
-  "avg_sentiment": 0.068,
+  "recent": 11,
+  "avg_sentiment": -0.059,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Summer travel season is here: Make this vital purchase before your next vacation",
-      "s": 0.36
+      "t": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
+      "s": -0.78
     },
     {
-      "t": "\u2018I\u2019ve no idea how they got her number\u2019: My student-loan servicer called a friend after I missed a payment. Is that legal?",
-      "s": 0.08
+      "t": "Is it better to spend my savings now so I can delay taking Social Security? How do I choose?",
+      "s": 0.48
     },
     {
-      "t": "\u2018I\u2019ve plenty of time on my hands\u2019: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?",
-      "s": 0.05
+      "t": "You want a portfolio that matches your morals. Your retirement plan might disagree.",
+      "s": -0.32
     },
     {
-      "t": "\u2018The money would have been life-changing\u2019: My father told my grandmother to slash my inheritance. Is that fair?",
-      "s": 0.05
+      "t": "\u2018I\u2019d hate to end up with an unexpected tax bill\u2019: I\u2019m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
+      "s": -0.23
     },
     {
-      "t": "Where to put cash right now: Should you lock in at 4% \u2014 or wait for the next Fed rate decision?",
-      "s": 0.0
+      "t": "Your investing expectations are more than double the reality. Here is the tough truth.",
+      "s": 0.2
     }
   ]
 }
