@@ -1,19 +1,15 @@
 {
-  "ts": "2026-07-11 19:16 UTC",
+  "ts": "2026-07-11 20:59 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": -0.434,
+  "recent": 1,
+  "avg_sentiment": -0.758,
   "burst": false,
   "mood": "risk-off",
   "top": [
     {
-      "t": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
-      "s": -0.77
-    },
-    {
-      "t": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
-      "s": -0.1
+      "t": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "s": -0.76
     }
   ]
 }
