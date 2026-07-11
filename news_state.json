@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-11 13:46 UTC",
+  "ts": "2026-07-11 15:02 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 9,
-  "avg_sentiment": -0.138,
+  "recent": 8,
+  "avg_sentiment": 0.068,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "The best states to live in for 2026: No. 1 has a six-year winning streak",
-      "s": 0.82
+      "t": "Summer travel season is here: Make this vital purchase before your next vacation",
+      "s": 0.36
     },
     {
-      "t": "\u2018Day-to-day dread\u2019 haunts frustrated job seekers in era of low hiring. When will it end?",
-      "s": -0.76
+      "t": "\u2018I\u2019ve no idea how they got her number\u2019: My student-loan servicer called a friend after I missed a payment. Is that legal?",
+      "s": 0.08
     },
     {
-      "t": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-      "s": -0.76
+      "t": "\u2018I\u2019ve plenty of time on my hands\u2019: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?",
+      "s": 0.05
     },
     {
-      "t": "These are America\u2019s 10 worst states to live in for 2026",
-      "s": -0.62
+      "t": "\u2018The money would have been life-changing\u2019: My father told my grandmother to slash my inheritance. Is that fair?",
+      "s": 0.05
     },
     {
-      "t": "Berkshire Hathaway gains ground, but still trails the S&P 500 as '26 enters second half",
-      "s": 0.18
+      "t": "Where to put cash right now: Should you lock in at 4% \u2014 or wait for the next Fed rate decision?",
+      "s": 0.0
     }
   ]
 }
