@@ -1,15 +1,31 @@
 {
-  "ts": "2026-07-12 00:02 UTC",
+  "ts": "2026-07-12 04:30 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 1,
-  "avg_sentiment": -0.758,
+  "recent": 0,
+  "avg_sentiment": 0.011,
   "burst": false,
-  "mood": "risk-off",
+  "mood": "neutral",
   "top": [
     {
-      "t": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-      "s": -0.76
+      "t": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
+      "s": -0.84
+    },
+    {
+      "t": "Meta's stock has best week since early 2024 as optimism builds around AI strategy",
+      "s": 0.83
+    },
+    {
+      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
+      "s": 0.82
+    },
+    {
+      "t": "The best states to live in for 2026: No. 1 has a six-year winning streak",
+      "s": 0.82
+    },
+    {
+      "t": "Corporate America offers stronger proof AI is boosting profits, productivity: MS",
+      "s": 0.78
     }
   ]
 }
