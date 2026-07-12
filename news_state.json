@@ -1,19 +1,15 @@
 {
-  "ts": "2026-07-12 09:58 UTC",
+  "ts": "2026-07-12 11:20 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": -0.592,
+  "recent": 1,
+  "avg_sentiment": 0.052,
   "burst": false,
-  "mood": "risk-off",
+  "mood": "neutral",
   "top": [
     {
-      "t": "Senator Lindsey Graham has died after a brief illness, his office says",
-      "s": -0.74
-    },
-    {
-      "t": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says",
-      "s": -0.44
+      "t": "Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness",
+      "s": 0.05
     }
   ]
 }
