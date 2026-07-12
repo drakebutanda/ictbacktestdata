@@ -1,15 +1,23 @@
 {
-  "ts": "2026-07-12 21:02 UTC",
+  "ts": "2026-07-12 22:56 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 1,
-  "avg_sentiment": -0.226,
+  "recent": 3,
+  "avg_sentiment": -0.12,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
-      "s": -0.23
+      "t": "McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia",
+      "s": -0.49
+    },
+    {
+      "t": "I\u2019ve studied more than 200 kids: Parents whose children actually enjoy talking to them do 7 things",
+      "s": 0.49
+    },
+    {
+      "t": "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran",
+      "s": -0.36
     }
   ]
 }
