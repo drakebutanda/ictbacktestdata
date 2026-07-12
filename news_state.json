@@ -1,16 +1,12 @@
 {
-  "ts": "2026-07-11 22:00 UTC",
+  "ts": "2026-07-12 00:02 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": -0.768,
+  "recent": 1,
+  "avg_sentiment": -0.758,
   "burst": false,
   "mood": "risk-off",
   "top": [
-    {
-      "t": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
-      "s": -0.78
-    },
     {
       "t": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
       "s": -0.76
