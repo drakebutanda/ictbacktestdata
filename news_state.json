@@ -1,19 +1,15 @@
 {
-  "ts": "2026-07-12 19:16 UTC",
+  "ts": "2026-07-12 21:02 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": -0.113,
+  "recent": 1,
+  "avg_sentiment": -0.226,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
       "t": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
       "s": -0.23
-    },
-    {
-      "t": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
-      "s": 0.0
     }
   ]
 }
