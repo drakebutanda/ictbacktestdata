@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-13 20:19 UTC",
+  "ts": "2026-07-13 22:01 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 14,
-  "avg_sentiment": -0.142,
+  "recent": 9,
+  "avg_sentiment": 0.075,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
-      "s": -0.77
+      "t": "You don\u2019t have to be rich to be financially independent. Here\u2019s how to take control of your money.",
+      "s": 0.56
     },
     {
-      "t": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives",
-      "s": 0.69
+      "t": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
+      "s": 0.54
     },
     {
-      "t": "Paramount, WBD hit with lawsuit from 12 states, including California, to block merger",
-      "s": -0.59
+      "t": "Stock pickers know they can\u2019t outsmart the market. That doesn\u2019t stop them from trying.",
+      "s": -0.3
     },
     {
-      "t": "A toxic stew drags stocks lower as we look at what can get the AI trade back on track",
-      "s": -0.44
+      "t": "Lindsey Graham died from a rare heart condition. Here\u2019s how to know if you\u2019re at risk.",
+      "s": -0.13
     },
     {
-      "t": "SpaceX\u2019s stock threatens to fall below the IPO price. Do investors face a \u2018crisis\u2019 if it does?",
-      "s": -0.38
+      "t": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
+      "s": 0.0
     }
   ]
 }
