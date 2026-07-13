@@ -1,23 +1,15 @@
 {
-  "ts": "2026-07-13 00:03 UTC",
+  "ts": "2026-07-13 04:35 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": -0.12,
+  "recent": 1,
+  "avg_sentiment": 0.296,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia",
-      "s": -0.49
-    },
-    {
-      "t": "I\u2019ve studied more than 200 kids: Parents whose children actually enjoy talking to them do 7 things",
-      "s": 0.49
-    },
-    {
-      "t": "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran",
-      "s": -0.36
+      "t": "SK Hynix shares slide 12% in Seoul after stellar Nasdaq debut",
+      "s": 0.3
     }
   ]
 }
