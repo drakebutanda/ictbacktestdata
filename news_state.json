@@ -1,30 +1,30 @@
 {
-  "ts": "2026-07-14 03:25 UTC",
+  "ts": "2026-07-14 06:19 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 5,
-  "avg_sentiment": -0.203,
+  "avg_sentiment": -0.039,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Singapore's economy expands 5.7% in the second quarter, beating expectations",
-      "s": -0.38
-    },
-    {
-      "t": "U.S. completes strikes against Iran, while Tehran targets Gulf neighbors",
-      "s": -0.36
+      "t": "'Nobody underwrote for that': Private credit faces a key test as higher rates squeeze borrowers",
+      "s": 0.38
     },
     {
       "t": "Trump's Hormuz toll plans bring oil supply risks back in spotlight",
       "s": -0.27
     },
     {
-      "t": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
-      "s": 0.0
+      "t": "U.S. targets Iranian military assets in another round of strikes as Tehran hits Gulf states",
+      "s": -0.2
     },
     {
-      "t": "China exports in June jump at fastest pace since 2021 as AI boom, tariff rush lift trade",
+      "t": "Oil extends gains as Mideast tensions and Hormuz toll prospects raise supply worries",
+      "s": -0.1
+    },
+    {
+      "t": "China exports in June rise at fastest pace since 2021 as AI boom, tariff rush lift trade",
       "s": 0.0
     }
   ]
