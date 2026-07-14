@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-14 09:10 UTC",
+  "ts": "2026-07-14 11:37 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 5,
-  "avg_sentiment": -0.065,
-  "burst": false,
+  "recent": 13,
+  "avg_sentiment": -0.19,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Is Hormuz open? Trump's toll threat intensifies rush to bypass the Strait altogether",
-      "s": -0.53
+      "t": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+      "s": -0.77
     },
     {
-      "t": "Treasury yields rise as Fed rate hike expectations grow ahead of June inflation print",
-      "s": 0.2
+      "t": "U.S. crude jumps above $80 as Iran ceasefire fractures; Trump's Hormuz toll plans reignite supply fears",
+      "s": -0.76
     },
     {
-      "t": "One of the world\u2019s cheapest currencies makes this Asian capital the world\u2019s cheapest major city \u2014 for now",
-      "s": 0.0
+      "t": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
+      "s": -0.51
     },
     {
-      "t": "\u2018Impeccably designed\u2019: You can rent Orlando Bloom\u2019s former Beverly Hills estate for just $31,000 a month",
-      "s": 0.0
+      "t": "Ericsson ends up on the wrong side of memory-chip price spike. The stock slumps.",
+      "s": -0.48
     },
     {
-      "t": "A French underwear brand is taking on fast fashion \u2014 with an IPO",
-      "s": 0.0
+      "t": "JPMorgan beats profit expectations by the most in five years, as equity-markets revenue surges",
+      "s": 0.44
     }
   ]
 }
