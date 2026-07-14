@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-14 20:18 UTC",
+  "ts": "2026-07-14 22:05 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 20,
-  "avg_sentiment": -0.0,
+  "recent": 12,
+  "avg_sentiment": 0.011,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
-      "s": -0.73
+      "t": "IBM stock craters 25%, the worst day on record, after company issues second-quarter earnings warning",
+      "s": -0.76
     },
     {
-      "t": "SK Hynix options begin trading. But another group of stocks is stealing its thunder",
-      "s": -0.72
+      "t": "Three powerful forces are draining family wealth \u2014 and your estate plan is completely unprepared",
+      "s": 0.72
     },
     {
-      "t": "New York becomes first U.S. state to impose AI data center ban",
-      "s": -0.7
+      "t": "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased",
+      "s": 0.51
     },
     {
-      "t": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
-      "s": 0.69
+      "t": "Your stock portfolio is tied to the Japanese yen \u2014 and a looming intervention is flashing a major warning sign",
+      "s": -0.49
     },
     {
-      "t": "E. Jean Carroll receives $5.6M from Trump in sex abuse, defamation case",
-      "s": -0.64
+      "t": "Wall Street has set a sky-high bar for companies to clear this earnings season. They just might pull it off.",
+      "s": 0.38
     }
   ]
 }
