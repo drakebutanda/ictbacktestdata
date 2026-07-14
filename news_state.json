@@ -1,31 +1,15 @@
 {
-  "ts": "2026-07-14 22:05 UTC",
+  "ts": "2026-07-14 23:58 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 12,
-  "avg_sentiment": 0.011,
-  "burst": true,
-  "mood": "neutral",
+  "recent": 1,
+  "avg_sentiment": 0.421,
+  "burst": false,
+  "mood": "risk-on",
   "top": [
     {
-      "t": "IBM stock craters 25%, the worst day on record, after company issues second-quarter earnings warning",
-      "s": -0.76
-    },
-    {
-      "t": "Three powerful forces are draining family wealth \u2014 and your estate plan is completely unprepared",
-      "s": 0.72
-    },
-    {
-      "t": "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased",
-      "s": 0.51
-    },
-    {
-      "t": "Your stock portfolio is tied to the Japanese yen \u2014 and a looming intervention is flashing a major warning sign",
-      "s": -0.49
-    },
-    {
-      "t": "Wall Street has set a sky-high bar for companies to clear this earnings season. They just might pull it off.",
-      "s": 0.38
+      "t": "This overlooked index is a better investment than the S&P 500",
+      "s": 0.42
     }
   ]
 }
