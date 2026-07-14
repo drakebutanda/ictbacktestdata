@@ -1,30 +1,30 @@
 {
-  "ts": "2026-07-13 23:58 UTC",
+  "ts": "2026-07-14 03:25 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 5,
-  "avg_sentiment": -0.017,
+  "avg_sentiment": -0.203,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
-      "s": -0.77
+      "t": "Singapore's economy expands 5.7% in the second quarter, beating expectations",
+      "s": -0.38
     },
     {
-      "t": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
-      "s": 0.34
+      "t": "U.S. completes strikes against Iran, while Tehran targets Gulf neighbors",
+      "s": -0.36
     },
     {
-      "t": "Japan\u2019s bond market is back in play after decades in the wilderness",
-      "s": 0.34
+      "t": "Trump's Hormuz toll plans bring oil supply risks back in spotlight",
+      "s": -0.27
     },
     {
       "t": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
       "s": 0.0
     },
     {
-      "t": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
+      "t": "China exports in June jump at fastest pace since 2021 as AI boom, tariff rush lift trade",
       "s": 0.0
     }
   ]
