@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-14 16:20 UTC",
+  "ts": "2026-07-14 18:10 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 18,
-  "avg_sentiment": 0.135,
+  "recent": 16,
+  "avg_sentiment": -0.013,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Warren Buffett is accelerating his charitable donations with aim to give away Berkshire wealth by 2034",
-      "s": 0.71
+      "t": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+      "s": -0.77
     },
     {
-      "t": "E. Jean Carroll receives $5.6M from Trump in sex abuse, defamation case: Court filing",
-      "s": -0.64
+      "t": "New York becomes first U.S. state to impose AI data center ban",
+      "s": -0.7
+    },
+    {
+      "t": "Paychecks are rising faster than prices for a change \u2014 but when will consumers feel the relief?",
+      "s": 0.63
     },
     {
       "t": "Supreme Court Justice Barrett says 'the threat level is really high' in budget testimony",
       "s": 0.56
     },
     {
-      "t": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
-      "s": -0.51
-    },
-    {
-      "t": "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased",
-      "s": 0.51
+      "t": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+      "s": 0.38
     }
   ]
 }
