@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-15 11:40 UTC",
+  "ts": "2026-07-15 14:00 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 16,
-  "avg_sentiment": -0.025,
+  "recent": 17,
+  "avg_sentiment": 0.076,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. launches fresh wave of strikes on Iran, as analysts warn conflict risks becoming 'forever war'",
-      "s": -0.84
+      "t": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
+      "s": -0.73
     },
     {
-      "t": "\u2018They cut off online access\u2019: My mother\u2019s bank balance plummeted after her death. What\u2019s going on?",
-      "s": -0.72
+      "t": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
+      "s": 0.69
     },
     {
-      "t": "BlackRock profits jump as assets under management hit a record $15 trillion",
-      "s": 0.56
+      "t": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
+      "s": 0.44
     },
     {
-      "t": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
-      "s": -0.51
+      "t": "\u2018Arsenal of democracy\u2019: Jamie Dimon announces $24 million effort to boost American shipbuilding",
+      "s": 0.4
     },
     {
-      "t": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful,' but people make mistakes",
-      "s": -0.5
+      "t": "This Wall Street \u2018theme-o-meter\u2019 has a clear message: The artificial-intelligence bull market is back",
+      "s": 0.38
     }
   ]
 }
