@@ -1,30 +1,30 @@
 {
-  "ts": "2026-07-15 06:22 UTC",
+  "ts": "2026-07-15 09:16 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 5,
-  "avg_sentiment": 0.038,
+  "recent": 6,
+  "avg_sentiment": 0.123,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "ASML hikes sales forecast for second time this year on strong AI chip demand",
+      "t": "ASML is scrambling to build more capacity after blockbuster beat-and-raise quarter",
+      "s": 0.63
+    },
+    {
+      "t": "Still struggling to find a buyer, actress Aubrey Plaza cuts price of $5 million L.A. home",
+      "s": -0.61
+    },
+    {
+      "t": "ASML rises 4% after hiking sales forecast for second time this year on strong AI chip demand",
       "s": 0.42
     },
     {
-      "t": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
-      "s": 0.38
+      "t": "SK Hynix South Korean shares jump 8% as Asia tech stocks rally",
+      "s": 0.3
     },
     {
-      "t": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports",
-      "s": -0.36
-    },
-    {
-      "t": "U.S. strikes Iranian missile sites, defense systems and reinstates port blockade",
-      "s": -0.25
-    },
-    {
-      "t": "Why Europe is suddenly betting big on drones",
+      "t": "A $53 billion lifeline? Stripe and Advent reportedly team up to bid for battered PayPal.",
       "s": 0.0
     }
   ]
