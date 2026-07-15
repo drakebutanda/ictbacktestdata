@@ -1,19 +1,31 @@
 {
-  "ts": "2026-07-15 03:24 UTC",
+  "ts": "2026-07-15 06:22 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 2,
-  "avg_sentiment": 0.127,
+  "headlines": 99,
+  "recent": 5,
+  "avg_sentiment": 0.038,
   "burst": false,
   "mood": "neutral",
   "top": [
+    {
+      "t": "ASML hikes sales forecast for second time this year on strong AI chip demand",
+      "s": 0.42
+    },
     {
       "t": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
       "s": 0.38
     },
     {
-      "t": "Oil rises as U.S. continues to strike Tehran, reinstates blockade of Iranian ports",
-      "s": -0.13
+      "t": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports",
+      "s": -0.36
+    },
+    {
+      "t": "U.S. strikes Iranian missile sites, defense systems and reinstates port blockade",
+      "s": -0.25
+    },
+    {
+      "t": "Why Europe is suddenly betting big on drones",
+      "s": 0.0
     }
   ]
 }
