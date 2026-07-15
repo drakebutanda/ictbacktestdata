@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-15 09:16 UTC",
+  "ts": "2026-07-15 11:40 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 6,
-  "avg_sentiment": 0.123,
-  "burst": false,
+  "headlines": 98,
+  "recent": 16,
+  "avg_sentiment": -0.025,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "ASML is scrambling to build more capacity after blockbuster beat-and-raise quarter",
-      "s": 0.63
+      "t": "U.S. launches fresh wave of strikes on Iran, as analysts warn conflict risks becoming 'forever war'",
+      "s": -0.84
     },
     {
-      "t": "Still struggling to find a buyer, actress Aubrey Plaza cuts price of $5 million L.A. home",
-      "s": -0.61
+      "t": "\u2018They cut off online access\u2019: My mother\u2019s bank balance plummeted after her death. What\u2019s going on?",
+      "s": -0.72
     },
     {
-      "t": "ASML rises 4% after hiking sales forecast for second time this year on strong AI chip demand",
-      "s": 0.42
+      "t": "BlackRock profits jump as assets under management hit a record $15 trillion",
+      "s": 0.56
     },
     {
-      "t": "SK Hynix South Korean shares jump 8% as Asia tech stocks rally",
-      "s": 0.3
+      "t": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
+      "s": -0.51
     },
     {
-      "t": "A $53 billion lifeline? Stripe and Advent reportedly team up to bid for battered PayPal.",
-      "s": 0.0
+      "t": "Warren Buffett calls Bill Gates' actions with Epstein 'distasteful,' but people make mistakes",
+      "s": -0.5
     }
   ]
 }
