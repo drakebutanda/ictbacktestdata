@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-15 18:13 UTC",
+  "ts": "2026-07-15 20:15 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 18,
-  "avg_sentiment": 0.095,
+  "recent": 12,
+  "avg_sentiment": 0.168,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "A big dividend cut and a $2 billion charge: Conagra\u2019s results signal more pain ahead for food industry",
-      "s": -0.69
+      "t": "Trump's pick to head national intelligence, Jay Clayton, won't tell senators Biden won the 2020 election",
+      "s": 0.78
     },
     {
-      "t": "ASML shares fall after hiking sales forecast for second time this year on strong AI chip demand",
-      "s": 0.61
+      "t": "\u2018They cut off online access\u2019: My mother\u2019s bank balance plummeted after her death. What\u2019s going on?",
+      "s": -0.72
     },
     {
-      "t": "Trump's DNI pick Jay Clayton won't tell senators Biden won the 2020 election",
-      "s": 0.57
+      "t": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
+      "s": 0.69
     },
     {
-      "t": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
-      "s": -0.51
+      "t": "This isn\u2019t a plan to save Social Security. It\u2019s a plan to have a plan.",
+      "s": 0.68
     },
     {
-      "t": "Small-cap outperformance is persisting \u2014 and these 15 quality stocks pay rich dividends",
-      "s": 0.49
+      "t": "Trump blasts New York AI data center ban, says state should change policy 'immediately'",
+      "s": -0.56
     }
   ]
 }
