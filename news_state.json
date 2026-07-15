@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-15 20:15 UTC",
+  "ts": "2026-07-15 22:08 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 12,
-  "avg_sentiment": 0.168,
+  "headlines": 98,
+  "recent": 15,
+  "avg_sentiment": -0.079,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump's pick to head national intelligence, Jay Clayton, won't tell senators Biden won the 2020 election",
-      "s": 0.78
+      "t": "Trump says Iran wants to meet as U.S. fires more strikes; analysts warn of 'forever war' risk",
+      "s": -0.86
     },
     {
-      "t": "\u2018They cut off online access\u2019: My mother\u2019s bank balance plummeted after her death. What\u2019s going on?",
-      "s": -0.72
+      "t": "CoreWeave\u2019s stock suffers another long losing streak. Here\u2019s what\u2019s driving the selling.",
+      "s": -0.69
     },
     {
-      "t": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
-      "s": 0.69
+      "t": "A big dividend cut and a $2 billion charge: Conagra\u2019s results signal more pain ahead for food industry",
+      "s": -0.69
     },
     {
-      "t": "This isn\u2019t a plan to save Social Security. It\u2019s a plan to have a plan.",
-      "s": 0.68
+      "t": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
+      "s": 0.46
     },
     {
-      "t": "Trump blasts New York AI data center ban, says state should change policy 'immediately'",
-      "s": -0.56
+      "t": "United Airlines gets hit by a $6 billion added-fuel-cost headwind",
+      "s": 0.42
     }
   ]
 }
