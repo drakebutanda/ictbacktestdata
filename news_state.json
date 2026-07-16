@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-16 10:18 UTC",
+  "ts": "2026-07-16 12:24 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 12,
-  "avg_sentiment": -0.053,
+  "headlines": 100,
+  "recent": 15,
+  "avg_sentiment": -0.15,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Ex-Fed advisor gets over three years in prison for lying about China ties",
-      "s": -0.77
+      "t": "GE boosts profit outlook, but stock falls as booming order growth cools",
+      "s": 0.72
     },
     {
-      "t": "Iran warns U.S. of Hormuz \u2018red line,\u2019 says it will retaliate to Trump\u2019s strike threats",
-      "s": -0.57
+      "t": "\u2018They cut off online access\u2019: My mother\u2019s bank balance plummeted after her death. What\u2019s going on?",
+      "s": -0.72
     },
     {
-      "t": "UnitedHealth\u2019s stock rallies on improved outlook for the year",
-      "s": 0.48
+      "t": "IRS tax liens can be a 'kiss of death,' consumer advocate says \u2014 and they're on the rise",
+      "s": -0.61
     },
     {
-      "t": "I\u2019m 67, own two mortgage-free homes worth $2.8 million, but I have $19,000 in credit-card debt. Should I get a HELOC?",
-      "s": -0.42
+      "t": "The stock market has a \u2018Magnificent Seven\u2019 problem \u2014 but not the one bears are warning about",
+      "s": -0.61
     },
     {
-      "t": "Ukrainians take to the streets after Zelenskyy ousts defense minister in surprise shake-up",
-      "s": 0.38
+      "t": "The Lehman Bros. moment of the AI bubble is coming, says this critic warning of fallout for tech stocks and the entire market",
+      "s": -0.58
     }
   ]
 }
