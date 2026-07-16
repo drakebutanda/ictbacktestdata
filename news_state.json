@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-16 17:26 UTC",
+  "ts": "2026-07-16 19:23 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 20,
-  "avg_sentiment": 0.032,
+  "recent": 18,
+  "avg_sentiment": -0.017,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018They cut off online access\u2019: My mother\u2019s bank balance plummeted after her death. What\u2019s going on?",
-      "s": -0.72
+      "t": "These cities are blanketed with wildfire smoke. Here\u2019s what to know about bad air quality.",
+      "s": -0.54
     },
     {
-      "t": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
-      "s": 0.69
-    },
-    {
-      "t": "This isn\u2019t a plan to save Social Security. It\u2019s a plan to have a plan.",
-      "s": 0.68
+      "t": "Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed",
+      "s": 0.53
     },
     {
       "t": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
       "s": 0.46
     },
     {
-      "t": "'Not a junk rally:' How to trade the strongest small-cap stock market in three decades",
-      "s": 0.44
+      "t": "Here's why the housing market is hurting so much this summer",
+      "s": -0.4
+    },
+    {
+      "t": "Trump Media launches paid data service to help Wall Street track Trump\u2019s posts",
+      "s": 0.4
     }
   ]
 }
