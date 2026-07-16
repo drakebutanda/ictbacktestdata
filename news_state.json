@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-16 19:23 UTC",
+  "ts": "2026-07-16 21:10 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 18,
-  "avg_sentiment": -0.017,
+  "recent": 15,
+  "avg_sentiment": 0.162,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "These cities are blanketed with wildfire smoke. Here\u2019s what to know about bad air quality.",
-      "s": -0.54
+      "t": "The U.S. stock market is looking like a rubber band ready to snap",
+      "s": 0.61
     },
     {
-      "t": "Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed",
+      "t": "Netflix is getting stingier about its viewing data, and Wall Street isn\u2019t happy",
+      "s": 0.57
+    },
+    {
+      "t": "The best energy stocks right now as two major conflicts keep oil prices elevated",
       "s": 0.53
     },
     {
-      "t": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
+      "t": "Netflix reports earnings in line with expectations, says company will give fewer engagement updates",
       "s": 0.46
     },
     {
       "t": "Here's why the housing market is hurting so much this summer",
       "s": -0.4
-    },
-    {
-      "t": "Trump Media launches paid data service to help Wall Street track Trump\u2019s posts",
-      "s": 0.4
     }
   ]
 }
