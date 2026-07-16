@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-15 22:08 UTC",
+  "ts": "2026-07-16 00:04 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 15,
-  "avg_sentiment": -0.079,
+  "recent": 9,
+  "avg_sentiment": -0.211,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump says Iran wants to meet as U.S. fires more strikes; analysts warn of 'forever war' risk",
-      "s": -0.86
+      "t": "\u2018They cut off online access\u2019: My mother\u2019s bank balance plummeted after her death. What\u2019s going on?",
+      "s": -0.72
     },
     {
-      "t": "CoreWeave\u2019s stock suffers another long losing streak. Here\u2019s what\u2019s driving the selling.",
-      "s": -0.69
+      "t": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
+      "s": -0.51
     },
     {
-      "t": "A big dividend cut and a $2 billion charge: Conagra\u2019s results signal more pain ahead for food industry",
-      "s": -0.69
+      "t": "\u2018I don\u2019t want to sound callous\u2019: Why base your Social Security claim on life expectancy? We could die at any time.",
+      "s": -0.3
     },
     {
-      "t": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
-      "s": 0.46
+      "t": "$100M New Jersey deli fraud defendant Patten wants no prison time despite past conviction",
+      "s": -0.27
     },
     {
-      "t": "United Airlines gets hit by a $6 billion added-fuel-cost headwind",
-      "s": 0.42
+      "t": "Jim Cramer says he needs 'cold hard' proof that AI is paying off",
+      "s": -0.1
     }
   ]
 }
