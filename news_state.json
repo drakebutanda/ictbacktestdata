@@ -1,31 +1,15 @@
 {
-  "ts": "2026-07-16 00:04 UTC",
+  "ts": "2026-07-16 04:13 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 9,
-  "avg_sentiment": -0.211,
-  "burst": true,
+  "recent": 1,
+  "avg_sentiment": 0.296,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018They cut off online access\u2019: My mother\u2019s bank balance plummeted after her death. What\u2019s going on?",
-      "s": -0.72
-    },
-    {
-      "t": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
-      "s": -0.51
-    },
-    {
-      "t": "\u2018I don\u2019t want to sound callous\u2019: Why base your Social Security claim on life expectancy? We could die at any time.",
-      "s": -0.3
-    },
-    {
-      "t": "$100M New Jersey deli fraud defendant Patten wants no prison time despite past conviction",
-      "s": -0.27
-    },
-    {
-      "t": "Jim Cramer says he needs 'cold hard' proof that AI is paying off",
-      "s": -0.1
+      "t": "Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership",
+      "s": 0.3
     }
   ]
 }
