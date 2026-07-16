@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-16 15:08 UTC",
+  "ts": "2026-07-16 17:26 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 19,
-  "avg_sentiment": 0.076,
+  "recent": 20,
+  "avg_sentiment": 0.032,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "The best states for workers, job training and career opportunities in America in 2026",
-      "s": 0.78
+      "t": "\u2018They cut off online access\u2019: My mother\u2019s bank balance plummeted after her death. What\u2019s going on?",
+      "s": -0.72
     },
     {
-      "t": "Ex-Fed advisor gets over three years in prison for lying about China ties",
-      "s": -0.77
+      "t": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
+      "s": 0.69
     },
     {
-      "t": "Oil is facing a supply crunch \u2014 and the war in Iran isn\u2019t the only problem",
-      "s": -0.77
+      "t": "This isn\u2019t a plan to save Social Security. It\u2019s a plan to have a plan.",
+      "s": 0.68
     },
     {
-      "t": "GE boosts profit outlook, but stock falls as booming order growth cools",
-      "s": 0.72
+      "t": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
+      "s": 0.46
     },
     {
-      "t": "Eli Lilly to buy psychedelics maker AtaiBeckley for $2.8 billion as experimental treatments gain traction",
-      "s": 0.53
+      "t": "'Not a junk rally:' How to trade the strongest small-cap stock market in three decades",
+      "s": 0.44
     }
   ]
 }
