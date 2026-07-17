@@ -1,9 +1,9 @@
 {
-  "ts": "2026-07-17 11:25 UTC",
+  "ts": "2026-07-17 13:54 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 12,
-  "avg_sentiment": -0.143,
+  "headlines": 99,
+  "recent": 14,
+  "avg_sentiment": -0.244,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -16,16 +16,16 @@
       "s": -0.73
     },
     {
+      "t": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
+      "s": 0.67
+    },
+    {
       "t": "Iran says civilian infrastructure hit by latest U.S. strikes, expands attacks to Syria, Bahrain",
       "s": -0.61
     },
     {
-      "t": "Ranch dressing and stuffed raccoons: Some of the World Cup\u2019s biggest winners as Spain and Argentina face off in the final",
-      "s": 0.48
-    },
-    {
-      "t": "SpaceX postponed a crucial launch \u2014 now its stock is set to slide even further below the IPO price",
-      "s": -0.2
+      "t": "The stock market has a \u2018Magnificent Seven\u2019 problem \u2014 but not the one bears are warning about",
+      "s": -0.61
     }
   ]
 }
