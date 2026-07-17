@@ -1,31 +1,23 @@
 {
-  "ts": "2026-07-16 23:03 UTC",
+  "ts": "2026-07-17 03:26 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 7,
-  "avg_sentiment": 0.051,
+  "recent": 3,
+  "avg_sentiment": -0.068,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
-      "s": -0.77
+      "t": "Micron has turned into \u2018the most important stock in the market.\u2019 So is it time to worry?",
+      "s": -0.2
     },
     {
-      "t": "Netflix is getting stingier about its viewing data, and Wall Street isn\u2019t happy",
-      "s": 0.57
+      "t": "Trump doubles down on 2020 election claims in national address, alleging China meddling",
+      "s": 0.0
     },
     {
-      "t": "Banking Committee's Sen. Rounds liked Warsh's 'tone' in first testimony as Fed chairman",
-      "s": 0.42
-    },
-    {
-      "t": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
-      "s": 0.1
-    },
-    {
-      "t": "He backed Tesla and SpaceX before anyone else \u2014 here is the \u2018impossible\u2019 bet Tim Draper is making now",
-      "s": 0.03
+      "t": "SoftBank sinks over 9% as Asia chip stocks track Wall Street AI sell-off",
+      "s": 0.0
     }
   ]
 }
