@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-17 15:19 UTC",
+  "ts": "2026-07-17 17:18 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 20,
-  "avg_sentiment": 0.06,
+  "headlines": 100,
+  "recent": 11,
+  "avg_sentiment": -0.186,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
-      "s": 0.67
+      "t": "Iran war hasn\u2019t hurt the U.S. economy too badly \u2014 but the danger isn\u2019t over yet",
+      "s": -0.88
     },
     {
-      "t": "Why Trump\u2019s speech on U.S. elections could be bad for markets",
-      "s": -0.54
+      "t": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
+      "s": -0.73
     },
     {
-      "t": "Apple, Nvidia vie for title of world's most valuable company",
-      "s": 0.53
+      "t": "My dad wants to buy me a big suburban home \u2014 but I don\u2019t want to live there. Am I ungrateful if I turn him down?",
+      "s": -0.55
     },
     {
-      "t": "\u2018I am at a loss\u2019: My brother is dying. We are not close. What responsibility do I have to help him?",
-      "s": 0.4
+      "t": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
+      "s": -0.36
     },
     {
-      "t": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-      "s": 0.38
+      "t": "Democratic socialists top MAGA candidates among voters in CNBC's All-America poll",
+      "s": 0.2
     }
   ]
 }
