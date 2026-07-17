@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-17 09:15 UTC",
+  "ts": "2026-07-17 11:25 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 6,
-  "avg_sentiment": -0.106,
-  "burst": false,
+  "recent": 12,
+  "avg_sentiment": -0.143,
+  "burst": true,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Inside the Chinese fraud rings stealing billions from banks and retailers",
+      "s": -0.82
+    },
+    {
+      "t": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
+      "s": -0.73
+    },
     {
       "t": "Iran says civilian infrastructure hit by latest U.S. strikes, expands attacks to Syria, Bahrain",
       "s": -0.61
     },
     {
-      "t": "BP, ConocoPhillips to back Iraq with major investments as U.S. seeks to weaken Iran's energy hold",
-      "s": -0.18
+      "t": "Ranch dressing and stuffed raccoons: Some of the World Cup\u2019s biggest winners as Spain and Argentina face off in the final",
+      "s": 0.48
     },
     {
-      "t": "Fighter jet maker Saab smashes expectations as CEO urges procurement rethink",
-      "s": 0.15
-    },
-    {
-      "t": "Buyer snaps up Josh Duhamel\u2019s $3 million L.A. home as actor embraces his Minnesota \u2018doomsday prepper\u2019 cabin",
-      "s": 0.0
-    },
-    {
-      "t": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic",
-      "s": 0.0
+      "t": "SpaceX postponed a crucial launch \u2014 now its stock is set to slide even further below the IPO price",
+      "s": -0.2
     }
   ]
 }
