@@ -1,30 +1,30 @@
 {
-  "ts": "2026-07-17 22:55 UTC",
+  "ts": "2026-07-17 23:58 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 5,
-  "avg_sentiment": -0.106,
+  "recent": 6,
+  "avg_sentiment": -0.174,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "19 (mostly) tech stocks that have fallen at least 25% in July",
-      "s": -0.36
+      "t": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
+      "s": -0.3
+    },
+    {
+      "t": "The World Cup\u2013winning side will make $50 million \u2014 and the IRS gets a cut",
+      "s": -0.27
     },
     {
       "t": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley",
       "s": -0.27
     },
     {
-      "t": "The average stock is having a moment as semiconductors struggle. It\u2019s a sign of a healthy market.",
-      "s": 0.1
+      "t": "SpaceX postponed a crucial launch \u2014 and its stock went on to close below IPO price for second day",
+      "s": -0.2
     },
     {
-      "t": "The White House is dictating access to frontier AI models, shifting power from tech giants",
-      "s": 0.0
-    },
-    {
-      "t": "Taco Bell says it has removed lettuce linked to cyclosporiasis outbreak from its restaurants",
+      "t": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
       "s": 0.0
     }
   ]
