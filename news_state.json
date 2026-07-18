@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-18 15:02 UTC",
+  "ts": "2026-07-18 17:04 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 8,
-  "avg_sentiment": 0.208,
+  "avg_sentiment": 0.035,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping",
-      "s": -0.64
+      "t": "More people are reaching their 60s than ever before \u2014 and it\u2019s an incredible investing opportunity",
+      "s": 0.63
     },
     {
-      "t": "Look on the bright side: Energy companies are booming",
-      "s": 0.61
+      "t": "The stock market has a \u2018Magnificent Seven\u2019 problem \u2014 but not the one bears are warning about",
+      "s": -0.61
     },
     {
-      "t": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
-      "s": 0.54
+      "t": "The AI rotation stole the spotlight from a strong start to earnings season",
+      "s": 0.51
     },
     {
-      "t": "Small-cap outperformance is persisting \u2014 and these 15 quality stocks pay rich dividends",
-      "s": 0.49
+      "t": "A bad health diagnosis will upend your financial plan, but you can set it right again",
+      "s": -0.31
     },
     {
-      "t": "This overlooked index is a better investment than the S&P 500",
-      "s": 0.42
+      "t": "Most Americans don\u2019t know how to prevent dementia. Here\u2019s what you can do.",
+      "s": 0.03
     }
   ]
 }
