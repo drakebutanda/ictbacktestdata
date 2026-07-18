@@ -1,10 +1,10 @@
 {
-  "ts": "2026-07-18 13:41 UTC",
+  "ts": "2026-07-18 15:02 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 7,
-  "avg_sentiment": -0.13,
-  "burst": false,
+  "recent": 8,
+  "avg_sentiment": 0.208,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
@@ -12,20 +12,20 @@
       "s": -0.64
     },
     {
-      "t": "I left the U.S. for Trinidad and Tobago: My family of 4 spends about $3,000 a month\u2014and we've never been happier",
-      "s": -0.42
+      "t": "Look on the bright side: Energy companies are booming",
+      "s": 0.61
     },
     {
-      "t": "\u2018I am at a loss\u2019: My brother is dying. We are not close. What responsibility do I have to help him?",
-      "s": 0.4
+      "t": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
+      "s": 0.54
     },
     {
-      "t": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
-      "s": -0.36
+      "t": "Small-cap outperformance is persisting \u2014 and these 15 quality stocks pay rich dividends",
+      "s": 0.49
     },
     {
-      "t": "Your Social Security check could go up by $74 a month next year",
-      "s": 0.34
+      "t": "This overlooked index is a better investment than the S&P 500",
+      "s": 0.42
     }
   ]
 }
