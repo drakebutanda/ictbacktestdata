@@ -1,27 +1,31 @@
 {
-  "ts": "2026-07-18 11:58 UTC",
+  "ts": "2026-07-18 13:41 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": 0.308,
+  "recent": 7,
+  "avg_sentiment": -0.13,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
-      "s": 0.77
+      "t": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping",
+      "s": -0.64
     },
     {
-      "t": "Will the Fed hike interest rates this month?",
-      "s": 0.46
+      "t": "I left the U.S. for Trinidad and Tobago: My family of 4 spends about $3,000 a month\u2014and we've never been happier",
+      "s": -0.42
     },
     {
-      "t": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-      "s": 0.0
+      "t": "\u2018I am at a loss\u2019: My brother is dying. We are not close. What responsibility do I have to help him?",
+      "s": 0.4
     },
     {
-      "t": "How are prediction markets taxed? The IRS hasn\u2019t provided guidance yet",
-      "s": 0.0
+      "t": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
+      "s": -0.36
+    },
+    {
+      "t": "Your Social Security check could go up by $74 a month next year",
+      "s": 0.34
     }
   ]
 }
