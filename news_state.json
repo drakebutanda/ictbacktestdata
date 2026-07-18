@@ -1,31 +1,15 @@
 {
-  "ts": "2026-07-18 08:53 UTC",
+  "ts": "2026-07-18 10:24 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 0,
-  "avg_sentiment": -0.005,
+  "recent": 1,
+  "avg_sentiment": -0.636,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says",
-      "s": -0.84
-    },
-    {
-      "t": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
-      "s": -0.84
-    },
-    {
-      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
-      "s": 0.82
-    },
-    {
-      "t": "Inside the Chinese fraud rings stealing billions from banks and retailers",
-      "s": -0.82
-    },
-    {
-      "t": "How big is the great wealth transfer? It could be over $100 trillion or $36 trillion",
-      "s": 0.81
+      "t": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping",
+      "s": -0.64
     }
   ]
 }
