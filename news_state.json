@@ -1,31 +1,19 @@
 {
-  "ts": "2026-07-18 19:14 UTC",
+  "ts": "2026-07-18 20:59 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 13,
-  "avg_sentiment": 0.091,
-  "burst": true,
+  "recent": 2,
+  "avg_sentiment": -0.029,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Iran supreme leader vows 'unforgettable lessons in store' for U.S. after calling off interim peace agreement",
-      "s": 0.88
+      "t": "27-year-old locksmith spent $7,000 on tools, works around the clock in NYC: 'I'd never held a screwdriver in my life' before starting",
+      "s": -0.06
     },
     {
-      "t": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
-      "s": 0.77
-    },
-    {
-      "t": "I\u2019m 67, own two homes outright worth $2.8 million, but I have $19,000 in credit-card debt. Should I get a HELOC?",
-      "s": -0.42
-    },
-    {
-      "t": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-      "s": 0.38
-    },
-    {
-      "t": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there.",
-      "s": -0.36
+      "t": "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak",
+      "s": 0.0
     }
   ]
 }
