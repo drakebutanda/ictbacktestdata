@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-17 23:58 UTC",
+  "ts": "2026-07-18 03:21 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 6,
-  "avg_sentiment": -0.174,
+  "recent": 0,
+  "avg_sentiment": -0.008,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
-      "s": -0.3
+      "t": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says",
+      "s": -0.84
     },
     {
-      "t": "The World Cup\u2013winning side will make $50 million \u2014 and the IRS gets a cut",
-      "s": -0.27
+      "t": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
+      "s": -0.84
     },
     {
-      "t": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley",
-      "s": -0.27
+      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
+      "s": 0.82
     },
     {
-      "t": "SpaceX postponed a crucial launch \u2014 and its stock went on to close below IPO price for second day",
-      "s": -0.2
+      "t": "Inside the Chinese fraud rings stealing billions from banks and retailers",
+      "s": -0.82
     },
     {
-      "t": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
-      "s": 0.0
+      "t": "How big is the great wealth transfer? It could be over $100 trillion or $36 trillion",
+      "s": 0.81
     }
   ]
 }
