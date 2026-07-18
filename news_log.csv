@@ -233,3 +233,4 @@ ts,headlines,recent,avg_sentiment,burst,mood
 2026-07-18 17:04 UTC,100,8,0.035,True,neutral
 2026-07-18 19:14 UTC,100,13,0.091,True,neutral
 2026-07-18 20:59 UTC,100,2,-0.029,False,neutral
+2026-07-18 22:02 UTC,100,1,-0.7,False,risk-off
