@@ -1,31 +1,15 @@
 {
-  "ts": "2026-07-19 09:09 UTC",
+  "ts": "2026-07-19 11:14 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 0,
-  "avg_sentiment": -0.02,
+  "recent": 1,
+  "avg_sentiment": -0.813,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
-      "s": -0.84
-    },
-    {
-      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
-      "s": 0.82
-    },
-    {
-      "t": "Inside the Chinese fraud rings stealing billions from banks and retailers",
-      "s": -0.82
-    },
-    {
-      "t": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
-      "s": 0.77
-    },
-    {
-      "t": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
-      "s": -0.74
+      "t": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
+      "s": -0.81
     }
   ]
 }
