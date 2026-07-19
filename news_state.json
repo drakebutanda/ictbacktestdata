@@ -1,15 +1,31 @@
 {
-  "ts": "2026-07-18 23:59 UTC",
+  "ts": "2026-07-19 03:44 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": -0.382,
+  "recent": 0,
+  "avg_sentiment": -0.001,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace agreement",
-      "s": -0.38
+      "t": "CFM International wins approval for jet engine durability boost",
+      "s": 0.86
+    },
+    {
+      "t": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
+      "s": -0.84
+    },
+    {
+      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
+      "s": 0.82
+    },
+    {
+      "t": "Inside the Chinese fraud rings stealing billions from banks and retailers",
+      "s": -0.82
+    },
+    {
+      "t": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
+      "s": 0.77
     }
   ]
 }
