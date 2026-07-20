@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-20 20:36 UTC",
+  "ts": "2026-07-20 22:07 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 7,
-  "avg_sentiment": -0.082,
-  "burst": false,
+  "recent": 11,
+  "avg_sentiment": 0.024,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "The FDA made a big reversal in its cyclosporiasis probe, but it still thinks iceberg lettuce is to blame",
-      "s": -0.48
+      "t": "SpaceX gave investors intense FOMO. Now the decade\u2019s hottest IPO represents a brutal reality check.",
+      "s": -0.59
     },
     {
-      "t": "U.S. Treasury yields rise as Wall Street monitors Middle East tensions",
-      "s": -0.23
+      "t": "Alphabet stock pops on report it's developing a more efficient AI chip",
+      "s": 0.48
     },
     {
-      "t": "Trump administration's head of AI safety agency resigns after 3 months on job",
-      "s": 0.13
+      "t": "Lumentum\u2019s stock just got a lot more interesting \u2014 and Barclays has turned bullish",
+      "s": 0.46
     },
     {
-      "t": "SpaceX slides further down the ranks of large companies as it\u2019s overtaken by Meta",
-      "s": 0.0
+      "t": "U.S. hits Canada with stiff new tariffs, escalating trade tensions",
+      "s": -0.4
     },
     {
-      "t": "Paramount and Warner Bros. merger hit with temporary restraining order",
-      "s": 0.0
+      "t": "Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani",
+      "s": 0.37
     }
   ]
 }
