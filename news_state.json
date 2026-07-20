@@ -1,23 +1,31 @@
 {
-  "ts": "2026-07-20 08:12 UTC",
+  "ts": "2026-07-20 11:52 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 3,
-  "avg_sentiment": -0.318,
+  "recent": 7,
+  "avg_sentiment": -0.135,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Brent crude breaches $90 as Iran vows not \u2018a single drop\u2019 of oil or gas will transit Hormuz",
-      "s": -0.57
+      "t": "UK's Andy Burnham becomes PM as Trump slams Britain as 'Poverty Stricken Disaster'",
+      "s": -0.89
     },
     {
-      "t": "Oil prices climb as U.S. and Iran continue to fight",
-      "s": -0.38
+      "t": "Oil prices erase gains after Iran says U.S. talks could be pursued based on national interests",
+      "s": 0.53
     },
     {
-      "t": "Samsung Biologics makes $1.8 billion all-cash offer for Switzerland's PolyPeptide Group",
-      "s": 0.0
+      "t": "Scared of the AI trade? Here are three investment themes Goldman Sachs is offering instead.",
+      "s": -0.44
+    },
+    {
+      "t": "I will claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "s": 0.34
+    },
+    {
+      "t": "Ryanair stock slides 6% as higher fuel costs amid Iran war dent profit",
+      "s": -0.25
     }
   ]
 }
