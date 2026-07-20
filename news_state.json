@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-20 16:38 UTC",
+  "ts": "2026-07-20 18:58 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 12,
-  "avg_sentiment": 0.081,
+  "recent": 13,
+  "avg_sentiment": 0.046,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "South Carolina Republicans crowd field to succeed Sen. Lindsey Graham",
-      "s": 0.49
+      "t": "Oil prices rise after Trump says Iran will pay for killing U.S. service members",
+      "s": -0.7
+    },
+    {
+      "t": "The FDA made a big reversal in its cyclosporiasis probe, but it still thinks iceberg lettuce is to blame",
+      "s": -0.48
     },
     {
       "t": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space",
       "s": 0.42
     },
     {
-      "t": "Global oil prices dip below $87 a barrel after new Iran ceasefire proposal. Blockade on Saudi by Yemen\u2019s Houthis keeps losses in check.",
-      "s": -0.4
+      "t": "Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani",
+      "s": 0.37
     },
     {
       "t": "I will claim Social Security early. Why do so few people talk about the elephant in the room?",
       "s": 0.34
-    },
-    {
-      "t": "Iren\u2019s stock surges as the neocloud lands $2.8 billion worth of new deals",
-      "s": 0.23
     }
   ]
 }
