@@ -1,26 +1,22 @@
 {
-  "ts": "2026-07-20 04:41 UTC",
+  "ts": "2026-07-20 08:12 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": 0.016,
+  "recent": 3,
+  "avg_sentiment": -0.318,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "China's Zhongji Innolight sees shares surge after Hong Kong listing approval",
-      "s": 0.65
+      "t": "Brent crude breaches $90 as Iran vows not \u2018a single drop\u2019 of oil or gas will transit Hormuz",
+      "s": -0.57
     },
     {
-      "t": "Brent breaches $90 as Middle East risks mount with U.S-Iran tensions on the rise",
-      "s": -0.59
+      "t": "Oil prices climb as U.S. and Iran continue to fight",
+      "s": -0.38
     },
     {
       "t": "Samsung Biologics makes $1.8 billion all-cash offer for Switzerland's PolyPeptide Group",
-      "s": 0.0
-    },
-    {
-      "t": "'Give me my money back': South Korean traders' leveraged SK Hynix, Samsung bets unravel after selloff",
       "s": 0.0
     }
   ]
