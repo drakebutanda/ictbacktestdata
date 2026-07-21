@@ -1,27 +1,19 @@
 {
-  "ts": "2026-07-21 04:20 UTC",
+  "ts": "2026-07-21 07:37 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": -0.258,
+  "recent": 2,
+  "avg_sentiment": 0.329,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. condemns China's 'dangerous and aggressive' acts after Philippine sailor injured at disputed shoal",
-      "s": -0.9
+      "t": "India's largest asset management firm makes a muted market debut after a $1 billion IPO",
+      "s": 0.36
     },
     {
-      "t": "Inflation fears are back in the spotlight as the Middle East conflict keeps oil prices elevated, analysts say",
-      "s": -0.62
-    },
-    {
-      "t": "Your healthcare could now cost $185,500 in retirement \u2014 and that doesn\u2019t include long-term care",
-      "s": 0.49
-    },
-    {
-      "t": "General Motors is set to report earnings before the bell. Here's what Wall Street expects",
-      "s": 0.0
+      "t": "Samsung Electronics shares rise as robotics move highlights push into physical AI",
+      "s": 0.3
     }
   ]
 }
