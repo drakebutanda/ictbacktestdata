@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-21 10:31 UTC",
+  "ts": "2026-07-21 12:40 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 8,
-  "avg_sentiment": -0.142,
+  "recent": 11,
+  "avg_sentiment": -0.206,
   "burst": true,
   "mood": "neutral",
   "top": [
+    {
+      "t": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
+      "s": -0.67
+    },
     {
       "t": "U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire",
       "s": -0.62
     },
     {
-      "t": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "s": -0.51
+      "t": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he\u2019s putting his money now.",
+      "s": -0.4
     },
     {
-      "t": "\u2018I have a $2,000 deductible\u2019: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
-      "s": 0.0
+      "t": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising",
+      "s": -0.4
     },
     {
-      "t": "Another major stock exchange moves toward 24-hour trading",
-      "s": 0.0
-    },
-    {
-      "t": "China contemplates tit-for-tat  export controls against U.S. on AI technologies: report",
-      "s": 0.0
+      "t": "Why are gasoline prices rising faster than oil prices? Blame it on the \u2018crack.\u2019",
+      "s": -0.34
     }
   ]
 }
