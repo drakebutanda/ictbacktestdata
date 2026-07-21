@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-21 21:19 UTC",
+  "ts": "2026-07-21 23:04 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 14,
-  "avg_sentiment": 0.037,
-  "burst": true,
+  "recent": 7,
+  "avg_sentiment": 0.175,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "$100M New Jersey deli fraudster James Patten sentenced to 21 months in prison",
-      "s": -0.78
-    },
-    {
-      "t": "SpaceX\u2019s stock snaps brutal losing streak ahead of key Starship rocket launch",
-      "s": -0.77
-    },
-    {
-      "t": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
-      "s": 0.69
-    },
-    {
-      "t": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-      "s": 0.62
+      "t": "Super Micro\u2019s stock soars as its margins unexpectedly double",
+      "s": 0.6
     },
     {
       "t": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement",
       "s": 0.6
+    },
+    {
+      "t": "JPMorgan's Jamie Dimon made bearish call on treasury bond market. Many investors already acted on it",
+      "s": 0.2
+    },
+    {
+      "t": "The Fed rang the alarm about Anthropic's Mythos AI model \u2014 but had to go months without it",
+      "s": -0.18
+    },
+    {
+      "t": "Prediction markets and their opponents are spending more to influence Congress in 2026",
+      "s": 0.0
     }
   ]
 }
