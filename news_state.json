@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-21 17:37 UTC",
+  "ts": "2026-07-21 19:42 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 17,
-  "avg_sentiment": -0.141,
+  "recent": 14,
+  "avg_sentiment": 0.005,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "The worst dotcom bubble investing mistakes are coming for your portfolio. Avoid them",
-      "s": -0.83
+      "t": "$100M New Jersey deli fraudster James Patten sentenced to 21 months in prison",
+      "s": -0.78
     },
     {
       "t": "An oil lifeline is under threat, and markets have yet to price in the growing crisis",
       "s": -0.78
     },
     {
-      "t": "Oil prices may fall, but gasoline prices won\u2019t. Look at the trap we\u2019re in.",
-      "s": -0.45
+      "t": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
+      "s": 0.69
     },
     {
-      "t": "Microsoft has 3 secret weapons that could drive its stock 50% higher, analyst says",
-      "s": -0.44
+      "t": "Trump looks set to roll out a new set of tariffs. Will markets care?",
+      "s": 0.49
     },
     {
-      "t": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
-      "s": 0.44
+      "t": "Tesla shares poised for biggest earnings move in a year",
+      "s": 0.49
     }
   ]
 }
