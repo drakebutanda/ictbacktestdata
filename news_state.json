@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-21 15:09 UTC",
+  "ts": "2026-07-21 17:37 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 20,
-  "avg_sentiment": -0.027,
+  "recent": 17,
+  "avg_sentiment": -0.141,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
-      "s": -0.67
+      "t": "The worst dotcom bubble investing mistakes are coming for your portfolio. Avoid them",
+      "s": -0.83
     },
     {
-      "t": "Wall Street is selling more rental homes, as buying ban takes effect",
-      "s": -0.56
+      "t": "An oil lifeline is under threat, and markets have yet to price in the growing crisis",
+      "s": -0.78
     },
     {
-      "t": "How to successfully deal with a micromanaging boss",
-      "s": 0.49
+      "t": "Oil prices may fall, but gasoline prices won\u2019t. Look at the trap we\u2019re in.",
+      "s": -0.45
     },
     {
-      "t": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he\u2019s putting his money now.",
-      "s": -0.4
+      "t": "Microsoft has 3 secret weapons that could drive its stock 50% higher, analyst says",
+      "s": -0.44
     },
     {
-      "t": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising",
-      "s": -0.4
+      "t": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
+      "s": 0.44
     }
   ]
 }
