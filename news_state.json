@@ -1,9 +1,9 @@
 {
-  "ts": "2026-07-21 12:40 UTC",
+  "ts": "2026-07-21 15:09 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 11,
-  "avg_sentiment": -0.206,
+  "recent": 20,
+  "avg_sentiment": -0.027,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,8 +12,12 @@
       "s": -0.67
     },
     {
-      "t": "U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire",
-      "s": -0.62
+      "t": "Wall Street is selling more rental homes, as buying ban takes effect",
+      "s": -0.56
+    },
+    {
+      "t": "How to successfully deal with a micromanaging boss",
+      "s": 0.49
     },
     {
       "t": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he\u2019s putting his money now.",
@@ -22,10 +26,6 @@
     {
       "t": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising",
       "s": -0.4
-    },
-    {
-      "t": "Why are gasoline prices rising faster than oil prices? Blame it on the \u2018crack.\u2019",
-      "s": -0.34
     }
   ]
 }
