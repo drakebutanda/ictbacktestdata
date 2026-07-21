@@ -1,9 +1,9 @@
 {
-  "ts": "2026-07-21 19:42 UTC",
+  "ts": "2026-07-21 21:19 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 14,
-  "avg_sentiment": 0.005,
+  "avg_sentiment": 0.037,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": -0.78
     },
     {
-      "t": "An oil lifeline is under threat, and markets have yet to price in the growing crisis",
-      "s": -0.78
+      "t": "SpaceX\u2019s stock snaps brutal losing streak ahead of key Starship rocket launch",
+      "s": -0.77
     },
     {
       "t": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
       "s": 0.69
     },
     {
-      "t": "Trump looks set to roll out a new set of tariffs. Will markets care?",
-      "s": 0.49
+      "t": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "s": 0.62
     },
     {
-      "t": "Tesla shares poised for biggest earnings move in a year",
-      "s": 0.49
+      "t": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement",
+      "s": 0.6
     }
   ]
 }
