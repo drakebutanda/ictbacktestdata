@@ -1,23 +1,27 @@
 {
-  "ts": "2026-07-21 00:03 UTC",
+  "ts": "2026-07-21 04:20 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 3,
-  "avg_sentiment": -0.404,
+  "recent": 4,
+  "avg_sentiment": -0.258,
   "burst": false,
-  "mood": "risk-off",
+  "mood": "neutral",
   "top": [
     {
-      "t": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "s": -0.51
+      "t": "U.S. condemns China's 'dangerous and aggressive' acts after Philippine sailor injured at disputed shoal",
+      "s": -0.9
     },
     {
-      "t": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
-      "s": -0.36
+      "t": "Inflation fears are back in the spotlight as the Middle East conflict keeps oil prices elevated, analysts say",
+      "s": -0.62
     },
     {
-      "t": "Why are gasoline prices rising faster than oil prices? Blame it on the \u2018crack.\u2019",
-      "s": -0.34
+      "t": "Your healthcare could now cost $185,500 in retirement \u2014 and that doesn\u2019t include long-term care",
+      "s": 0.49
+    },
+    {
+      "t": "General Motors is set to report earnings before the bell. Here's what Wall Street expects",
+      "s": 0.0
     }
   ]
 }
