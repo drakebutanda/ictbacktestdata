@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-22 20:16 UTC",
+  "ts": "2026-07-22 22:11 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 18,
-  "avg_sentiment": -0.108,
+  "recent": 12,
+  "avg_sentiment": -0.124,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "The super rich use 401(k)s and IRAs to sidestep taxes on millions of dollars. This proposed law would cut them off.",
-      "s": 0.75
+      "t": "IBM just cut its outlook, but not by as much as investors feared",
+      "s": -0.7
     },
     {
       "t": "Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb",
       "s": -0.66
     },
     {
-      "t": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
-      "s": -0.62
-    },
-    {
-      "t": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
-      "s": -0.6
-    },
-    {
-      "t": "J&J gets a big win on its new robotic surgical system \u2014 plus, a flood of earnings",
+      "t": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
       "s": 0.59
+    },
+    {
+      "t": "U.S. signs nuclear power agreement with Saudi Arabia",
+      "s": 0.49
+    },
+    {
+      "t": "IBM lowers full-year forecast after earnings warning",
+      "s": -0.44
     }
   ]
 }
