@@ -1,23 +1,23 @@
 {
-  "ts": "2026-07-22 03:29 UTC",
+  "ts": "2026-07-22 06:37 UTC",
   "feeds_live": 5,
   "headlines": 99,
   "recent": 3,
-  "avg_sentiment": -0.068,
+  "avg_sentiment": -0.259,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "$100M New Jersey deli fraudster James Patten sentenced to 21 months in prison",
-      "s": -0.78
+      "t": "Japan exports and imports in June grow at fastest pace since November 2022, beating estimates",
+      "s": -0.46
     },
     {
-      "t": "These Japanese AI winners don\u2019t make chips. They make toilets, glass fiber and seasoning",
-      "s": 0.48
+      "t": "Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push",
+      "s": -0.32
     },
     {
-      "t": "Google expands Gemini lineup with cheaper models and new Mythos rival",
-      "s": 0.1
+      "t": "Wall Street can wait: Why one U.S. biotech firm is listing in Hong Kong first",
+      "s": 0.0
     }
   ]
 }
