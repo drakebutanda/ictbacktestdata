@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-22 11:54 UTC",
+  "ts": "2026-07-22 14:13 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 10,
-  "avg_sentiment": 0.148,
+  "headlines": 100,
+  "recent": 20,
+  "avg_sentiment": 0.099,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "AT&T\u2019s stock rises after earnings. Here\u2019s why investors are cheering.",
-      "s": 0.51
+      "t": "AT&T\u2019s stock rises toward best day in six months. Why investors are cheering the latest earnings.",
+      "s": 0.82
     },
     {
-      "t": "Mortgage rates are rising again, but homebuyers are seeing some advantages",
-      "s": 0.5
+      "t": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "s": 0.62
     },
     {
-      "t": "Bond-market weakness makes a strong investment case for this unloved sector, strategist says",
-      "s": -0.44
+      "t": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+      "s": 0.59
     },
     {
-      "t": "Oil prices climb to six-week high as hopes of de-escalation in Iran diminish",
-      "s": 0.42
+      "t": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says",
+      "s": -0.48
     },
     {
-      "t": "Brent oil price hovers near $95 as Rubio says U.S. will 'continue to protect shipping' in Hormuz",
-      "s": 0.38
+      "t": "Oil prices may fall, but gasoline prices won\u2019t. Look at the trap we\u2019re in.",
+      "s": -0.45
     }
   ]
 }
