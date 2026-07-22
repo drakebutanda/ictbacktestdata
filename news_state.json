@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-22 09:32 UTC",
+  "ts": "2026-07-22 11:54 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 6,
-  "avg_sentiment": -0.094,
-  "burst": false,
+  "recent": 10,
+  "avg_sentiment": 0.148,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "I have children from my first marriage. Should my second husband inherit my house if I die?",
-      "s": -0.6
+      "t": "AT&T\u2019s stock rises after earnings. Here\u2019s why investors are cheering.",
+      "s": 0.51
     },
     {
-      "t": "Citizens United provision allowing foreign campaign contributions draws Democratic bill",
+      "t": "Mortgage rates are rising again, but homebuyers are seeing some advantages",
+      "s": 0.5
+    },
+    {
+      "t": "Bond-market weakness makes a strong investment case for this unloved sector, strategist says",
+      "s": -0.44
+    },
+    {
+      "t": "Oil prices climb to six-week high as hopes of de-escalation in Iran diminish",
       "s": 0.42
     },
     {
-      "t": "Oil prices jump 4% as Rubio says Iran 'not serious' about peace talks",
-      "s": -0.39
-    },
-    {
-      "t": "Matt Damon\u2019s carefully-curated property portfolio",
-      "s": 0.0
-    },
-    {
-      "t": "There\u2019s a mathematical formula to determining when Trump will TACO \u2014 and here\u2019s when a pivot is expected",
-      "s": 0.0
+      "t": "Brent oil price hovers near $95 as Rubio says U.S. will 'continue to protect shipping' in Hormuz",
+      "s": 0.38
     }
   ]
 }
