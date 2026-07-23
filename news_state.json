@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-23 19:37 UTC",
+  "ts": "2026-07-23 21:13 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 18,
-  "avg_sentiment": -0.097,
+  "recent": 22,
+  "avg_sentiment": -0.037,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Congress splits on war powers resolutions to force Trump to abandon Iran war",
-      "s": -0.89
-    },
-    {
-      "t": "How to find the best mortgage rate \u2014 it could save you $3,300 a year",
-      "s": 0.81
+      "t": "Alphabet\u2019s massive profit growth is \u2018illusory\u2019, as SpaceX and Anthropic help mask a historic cash drain",
+      "s": 0.8
     },
     {
       "t": "Brent crude crosses $100 after tankers reportedly struck off Saudi Arabia",
       "s": -0.69
     },
     {
-      "t": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
-      "s": -0.6
+      "t": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+      "s": -0.44
     },
     {
-      "t": "More than 70% of recent home buyers were counting on mortgage rates to drop. Now they\u2019re stuck.",
-      "s": -0.48
+      "t": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
+      "s": -0.42
+    },
+    {
+      "t": "The rising cost of capital for companies today is starting to spook the stock market: \u2018The worry is the spending might not pay off\u2019",
+      "s": -0.38
     }
   ]
 }
