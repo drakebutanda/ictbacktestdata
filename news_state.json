@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-23 15:17 UTC",
+  "ts": "2026-07-23 17:39 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 15,
-  "avg_sentiment": 0.153,
+  "recent": 22,
+  "avg_sentiment": 0.009,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Alphabet\u2019s massive profit growth is just an illusion, as SpaceX and Anthropic help mask a historic cash drain",
-      "s": 0.8
+      "t": "Congress splits on war powers resolutions to force Trump to abandon Iran war",
+      "s": -0.89
     },
     {
-      "t": "Cyclospora outbreak tests RFK Jr.'s promise to overhaul food system, rebuild trust in CDC",
-      "s": 0.68
+      "t": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
+      "s": -0.84
     },
     {
-      "t": "Comcast earnings highlight NBCUniversal strength ahead of planned split",
-      "s": 0.68
+      "t": "The super rich use 401(k)s and IRAs to sidestep taxes on millions of dollars. This proposed law would cut them off.",
+      "s": 0.75
     },
     {
-      "t": "I am a 63-year-old semiretired physician. If you have saved $2 million for retirement, should Social Security be optional?",
+      "t": "I am a 63-year-old semiretired physician. If I have saved $2 million for retirement, should Social Security be optional?",
       "s": 0.64
     },
     {
-      "t": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
-      "s": -0.61
+      "t": "Are you looking for financial advice? This is the best way to ask for it.",
+      "s": 0.64
     }
   ]
 }
