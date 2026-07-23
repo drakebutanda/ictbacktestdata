@@ -1,9 +1,9 @@
 {
-  "ts": "2026-07-23 17:39 UTC",
+  "ts": "2026-07-23 19:37 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 22,
-  "avg_sentiment": 0.009,
+  "recent": 18,
+  "avg_sentiment": -0.097,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": -0.89
     },
     {
-      "t": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
-      "s": -0.84
+      "t": "How to find the best mortgage rate \u2014 it could save you $3,300 a year",
+      "s": 0.81
     },
     {
-      "t": "The super rich use 401(k)s and IRAs to sidestep taxes on millions of dollars. This proposed law would cut them off.",
-      "s": 0.75
+      "t": "Brent crude crosses $100 after tankers reportedly struck off Saudi Arabia",
+      "s": -0.69
     },
     {
-      "t": "I am a 63-year-old semiretired physician. If I have saved $2 million for retirement, should Social Security be optional?",
-      "s": 0.64
+      "t": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
+      "s": -0.6
     },
     {
-      "t": "Are you looking for financial advice? This is the best way to ask for it.",
-      "s": 0.64
+      "t": "More than 70% of recent home buyers were counting on mortgage rates to drop. Now they\u2019re stuck.",
+      "s": -0.48
     }
   ]
 }
