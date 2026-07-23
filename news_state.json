@@ -1,31 +1,23 @@
 {
-  "ts": "2026-07-22 22:11 UTC",
+  "ts": "2026-07-23 00:07 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 12,
-  "avg_sentiment": -0.124,
-  "burst": true,
+  "recent": 3,
+  "avg_sentiment": 0.113,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "IBM just cut its outlook, but not by as much as investors feared",
-      "s": -0.7
+      "t": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
+      "s": 0.34
     },
     {
-      "t": "Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb",
-      "s": -0.66
+      "t": "\u2018I have a $2,000 deductible\u2019: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
+      "s": 0.0
     },
     {
-      "t": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
-      "s": 0.59
-    },
-    {
-      "t": "U.S. signs nuclear power agreement with Saudi Arabia",
-      "s": 0.49
-    },
-    {
-      "t": "IBM lowers full-year forecast after earnings warning",
-      "s": -0.44
+      "t": "Southwest Airlines' third-quarter forecast falls short as fuel bill climbs",
+      "s": 0.0
     }
   ]
 }
