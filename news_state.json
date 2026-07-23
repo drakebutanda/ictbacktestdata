@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-23 12:44 UTC",
+  "ts": "2026-07-23 15:17 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 13,
-  "avg_sentiment": 0.093,
+  "recent": 15,
+  "avg_sentiment": 0.153,
   "burst": true,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Alphabet\u2019s massive profit growth is just an illusion, as SpaceX and Anthropic help mask a historic cash drain",
+      "s": 0.8
+    },
+    {
+      "t": "Cyclospora outbreak tests RFK Jr.'s promise to overhaul food system, rebuild trust in CDC",
+      "s": 0.68
+    },
     {
       "t": "Comcast earnings highlight NBCUniversal strength ahead of planned split",
       "s": 0.68
     },
     {
-      "t": "10-year Treasury yield tops 4.7%, highest since January 2025",
-      "s": 0.62
+      "t": "I am a 63-year-old semiretired physician. If you have saved $2 million for retirement, should Social Security be optional?",
+      "s": 0.64
     },
     {
-      "t": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical.",
-      "s": -0.4
-    },
-    {
-      "t": "Ozempic face? Botox boom boosted by 'sagging face' trend, Swiss firm says",
-      "s": 0.36
-    },
-    {
-      "t": "Trump says Saudi nuclear deal does not include enrichment, Riyadh must join Abraham Accords",
-      "s": 0.3
+      "t": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
+      "s": -0.61
     }
   ]
 }
