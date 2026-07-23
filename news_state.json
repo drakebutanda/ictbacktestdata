@@ -1,23 +1,19 @@
 {
-  "ts": "2026-07-23 00:07 UTC",
+  "ts": "2026-07-23 04:21 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": 0.113,
+  "recent": 2,
+  "avg_sentiment": 0.364,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
-      "s": 0.34
+      "t": "Chip firm priced as China's most valuable company before its IPO brings scrutiny to crypto platform",
+      "s": 0.53
     },
     {
-      "t": "\u2018I have a $2,000 deductible\u2019: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
-      "s": 0.0
-    },
-    {
-      "t": "Southwest Airlines' third-quarter forecast falls short as fuel bill climbs",
-      "s": 0.0
+      "t": "Gen Z protests led by India\u2019s 'Cockroach party' are testing Modi\u2019s leadership",
+      "s": 0.2
     }
   ]
 }
