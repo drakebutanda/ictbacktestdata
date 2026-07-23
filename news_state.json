@@ -1,23 +1,31 @@
 {
-  "ts": "2026-07-23 07:38 UTC",
+  "ts": "2026-07-23 10:31 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": -0.371,
+  "recent": 7,
+  "avg_sentiment": -0.054,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats",
-      "s": -0.59
+      "t": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
+      "s": -0.6
     },
     {
-      "t": "Houthis claim strikes on Saudi Arabian oil tankers in Red Sea as Iran conflict expands",
-      "s": -0.53
+      "t": "U.S. oil tops $90, Brent above $98 after tankers struck off Saudi Arabia",
+      "s": 0.32
     },
     {
-      "t": "UniCredit CEO tells CNBC full acquisition of Commerzbank could happen in fourth quarter",
-      "s": 0.0
+      "t": "Why beat-and-raise earnings reports are no longer enough to push the stock market higher",
+      "s": -0.3
+    },
+    {
+      "t": "Google slapped with $1 billion fine under landmark EU digital law",
+      "s": 0.27
+    },
+    {
+      "t": "\u2018It would feel like a burden\u2019: My stepmother, 96, owns the house I grew up in. Is it wrong to tell her I don\u2019t want to inherit it?",
+      "s": -0.08
     }
   ]
 }
