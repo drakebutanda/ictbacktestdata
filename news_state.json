@@ -1,19 +1,23 @@
 {
-  "ts": "2026-07-23 04:21 UTC",
+  "ts": "2026-07-23 07:38 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": 0.364,
+  "recent": 3,
+  "avg_sentiment": -0.371,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Chip firm priced as China's most valuable company before its IPO brings scrutiny to crypto platform",
-      "s": 0.53
+      "t": "Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats",
+      "s": -0.59
     },
     {
-      "t": "Gen Z protests led by India\u2019s 'Cockroach party' are testing Modi\u2019s leadership",
-      "s": 0.2
+      "t": "Houthis claim strikes on Saudi Arabian oil tankers in Red Sea as Iran conflict expands",
+      "s": -0.53
+    },
+    {
+      "t": "UniCredit CEO tells CNBC full acquisition of Commerzbank could happen in fourth quarter",
+      "s": 0.0
     }
   ]
 }
