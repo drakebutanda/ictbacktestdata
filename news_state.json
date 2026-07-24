@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-23 23:04 UTC",
+  "ts": "2026-07-24 03:30 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 13,
-  "avg_sentiment": 0.111,
-  "burst": true,
+  "headlines": 99,
+  "recent": 5,
+  "avg_sentiment": 0.071,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
-      "s": 0.59
+      "t": "U.S., other nations back open-source AI with 'strong security' at China summit",
+      "s": 0.69
     },
     {
-      "t": "ServiceNow\u2019s stock falls as a new AI threat overshadows earnings beat",
-      "s": -0.53
+      "t": "China's largest memory chipmaker sparks fears of a cash drain as it readies for public debut",
+      "s": -0.42
     },
     {
-      "t": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
-      "s": 0.38
-    },
-    {
-      "t": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here\u2019s what happens next.",
+      "t": "U.S. to see higher generic drug prices thanks to tariffs, CEO of leading India pharma firm warns",
       "s": 0.36
     },
     {
-      "t": "IBM's Krishna tries to reassure investors that AI won't disrupt company's software unit",
-      "s": 0.34
+      "t": "Japan core inflation rate in June creeps up from 4-year low as higher oil prices bite",
+      "s": -0.27
+    },
+    {
+      "t": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification",
+      "s": 0.0
     }
   ]
 }
