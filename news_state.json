@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-24 16:48 UTC",
+  "ts": "2026-07-24 18:23 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 16,
-  "avg_sentiment": 0.111,
+  "recent": 15,
+  "avg_sentiment": 0.269,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Pentagon lowers official Iran war death toll, omitting four killed this month",
-      "s": -0.93
+      "t": "Treasury yields slide as oil prices fall amid hopes for new U.S.-Iran peace talks",
+      "s": 0.8
     },
     {
-      "t": "Treasury yields retreat as oil prices fall amid hopes for new U.S.-Iran peace talks",
-      "s": 0.84
+      "t": "Don\u2019t rush to save Social Security, AARP tells Congress: \u2018It should be debated openly \u2014 not through an accelerated process\u2019",
+      "s": 0.68
     },
     {
-      "t": "The bond market hasn\u2019t been this calm since the dot-com bust and the financial crisis. History warns of a rude awakening.",
-      "s": -0.71
+      "t": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "s": 0.64
     },
     {
-      "t": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-      "s": 0.62
+      "t": "SpaceX is banking on a successful Starship launch to stem the stock\u2019s bleeding",
+      "s": 0.59
     },
     {
-      "t": "Still waiting for the free $1,000 to hit your child\u2019s \u2018Trump account\u2019? Here\u2019s what to know.",
-      "s": 0.51
+      "t": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer",
+      "s": 0.49
     }
   ]
 }
