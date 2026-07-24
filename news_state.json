@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-24 11:47 UTC",
+  "ts": "2026-07-24 14:01 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 7,
-  "avg_sentiment": 0.149,
-  "burst": false,
+  "recent": 11,
+  "avg_sentiment": -0.257,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018We are not romantically involved\u2019: I\u2019m marrying my platonic best friend of 20 years. Should I leave him my home?",
-      "s": 0.71
+      "t": "Russian attack cuts power to around 150,000 in Ukraine\u2019s north as Kyiv hits missile, oil facilities",
+      "s": -0.65
     },
     {
-      "t": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-      "s": 0.62
+      "t": "How a Chinese AI model stopped OpenAI\u2019s \u2018unprecedented\u2019 cyber attack",
+      "s": -0.61
+    },
+    {
+      "t": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
+      "s": -0.6
+    },
+    {
+      "t": "Intel rides AI boom to fastest revenue growth in almost 15 years, but shares sink",
+      "s": 0.56
     },
     {
       "t": "Why fixing the housing crisis for under-40s could trigger 10% Treasury yields",
       "s": -0.51
-    },
-    {
-      "t": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
-      "s": 0.49
-    },
-    {
-      "t": "Verizon\u2019s stock rises as earnings show the company is no longer a \u2018hunting ground\u2019",
-      "s": -0.3
     }
   ]
 }
