@@ -1,12 +1,16 @@
 {
-  "ts": "2026-07-24 18:23 UTC",
+  "ts": "2026-07-24 20:25 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 15,
-  "avg_sentiment": 0.269,
+  "recent": 16,
+  "avg_sentiment": -0.004,
   "burst": true,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
+      "s": -0.89
+    },
     {
       "t": "Treasury yields slide as oil prices fall amid hopes for new U.S.-Iran peace talks",
       "s": 0.8
@@ -16,16 +20,12 @@
       "s": 0.68
     },
     {
-      "t": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
-      "s": 0.64
+      "t": "I\u2019m 38, lost my job, and have to move back in with my parents. What did I do wrong?",
+      "s": -0.66
     },
     {
-      "t": "SpaceX is banking on a successful Starship launch to stem the stock\u2019s bleeding",
-      "s": 0.59
-    },
-    {
-      "t": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer",
-      "s": 0.49
+      "t": "The world is facing its largest oil shock ever. Here is why prices are not higher.",
+      "s": -0.38
     }
   ]
 }
