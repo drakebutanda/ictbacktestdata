@@ -1,26 +1,18 @@
 {
-  "ts": "2026-07-24 06:33 UTC",
+  "ts": "2026-07-24 09:26 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 4,
-  "avg_sentiment": -0.032,
+  "recent": 2,
+  "avg_sentiment": 0.125,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Pentagon lowers official Iran war death toll, omitting four killed this month",
-      "s": -0.93
+      "t": "Wise Group shares tank after U.S. bank charter rejected. What\u2019s next for the fintech.",
+      "s": 0.25
     },
     {
-      "t": "Volkswagen expects full-year revenue squeeze after quarterly profit slump",
-      "s": 0.44
-    },
-    {
-      "t": "U.S. to see higher generic drug prices thanks to tariffs, CEO of leading India pharma firm warns",
-      "s": 0.36
-    },
-    {
-      "t": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification",
+      "t": "Hollywood home of Martin Short\u2019s late daughter is listed for $1.8 million",
       "s": 0.0
     }
   ]
