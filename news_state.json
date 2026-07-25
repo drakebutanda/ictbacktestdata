@@ -1,23 +1,31 @@
 {
-  "ts": "2026-07-25 13:52 UTC",
+  "ts": "2026-07-25 15:11 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 3,
-  "avg_sentiment": -0.007,
-  "burst": false,
+  "recent": 10,
+  "avg_sentiment": -0.04,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Pro stock pickers cannot beat simple math \u2014 war in the Middle East is proving it",
-      "s": -0.6
+      "t": "I\u2019m 38, lost my job, and have to move back in with my parents. What did I do wrong?",
+      "s": -0.66
     },
     {
-      "t": "Buffett favors an estate tax, but like virtually all billionaires, he won't be paying it",
-      "s": 0.58
+      "t": "How a 70-year-old beekeeper is keeping his family honey farm afloat: 'It's a legacy that I feel responsible for'",
+      "s": 0.32
     },
     {
-      "t": "Imax 70 mm screenings become the biggest star for Christopher Nolan\u2019s \u2018The Odyssey\u2019",
-      "s": 0.0
+      "t": "Your retirement math may have a surprising flaw",
+      "s": 0.27
+    },
+    {
+      "t": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
+      "s": -0.18
+    },
+    {
+      "t": "Are 7% mortgage rates next? The Treasury market is flashing a warning sign for home buyers.",
+      "s": -0.15
     }
   ]
 }
