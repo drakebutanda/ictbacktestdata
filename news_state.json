@@ -1,31 +1,15 @@
 {
-  "ts": "2026-07-24 22:11 UTC",
+  "ts": "2026-07-25 00:10 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 11,
-  "avg_sentiment": 0.219,
-  "burst": true,
+  "recent": 1,
+  "avg_sentiment": 0.178,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
-      "s": -0.89
-    },
-    {
-      "t": "\u2018We are not romantically involved\u2019: I\u2019m marrying my platonic best friend of 20 years. Should I leave him my home?",
-      "s": 0.71
-    },
-    {
-      "t": "Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?",
-      "s": 0.7
-    },
-    {
-      "t": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
-      "s": 0.64
-    },
-    {
-      "t": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-      "s": 0.62
+      "t": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+      "s": 0.18
     }
   ]
 }
