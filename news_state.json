@@ -1,15 +1,31 @@
 {
-  "ts": "2026-07-25 00:10 UTC",
+  "ts": "2026-07-25 04:16 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 1,
-  "avg_sentiment": 0.178,
+  "recent": 0,
+  "avg_sentiment": 0.028,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-      "s": 0.18
+      "t": "Pentagon lowers official Iran war death toll, omitting four killed this month",
+      "s": -0.93
+    },
+    {
+      "t": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
+      "s": -0.89
+    },
+    {
+      "t": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
+      "s": -0.84
+    },
+    {
+      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
+      "s": 0.82
+    },
+    {
+      "t": "Treasury yields slide as oil prices fall amid hopes for new U.S.-Iran peace talks",
+      "s": 0.8
     }
   ]
 }
