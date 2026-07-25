@@ -1,27 +1,15 @@
 {
-  "ts": "2026-07-25 21:01 UTC",
+  "ts": "2026-07-25 23:01 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": 0.132,
+  "recent": 1,
+  "avg_sentiment": 0.691,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-on",
   "top": [
     {
       "t": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
       "s": 0.69
-    },
-    {
-      "t": "Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping",
-      "s": -0.67
-    },
-    {
-      "t": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
-      "s": 0.64
-    },
-    {
-      "t": "Here are 4 forces that drove a tough week for stocks",
-      "s": -0.13
     }
   ]
 }
