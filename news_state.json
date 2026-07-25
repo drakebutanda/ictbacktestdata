@@ -1,22 +1,22 @@
 {
-  "ts": "2026-07-25 11:19 UTC",
+  "ts": "2026-07-25 13:52 UTC",
   "feeds_live": 5,
-  "headlines": 99,
+  "headlines": 100,
   "recent": 3,
-  "avg_sentiment": -0.11,
+  "avg_sentiment": -0.007,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Saudi military strikes Houthi targets in Yemen after the Iran-backed militia attacked Red Sea shipping",
-      "s": -0.67
+      "t": "Pro stock pickers cannot beat simple math \u2014 war in the Middle East is proving it",
+      "s": -0.6
     },
     {
-      "t": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
-      "s": 0.34
+      "t": "Buffett favors an estate tax, but like virtually all billionaires, he won't be paying it",
+      "s": 0.58
     },
     {
-      "t": "Investors are in the dark about the Fed\u2019s decision this week \u2014 and that\u2019s just how Warsh wants it",
+      "t": "Imax 70 mm screenings become the biggest star for Christopher Nolan\u2019s \u2018The Odyssey\u2019",
       "s": 0.0
     }
   ]
