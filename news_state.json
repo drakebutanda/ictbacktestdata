@@ -1,31 +1,27 @@
 {
-  "ts": "2026-07-25 19:19 UTC",
+  "ts": "2026-07-25 21:01 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 7,
-  "avg_sentiment": 0.184,
+  "recent": 4,
+  "avg_sentiment": 0.132,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018We are not romantically involved\u2019: I\u2019m marrying my platonic best friend of 20 years. Should I leave him my home?",
-      "s": 0.71
+      "t": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "s": 0.69
     },
     {
-      "t": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
-      "s": 0.59
+      "t": "Saudi military strikes Houthi targets in Yemen after Iran-backed militia attacked Red Sea shipping",
+      "s": -0.67
     },
     {
-      "t": "Oil prices may fall, but gasoline prices won\u2019t. Look at the trap we\u2019re in.",
-      "s": -0.45
+      "t": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "s": 0.64
     },
     {
-      "t": "\u2018I\u2019m still confused\u2019: I sold $80,000 in shares on June 30, so why didn\u2019t I receive my dividend?",
-      "s": 0.3
-    },
-    {
-      "t": "Here\u2019s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.",
-      "s": 0.23
+      "t": "Here are 4 forces that drove a tough week for stocks",
+      "s": -0.13
     }
   ]
 }
