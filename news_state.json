@@ -1,23 +1,19 @@
 {
-  "ts": "2026-07-26 19:22 UTC",
+  "ts": "2026-07-26 21:04 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 3,
-  "avg_sentiment": 0.355,
+  "recent": 2,
+  "avg_sentiment": 0.312,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "s": 0.69
+      "t": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "s": 0.62
     },
     {
-      "t": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
-      "s": 0.64
-    },
-    {
-      "t": "There\u2019s a technical \u2018triple threat\u2019 for stocks, but also places investors can hide",
-      "s": -0.26
+      "t": "Here are the 3 big things we're watching in the stock market in the week ahead",
+      "s": 0.0
     }
   ]
 }
