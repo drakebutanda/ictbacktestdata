@@ -1,9 +1,9 @@
 {
-  "ts": "2026-07-26 13:45 UTC",
+  "ts": "2026-07-26 15:11 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 6,
-  "avg_sentiment": 0.112,
+  "avg_sentiment": 0.1,
   "burst": false,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": -0.87
     },
     {
-      "t": "\u2018We are not romantically involved\u2019: I\u2019m marrying my platonic best friend of 20 years. Should I leave him my home?",
-      "s": 0.71
+      "t": "The S&P 500\u2019s earnings growth has gone bonkers thanks to one company",
+      "s": 0.67
     },
     {
-      "t": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-      "s": 0.62
+      "t": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks",
+      "s": 0.56
     },
     {
-      "t": "There\u2019s a technical \u2018triple threat\u2019 for stocks, but also places investors can hide",
-      "s": -0.26
+      "t": "How AI wealth could be distributed to all Americans",
+      "s": 0.49
     },
     {
-      "t": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates",
-      "s": 0.25
+      "t": "For Gen X investors, dotcom bubble haunts stock market portfolios closing in on retirement",
+      "s": -0.25
     }
   ]
 }
