@@ -1,15 +1,31 @@
 {
-  "ts": "2026-07-25 23:01 UTC",
+  "ts": "2026-07-26 03:41 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": 0.691,
+  "recent": 0,
+  "avg_sentiment": 0.021,
   "burst": false,
-  "mood": "risk-on",
+  "mood": "neutral",
   "top": [
     {
-      "t": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "s": 0.69
+      "t": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
+      "s": -0.89
+    },
+    {
+      "t": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
+      "s": -0.84
+    },
+    {
+      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
+      "s": 0.82
+    },
+    {
+      "t": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
+      "s": -0.74
+    },
+    {
+      "t": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
+      "s": -0.73
     }
   ]
 }
