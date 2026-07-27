@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-27 11:33 UTC",
+  "ts": "2026-07-27 14:53 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 6,
-  "avg_sentiment": 0.091,
-  "burst": false,
+  "recent": 12,
+  "avg_sentiment": 0.043,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Navigating the Fed\u2019s next move? Why these trades may be an investor\u2019s best weapon.",
-      "s": 0.46
+      "t": "Money, success and unshakeable resilience: 4 generations discuss their visions of the American Dream",
+      "s": 0.77
     },
     {
-      "t": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues",
-      "s": 0.42
+      "t": "Investors are playing it safe \u2014 just like in 2021. Here\u2019s how AI makes this time different.",
+      "s": 0.74
     },
     {
-      "t": "Oil prices see largest one-day declines in two months amid pause in strikes",
-      "s": -0.36
+      "t": "Could voter rage over AI data centers tank your utility stocks? Run this 5-part risk test to find out.",
+      "s": -0.69
     },
     {
-      "t": "\u2018It\u2019s a high price to pay\u2019: My adviser says I don\u2019t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
-      "s": 0.03
+      "t": "Policy uncertainty is muddling retirement planning \u2014 and advisers are just as confused",
+      "s": -0.57
     },
     {
-      "t": "Why Trump's new tariff blitz is very different this time around",
-      "s": 0.0
+      "t": "Chipmaker CXMT\u2019s 466% market debut surge makes it the most valuable China-listed company",
+      "s": 0.53
     }
   ]
 }
