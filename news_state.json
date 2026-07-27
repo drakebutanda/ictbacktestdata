@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-27 19:45 UTC",
+  "ts": "2026-07-27 21:18 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 10,
-  "avg_sentiment": -0.027,
+  "recent": 13,
+  "avg_sentiment": 0.009,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Netanyahu, Zelenskyy come to DC for Graham's funeral, meetings with Trump amid wars",
-      "s": -0.73
+      "t": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold",
+      "s": -0.78
     },
     {
-      "t": "\u2018We are not romantically involved\u2019: I\u2019m marrying my platonic best friend of 20 years. Should I leave him my home?",
-      "s": 0.71
+      "t": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
+      "s": 0.67
     },
     {
-      "t": "From 'oil' to 'shock',  here's what Kalshi traders expect Fed Chair Kevin Warsh will say this week",
-      "s": -0.38
+      "t": "He brought AI to Wall Street in 1994 \u2014 but won\u2019t trust ChatGPT with his money",
+      "s": 0.67
     },
     {
-      "t": "More tech pain means gains elsewhere. What's winning in Monday's mixed market",
-      "s": 0.3
+      "t": "Apple ends day as world's most valuable company, passing Nvidia",
+      "s": 0.53
     },
     {
-      "t": "\u2018I know what he wants to do,\u2019 Trump says of Fed\u2019s Warsh, as president presses for rate cuts",
-      "s": -0.3
+      "t": "Micron and other chip stocks fall as China steals the spotlight",
+      "s": -0.51
     }
   ]
 }
