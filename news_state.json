@@ -1,23 +1,19 @@
 {
-  "ts": "2026-07-27 03:51 UTC",
+  "ts": "2026-07-27 07:40 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": 0.073,
+  "recent": 2,
+  "avg_sentiment": -0.533,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "China memory chipmaker CXMT skyrockets 500% in blockbuster Shanghai debut",
-      "s": 0.6
+      "t": "Spain and France wildfires force more than 300,000 to flee as Macron calls crisis meeting",
+      "s": -0.62
     },
     {
-      "t": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
-      "s": -0.38
-    },
-    {
-      "t": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
-      "s": 0.0
+      "t": "Oil slides 6% as Iran reportedly signals halt to attacks if U.S. pause holds",
+      "s": -0.44
     }
   ]
 }
