@@ -1,19 +1,31 @@
 {
-  "ts": "2026-07-27 07:40 UTC",
+  "ts": "2026-07-27 11:33 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": -0.533,
+  "recent": 6,
+  "avg_sentiment": 0.091,
   "burst": false,
-  "mood": "risk-off",
+  "mood": "neutral",
   "top": [
     {
-      "t": "Spain and France wildfires force more than 300,000 to flee as Macron calls crisis meeting",
-      "s": -0.62
+      "t": "Navigating the Fed\u2019s next move? Why these trades may be an investor\u2019s best weapon.",
+      "s": 0.46
     },
     {
-      "t": "Oil slides 6% as Iran reportedly signals halt to attacks if U.S. pause holds",
-      "s": -0.44
+      "t": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues",
+      "s": 0.42
+    },
+    {
+      "t": "Oil prices see largest one-day declines in two months amid pause in strikes",
+      "s": -0.36
+    },
+    {
+      "t": "\u2018It\u2019s a high price to pay\u2019: My adviser says I don\u2019t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
+      "s": 0.03
+    },
+    {
+      "t": "Why Trump's new tariff blitz is very different this time around",
+      "s": 0.0
     }
   ]
 }
