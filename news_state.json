@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-27 21:18 UTC",
+  "ts": "2026-07-27 23:12 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 13,
-  "avg_sentiment": 0.009,
-  "burst": true,
+  "recent": 6,
+  "avg_sentiment": 0.206,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold",
-      "s": -0.78
+      "t": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "s": 0.69
     },
     {
       "t": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
       "s": 0.67
     },
     {
-      "t": "He brought AI to Wall Street in 1994 \u2014 but won\u2019t trust ChatGPT with his money",
-      "s": 0.67
+      "t": "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble",
+      "s": -0.4
     },
     {
-      "t": "Apple ends day as world's most valuable company, passing Nvidia",
-      "s": 0.53
+      "t": "Nvidia\u2019s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+      "s": 0.25
     },
     {
-      "t": "Micron and other chip stocks fall as China steals the spotlight",
-      "s": -0.51
+      "t": "\u2018It\u2019s a high price to pay\u2019: My adviser says I don\u2019t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
+      "s": 0.03
     }
   ]
 }
