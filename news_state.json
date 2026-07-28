@@ -1,27 +1,31 @@
 {
-  "ts": "2026-07-28 09:41 UTC",
+  "ts": "2026-07-28 12:02 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": 0.103,
-  "burst": false,
+  "recent": 15,
+  "avg_sentiment": -0.112,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?",
-      "s": 0.75
+      "t": "Emerging China threat puts a scare into AI hardware stocks. Is the \u2018picks and shovels\u2019 trade breaking down?",
+      "s": -0.77
     },
     {
-      "t": "Europe wildfire in pictures: Gigantic fire cloud engulfing France, Spain regions",
-      "s": -0.34
+      "t": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "s": 0.69
     },
     {
-      "t": "Actor Orlando Bloom tries again to sell Malibu beach house \u2014 now for $10 million",
-      "s": 0.0
+      "t": "Blurred front lines: Trump to meet Zelenskyy as Ukraine, Iran wars collide",
+      "s": -0.6
     },
     {
-      "t": "Micron, Nvidia fall after SK Hynix plunges nearly 15% as chip sell-off deepens",
-      "s": 0.0
+      "t": "Coca-Cola tops earnings estimates, hikes full-year outlook as demand for drinks climbs",
+      "s": 0.42
+    },
+    {
+      "t": "How the fight over Cracker Barrel\u2019s logo marked the beginning of the end for its CEO",
+      "s": -0.38
     }
   ]
 }
