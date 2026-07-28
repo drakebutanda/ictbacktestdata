@@ -1,15 +1,27 @@
 {
-  "ts": "2026-07-28 06:33 UTC",
+  "ts": "2026-07-28 09:41 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": -0.361,
+  "recent": 4,
+  "avg_sentiment": 0.103,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Oil extends losses as a pause in U.S.-Iran hostilities raises de-escalation hopes",
-      "s": -0.36
+      "t": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?",
+      "s": 0.75
+    },
+    {
+      "t": "Europe wildfire in pictures: Gigantic fire cloud engulfing France, Spain regions",
+      "s": -0.34
+    },
+    {
+      "t": "Actor Orlando Bloom tries again to sell Malibu beach house \u2014 now for $10 million",
+      "s": 0.0
+    },
+    {
+      "t": "Micron, Nvidia fall after SK Hynix plunges nearly 15% as chip sell-off deepens",
+      "s": 0.0
     }
   ]
 }
