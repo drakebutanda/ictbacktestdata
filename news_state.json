@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-28 15:27 UTC",
+  "ts": "2026-07-28 17:41 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 21,
-  "avg_sentiment": -0.058,
+  "recent": 15,
+  "avg_sentiment": -0.1,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Micron\u2019s stock sinks toward worst monthly drop in 11 years as China fears escalate",
-      "s": -0.84
+      "t": "U.S. Strategic Petroleum Reserve faces stress as emergency releases strain old infrastructure",
+      "s": -0.68
     },
     {
-      "t": "Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide",
+      "t": "Forget oil. A surging El Ni\u00f1o could kill Fed rate cuts \u2014 and these stocks stand to win.",
+      "s": -0.61
+    },
+    {
+      "t": "EBay, former execs to pay $56 million in blogger harassment and stalking case",
       "s": -0.6
     },
     {
-      "t": "How coordinating 401(k) contributions with your spouse can unlock thousands in retirement wealth",
-      "s": 0.49
+      "t": "Software stocks are rising, and these 6 are expected to withstand the AI threat",
+      "s": -0.53
     },
     {
       "t": "The Fed isn\u2019t your biggest worry. The central-bank decision that actually impacts your 401(k) lands in Tokyo.",
       "s": -0.44
-    },
-    {
-      "t": "Trump: New tariffs 'doing the same thing' as the ones struck down by Supreme Court",
-      "s": 0.38
     }
   ]
 }
