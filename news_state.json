@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-28 21:15 UTC",
+  "ts": "2026-07-28 23:08 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 13,
-  "avg_sentiment": -0.178,
-  "burst": true,
+  "recent": 5,
+  "avg_sentiment": -0.097,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Forget oil. A surging El Ni\u00f1o could kill Fed rate cuts \u2014 and these stocks stand to win.",
-      "s": -0.61
+      "t": "Micron\u2019s stock sinks toward worst monthly drop in 11 years as China fears escalate",
+      "s": -0.84
     },
     {
-      "t": "Space stocks are falling hard \u2014 but SpaceX doesn\u2019t deserve all of the blame",
-      "s": -0.56
+      "t": "Seagate\u2019s earnings are welcome news for the battered AI trade",
+      "s": 0.46
     },
     {
-      "t": "SpaceX, Blue Origin could get quicker launch approval under FAA move to waive environmental rules",
-      "s": 0.48
+      "t": "SK Hynix second-quarter profit surges 557% to a new high \u2014 but misses estimates",
+      "s": -0.1
     },
     {
-      "t": "Nasdaq-100 is on the edge of correction territory as semiconductor stocks take another beating",
-      "s": -0.46
+      "t": "Medicare is about to change a drug program that held down the cost of premiums. Here\u2019s what to know.",
+      "s": 0.0
     },
     {
-      "t": "Leveraged ETFs tied to SK Hynix are getting hammered as chip wreck deepens",
-      "s": -0.44
+      "t": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
+      "s": 0.0
     }
   ]
 }
