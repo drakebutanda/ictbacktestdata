@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-28 19:43 UTC",
+  "ts": "2026-07-28 21:15 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 13,
-  "avg_sentiment": -0.003,
+  "avg_sentiment": -0.178,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "An extra-caffeinated version of Mr. Pibb is helping Coca-Cola win over cash-strapped shoppers",
-      "s": 0.72
+      "t": "Forget oil. A surging El Ni\u00f1o could kill Fed rate cuts \u2014 and these stocks stand to win.",
+      "s": -0.61
     },
     {
-      "t": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "s": 0.69
+      "t": "Space stocks are falling hard \u2014 but SpaceX doesn\u2019t deserve all of the blame",
+      "s": -0.56
     },
     {
-      "t": "U.S. Strategic Petroleum Reserve faces stress as emergency releases strain old infrastructure",
-      "s": -0.68
+      "t": "SpaceX, Blue Origin could get quicker launch approval under FAA move to waive environmental rules",
+      "s": 0.48
     },
     {
-      "t": "Investors are piling into bond funds at a rapid rate. That\u2019s a problem.",
-      "s": -0.4
+      "t": "Nasdaq-100 is on the edge of correction territory as semiconductor stocks take another beating",
+      "s": -0.46
     },
     {
-      "t": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
-      "s": -0.38
+      "t": "Leveraged ETFs tied to SK Hynix are getting hammered as chip wreck deepens",
+      "s": -0.44
     }
   ]
 }
