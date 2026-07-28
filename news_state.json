@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-28 12:02 UTC",
+  "ts": "2026-07-28 15:27 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 15,
-  "avg_sentiment": -0.112,
+  "recent": 21,
+  "avg_sentiment": -0.058,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Emerging China threat puts a scare into AI hardware stocks. Is the \u2018picks and shovels\u2019 trade breaking down?",
-      "s": -0.77
+      "t": "Micron\u2019s stock sinks toward worst monthly drop in 11 years as China fears escalate",
+      "s": -0.84
     },
     {
-      "t": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "s": 0.69
-    },
-    {
-      "t": "Blurred front lines: Trump to meet Zelenskyy as Ukraine, Iran wars collide",
+      "t": "Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide",
       "s": -0.6
     },
     {
-      "t": "Coca-Cola tops earnings estimates, hikes full-year outlook as demand for drinks climbs",
-      "s": 0.42
+      "t": "How coordinating 401(k) contributions with your spouse can unlock thousands in retirement wealth",
+      "s": 0.49
     },
     {
-      "t": "How the fight over Cracker Barrel\u2019s logo marked the beginning of the end for its CEO",
-      "s": -0.38
+      "t": "The Fed isn\u2019t your biggest worry. The central-bank decision that actually impacts your 401(k) lands in Tokyo.",
+      "s": -0.44
+    },
+    {
+      "t": "Trump: New tariffs 'doing the same thing' as the ones struck down by Supreme Court",
+      "s": 0.38
     }
   ]
 }
