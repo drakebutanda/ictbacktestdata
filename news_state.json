@@ -1,31 +1,15 @@
 {
-  "ts": "2026-07-27 23:12 UTC",
+  "ts": "2026-07-28 03:21 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 6,
-  "avg_sentiment": 0.206,
+  "recent": 1,
+  "avg_sentiment": 0.296,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "s": 0.69
-    },
-    {
-      "t": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
-      "s": 0.67
-    },
-    {
-      "t": "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble",
-      "s": -0.4
-    },
-    {
-      "t": "Nvidia\u2019s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
-      "s": 0.25
-    },
-    {
-      "t": "\u2018It\u2019s a high price to pay\u2019: My adviser says I don\u2019t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
-      "s": 0.03
+      "t": "Shares of SK Hynix plunge 10% in Seoul as semiconductor sell-off deepens",
+      "s": 0.3
     }
   ]
 }
