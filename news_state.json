@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-28 17:41 UTC",
+  "ts": "2026-07-28 19:43 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 15,
-  "avg_sentiment": -0.1,
+  "recent": 13,
+  "avg_sentiment": -0.003,
   "burst": true,
   "mood": "neutral",
   "top": [
+    {
+      "t": "An extra-caffeinated version of Mr. Pibb is helping Coca-Cola win over cash-strapped shoppers",
+      "s": 0.72
+    },
+    {
+      "t": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "s": 0.69
+    },
     {
       "t": "U.S. Strategic Petroleum Reserve faces stress as emergency releases strain old infrastructure",
       "s": -0.68
     },
     {
-      "t": "Forget oil. A surging El Ni\u00f1o could kill Fed rate cuts \u2014 and these stocks stand to win.",
-      "s": -0.61
+      "t": "Investors are piling into bond funds at a rapid rate. That\u2019s a problem.",
+      "s": -0.4
     },
     {
-      "t": "EBay, former execs to pay $56 million in blogger harassment and stalking case",
-      "s": -0.6
-    },
-    {
-      "t": "Software stocks are rising, and these 6 are expected to withstand the AI threat",
-      "s": -0.53
-    },
-    {
-      "t": "The Fed isn\u2019t your biggest worry. The central-bank decision that actually impacts your 401(k) lands in Tokyo.",
-      "s": -0.44
+      "t": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
+      "s": -0.38
     }
   ]
 }
