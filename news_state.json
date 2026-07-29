@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-29 12:07 UTC",
+  "ts": "2026-07-29 15:12 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 15,
-  "avg_sentiment": -0.001,
+  "recent": 18,
+  "avg_sentiment": -0.061,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "The dollar\u2019s rally matters \u2014 but it still won\u2019t help Fed\u2019s Warsh win the inflation fight",
-      "s": 0.75
+      "t": "Humana tops quarterly estimates, maintains profit outlook as medical costs stay in line",
+      "s": 0.74
     },
     {
-      "t": "YES Network, MSG Networks to exit Gotham app for DAZN streaming service",
+      "t": "My girlfriend is 62. Can she claim her late husband\u2019s full Social Security benefit \u2014 or does she have to wait?",
+      "s": 0.66
+    },
+    {
+      "t": "My stepdad is in the military and dying of cancer. Will my mom automatically get his money?",
+      "s": -0.66
+    },
+    {
+      "t": "Trump says U.S. will give Iran a 'beating' after surprise attack",
+      "s": -0.61
+    },
+    {
+      "t": "Economy is poised to show strong second-quarter growth \u2014 but only after a look under the hood",
       "s": 0.53
-    },
-    {
-      "t": "Cyclospora outbreak tied to Taco Bell will steal the spotlight from Yum Brands' earnings",
-      "s": -0.49
-    },
-    {
-      "t": "Oil prices rise after U.S. and Saudi Arabia attack Iran-backed militias in Iraq",
-      "s": -0.48
-    },
-    {
-      "t": "A profit squeeze is coming for tech. This manager is betting on these unglamorous stocks instead.",
-      "s": 0.44
     }
   ]
 }
