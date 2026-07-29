@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-29 19:34 UTC",
+  "ts": "2026-07-29 21:04 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 11,
-  "avg_sentiment": -0.016,
+  "recent": 14,
+  "avg_sentiment": 0.157,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Secret Service 'illegally' surveilled Comey in Trump \u20188647\u2019 threat case: Court filing",
-      "s": -0.53
+      "t": "\u2018Love Island USA\u2019 winners are spending their $100,000 prize money in a very relatable way",
+      "s": 0.75
     },
     {
-      "t": "Brent oil jumps back above $90 after Trump threatens to hit Iran hard",
-      "s": -0.46
+      "t": "Meta's stock drops on light revenue guidance, dwindling free cash flow",
+      "s": 0.51
+    },
+    {
+      "t": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion",
+      "s": 0.51
+    },
+    {
+      "t": "Looking for a second home? Sellers in these markets could be ready to make a deal.",
+      "s": 0.36
     },
     {
       "t": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
       "s": 0.3
-    },
-    {
-      "t": "I\u2019m managing a former colleague who just can\u2019t keep up with her workload. How do I handle this without being a jerk?",
-      "s": 0.26
-    },
-    {
-      "t": "Divided Fed holds interest rates steady, but three members voted to hike",
-      "s": 0.25
     }
   ]
 }
