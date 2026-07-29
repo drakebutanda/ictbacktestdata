@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-29 09:43 UTC",
+  "ts": "2026-07-29 12:07 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 7,
-  "avg_sentiment": 0.083,
-  "burst": false,
+  "recent": 15,
+  "avg_sentiment": -0.001,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "s": 0.69
+      "t": "The dollar\u2019s rally matters \u2014 but it still won\u2019t help Fed\u2019s Warsh win the inflation fight",
+      "s": 0.75
     },
     {
-      "t": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
-      "s": 0.61
+      "t": "YES Network, MSG Networks to exit Gotham app for DAZN streaming service",
+      "s": 0.53
     },
     {
-      "t": "Ukraine has found a new pressure point in Russia\u2019s wartime economy",
-      "s": -0.3
+      "t": "Cyclospora outbreak tied to Taco Bell will steal the spotlight from Yum Brands' earnings",
+      "s": -0.49
     },
     {
-      "t": "Actress Elisha Cuthbert sells her West Hollywood home for $1.9 million after price cut",
-      "s": -0.27
+      "t": "Oil prices rise after U.S. and Saudi Arabia attack Iran-backed militias in Iraq",
+      "s": -0.48
     },
     {
-      "t": "UBS CEO says the AI pullback is healthy \u2014 but there\u2019s a bigger risk investors should watch",
-      "s": -0.2
+      "t": "A profit squeeze is coming for tech. This manager is betting on these unglamorous stocks instead.",
+      "s": 0.44
     }
   ]
 }
