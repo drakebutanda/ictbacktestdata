@@ -1,31 +1,27 @@
 {
-  "ts": "2026-07-28 23:08 UTC",
+  "ts": "2026-07-29 03:23 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 5,
-  "avg_sentiment": -0.097,
+  "recent": 4,
+  "avg_sentiment": 0.052,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Micron\u2019s stock sinks toward worst monthly drop in 11 years as China fears escalate",
-      "s": -0.84
+      "t": "SK Hynix shares fall as exponential earnings growth fails to satisfy AI-charged expectations",
+      "s": 0.61
     },
     {
-      "t": "Seagate\u2019s earnings are welcome news for the battered AI trade",
-      "s": 0.46
+      "t": "Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps",
+      "s": -0.56
     },
     {
-      "t": "SK Hynix second-quarter profit surges 557% to a new high \u2014 but misses estimates",
-      "s": -0.1
+      "t": "Asian technology stocks extend sell-off with SoftBank down 7% as AI plays take a hit",
+      "s": 0.4
     },
     {
-      "t": "Medicare is about to change a drug program that held down the cost of premiums. Here\u2019s what to know.",
-      "s": 0.0
-    },
-    {
-      "t": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
-      "s": 0.0
+      "t": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East",
+      "s": -0.25
     }
   ]
 }
