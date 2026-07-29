@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-29 21:04 UTC",
+  "ts": "2026-07-29 23:04 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 14,
-  "avg_sentiment": 0.157,
+  "headlines": 98,
+  "recent": 16,
+  "avg_sentiment": 0.017,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018Love Island USA\u2019 winners are spending their $100,000 prize money in a very relatable way",
+      "t": "Why the USO oil ETF is a better buy than crude futures as the Iran war rages",
+      "s": -0.83
+    },
+    {
+      "t": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?",
       "s": 0.75
     },
     {
-      "t": "Meta's stock drops on light revenue guidance, dwindling free cash flow",
-      "s": 0.51
+      "t": "My girlfriend is 62. Can she claim her late husband\u2019s full Social Security benefit \u2014 or does she have to wait?",
+      "s": 0.66
     },
     {
-      "t": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion",
-      "s": 0.51
+      "t": "Chipotle hikes same-store sales forecast, says cyclospora fears hit sales in late July",
+      "s": -0.42
     },
     {
-      "t": "Looking for a second home? Sellers in these markets could be ready to make a deal.",
-      "s": 0.36
-    },
-    {
-      "t": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
-      "s": 0.3
+      "t": "Bond market is calling Warsh\u2019s bluff on inflation fight as yields surge",
+      "s": -0.38
     }
   ]
 }
