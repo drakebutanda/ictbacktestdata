@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-30 11:15 UTC",
+  "ts": "2026-07-30 14:22 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 8,
-  "avg_sentiment": 0.012,
+  "headlines": 98,
+  "recent": 19,
+  "avg_sentiment": 0.069,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "My girlfriend is 62. Can she claim her late husband\u2019s full Social Security benefit \u2014 or does she have to wait?",
-      "s": 0.66
+      "t": "Wall Street just suffered a historic crash in highflying stocks. Why a quick tech rebound could be a trap.",
+      "s": -0.8
     },
     {
-      "t": "The World Cup winners wore Adidas shirts. But the company\u2019s investors are still crying foul.",
-      "s": -0.48
+      "t": "Starbucks raises full-year outlook as CEO tells CNBC the chain is winning back customer loyalty",
+      "s": 0.78
     },
     {
-      "t": "Yum Brands reports mixed results but gives no update on Taco Bell cyclospora outbreak",
-      "s": -0.42
+      "t": "\u2018Love Island USA\u2019 winners are using their $100,000 prize money to pay bills and student loans. Many Americans can relate.",
+      "s": 0.72
     },
     {
-      "t": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
-      "s": 0.36
+      "t": "New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy'",
+      "s": 0.72
     },
     {
-      "t": "Social Security\u2019s biggest problem isn\u2019t a design flaw. It\u2019s a missing trust fund.",
-      "s": -0.15
+      "t": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+      "s": -0.69
     }
   ]
 }
