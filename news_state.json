@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-30 16:41 UTC",
+  "ts": "2026-07-30 18:22 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 17,
-  "avg_sentiment": -0.005,
+  "recent": 12,
+  "avg_sentiment": -0.09,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "My friend and her husband own real estate. How can her children from a previous marriage get their fair share?",
-      "s": 0.77
-    },
-    {
-      "t": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
-      "s": -0.69
-    },
-    {
-      "t": "My girlfriend is 62. Can she claim her late husband\u2019s full Social Security benefit \u2014 or does she have to wait?",
-      "s": 0.66
+      "t": "UEFA threatens World Cup boycott over FIFA private equity investment plan",
+      "s": -0.6
     },
     {
       "t": "How NBCUniversal's deal with YouTube could jump-start the next chapter of the streaming wars",
       "s": -0.56
     },
     {
-      "t": "I\u2019ve seen families destroyed by this common estate-planning mistake. Here\u2019s how to protect yours.",
-      "s": -0.46
+      "t": "My financial adviser says I don\u2019t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
+      "s": -0.42
+    },
+    {
+      "t": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft\u2019s earnings",
+      "s": 0.38
+    },
+    {
+      "t": "Retailer Reformation opens flat in NYSE debut as CEO says company is 'ready to scale'",
+      "s": 0.36
     }
   ]
 }
