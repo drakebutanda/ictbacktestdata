@@ -1,27 +1,23 @@
 {
-  "ts": "2026-07-30 02:56 UTC",
+  "ts": "2026-07-30 05:50 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 4,
-  "avg_sentiment": -0.19,
+  "recent": 3,
+  "avg_sentiment": 0.04,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
-      "s": -0.9
+      "t": "Samsung Electronics second-quarter operating profit beats estimates on soaring AI chip demand",
+      "s": 0.34
     },
     {
-      "t": "Inside India newsletter: Meta's clout in the world's largest democracy is surging \u2014 inviting scrutiny",
-      "s": 0.32
+      "t": "The Strait of Hormuz is just one trade chokepoint facing a new era of maritime warfare",
+      "s": -0.3
     },
     {
-      "t": "U.S. strikes Iran after surprise missile attack, dashing hopes of de-escalation",
-      "s": -0.18
-    },
-    {
-      "t": "China AI supplier Zhongji Innolight slips in Hong Kong debut after $6.8 billion IPO",
-      "s": 0.0
+      "t": "Here\u2019s why Europe\u2019s hot summers are becoming an expensive challenge",
+      "s": 0.08
     }
   ]
 }
