@@ -1,30 +1,30 @@
 {
-  "ts": "2026-07-31 10:48 UTC",
+  "ts": "2026-07-31 13:01 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 9,
-  "avg_sentiment": -0.17,
+  "headlines": 100,
+  "recent": 14,
+  "avg_sentiment": 0.028,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "My friend and her husband own real estate. How can her children from a previous marriage get their fair share?",
-      "s": 0.77
+      "t": "ExxonMobil, Chevron\u2019s combined profits quadrupled in three months as the Iran war raged",
+      "s": -0.61
     },
     {
-      "t": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-      "s": -0.74
+      "t": "Beyond Trump Account S&P 500 fund: How to increase odds of lifetime financial security for children",
+      "s": 0.57
     },
     {
-      "t": "Oi prices choppy as recovering Hormuz Strait traffic tempers war premium",
-      "s": -0.74
-    },
-    {
-      "t": "\u2018Don\u2019t get suckered like I did\u2019: I paid $185 to the wrong passport website. Can I get my money back?",
+      "t": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
       "s": -0.56
     },
     {
-      "t": "A portfolio manager says investors are looking overseas as Magnificent Seven worries grow. Here are the stocks and sectors he favors",
+      "t": "Novo Nordisk shares dive after heart medicine fails trial, dealing another blow toits  pipeline",
+      "s": 0.56
+    },
+    {
+      "t": "Fed dissenters speak: Why they backed higher interest rates",
       "s": 0.48
     }
   ]
