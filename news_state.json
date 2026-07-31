@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-31 20:24 UTC",
+  "ts": "2026-07-31 22:11 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 13,
-  "avg_sentiment": 0.057,
+  "recent": 8,
+  "avg_sentiment": 0.126,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-      "s": -0.74
+      "t": "Health savings accounts can be a great retirement tool \u2013 if you\u2019re healthy or wealthy",
+      "s": 0.85
     },
     {
-      "t": "We\u2019re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?",
-      "s": 0.67
+      "t": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+      "s": 0.38
     },
     {
-      "t": "Hamas says Trump's Gaza 'disarmament' claim depends on Israel honoring commitments",
-      "s": 0.59
+      "t": "Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar",
+      "s": -0.23
     },
     {
-      "t": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week",
-      "s": 0.48
+      "t": "Situational Awareness vs. Long-Term Capital Management: A side-by-side comparison",
+      "s": 0.0
     },
     {
-      "t": "Oil prices rise after Iran says it attacked two tankers transiting Strait of Hormuz",
-      "s": -0.46
+      "t": "The S&P 500 is making a change by adding this little-known industrial stock",
+      "s": 0.0
     }
   ]
 }
