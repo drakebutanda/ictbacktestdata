@@ -1,30 +1,26 @@
 {
-  "ts": "2026-07-31 04:29 UTC",
+  "ts": "2026-07-31 07:56 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 5,
-  "avg_sentiment": -0.041,
+  "recent": 4,
+  "avg_sentiment": 0.103,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants",
-      "s": 0.6
+      "t": "SK Hynix, Samsung shares skyrocket to clock best days as AI rally roars back",
+      "s": 0.75
     },
     {
-      "t": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium",
-      "s": -0.57
+      "t": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack",
+      "s": -0.34
     },
     {
-      "t": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
-      "s": -0.13
+      "t": "Deadly storms and a global supply squeeze are sending copper prices soaring",
+      "s": 0.0
     },
     {
-      "t": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target",
-      "s": -0.1
-    },
-    {
-      "t": "South Korea's 'bipolar' stock market: meltdowns, a record rally and what's to come",
+      "t": "Fast-fashion retailer Shein\u2019s 3-year IPO odyssey may have cost it the \u2018golden time\u2019 to go public",
       "s": 0.0
     }
   ]
