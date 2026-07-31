@@ -1,30 +1,30 @@
 {
-  "ts": "2026-07-31 00:10 UTC",
+  "ts": "2026-07-31 04:29 UTC",
   "feeds_live": 5,
   "headlines": 99,
   "recent": 5,
-  "avg_sentiment": 0.071,
+  "avg_sentiment": -0.041,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
-      "s": 0.38
+      "t": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants",
+      "s": 0.6
     },
     {
-      "t": "Empty seats? Concert giant Live Nation says ticket sales are actually at record levels.",
-      "s": -0.2
+      "t": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium",
+      "s": -0.57
     },
     {
-      "t": "Amazon soars after CEO Andy Jassy makes the case for its massive AI investment",
-      "s": 0.18
+      "t": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
+      "s": -0.13
     },
     {
-      "t": "Fast-fashion retailer Shein\u2019s 3-year IPO odyssey cost it the \u2018golden time\u2019 to go public",
-      "s": 0.0
+      "t": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target",
+      "s": -0.1
     },
     {
-      "t": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo to employees",
+      "t": "South Korea's 'bipolar' stock market: meltdowns, a record rally and what's to come",
       "s": 0.0
     }
   ]
