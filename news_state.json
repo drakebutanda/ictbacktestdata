@@ -1,9 +1,9 @@
 {
-  "ts": "2026-07-31 16:04 UTC",
+  "ts": "2026-07-31 18:24 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 17,
-  "avg_sentiment": -0.004,
+  "headlines": 99,
+  "recent": 16,
+  "avg_sentiment": -0.079,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": 0.85
     },
     {
-      "t": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+      "t": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?",
+      "s": -0.82
+    },
+    {
+      "t": "My girlfriend is 62. Can she claim her late husband\u2019s full Social Security benefit \u2014 or does she have to wait?",
+      "s": 0.66
+    },
+    {
+      "t": "The S&P 500 is stuck at a key battleground level. This obscure index could determine the market\u2019s next move",
+      "s": -0.57
+    },
+    {
+      "t": "\u2018Don\u2019t get suckered like I did\u2019: I paid $185 to the wrong passport website. Can I get my money back?",
       "s": -0.56
-    },
-    {
-      "t": "Democrats demand information on Trump and Lutnick families' ties to critical mineral deals",
-      "s": -0.42
-    },
-    {
-      "t": "Micron\u2019s stock falls after Apple\u2019s Tim Cook expresses a desire for more memory suppliers",
-      "s": 0.4
-    },
-    {
-      "t": "Corporate insiders are sending warning signals about the stock market",
-      "s": -0.34
     }
   ]
 }
