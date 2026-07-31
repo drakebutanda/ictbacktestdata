@@ -1,27 +1,31 @@
 {
-  "ts": "2026-07-31 07:56 UTC",
+  "ts": "2026-07-31 10:48 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 4,
-  "avg_sentiment": 0.103,
-  "burst": false,
+  "recent": 9,
+  "avg_sentiment": -0.17,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "SK Hynix, Samsung shares skyrocket to clock best days as AI rally roars back",
-      "s": 0.75
+      "t": "My friend and her husband own real estate. How can her children from a previous marriage get their fair share?",
+      "s": 0.77
     },
     {
-      "t": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack",
-      "s": -0.34
+      "t": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "s": -0.74
     },
     {
-      "t": "Deadly storms and a global supply squeeze are sending copper prices soaring",
-      "s": 0.0
+      "t": "Oi prices choppy as recovering Hormuz Strait traffic tempers war premium",
+      "s": -0.74
     },
     {
-      "t": "Fast-fashion retailer Shein\u2019s 3-year IPO odyssey may have cost it the \u2018golden time\u2019 to go public",
-      "s": 0.0
+      "t": "\u2018Don\u2019t get suckered like I did\u2019: I paid $185 to the wrong passport website. Can I get my money back?",
+      "s": -0.56
+    },
+    {
+      "t": "A portfolio manager says investors are looking overseas as Magnificent Seven worries grow. Here are the stocks and sectors he favors",
+      "s": 0.48
     }
   ]
 }
