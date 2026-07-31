@@ -1,31 +1,31 @@
 {
-  "ts": "2026-07-31 13:01 UTC",
+  "ts": "2026-07-31 16:04 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 14,
-  "avg_sentiment": 0.028,
+  "recent": 17,
+  "avg_sentiment": -0.004,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "ExxonMobil, Chevron\u2019s combined profits quadrupled in three months as the Iran war raged",
-      "s": -0.61
-    },
-    {
-      "t": "Beyond Trump Account S&P 500 fund: How to increase odds of lifetime financial security for children",
-      "s": 0.57
+      "t": "HSAs can be a great retirement tool \u2013 if you\u2019re healthy or wealthy",
+      "s": 0.85
     },
     {
       "t": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
       "s": -0.56
     },
     {
-      "t": "Novo Nordisk shares dive after heart medicine fails trial, dealing another blow toits  pipeline",
-      "s": 0.56
+      "t": "Democrats demand information on Trump and Lutnick families' ties to critical mineral deals",
+      "s": -0.42
     },
     {
-      "t": "Fed dissenters speak: Why they backed higher interest rates",
-      "s": 0.48
+      "t": "Micron\u2019s stock falls after Apple\u2019s Tim Cook expresses a desire for more memory suppliers",
+      "s": 0.4
+    },
+    {
+      "t": "Corporate insiders are sending warning signals about the stock market",
+      "s": -0.34
     }
   ]
 }
