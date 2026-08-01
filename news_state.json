@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-01 18:04 UTC",
+  "ts": "2026-08-01 20:12 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 4,
-  "avg_sentiment": 0.108,
+  "recent": 0,
+  "avg_sentiment": 0.003,
   "burst": false,
   "mood": "neutral",
   "top": [
@@ -12,16 +12,20 @@
       "s": 0.85
     },
     {
-      "t": "My financial adviser says I don\u2019t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
-      "s": -0.42
+      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
+      "s": 0.82
     },
     {
-      "t": "Americans are living longer than our retirement system can handle \u2014 and many of us are unprepared",
-      "s": 0.0
+      "t": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?",
+      "s": -0.82
     },
     {
-      "t": "I\u2019m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?",
-      "s": 0.0
+      "t": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
+      "s": -0.82
+    },
+    {
+      "t": "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'",
+      "s": -0.81
     }
   ]
 }
