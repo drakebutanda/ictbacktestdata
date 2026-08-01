@@ -1,30 +1,26 @@
 {
-  "ts": "2026-08-01 16:06 UTC",
+  "ts": "2026-08-01 18:04 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 5,
-  "avg_sentiment": -0.026,
+  "recent": 4,
+  "avg_sentiment": 0.108,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-      "s": -0.74
+      "t": "Health savings accounts can be a great retirement tool \u2013 if you\u2019re healthy or wealthy",
+      "s": 0.85
     },
     {
-      "t": "Caregivers deplete their savings and many have stopped trying to save. Should they get paid?",
-      "s": 0.32
+      "t": "My financial adviser says I don\u2019t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
+      "s": -0.42
     },
     {
-      "t": "Berkshire Hathaway shares hit eight-month high",
-      "s": 0.3
-    },
-    {
-      "t": "\u2018We have always been civil\u2019: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "t": "Americans are living longer than our retirement system can handle \u2014 and many of us are unprepared",
       "s": 0.0
     },
     {
-      "t": "Medicare is about to change a drug program that held down the cost of premiums. Here\u2019s what to know.",
+      "t": "I\u2019m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?",
       "s": 0.0
     }
   ]
