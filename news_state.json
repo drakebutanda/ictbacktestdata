@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-01 14:37 UTC",
+  "ts": "2026-08-01 16:06 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 7,
-  "avg_sentiment": -0.064,
+  "recent": 5,
+  "avg_sentiment": -0.026,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Looking at just the odds isn\u2019t enough. How traders gain an edge on prediction markets",
-      "s": 0.53
+      "t": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "s": -0.74
     },
     {
-      "t": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
-      "s": -0.51
+      "t": "Caregivers deplete their savings and many have stopped trying to save. Should they get paid?",
+      "s": 0.32
     },
     {
-      "t": "They spent tens of thousands of dollars on home remodels \u2014 only to regret it",
-      "s": -0.42
+      "t": "Berkshire Hathaway shares hit eight-month high",
+      "s": 0.3
     },
     {
-      "t": "Within Uber-Waymo split, a key labor battle over AVs is being waged in the nation's capital",
-      "s": -0.38
+      "t": "\u2018We have always been civil\u2019: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "s": 0.0
     },
     {
-      "t": "Trump Media's new paid data service goes live, giving clients faster access to Trump\u2019s posts",
-      "s": 0.34
+      "t": "Medicare is about to change a drug program that held down the cost of premiums. Here\u2019s what to know.",
+      "s": 0.0
     }
   ]
 }
