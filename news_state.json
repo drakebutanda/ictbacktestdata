@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-01 12:06 UTC",
+  "ts": "2026-08-01 14:37 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 10,
-  "avg_sentiment": -0.415,
-  "burst": true,
-  "mood": "risk-off",
+  "recent": 7,
+  "avg_sentiment": -0.064,
+  "burst": false,
+  "mood": "neutral",
   "top": [
     {
-      "t": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
-      "s": -0.82
+      "t": "Looking at just the odds isn\u2019t enough. How traders gain an edge on prediction markets",
+      "s": 0.53
     },
     {
-      "t": "The Iran war sent investors into fertilizer stocks \u2014 but here\u2019s the China risk everyone\u2019s missing",
-      "s": -0.78
+      "t": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
+      "s": -0.51
     },
     {
-      "t": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-      "s": -0.74
+      "t": "They spent tens of thousands of dollars on home remodels \u2014 only to regret it",
+      "s": -0.42
     },
     {
-      "t": "Loyalists may miss the old Southwest. Wall Street loves the new one.",
-      "s": 0.64
+      "t": "Within Uber-Waymo split, a key labor battle over AVs is being waged in the nation's capital",
+      "s": -0.38
     },
     {
-      "t": "3 Wall Street strategists on the question every investor is asking: Is the worst over for the stock market?",
-      "s": -0.62
+      "t": "Trump Media's new paid data service goes live, giving clients faster access to Trump\u2019s posts",
+      "s": 0.34
     }
   ]
 }
