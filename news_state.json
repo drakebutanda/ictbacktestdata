@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-01 10:06 UTC",
+  "ts": "2026-08-01 12:06 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 0,
-  "avg_sentiment": -0.014,
-  "burst": false,
-  "mood": "neutral",
+  "recent": 10,
+  "avg_sentiment": -0.415,
+  "burst": true,
+  "mood": "risk-off",
   "top": [
     {
-      "t": "Health savings accounts can be a great retirement tool \u2013 if you\u2019re healthy or wealthy",
-      "s": 0.85
-    },
-    {
-      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
-      "s": 0.82
-    },
-    {
-      "t": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?",
+      "t": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
       "s": -0.82
     },
     {
-      "t": "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'",
-      "s": -0.81
+      "t": "The Iran war sent investors into fertilizer stocks \u2014 but here\u2019s the China risk everyone\u2019s missing",
+      "s": -0.78
     },
     {
       "t": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
       "s": -0.74
+    },
+    {
+      "t": "Loyalists may miss the old Southwest. Wall Street loves the new one.",
+      "s": 0.64
+    },
+    {
+      "t": "3 Wall Street strategists on the question every investor is asking: Is the worst over for the stock market?",
+      "s": -0.62
     }
   ]
 }
