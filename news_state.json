@@ -1,19 +1,31 @@
 {
-  "ts": "2026-08-01 07:32 UTC",
+  "ts": "2026-08-01 10:06 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": -0.109,
+  "recent": 0,
+  "avg_sentiment": -0.014,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Iran's overlapping power centers make ending the war more complicated",
-      "s": -0.6
+      "t": "Health savings accounts can be a great retirement tool \u2013 if you\u2019re healthy or wealthy",
+      "s": 0.85
     },
     {
-      "t": "Building for 131\u00b0F: Europe races to protect its infrastructure from a \u2018quiet catastrophe\u2019",
-      "s": 0.38
+      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
+      "s": 0.82
+    },
+    {
+      "t": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?",
+      "s": -0.82
+    },
+    {
+      "t": "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'",
+      "s": -0.81
+    },
+    {
+      "t": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "s": -0.74
     }
   ]
 }
