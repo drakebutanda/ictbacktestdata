@@ -1,23 +1,19 @@
 {
-  "ts": "2026-08-01 22:01 UTC",
+  "ts": "2026-08-02 00:03 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": -0.52,
+  "recent": 2,
+  "avg_sentiment": -0.563,
   "burst": false,
   "mood": "risk-off",
   "top": [
     {
-      "t": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
-      "s": -0.82
+      "t": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame",
+      "s": -0.77
     },
     {
-      "t": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-      "s": -0.74
-    },
-    {
-      "t": "\u2018We have always been civil\u2019: My sister refuses to replace me as executor. Can I step down before she dies?",
-      "s": 0.0
+      "t": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days",
+      "s": -0.36
     }
   ]
 }
