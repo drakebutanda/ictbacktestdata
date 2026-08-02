@@ -1,31 +1,15 @@
 {
-  "ts": "2026-08-02 07:36 UTC",
+  "ts": "2026-08-02 10:04 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 0,
-  "avg_sentiment": 0.006,
+  "recent": 1,
+  "avg_sentiment": 0.226,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Health savings accounts can be a great retirement tool \u2013 if you\u2019re healthy or wealthy",
-      "s": 0.85
-    },
-    {
-      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
-      "s": 0.82
-    },
-    {
-      "t": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame",
-      "s": -0.77
-    },
-    {
-      "t": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-      "s": -0.74
-    },
-    {
-      "t": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say",
-      "s": -0.74
+      "t": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'",
+      "s": 0.23
     }
   ]
 }
