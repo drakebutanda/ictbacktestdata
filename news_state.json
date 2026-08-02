@@ -1,19 +1,31 @@
 {
-  "ts": "2026-08-02 00:03 UTC",
+  "ts": "2026-08-02 04:29 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": -0.563,
+  "recent": 0,
+  "avg_sentiment": 0.009,
   "burst": false,
-  "mood": "risk-off",
+  "mood": "neutral",
   "top": [
+    {
+      "t": "Health savings accounts can be a great retirement tool \u2013 if you\u2019re healthy or wealthy",
+      "s": 0.85
+    },
+    {
+      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
+      "s": 0.82
+    },
     {
       "t": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame",
       "s": -0.77
     },
     {
-      "t": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days",
-      "s": -0.36
+      "t": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "s": -0.74
+    },
+    {
+      "t": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
+      "s": -0.73
     }
   ]
 }
