@@ -1,31 +1,15 @@
 {
-  "ts": "2026-08-02 22:01 UTC",
+  "ts": "2026-08-03 00:04 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 0,
-  "avg_sentiment": 0.017,
+  "recent": 1,
+  "avg_sentiment": -0.128,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
-      "s": 0.82
-    },
-    {
-      "t": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?",
-      "s": -0.82
-    },
-    {
-      "t": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
-      "s": -0.78
-    },
-    {
-      "t": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame",
-      "s": -0.77
-    },
-    {
-      "t": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-      "s": -0.74
+      "t": "Oil drops over 4% after Trump calls off planned strike on Iran",
+      "s": -0.13
     }
   ]
 }
