@@ -1,27 +1,27 @@
 {
-  "ts": "2026-08-03 19:50 UTC",
+  "ts": "2026-08-03 21:12 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 17,
-  "avg_sentiment": 0.005,
+  "recent": 16,
+  "avg_sentiment": 0.13,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "A trio of positive developments has Boeing shares soaring",
-      "s": 0.7
+      "t": "Palantir\u2019s stock gains as AI drives turbocharged growth",
+      "s": 0.61
     },
     {
-      "t": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?",
-      "s": 0.64
-    },
-    {
-      "t": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
-      "s": -0.6
+      "t": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
+      "s": 0.61
     },
     {
       "t": "Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'",
       "s": -0.53
+    },
+    {
+      "t": "Snap's stock jumps 10% on earnings beat and strong sales forecast",
+      "s": 0.51
     },
     {
       "t": "Oil prices tumble after Trump calls off attack on Iran",
