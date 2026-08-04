@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-04 12:06 UTC",
+  "ts": "2026-08-04 15:29 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 14,
-  "avg_sentiment": 0.09,
+  "recent": 19,
+  "avg_sentiment": 0.138,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Caterpillar is killing it, and data-center demand is driving record revenue",
-      "s": -0.71
+      "t": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+      "s": 0.87
     },
     {
-      "t": "Wayfair posts strongest U.S. growth since 2020",
+      "t": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+      "s": -0.8
+    },
+    {
+      "t": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "s": -0.74
+    },
+    {
+      "t": "Wayfair stock jumps more than 25% as retailer posts strongest U.S. growth since 2020",
       "s": 0.67
     },
     {
       "t": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
       "s": 0.66
-    },
-    {
-      "t": "Trump warns Iran talks are \u2018last chance\u2019 to end war as Qatar confirms diplomatic efforts",
-      "s": -0.65
-    },
-    {
-      "t": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?",
-      "s": 0.64
     }
   ]
 }
