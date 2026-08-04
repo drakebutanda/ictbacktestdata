@@ -1,19 +1,27 @@
 {
-  "ts": "2026-08-04 06:34 UTC",
+  "ts": "2026-08-04 09:43 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": 0.162,
+  "recent": 7,
+  "avg_sentiment": 0.092,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "BP profit more than doubles as Trump blasts Big Oil for \u2018making too much money\u2019",
-      "s": 0.44
+      "t": "Trump warns Iran talks are \u2018last chance\u2019 to end war \u2014 oil prices rise as Tehran denies negotiations",
+      "s": -0.8
     },
     {
-      "t": "AI is helping Grab ship products more than 30% faster, CFO says, as company raises forecasts",
-      "s": 0.3
+      "t": "Takaichi\u2019s fiscal push could lift growth \u2014 and Japan\u2019s already-rising interest bill",
+      "s": 0.68
+    },
+    {
+      "t": "Energy shock delivers 144% boost in profits for BP",
+      "s": 0.62
+    },
+    {
+      "t": "Meg Ryan finds a buyer for picturesque $15.25 million Hamptons property",
+      "s": 0.38
     },
     {
       "t": "Saudi Aramco profits jump 33% in second quarter as Iran war squeezes oil supply",
