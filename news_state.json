@@ -1,19 +1,23 @@
 {
-  "ts": "2026-08-04 03:25 UTC",
+  "ts": "2026-08-04 06:34 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": 0.148,
+  "recent": 3,
+  "avg_sentiment": 0.162,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "AI is helping Grab ship products 3 times faster, CFO says, as company raises forecasts",
+      "t": "BP profit more than doubles as Trump blasts Big Oil for \u2018making too much money\u2019",
+      "s": 0.44
+    },
+    {
+      "t": "AI is helping Grab ship products more than 30% faster, CFO says, as company raises forecasts",
       "s": 0.3
     },
     {
-      "t": "India to raise up to $3.3 billion by selling stake in country\u2019s largest life insurer at 10% discount",
-      "s": 0.0
+      "t": "Saudi Aramco profits jump 33% in second quarter as Iran war squeezes oil supply",
+      "s": -0.25
     }
   ]
 }
