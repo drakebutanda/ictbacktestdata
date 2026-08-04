@@ -1,31 +1,19 @@
 {
-  "ts": "2026-08-03 23:11 UTC",
+  "ts": "2026-08-04 03:25 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 12,
-  "avg_sentiment": 0.232,
-  "burst": true,
+  "recent": 2,
+  "avg_sentiment": 0.148,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-      "s": 0.87
+      "t": "AI is helping Grab ship products 3 times faster, CFO says, as company raises forecasts",
+      "s": 0.3
     },
     {
-      "t": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?",
-      "s": 0.64
-    },
-    {
-      "t": "Snap's stock jumps 8% on earnings beat and strong sales forecast",
-      "s": 0.51
-    },
-    {
-      "t": "Microsoft\u2019s stock is on a run not seen in 26 years \u2014 erasing its year-to-date losses",
-      "s": -0.4
-    },
-    {
-      "t": "Analysis: Federal Reserve may be pulled into Bessent\u2019s effort to support Japan\u2019s yen",
-      "s": 0.4
+      "t": "India to raise up to $3.3 billion by selling stake in country\u2019s largest life insurer at 10% discount",
+      "s": 0.0
     }
   ]
 }
