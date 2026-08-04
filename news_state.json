@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-04 15:29 UTC",
+  "ts": "2026-08-04 17:56 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 19,
-  "avg_sentiment": 0.138,
+  "recent": 10,
+  "avg_sentiment": 0.166,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-      "s": 0.87
-    },
-    {
-      "t": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-      "s": -0.8
-    },
-    {
-      "t": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-      "s": -0.74
-    },
-    {
-      "t": "Wayfair stock jumps more than 25% as retailer posts strongest U.S. growth since 2020",
-      "s": 0.67
-    },
-    {
       "t": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
       "s": 0.66
+    },
+    {
+      "t": "The richest 20% are buying most of the new cars sold in the U.S.",
+      "s": 0.53
+    },
+    {
+      "t": "Blanche approved by Judiciary Committee, sending Trump's AG nominee to full Senate vote",
+      "s": 0.42
+    },
+    {
+      "t": "New Jersey sues Amazon on antitrust grounds, alleging it unlawfully wielded its power over delivery contractors",
+      "s": 0.18
+    },
+    {
+      "t": "Palantir jumps 30% on 'otherworldly' commercial revenue \u2014 here's what's driving the demand",
+      "s": -0.13
     }
   ]
 }
