@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-04 19:48 UTC",
+  "ts": "2026-08-04 21:19 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 13,
-  "avg_sentiment": 0.285,
+  "recent": 21,
+  "avg_sentiment": 0.194,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-      "s": 0.87
+      "t": "Paramount Skydance raises full-year profit guidance, remains 'confident' about WBD merger",
+      "s": 0.73
     },
     {
-      "t": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?",
-      "s": 0.64
+      "t": "Wayfair stock jumps 30% as retailer posts strongest U.S. growth since 2020",
+      "s": 0.67
     },
     {
-      "t": "TikTok users are sharing the items they say are always worth the money\u2014here's what financial planners say",
-      "s": 0.57
+      "t": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "s": 0.48
     },
     {
-      "t": "These charts suggest the S&P 500 is looking like a bargain. Take them with a grain of salt.",
-      "s": 0.51
+      "t": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "s": 0.48
     },
     {
-      "t": "Oil prices dive on hopes that a deal to reopen the Strait of Hormuz will be made soon",
-      "s": 0.42
+      "t": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+      "s": 0.48
     }
   ]
 }
