@@ -1,31 +1,15 @@
 {
-  "ts": "2026-08-04 23:10 UTC",
+  "ts": "2026-08-05 03:20 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 9,
-  "avg_sentiment": -0.043,
-  "burst": true,
-  "mood": "neutral",
+  "recent": 1,
+  "avg_sentiment": 0.451,
+  "burst": false,
+  "mood": "risk-on",
   "top": [
     {
-      "t": "Upstart\u2019s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
-      "s": 0.59
-    },
-    {
-      "t": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
-      "s": -0.42
-    },
-    {
-      "t": "How the 'Baby iPhone' and an Apple supplier leak explain China's recent supply chain moves",
-      "s": -0.34
-    },
-    {
-      "t": "Sen. Susan Collins will oppose Blanche, a critical blow for Trump's AG pick",
-      "s": -0.32
-    },
-    {
-      "t": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle",
-      "s": -0.32
+      "t": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
+      "s": 0.45
     }
   ]
 }
