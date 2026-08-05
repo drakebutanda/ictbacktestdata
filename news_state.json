@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-05 12:04 UTC",
+  "ts": "2026-08-05 15:20 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 16,
-  "avg_sentiment": 0.16,
+  "recent": 18,
+  "avg_sentiment": 0.158,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Disney tops earnings estimates as parks and streaming offer a boost",
-      "s": 0.72
+      "t": "Disney weighs free ad-supported streaming, says it has sold out Super Bowl ad spots",
+      "s": 0.8
     },
     {
       "t": "Eli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge",
       "s": 0.69
     },
     {
-      "t": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?",
-      "s": 0.64
+      "t": "Shopify\u2019s stock heads for best day in a year after the company \u2018left no doubt\u2019 about its growth trajectory",
+      "s": 0.68
     },
     {
-      "t": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
-      "s": 0.64
+      "t": "It\u2019s the worst time in years to invest in AI credit markets: \u2018Almost no upside and plenty of downside\u2019",
+      "s": -0.57
     },
     {
-      "t": "CVS blows past estimates, hikes guidance as insurance unit continues to improve",
-      "s": 0.44
+      "t": "Abdul El-Sayed wins Michigan Democratic Senate primary as voters pivot to the left",
+      "s": 0.57
     }
   ]
 }
