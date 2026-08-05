@@ -1,15 +1,27 @@
 {
-  "ts": "2026-08-05 03:20 UTC",
+  "ts": "2026-08-05 06:35 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": 0.451,
+  "headlines": 99,
+  "recent": 4,
+  "avg_sentiment": -0.168,
   "burst": false,
-  "mood": "risk-on",
+  "mood": "neutral",
   "top": [
     {
-      "t": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
-      "s": 0.45
+      "t": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
+      "s": -0.63
+    },
+    {
+      "t": "Novo Nordisk's raised forecast fails to change the debate over its obesity business",
+      "s": -0.42
+    },
+    {
+      "t": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts",
+      "s": 0.38
+    },
+    {
+      "t": "India's central bank keeps benchmark rates steady, cites 'moderate' core inflation",
+      "s": 0.0
     }
   ]
 }
