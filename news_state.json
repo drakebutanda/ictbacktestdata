@@ -1,26 +1,30 @@
 {
-  "ts": "2026-08-05 06:35 UTC",
+  "ts": "2026-08-05 09:41 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 4,
-  "avg_sentiment": -0.168,
-  "burst": false,
+  "recent": 8,
+  "avg_sentiment": -0.055,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
-      "s": -0.63
+      "t": "Russian attack kills at least 17 in Kyiv as Ukraine hammers more Wildberries warehouses",
+      "s": -0.77
     },
     {
-      "t": "Novo Nordisk's raised forecast fails to change the debate over its obesity business",
-      "s": -0.42
+      "t": "AMD plummets 8% in premarket trading despite beating expectations",
+      "s": 0.36
     },
     {
-      "t": "China's super-rich 'in shock' and hunting for cash as Beijing issues surprise tax on offshore trusts",
-      "s": 0.38
+      "t": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "s": -0.3
     },
     {
-      "t": "India's central bank keeps benchmark rates steady, cites 'moderate' core inflation",
+      "t": "Trump says Hormuz deal could be agreed Wednesday or Thursday as he\u00a0 hails \u2018very good\u2019 Iran talks",
+      "s": 0.27
+    },
+    {
+      "t": "This is the whopping amount Joe Rogan earns from the podcast he airs at his $14.4 million Austin home",
       "s": 0.0
     }
   ]
