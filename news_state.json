@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-05 15:20 UTC",
+  "ts": "2026-08-05 17:48 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 18,
-  "avg_sentiment": 0.158,
+  "recent": 8,
+  "avg_sentiment": 0.043,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Disney weighs free ad-supported streaming, says it has sold out Super Bowl ad spots",
-      "s": 0.8
+      "t": "Salad and Go files for Chapter 11 bankruptcy after cyclospora fears worsened its challenges",
+      "s": -0.66
     },
     {
-      "t": "Eli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge",
-      "s": 0.69
-    },
-    {
-      "t": "Shopify\u2019s stock heads for best day in a year after the company \u2018left no doubt\u2019 about its growth trajectory",
-      "s": 0.68
-    },
-    {
-      "t": "It\u2019s the worst time in years to invest in AI credit markets: \u2018Almost no upside and plenty of downside\u2019",
-      "s": -0.57
+      "t": "Manager of DRAM memory chip stock trade blockbuster ETF is back with new AI thematic bet",
+      "s": 0.6
     },
     {
       "t": "Abdul El-Sayed wins Michigan Democratic Senate primary as voters pivot to the left",
       "s": 0.57
+    },
+    {
+      "t": "Alphabet\u2019s stock drops as Google loses another key AI executive",
+      "s": -0.32
+    },
+    {
+      "t": "SpaceX stock falls 10% as AI spending surge rattles investors and massive share unlock looms",
+      "s": 0.15
     }
   ]
 }
