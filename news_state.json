@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-05 21:19 UTC",
+  "ts": "2026-08-05 23:08 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 14,
-  "avg_sentiment": 0.179,
-  "burst": true,
+  "headlines": 100,
+  "recent": 6,
+  "avg_sentiment": -0.098,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "E.l.f. Beauty sees $50 million windfall in tariff refunds as profits surge 100%",
-      "s": 0.77
+      "t": "Block slashed 40% of its workforce for AI \u2014 and its earnings suggest that\u2019s paying off",
+      "s": -0.59
     },
     {
-      "t": "Changing how Medicare pays for hospice care could save the U.S. $7.6 billion a year \u2014 but at what cost to patients?",
-      "s": 0.49
+      "t": "Sandisk\u2019s stock falls as the company\u2019s forecast doesn\u2019t live up to high expectations",
+      "s": 0.0
     },
     {
-      "t": "Etsy laying off 12% of staff in bid to streamline business, position for growth",
-      "s": 0.38
+      "t": "Figma\u2019s stock falls as the company\u2019s AI push requires steep investments",
+      "s": 0.0
     },
     {
-      "t": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
-      "s": 0.38
+      "t": "Jim Cramer says investors should consider buying SpaceX for their kids",
+      "s": 0.0
     },
     {
-      "t": "Retail investors are buying the dip on SpaceX\u2019s stock before more shares flood the market",
-      "s": 0.36
+      "t": "Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks",
+      "s": 0.0
     }
   ]
 }
