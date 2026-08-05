@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-05 09:41 UTC",
+  "ts": "2026-08-05 12:04 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 8,
-  "avg_sentiment": -0.055,
+  "recent": 16,
+  "avg_sentiment": 0.16,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Russian attack kills at least 17 in Kyiv as Ukraine hammers more Wildberries warehouses",
-      "s": -0.77
+      "t": "Disney tops earnings estimates as parks and streaming offer a boost",
+      "s": 0.72
     },
     {
-      "t": "AMD plummets 8% in premarket trading despite beating expectations",
-      "s": 0.36
+      "t": "Eli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge",
+      "s": 0.69
     },
     {
-      "t": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-      "s": -0.3
+      "t": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?",
+      "s": 0.64
     },
     {
-      "t": "Trump says Hormuz deal could be agreed Wednesday or Thursday as he\u00a0 hails \u2018very good\u2019 Iran talks",
-      "s": 0.27
+      "t": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
+      "s": 0.64
     },
     {
-      "t": "This is the whopping amount Joe Rogan earns from the podcast he airs at his $14.4 million Austin home",
-      "s": 0.0
+      "t": "CVS blows past estimates, hikes guidance as insurance unit continues to improve",
+      "s": 0.44
     }
   ]
 }
