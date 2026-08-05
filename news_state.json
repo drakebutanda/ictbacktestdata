@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-05 17:48 UTC",
+  "ts": "2026-08-05 19:46 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 8,
-  "avg_sentiment": 0.043,
+  "recent": 13,
+  "avg_sentiment": 0.19,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Salad and Go files for Chapter 11 bankruptcy after cyclospora fears worsened its challenges",
-      "s": -0.66
-    },
-    {
-      "t": "Manager of DRAM memory chip stock trade blockbuster ETF is back with new AI thematic bet",
-      "s": 0.6
+      "t": "Kids Online Safety Act social media safety bill advances in Senate",
+      "s": 0.68
     },
     {
       "t": "Abdul El-Sayed wins Michigan Democratic Senate primary as voters pivot to the left",
       "s": 0.57
     },
     {
-      "t": "Alphabet\u2019s stock drops as Google loses another key AI executive",
-      "s": -0.32
+      "t": "Senate vote on the Protect College Sports Act could come this week: What it means for transfers and salary caps",
+      "s": 0.38
     },
     {
-      "t": "SpaceX stock falls 10% as AI spending surge rattles investors and massive share unlock looms",
-      "s": 0.15
+      "t": "Retail investors are buying the dip on SpaceX\u2019s stock before more shares flood the market",
+      "s": 0.36
+    },
+    {
+      "t": "SolarEdge\u2019s stock is shedding a quarter of its value as sales woes trump AI progress",
+      "s": 0.32
     }
   ]
 }
