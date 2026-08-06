@@ -1,27 +1,31 @@
 {
-  "ts": "2026-08-06 06:38 UTC",
+  "ts": "2026-08-06 09:44 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": -0.123,
+  "recent": 7,
+  "avg_sentiment": 0.191,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. ready to return to 'commitments,' Iran says, after Trump signals deal is near",
-      "s": 0.46
+      "t": "Why the country with great political turmoil still has the best bonds to buy",
+      "s": 0.78
     },
     {
-      "t": "Google is expanding its AI empire \u2014 and losing the people who built it",
-      "s": -0.38
+      "t": "SpaceX insiders get their first chance to cash out \u2014 but the stock\u2019s slide will limit their opportunity",
+      "s": 0.64
     },
     {
-      "t": "Bain Capital to acquire bubble tea chain Gong cha as rival MBK grapples with regulatory pressure at home",
-      "s": -0.3
+      "t": "Ukraine\u2019s military hits one of Russia\u2019s biggest oil refineries in long-range drone attack",
+      "s": -0.48
     },
     {
-      "t": "Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall",
-      "s": -0.27
+      "t": "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
+      "s": 0.4
+    },
+    {
+      "t": "\u2018He\u2019s never been good with money\u2019: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?",
+      "s": -0.0
     }
   ]
 }
