@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-06 12:07 UTC",
+  "ts": "2026-08-06 15:21 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 15,
-  "avg_sentiment": 0.103,
+  "recent": 19,
+  "avg_sentiment": -0.049,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-      "s": 0.87
+      "t": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
+      "s": -0.69
     },
     {
       "t": "Hadrian valued at nearly $8 billion after fresh funding as money pours into defense tech",
       "s": 0.69
     },
     {
-      "t": "Versant raises 2026 outlook on strength of platforms segment and advertising momentum",
-      "s": 0.49
+      "t": "SpaceX insiders get their first chance to cash out \u2014 but the stock\u2019s slide will limit their opportunity",
+      "s": 0.64
     },
     {
-      "t": "Ukraine\u2019s military hits one of Russia\u2019s biggest oil refineries in long-range drone attack",
-      "s": -0.48
+      "t": "Missouri voters just rejected a bid to ditch income tax, while other tax votes loom in Florida and California this fall",
+      "s": -0.64
     },
     {
-      "t": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
-      "s": 0.32
+      "t": "As a woman of color who travels alone, is it a waste of money to visit places with zero diversity?",
+      "s": -0.59
     }
   ]
 }
