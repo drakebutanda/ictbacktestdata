@@ -1,31 +1,19 @@
 {
-  "ts": "2026-08-05 23:08 UTC",
+  "ts": "2026-08-06 03:23 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 6,
-  "avg_sentiment": -0.098,
+  "recent": 2,
+  "avg_sentiment": 0.178,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Block slashed 40% of its workforce for AI \u2014 and its earnings suggest that\u2019s paying off",
-      "s": -0.59
+      "t": "U.S. ready to return to 'commitments,' Iran says, after Trump signals deal is near",
+      "s": 0.46
     },
     {
-      "t": "Sandisk\u2019s stock falls as the company\u2019s forecast doesn\u2019t live up to high expectations",
-      "s": 0.0
-    },
-    {
-      "t": "Figma\u2019s stock falls as the company\u2019s AI push requires steep investments",
-      "s": 0.0
-    },
-    {
-      "t": "Jim Cramer says investors should consider buying SpaceX for their kids",
-      "s": 0.0
-    },
-    {
-      "t": "Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks",
-      "s": 0.0
+      "t": "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'",
+      "s": -0.1
     }
   ]
 }
