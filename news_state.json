@@ -1,31 +1,27 @@
 {
-  "ts": "2026-08-07 00:09 UTC",
+  "ts": "2026-08-07 03:54 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 7,
-  "avg_sentiment": 0.002,
+  "headlines": 99,
+  "recent": 4,
+  "avg_sentiment": -0.601,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?",
-      "s": 0.64
+      "t": "The 72-hour crisis that could upend Meta\u2019s business in India as firm risks losing legal protection",
+      "s": -0.81
     },
     {
-      "t": "Trade Desk shares tumble on earnings miss and weak outlook",
-      "s": -0.32
+      "t": "Micron\u2019s stock falls but is spared the worst of the memory-chip selloff",
+      "s": -0.77
     },
     {
-      "t": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-      "s": -0.3
+      "t": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the\u00a0Strait of Hormuz",
+      "s": -0.65
     },
     {
-      "t": "As Alphabet burns through cash on AI, it\u2019s turning back to the bond market",
-      "s": 0.0
-    },
-    {
-      "t": "Sweetgreen recalls jalapenos, details how cyclospora outbreak will weigh on sales",
-      "s": 0.0
+      "t": "China's exports jump 23% in July, beating estimates; imports cool",
+      "s": -0.18
     }
   ]
 }
