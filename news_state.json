@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-06 15:21 UTC",
+  "ts": "2026-08-07 00:09 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 19,
-  "avg_sentiment": -0.049,
-  "burst": true,
+  "headlines": 98,
+  "recent": 7,
+  "avg_sentiment": 0.002,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
-      "s": -0.69
-    },
-    {
-      "t": "Hadrian valued at nearly $8 billion after fresh funding as money pours into defense tech",
-      "s": 0.69
-    },
-    {
-      "t": "SpaceX insiders get their first chance to cash out \u2014 but the stock\u2019s slide will limit their opportunity",
+      "t": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?",
       "s": 0.64
     },
     {
-      "t": "Missouri voters just rejected a bid to ditch income tax, while other tax votes loom in Florida and California this fall",
-      "s": -0.64
+      "t": "Trade Desk shares tumble on earnings miss and weak outlook",
+      "s": -0.32
     },
     {
-      "t": "As a woman of color who travels alone, is it a waste of money to visit places with zero diversity?",
-      "s": -0.59
+      "t": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "s": -0.3
+    },
+    {
+      "t": "As Alphabet burns through cash on AI, it\u2019s turning back to the bond market",
+      "s": 0.0
+    },
+    {
+      "t": "Sweetgreen recalls jalapenos, details how cyclospora outbreak will weigh on sales",
+      "s": 0.0
     }
   ]
 }
