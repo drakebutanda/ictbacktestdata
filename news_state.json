@@ -1,16 +1,12 @@
 {
-  "ts": "2026-08-07 05:46 UTC",
+  "ts": "2026-08-07 07:35 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": -0.039,
+  "recent": 1,
+  "avg_sentiment": 0.382,
   "burst": false,
   "mood": "neutral",
   "top": [
-    {
-      "t": "Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz",
-      "s": -0.46
-    },
     {
       "t": "China's exports growth beats estimates in July, as AI-driven shipments surge",
       "s": 0.38
