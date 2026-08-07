@@ -1,27 +1,19 @@
 {
-  "ts": "2026-08-07 03:54 UTC",
+  "ts": "2026-08-07 05:46 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 4,
-  "avg_sentiment": -0.601,
+  "recent": 2,
+  "avg_sentiment": -0.039,
   "burst": false,
-  "mood": "risk-off",
+  "mood": "neutral",
   "top": [
     {
-      "t": "The 72-hour crisis that could upend Meta\u2019s business in India as firm risks losing legal protection",
-      "s": -0.81
+      "t": "Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz",
+      "s": -0.46
     },
     {
-      "t": "Micron\u2019s stock falls but is spared the worst of the memory-chip selloff",
-      "s": -0.77
-    },
-    {
-      "t": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the\u00a0Strait of Hormuz",
-      "s": -0.65
-    },
-    {
-      "t": "China's exports jump 23% in July, beating estimates; imports cool",
-      "s": -0.18
+      "t": "China's exports growth beats estimates in July, as AI-driven shipments surge",
+      "s": 0.38
     }
   ]
 }
