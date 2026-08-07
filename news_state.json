@@ -1,23 +1,31 @@
 {
-  "ts": "2026-08-07 22:45 UTC",
+  "ts": "2026-08-07 23:39 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 3,
-  "avg_sentiment": 0.021,
+  "recent": 0,
+  "avg_sentiment": 0.034,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "The smart way to invest in gold right now as the dollar slips",
-      "s": 0.4
+      "t": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+      "s": 0.87
     },
     {
-      "t": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
-      "s": -0.34
+      "t": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+      "s": -0.8
     },
     {
-      "t": "Prediction markets take center stage in latest round of quarterly earnings reports",
-      "s": 0.0
+      "t": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+      "s": -0.78
+    },
+    {
+      "t": "Falling long-term unemployment isn't good news, economists say \u2014 what it means for jobseekers",
+      "s": -0.71
+    },
+    {
+      "t": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
+      "s": 0.67
     }
   ]
 }
