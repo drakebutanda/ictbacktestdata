@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-07 16:59 UTC",
+  "ts": "2026-08-07 17:56 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 17,
-  "avg_sentiment": -0.009,
+  "recent": 11,
+  "avg_sentiment": 0.15,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": 0.87
     },
     {
-      "t": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
-      "s": -0.78
-    },
-    {
       "t": "SpaceX\u2019s stock is having one of its best days ever \u2014 with the first lockup expiration now behind it",
       "s": 0.64
     },
     {
-      "t": "Top Democrat proposes killing tax breaks for overseas oil production",
-      "s": -0.56
+      "t": "Here are three key takeaways from the disappointing July jobs report",
+      "s": -0.49
     },
     {
-      "t": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
-      "s": -0.56
+      "t": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
+      "s": 0.36
+    },
+    {
+      "t": "If target date funds aren\u2019t risky enough, Americans could miss out on retirement savings \u2014 especially as they live longer",
+      "s": -0.34
     }
   ]
 }
