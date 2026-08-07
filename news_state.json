@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-07 20:50 UTC",
+  "ts": "2026-08-07 21:47 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 14,
-  "avg_sentiment": 0.077,
+  "recent": 8,
+  "avg_sentiment": 0.247,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": 0.87
     },
     {
-      "t": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
-      "s": -0.78
-    },
-    {
       "t": "SpaceX\u2019s stock just had one of its best days ever \u2014 with the first lockup expiration now behind it",
       "s": 0.64
     },
     {
-      "t": "Russia sanctions bill honoring Lindsey Graham breezes through Senate, heads to House",
-      "s": 0.51
+      "t": "Shares of this digital medical platform jumped more than 100% overnight. Here\u2019s why",
+      "s": 0.3
     },
     {
-      "t": "My brother asked me to sign as his executor, but wouldn\u2019t let me read the document. Should I have refused?",
-      "s": -0.42
+      "t": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
+      "s": 0.27
+    },
+    {
+      "t": "Palantir\u2019s stock stages best week since 2024 \u2014 showing it\u2019s no longer an AI loser",
+      "s": -0.1
     }
   ]
 }
