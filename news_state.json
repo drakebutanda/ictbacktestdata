@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-07 10:59 UTC",
+  "ts": "2026-08-07 11:53 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 4,
-  "avg_sentiment": 0.08,
+  "recent": 7,
+  "avg_sentiment": 0.033,
   "burst": false,
   "mood": "neutral",
   "top": [
@@ -12,16 +12,20 @@
       "s": -0.65
     },
     {
-      "t": "There are good reasons why higher bond yields are here to stay, this strategist says",
-      "s": 0.44
+      "t": "Optical stocks have a China problem that most investors are missing",
+      "s": -0.63
     },
     {
-      "t": "How S&P 500 options action may help explain volatility in memory stocks",
+      "t": "Kevin O\u2019Leary, aka \u2018Mr. Wonderful,\u2019 on crypto, winning in AI and 3 things all business owners must know",
+      "s": 0.53
+    },
+    {
+      "t": "Martha's Vineyard African American Film Festival set for record attendance despite macro challenges",
+      "s": 0.45
+    },
+    {
+      "t": "How S&P 500 options action may help explain the rising volatility in memory stocks",
       "s": 0.4
-    },
-    {
-      "t": "Solar stocks shine after Trump extends China tariffs to polysilicon products",
-      "s": 0.13
     }
   ]
 }
