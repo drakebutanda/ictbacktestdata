@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-07 13:19 UTC",
+  "ts": "2026-08-07 15:01 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 10,
-  "avg_sentiment": 0.098,
+  "recent": 11,
+  "avg_sentiment": 0.229,
   "burst": true,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Social Security is celebrating its 91st birthday. Here\u2019s why it\u2019s not  going away anytime soon.",
+      "s": 0.73
+    },
+    {
+      "t": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?",
+      "s": 0.64
+    },
     {
       "t": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
       "s": 0.59
     },
     {
-      "t": "How S&P 500 options action may help explain the rising volatility in memory stocks",
-      "s": 0.4
+      "t": "Michigan says it\u2019s OK to start eating salads again as cyclospora outbreak wanes",
+      "s": 0.45
     },
     {
-      "t": "U.S. economy unexpectedly lost 23,000 jobs in July",
-      "s": -0.32
-    },
-    {
-      "t": "K-shaped economy shows up in housing: Luxury sales rise as starter-home buyers struggle",
-      "s": -0.32
-    },
-    {
-      "t": "Shares of this digital medical platform were up more than 100% at one point. Here's what's driving it",
-      "s": 0.3
+      "t": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
+      "s": 0.36
     }
   ]
 }
