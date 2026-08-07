@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-07 11:53 UTC",
+  "ts": "2026-08-07 13:19 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 7,
-  "avg_sentiment": 0.033,
-  "burst": false,
+  "recent": 10,
+  "avg_sentiment": 0.098,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Wildfire costs are surging \u2014 but much of the damage in Europe isn\u2019t insured",
-      "s": -0.65
-    },
-    {
-      "t": "Optical stocks have a China problem that most investors are missing",
-      "s": -0.63
-    },
-    {
-      "t": "Kevin O\u2019Leary, aka \u2018Mr. Wonderful,\u2019 on crypto, winning in AI and 3 things all business owners must know",
-      "s": 0.53
-    },
-    {
-      "t": "Martha's Vineyard African American Film Festival set for record attendance despite macro challenges",
-      "s": 0.45
+      "t": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
+      "s": 0.59
     },
     {
       "t": "How S&P 500 options action may help explain the rising volatility in memory stocks",
       "s": 0.4
+    },
+    {
+      "t": "U.S. economy unexpectedly lost 23,000 jobs in July",
+      "s": -0.32
+    },
+    {
+      "t": "K-shaped economy shows up in housing: Luxury sales rise as starter-home buyers struggle",
+      "s": -0.32
+    },
+    {
+      "t": "Shares of this digital medical platform were up more than 100% at one point. Here's what's driving it",
+      "s": 0.3
     }
   ]
 }
