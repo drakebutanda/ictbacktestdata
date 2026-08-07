@@ -1,23 +1,27 @@
 {
-  "ts": "2026-08-07 09:08 UTC",
+  "ts": "2026-08-07 10:59 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 3,
-  "avg_sentiment": -0.017,
+  "headlines": 99,
+  "recent": 4,
+  "avg_sentiment": 0.08,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "SK Hynix to invest $38 billion building new memory chip plants as demand soars",
-      "s": -0.13
+      "t": "Wildfire costs are surging \u2014 but much of the damage in Europe isn\u2019t insured",
+      "s": -0.65
     },
     {
-      "t": "Europe\u2019s wildfire \u2018protection gap\u2019 is growing, insurers warn",
-      "s": 0.08
+      "t": "There are good reasons why higher bond yields are here to stay, this strategist says",
+      "s": 0.44
     },
     {
-      "t": "Volkswagen controlling families call for faster overhaul to fend off Chinese rivals",
-      "s": 0.0
+      "t": "How S&P 500 options action may help explain volatility in memory stocks",
+      "s": 0.4
+    },
+    {
+      "t": "Solar stocks shine after Trump extends China tariffs to polysilicon products",
+      "s": 0.13
     }
   ]
 }
