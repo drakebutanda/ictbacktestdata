@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-07 17:56 UTC",
+  "ts": "2026-08-07 19:08 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 11,
-  "avg_sentiment": 0.15,
+  "headlines": 98,
+  "recent": 12,
+  "avg_sentiment": -0.103,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-      "s": 0.87
-    },
-    {
-      "t": "SpaceX\u2019s stock is having one of its best days ever \u2014 with the first lockup expiration now behind it",
-      "s": 0.64
+      "t": "Falling long-term unemployment isn't good news, economists say \u2014 what it means for jobseekers",
+      "s": -0.71
     },
     {
       "t": "Here are three key takeaways from the disappointing July jobs report",
       "s": -0.49
     },
     {
-      "t": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
-      "s": 0.36
-    },
-    {
       "t": "If target date funds aren\u2019t risky enough, Americans could miss out on retirement savings \u2014 especially as they live longer",
       "s": -0.34
+    },
+    {
+      "t": "I\u2019m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
+      "s": -0.32
+    },
+    {
+      "t": "Shares of this digital medical platform jumped more than 100% overnight. Here\u2019s why",
+      "s": 0.3
     }
   ]
 }
