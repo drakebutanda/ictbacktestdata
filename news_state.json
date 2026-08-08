@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-08 17:37 UTC",
+  "ts": "2026-08-08 18:49 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 7,
-  "avg_sentiment": -0.279,
-  "burst": false,
+  "recent": 8,
+  "avg_sentiment": -0.117,
+  "burst": true,
   "mood": "neutral",
   "top": [
-    {
-      "t": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?",
-      "s": -0.82
-    },
-    {
-      "t": "Social Security\u2019s funding crisis is the elephant in the room. But don\u2019t ignore the mouse.",
-      "s": -0.7
-    },
     {
       "t": "Hunter Biden says Joe Biden\u2019s cancer has spread further and is \u2018very painful\u2019",
       "s": -0.66
     },
     {
-      "t": "Here\u2019s when Elon Musk\u2019s Starlink internet is worth the steep monthly price \u2014 and $350 startup cost",
-      "s": 0.23
+      "t": "Don\u2019t worry about what other people have saved for retirement. Here\u2019s how to find your perfect number.",
+      "s": 0.6
     },
     {
-      "t": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
-      "s": 0.0
+      "t": "I\u2019m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
+      "s": -0.32
+    },
+    {
+      "t": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "s": -0.3
+    },
+    {
+      "t": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?",
+      "s": -0.15
     }
   ]
 }
