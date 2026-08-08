@@ -1,23 +1,31 @@
 {
-  "ts": "2026-08-08 11:35 UTC",
+  "ts": "2026-08-08 13:03 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 3,
-  "avg_sentiment": -0.469,
+  "recent": 7,
+  "avg_sentiment": -0.206,
   "burst": false,
-  "mood": "risk-off",
+  "mood": "neutral",
   "top": [
     {
-      "t": "Here\u2019s why Wendy\u2019s is losing the burger wars",
-      "s": -0.74
+      "t": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+      "s": -0.78
     },
     {
-      "t": "My brother asked me to sign as his executor, but wouldn\u2019t let me read the document. Should I have refused?",
-      "s": -0.42
+      "t": "Cyclospora fears lead consumers to lose their appetite for salads",
+      "s": -0.67
     },
     {
-      "t": "SpaceX\u2019s Nvidia deal could be bad news for neoclouds like CoreWeave and Nebius, analysts say",
-      "s": -0.25
+      "t": "Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first",
+      "s": 0.36
+    },
+    {
+      "t": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
+      "s": -0.27
+    },
+    {
+      "t": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+      "s": -0.08
     }
   ]
 }
