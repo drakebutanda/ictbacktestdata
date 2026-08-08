@@ -1,31 +1,15 @@
 {
-  "ts": "2026-08-08 19:36 UTC",
+  "ts": "2026-08-08 20:38 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 6,
-  "avg_sentiment": 0.104,
+  "recent": 1,
+  "avg_sentiment": -0.784,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?",
-      "s": 0.75
-    },
-    {
-      "t": "Don\u2019t worry about what other people have saved for retirement. Here\u2019s how to find your perfect number.",
-      "s": 0.6
-    },
-    {
-      "t": "I\u2019m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
-      "s": -0.32
-    },
-    {
-      "t": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-      "s": -0.3
-    },
-    {
-      "t": "\u2018My wife and I are both retired\u2019: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
-      "s": -0.1
+      "t": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+      "s": -0.78
     }
   ]
 }
