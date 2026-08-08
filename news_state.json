@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-08 16:42 UTC",
+  "ts": "2026-08-08 17:37 UTC",
   "feeds_live": 5,
   "headlines": 98,
   "recent": 7,
-  "avg_sentiment": -0.23,
+  "avg_sentiment": -0.279,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
-      "s": -0.78
+      "t": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?",
+      "s": -0.82
     },
     {
-      "t": "My brother asked me to sign as his executor, but wouldn\u2019t let me read the document. Should I have refused?",
-      "s": -0.42
+      "t": "Social Security\u2019s funding crisis is the elephant in the room. But don\u2019t ignore the mouse.",
+      "s": -0.7
     },
     {
-      "t": "UAE says one of its ships was targeted as U.S.-Iran tensions over Strait of Hormuz remain high",
-      "s": -0.4
+      "t": "Hunter Biden says Joe Biden\u2019s cancer has spread further and is \u2018very painful\u2019",
+      "s": -0.66
     },
     {
-      "t": "The size of the American workforce has fallen by over 1 million people in the past year. Here\u2019s what\u2019s going on.",
-      "s": -0.36
+      "t": "Here\u2019s when Elon Musk\u2019s Starlink internet is worth the steep monthly price \u2014 and $350 startup cost",
+      "s": 0.23
     },
     {
-      "t": "Elevator giant Otis wants to be a defensive play in a volatile market. It has to prove itself first",
-      "s": 0.36
+      "t": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
+      "s": 0.0
     }
   ]
 }
