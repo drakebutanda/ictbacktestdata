@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-08 13:03 UTC",
+  "ts": "2026-08-08 14:38 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 7,
-  "avg_sentiment": -0.206,
+  "recent": 6,
+  "avg_sentiment": 0.408,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-on",
   "top": [
     {
-      "t": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
-      "s": -0.78
+      "t": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+      "s": 0.87
     },
     {
-      "t": "Cyclospora fears lead consumers to lose their appetite for salads",
-      "s": -0.67
+      "t": "Berkshire Hathaway profit doubles, fueled by a near $13 billion investment gain",
+      "s": 0.74
     },
     {
-      "t": "Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first",
-      "s": 0.36
+      "t": "Changing how Medicare pays for hospice care could save the U.S. $7.6 billion a year \u2014 but at what cost to patients?",
+      "s": 0.49
     },
     {
-      "t": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
-      "s": -0.27
+      "t": "Here\u2019s how we played the massive rebound in AI stocks this week",
+      "s": 0.34
     },
     {
-      "t": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-      "s": -0.08
+      "t": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+      "s": 0.0
     }
   ]
 }
