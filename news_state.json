@@ -1,15 +1,19 @@
 {
-  "ts": "2026-08-09 18:52 UTC",
+  "ts": "2026-08-09 19:39 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": -0.237,
+  "recent": 4,
+  "avg_sentiment": -0.262,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
       "t": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
       "s": -0.71
+    },
+    {
+      "t": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
+      "s": -0.34
     },
     {
       "t": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
