@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-10 21:50 UTC",
+  "ts": "2026-08-10 22:46 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 8,
-  "avg_sentiment": -0.184,
+  "recent": 9,
+  "avg_sentiment": -0.033,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Workers are worried, but there\u2019s no sign AI is muscling people out of their jobs on a massive scale",
-      "s": -0.53
+      "t": "Here\u2019s who stands to gain the most from a Jeff Bezos-Liverpool FC deal",
+      "s": 0.53
     },
     {
       "t": "CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat",
       "s": -0.53
     },
     {
+      "t": "This Nvidia change could spell good news for Micron",
+      "s": 0.44
+    },
+    {
       "t": "Trump says he spoke recently to Fed Chairman Warsh, denies regular calls",
       "s": -0.42
     },
     {
-      "t": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings",
-      "s": 0.0
-    },
-    {
-      "t": "Wall Street thinks inflation is under control. Here\u2019s why investors shouldn\u2019t buy it.",
-      "s": 0.0
+      "t": "Trump Media posts $238 million second-quarter loss as crypto declines",
+      "s": -0.32
     }
   ]
 }
