@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-10 17:00 UTC",
+  "ts": "2026-08-10 19:06 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 11,
-  "avg_sentiment": 0.1,
+  "recent": 13,
+  "avg_sentiment": -0.04,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
-      "s": -0.78
+      "t": "\u2018I want her to choose the best strategy\u2019: My wife\u2019s Social Security is just $900. Should she claim spousal benefit at 62?",
+      "s": 0.87
     },
     {
-      "t": "Gold just had its best week in 7 months. Here\u2019s why Mike Khouw is buying more",
-      "s": 0.64
+      "t": "CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat",
+      "s": -0.53
     },
     {
-      "t": "17 S&P 500 companies with growing revenue and profit margins \u2014 and some of their stocks are cheap",
-      "s": 0.56
+      "t": "Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock",
+      "s": -0.49
     },
     {
-      "t": "Interest rates may stay higher for longer. What that means for consumers",
-      "s": 0.46
+      "t": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
+      "s": 0.42
     },
     {
-      "t": "Protect College Sports Act to be voted on next month: What it means for transfers and team spending",
-      "s": 0.38
+      "t": "\u2018I unexpectedly came into some money\u2019: Is putting $20,000 into CDs a smart move?",
+      "s": 0.4
     }
   ]
 }
