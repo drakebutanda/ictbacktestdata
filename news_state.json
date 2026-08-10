@@ -1,22 +1,18 @@
 {
-  "ts": "2026-08-10 04:45 UTC",
+  "ts": "2026-08-10 06:15 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 3,
-  "avg_sentiment": -0.181,
+  "recent": 2,
+  "avg_sentiment": -0.17,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal",
+      "t": "Oil prices choppy amid uncertainty over U.S.-Iran Strait of Hormuz deal",
       "s": -0.34
     },
     {
-      "t": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall",
-      "s": -0.2
-    },
-    {
-      "t": "5 \u2018rules\u2019 your parents taught you that are sabotaging your career, says expert\u2014like \u2018always be grateful\u2019",
+      "t": "Trump says oil supermajors are making too much money. What will they do with it?",
       "s": 0.0
     }
   ]
