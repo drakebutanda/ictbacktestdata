@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-10 19:06 UTC",
+  "ts": "2026-08-10 20:52 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 13,
-  "avg_sentiment": -0.04,
+  "avg_sentiment": 0.029,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018I want her to choose the best strategy\u2019: My wife\u2019s Social Security is just $900. Should she claim spousal benefit at 62?",
+      "t": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
       "s": 0.87
+    },
+    {
+      "t": "Workers are worried, but there\u2019s no sign AI is muscling people out of their jobs on a massive scale",
+      "s": -0.53
     },
     {
       "t": "CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat",
       "s": -0.53
     },
     {
-      "t": "Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock",
-      "s": -0.49
+      "t": "Good news for stock-market bulls: Corporate earnings growth is no longer being driven just by tech",
+      "s": 0.51
     },
     {
-      "t": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
-      "s": 0.42
-    },
-    {
-      "t": "\u2018I unexpectedly came into some money\u2019: Is putting $20,000 into CDs a smart move?",
-      "s": 0.4
+      "t": "This Nvidia change could spell good news for Micron",
+      "s": 0.44
     }
   ]
 }
