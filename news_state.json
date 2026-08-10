@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-10 22:46 UTC",
+  "ts": "2026-08-10 23:41 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 9,
-  "avg_sentiment": -0.033,
+  "avg_sentiment": 0.046,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": 0.53
     },
     {
-      "t": "CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat",
-      "s": -0.53
-    },
-    {
       "t": "This Nvidia change could spell good news for Micron",
       "s": 0.44
     },
     {
-      "t": "Trump says he spoke recently to Fed Chairman Warsh, denies regular calls",
-      "s": -0.42
+      "t": "Archer strikes deal with Boeing in latest bid to transform aviation through AI",
+      "s": -0.36
     },
     {
       "t": "Trump Media posts $238 million second-quarter loss as crypto declines",
       "s": -0.32
+    },
+    {
+      "t": "Intel plans to sell $15 billion worth of stock after it has risen 400% in a year",
+      "s": 0.23
     }
   ]
 }
