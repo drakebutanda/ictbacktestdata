@@ -1,23 +1,15 @@
 {
-  "ts": "2026-08-11 02:15 UTC",
-  "feeds_live": 5,
-  "headlines": 100,
-  "recent": 3,
-  "avg_sentiment": 0.1,
+  "ts": "2026-08-11 04:25 UTC",
+  "feeds_live": 4,
+  "headlines": 90,
+  "recent": 1,
+  "avg_sentiment": 0.649,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-on",
   "top": [
     {
-      "t": "Nvidia teams with Wall Street firms to help finance $500 billion for AI infrastructure",
-      "s": 0.4
-    },
-    {
-      "t": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens",
-      "s": -0.1
-    },
-    {
-      "t": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings",
-      "s": 0.0
+      "t": "Singapore revises its annual growth forecast sharply higher on AI-related boost",
+      "s": 0.65
     }
   ]
 }
