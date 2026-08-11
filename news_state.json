@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-11 10:56 UTC",
+  "ts": "2026-08-11 11:51 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 13,
-  "avg_sentiment": 0.182,
-  "burst": true,
+  "recent": 7,
+  "avg_sentiment": 0.061,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "'That's a good idea': U.S. and Iran trade reparation demands as Hormuz deal hopes fade",
-      "s": 0.69
+      "t": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+      "s": 0.25
     },
     {
-      "t": "My wife\u2019s Social Security is just $900. Should she claim her spousal benefit at 62 or wait?",
-      "s": 0.66
+      "t": "These 11 midcaps are popular right now among investment newsletters but not because of sweet-spot market valuations",
+      "s": 0.23
     },
     {
-      "t": "Why copper \u2014 \u2018the commodity for all seasons\u2019 \u2014 is more precious than gold nowadays",
-      "s": 0.61
+      "t": "Hormuz deadlock: Where oil prices could head next as prospects for an imminent deal fade",
+      "s": -0.05
     },
     {
-      "t": "FIFA World Cup 'will never be as profitable' if Infantino is ousted, Trump warns amid global soccer revolt",
-      "s": -0.42
+      "t": "As Lumentum gears up for earnings, here\u2019s a sign the optical trade is clawing back",
+      "s": 0.0
     },
     {
-      "t": "\u2018I unexpectedly came into some money\u2019: Is putting $20,000 into CDs a smart move?",
-      "s": 0.4
+      "t": "This fund manager tunes out AI hype to flag the infrastructure stocks to buy now. Think roads, water and telecom towers.",
+      "s": 0.0
     }
   ]
 }
