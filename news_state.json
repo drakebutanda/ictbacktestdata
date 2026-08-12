@@ -1,30 +1,30 @@
 {
-  "ts": "2026-08-12 11:53 UTC",
+  "ts": "2026-08-12 13:26 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 13,
-  "avg_sentiment": -0.059,
+  "recent": 17,
+  "avg_sentiment": -0.053,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Hormuz closure squeezes global economy as oil demand destruction intensifies, IEA says",
-      "s": -0.64
+      "t": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
+      "s": -0.92
     },
     {
-      "t": "Super Micro stock is rallying after results. Here\u2019s what Wall Street is saying.",
-      "s": 0.6
+      "t": "CoreWeave\u2019s stock is rocketing after earnings lead to praise from bulls and bears alike",
+      "s": 0.56
     },
     {
-      "t": "My wife can claim $900 at 62. Should she take it now \u2014 or wait for her spousal benefit?",
-      "s": 0.46
-    },
-    {
-      "t": "AI\u2019s costly buildout complicates the Fed\u2019s inflation fight",
-      "s": -0.46
+      "t": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own",
+      "s": 0.49
     },
     {
       "t": "Hong's defeat in Wisconsin deals blow to rising Democratic socialists",
+      "s": -0.46
+    },
+    {
+      "t": "AI\u2019s costly buildout complicates the Fed\u2019s inflation fight",
       "s": -0.46
     }
   ]
