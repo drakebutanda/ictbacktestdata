@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-12 15:04 UTC",
+  "ts": "2026-08-12 17:03 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 18,
-  "avg_sentiment": 0.069,
+  "headlines": 99,
+  "recent": 14,
+  "avg_sentiment": 0.052,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trust, but hedge: Quietly violent summer lingers as bulls buy crash protection",
-      "s": -0.83
+      "t": "Social Security recipients will get more money next year. Here\u2019s how much the COLA may boost benefits.",
+      "s": 0.77
     },
     {
-      "t": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
-      "s": 0.66
-    },
-    {
-      "t": "Lumentum\u2019s stock surges, giving a further boost to the optical-networking trade",
+      "t": "Nvidia, Intel, Google: Wall Street is partying like it\u2019s 1999",
       "s": 0.62
     },
     {
-      "t": "Social Security recipients will get more money next year. Here\u2019s how much benefits may rise.",
-      "s": 0.61
+      "t": "Houthi attack kills six in Red Sea; Trump slams Iran as hopes for Hormuz Strait deal dim",
+      "s": -0.59
     },
     {
-      "t": "AI\u2019s costly build-out complicates the Fed\u2019s inflation fight",
-      "s": -0.46
+      "t": "Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt",
+      "s": -0.56
+    },
+    {
+      "t": "Google\u2019s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+      "s": -0.38
     }
   ]
 }
