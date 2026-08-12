@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-12 21:54 UTC",
+  "ts": "2026-08-12 22:50 UTC",
   "feeds_live": 5,
-  "headlines": 97,
-  "recent": 14,
-  "avg_sentiment": 0.016,
+  "headlines": 95,
+  "recent": 11,
+  "avg_sentiment": 0.115,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Nvidia, Intel, Google: Wall Street is partying like it\u2019s 1999",
+      "t": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
+      "s": 0.66
+    },
+    {
+      "t": "Lumentum\u2019s stock surges, giving a further boost to the optical-networking trade",
       "s": 0.62
     },
     {
-      "t": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
-      "s": -0.62
+      "t": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own",
+      "s": 0.49
     },
     {
-      "t": "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
-      "s": 0.56
+      "t": "SpaceX\u2019s stock is getting a Grok-fueled boost",
+      "s": 0.4
     },
     {
-      "t": "Investors are chasing the latest rally in gold as the yellow metal hits strongest level in 2 months",
-      "s": 0.44
-    },
-    {
-      "t": "Chip stocks are closing in on a bull market. Here\u2019s why some analysts are nervous.",
-      "s": -0.27
+      "t": "Alphabet\u2019s stock slips as Nvidia\u2019s $500 billion financing deal threatens custom chips",
+      "s": -0.38
     }
   ]
 }
