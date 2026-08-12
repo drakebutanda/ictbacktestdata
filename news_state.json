@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-12 19:11 UTC",
+  "ts": "2026-08-12 20:54 UTC",
   "feeds_live": 5,
   "headlines": 97,
   "recent": 9,
-  "avg_sentiment": -0.029,
+  "avg_sentiment": -0.057,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "CEO of Intel just gave Jim Cramer one more reason to call it his favorite stock",
-      "s": 0.46
+      "t": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
+      "s": -0.62
     },
     {
-      "t": "U.S. budget deficit surged in July to highest level since March 2021",
-      "s": -0.4
-    },
-    {
-      "t": "Alphabet\u2019s stock slips as Nvidia\u2019s $500 billion financing deal threatens custom chips",
-      "s": -0.38
-    },
-    {
-      "t": "Chili\u2019s has hopped on the chicken-sandwich bandwagon, and it\u2019s driving big sales gains",
+      "t": "CoreWeave gains 19%, Nebius surges 34% in post-earnings neocloud rally",
       "s": 0.34
     },
     {
-      "t": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
-      "s": -0.27
+      "t": "Trump says Karoline Leavitt resigning as White House press secretary",
+      "s": -0.23
+    },
+    {
+      "t": "Cerebras stock plunges 14% after second earnings report following IPO",
+      "s": 0.0
+    },
+    {
+      "t": "Cisco's stock drops despite earnings, revenue beat",
+      "s": 0.0
     }
   ]
 }
