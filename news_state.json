@@ -1,19 +1,23 @@
 {
-  "ts": "2026-08-12 04:54 UTC",
+  "ts": "2026-08-12 06:19 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": -0.054,
+  "recent": 3,
+  "avg_sentiment": -0.172,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Why the historic U.S.-Japan intervention has failed to halt the yen\u2019s slide",
-      "s": -0.51
+      "t": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
+      "s": -0.92
     },
     {
       "t": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
       "s": 0.4
+    },
+    {
+      "t": "Google\u2019s new AI boss inherits a race to catch OpenAI and Anthropic",
+      "s": 0.0
     }
   ]
 }
