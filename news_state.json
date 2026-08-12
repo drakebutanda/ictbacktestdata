@@ -1,30 +1,30 @@
 {
-  "ts": "2026-08-12 13:26 UTC",
+  "ts": "2026-08-12 15:04 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 17,
-  "avg_sentiment": -0.053,
+  "headlines": 98,
+  "recent": 18,
+  "avg_sentiment": 0.069,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
-      "s": -0.92
+      "t": "Trust, but hedge: Quietly violent summer lingers as bulls buy crash protection",
+      "s": -0.83
     },
     {
-      "t": "CoreWeave\u2019s stock is rocketing after earnings lead to praise from bulls and bears alike",
-      "s": 0.56
+      "t": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
+      "s": 0.66
     },
     {
-      "t": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own",
-      "s": 0.49
+      "t": "Lumentum\u2019s stock surges, giving a further boost to the optical-networking trade",
+      "s": 0.62
     },
     {
-      "t": "Hong's defeat in Wisconsin deals blow to rising Democratic socialists",
-      "s": -0.46
+      "t": "Social Security recipients will get more money next year. Here\u2019s how much benefits may rise.",
+      "s": 0.61
     },
     {
-      "t": "AI\u2019s costly buildout complicates the Fed\u2019s inflation fight",
+      "t": "AI\u2019s costly build-out complicates the Fed\u2019s inflation fight",
       "s": -0.46
     }
   ]
