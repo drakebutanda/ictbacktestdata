@@ -1,30 +1,30 @@
 {
-  "ts": "2026-08-13 17:03 UTC",
+  "ts": "2026-08-13 19:11 UTC",
   "feeds_live": 5,
-  "headlines": 96,
-  "recent": 7,
-  "avg_sentiment": -0.141,
+  "headlines": 98,
+  "recent": 6,
+  "avg_sentiment": 0.053,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
-      "s": -0.68
+      "t": "Here's a rapid-fire update on our 32-stock portfolio, including Cramer's 5 favorites to buy",
+      "s": 0.42
     },
     {
-      "t": "Sandisk\u2019s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-      "s": 0.49
+      "t": "Oil prices fall as IEA sees lower demand on rising fuel prices",
+      "s": -0.4
     },
     {
-      "t": "AI\u2019s costly build-out complicates the Fed\u2019s inflation fight",
-      "s": -0.46
+      "t": "Cisco shares slide 9% despite earnings beat and stronger-than-expected guidance",
+      "s": 0.3
     },
     {
-      "t": "Trump-linked oil venture delays Greenland drilling plans after government warning",
-      "s": -0.34
+      "t": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
+      "s": 0.0
     },
     {
-      "t": "These nontech stocks can ride the AI build-out for years",
+      "t": "Workday skyrockets 19% before trading halted on report of Silver Lake takeover",
       "s": 0.0
     }
   ]
