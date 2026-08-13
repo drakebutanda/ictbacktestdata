@@ -1,31 +1,19 @@
 {
-  "ts": "2026-08-13 02:33 UTC",
+  "ts": "2026-08-13 04:58 UTC",
   "feeds_live": 5,
   "headlines": 96,
-  "recent": 6,
-  "avg_sentiment": -0.103,
+  "recent": 2,
+  "avg_sentiment": -0.029,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Oil rises on worries over supply disruptions as spill near Oman worsens",
-      "s": -0.81
+      "t": "\u2018Hormuz remains blocked\u2019: Iran disputes Trump claims as traffic sinks to near 3-month lows",
+      "s": -0.44
     },
     {
-      "t": "Japan wholesale inflation eases slightly to 7.2%, undershooting expectations",
-      "s": 0.32
-    },
-    {
-      "t": "EVs dominate China\u2019s car market: 5 takeaways from the country's latest auto sales data",
-      "s": -0.13
-    },
-    {
-      "t": "Cisco sees record results from an AI \u2018supercycle,\u2019 but its stock pulls back",
-      "s": 0.0
-    },
-    {
-      "t": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade",
-      "s": 0.0
+      "t": "South Korea\u2019s Kospi has staged a stunning comeback. How long will the bull market last?",
+      "s": 0.38
     }
   ]
 }
