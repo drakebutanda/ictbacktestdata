@@ -1,27 +1,31 @@
 {
-  "ts": "2026-08-13 08:26 UTC",
+  "ts": "2026-08-13 10:15 UTC",
   "feeds_live": 5,
   "headlines": 96,
-  "recent": 4,
-  "avg_sentiment": 0.263,
-  "burst": false,
+  "recent": 10,
+  "avg_sentiment": 0.095,
+  "burst": true,
   "mood": "neutral",
   "top": [
+    {
+      "t": "The latest rally has energized the stock market but left the credit market concerned",
+      "s": 0.68
+    },
+    {
+      "t": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
+      "s": 0.66
+    },
     {
       "t": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
       "s": -0.65
     },
     {
-      "t": "In pictures: Europe sees best solar eclipse since 1999",
+      "t": "In pictures: Europe's best solar eclipse since 1999",
       "s": 0.64
     },
     {
-      "t": "Maersk shares jump 7% after shipping giant smashes profit estimates and hikes outlook",
-      "s": 0.62
-    },
-    {
-      "t": "Lenovo profits soar past expectations on AI computers, servers and services",
-      "s": 0.44
+      "t": "\u2018My husband and I are at odds\u2019: Should we tap our home equity or sell stocks to build a $100,000 emergency fund?",
+      "s": -0.38
     }
   ]
 }
