@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-13 19:11 UTC",
+  "ts": "2026-08-13 20:52 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 6,
-  "avg_sentiment": 0.053,
-  "burst": false,
+  "recent": 13,
+  "avg_sentiment": 0.14,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Here's a rapid-fire update on our 32-stock portfolio, including Cramer's 5 favorites to buy",
-      "s": 0.42
+      "t": "Cramer: How words of wisdom from Gene Hackman help me make peace with investing mistakes",
+      "s": 0.8
     },
     {
-      "t": "Oil prices fall as IEA sees lower demand on rising fuel prices",
-      "s": -0.4
+      "t": "Workday shares post best day in 10 years on Silver Lake takeover report",
+      "s": 0.75
     },
     {
-      "t": "Cisco shares slide 9% despite earnings beat and stronger-than-expected guidance",
-      "s": 0.3
+      "t": "\u2018She\u2019s desperate\u2019: My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
+      "s": -0.7
     },
     {
-      "t": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
-      "s": 0.0
+      "t": "Oil prices fall after U.S. says crude exports through Strait of Hormuz near 9 million barrels per day",
+      "s": -0.57
     },
     {
-      "t": "Workday skyrockets 19% before trading halted on report of Silver Lake takeover",
-      "s": 0.0
+      "t": "Rich Americans are propping up the travel economy as airfares soar 25% from a year ago",
+      "s": 0.56
     }
   ]
 }
