@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-13 15:04 UTC",
+  "ts": "2026-08-13 17:03 UTC",
   "feeds_live": 5,
   "headlines": 96,
-  "recent": 15,
-  "avg_sentiment": 0.054,
-  "burst": true,
+  "recent": 7,
+  "avg_sentiment": -0.141,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "These workers have charisma, confidence \u2014 and no fear of AI taking their jobs. They\u2019re the personality hires.",
-      "s": 0.71
+      "t": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
+      "s": -0.68
     },
     {
-      "t": "Oil prices drop as investors weigh falling demand against Middle East tensions",
-      "s": -0.71
+      "t": "Sandisk\u2019s stock is flying higher. Here are the new targets that are exciting Wall Street.",
+      "s": 0.49
     },
     {
-      "t": "Inside Wealth: Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
-      "s": 0.71
-    },
-    {
-      "t": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
-      "s": 0.66
-    },
-    {
-      "t": "Democrats demand Trump reveal stock managers, explain suspicious trades",
+      "t": "AI\u2019s costly build-out complicates the Fed\u2019s inflation fight",
       "s": -0.46
+    },
+    {
+      "t": "Trump-linked oil venture delays Greenland drilling plans after government warning",
+      "s": -0.34
+    },
+    {
+      "t": "These nontech stocks can ride the AI build-out for years",
+      "s": 0.0
     }
   ]
 }
