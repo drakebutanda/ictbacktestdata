@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-13 20:52 UTC",
+  "ts": "2026-08-13 21:54 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 13,
-  "avg_sentiment": 0.14,
+  "recent": 10,
+  "avg_sentiment": 0.08,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Cramer: How words of wisdom from Gene Hackman help me make peace with investing mistakes",
-      "s": 0.8
+      "t": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
+      "s": 0.66
     },
     {
-      "t": "Workday shares post best day in 10 years on Silver Lake takeover report",
-      "s": 0.75
+      "t": "\u2018I didn\u2019t know what else to do:\u2019 Patients take their health-insurance battles to Facebook and LinkedIn",
+      "s": -0.38
     },
     {
-      "t": "\u2018She\u2019s desperate\u2019: My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
-      "s": -0.7
+      "t": "Cisco shares slide 8% despite earnings beat and stronger-than-expected guidance",
+      "s": 0.3
     },
     {
-      "t": "Oil prices fall after U.S. says crude exports through Strait of Hormuz near 9 million barrels per day",
-      "s": -0.57
+      "t": "Workday\u2019s stock sees a record surge. Could a buyout spark a software revival?",
+      "s": 0.23
     },
     {
-      "t": "Rich Americans are propping up the travel economy as airfares soar 25% from a year ago",
-      "s": 0.56
+      "t": "More than half of Gen Z redirected money away from investing and toward sports betting over the past year",
+      "s": 0.0
     }
   ]
 }
