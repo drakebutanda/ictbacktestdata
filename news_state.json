@@ -1,19 +1,27 @@
 {
-  "ts": "2026-08-13 06:24 UTC",
+  "ts": "2026-08-13 08:26 UTC",
   "feeds_live": 5,
   "headlines": 96,
-  "recent": 2,
-  "avg_sentiment": -0.029,
+  "recent": 4,
+  "avg_sentiment": 0.263,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018Hormuz remains blocked\u2019: Iran disputes Trump claims as traffic sinks to near 3-month lows",
-      "s": -0.44
+      "t": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
+      "s": -0.65
     },
     {
-      "t": "South Korea\u2019s Kospi has staged a stunning comeback. How long will the bull market last?",
-      "s": 0.38
+      "t": "In pictures: Europe sees best solar eclipse since 1999",
+      "s": 0.64
+    },
+    {
+      "t": "Maersk shares jump 7% after shipping giant smashes profit estimates and hikes outlook",
+      "s": 0.62
+    },
+    {
+      "t": "Lenovo profits soar past expectations on AI computers, servers and services",
+      "s": 0.44
     }
   ]
 }
