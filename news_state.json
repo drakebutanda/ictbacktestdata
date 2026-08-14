@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-14 10:11 UTC",
+  "ts": "2026-08-14 11:50 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 5,
-  "avg_sentiment": 0.142,
-  "burst": false,
+  "recent": 8,
+  "avg_sentiment": -0.194,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-      "s": 0.77
+      "t": "NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic warfare'",
+      "s": -0.74
     },
     {
-      "t": "\u2018She\u2019s desperate\u2019: My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
-      "s": -0.7
+      "t": "These workers have charisma, confidence \u2014 and no fear of AI taking their jobs. They\u2019re the personality hires.",
+      "s": 0.71
     },
     {
-      "t": "Nintendo shares pop 7% after 'Pok\u00e9mon Pokopia' sales top 5 million",
-      "s": 0.46
+      "t": "\u2018Absolutely unacceptable\u2019: Japan PM Takaichi condemns Putin\u2019s visit to disputed Kuril Islands",
+      "s": -0.69
     },
     {
-      "t": "\u2018American Pie\u2019 star Seann William Scott lists stunning Malibu waterfront home for $17.5 million",
-      "s": 0.38
+      "t": "Batten down the hatches and allocate defensively because global liquidity has peaked, argues veteran strategist",
+      "s": -0.49
     },
     {
-      "t": "Treasury yields rise as U.S. threatens Iran with more economic sanctions",
-      "s": -0.2
+      "t": "\u2018My husband and I are at odds\u2019: Should we tap our home equity or sell stocks to build a $100,000 emergency fund?",
+      "s": -0.38
     }
   ]
 }
