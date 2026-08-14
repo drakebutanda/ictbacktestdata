@@ -1,18 +1,14 @@
 {
-  "ts": "2026-08-14 02:32 UTC",
+  "ts": "2026-08-14 04:54 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 2,
-  "avg_sentiment": -0.064,
+  "headlines": 99,
+  "recent": 1,
+  "avg_sentiment": 0.0,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-      "s": -0.13
-    },
-    {
-      "t": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
+      "t": "China built robots that can do backflips \u2013 but can they make money?",
       "s": 0.0
     }
   ]
