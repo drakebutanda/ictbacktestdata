@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-14 11:50 UTC",
+  "ts": "2026-08-14 13:22 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 8,
-  "avg_sentiment": -0.194,
+  "headlines": 100,
+  "recent": 13,
+  "avg_sentiment": -0.05,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": -0.74
     },
     {
-      "t": "These workers have charisma, confidence \u2014 and no fear of AI taking their jobs. They\u2019re the personality hires.",
-      "s": 0.71
-    },
-    {
       "t": "\u2018Absolutely unacceptable\u2019: Japan PM Takaichi condemns Putin\u2019s visit to disputed Kuril Islands",
       "s": -0.69
     },
     {
-      "t": "Batten down the hatches and allocate defensively because global liquidity has peaked, argues veteran strategist",
-      "s": -0.49
+      "t": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
+      "s": 0.66
     },
     {
-      "t": "\u2018My husband and I are at odds\u2019: Should we tap our home equity or sell stocks to build a $100,000 emergency fund?",
+      "t": "\u2018I didn\u2019t know what else to do\u2019: Patients take their health-insurance battles to Facebook and LinkedIn",
       "s": -0.38
+    },
+    {
+      "t": "Data breach notices have already blown past last year\u2019s total \u2014 and AI is playing a growing role",
+      "s": 0.36
     }
   ]
 }
