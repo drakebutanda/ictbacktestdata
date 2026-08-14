@@ -1,15 +1,19 @@
 {
-  "ts": "2026-08-14 17:56 UTC",
+  "ts": "2026-08-14 19:05 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 12,
-  "avg_sentiment": 0.197,
+  "recent": 14,
+  "avg_sentiment": 0.147,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "A plan to save Social Security involves wealthy people paying more \u2014 without getting an increase in benefits",
-      "s": 0.83
+      "t": "A plan to save Social Security involves high earners paying more in taxes \u2014 without getting more in benefits",
+      "s": 0.82
+    },
+    {
+      "t": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year.",
+      "s": 0.81
     },
     {
       "t": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
@@ -20,12 +24,8 @@
       "s": 0.62
     },
     {
-      "t": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
-      "s": 0.59
-    },
-    {
-      "t": "Think interest rates are high now? These charts offers a different perspective.",
-      "s": 0.46
+      "t": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+      "s": 0.48
     }
   ]
 }
