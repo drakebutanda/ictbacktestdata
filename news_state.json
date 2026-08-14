@@ -1,20 +1,12 @@
 {
-  "ts": "2026-08-14 19:05 UTC",
+  "ts": "2026-08-14 20:36 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 14,
-  "avg_sentiment": 0.147,
+  "recent": 8,
+  "avg_sentiment": 0.095,
   "burst": true,
   "mood": "neutral",
   "top": [
-    {
-      "t": "A plan to save Social Security involves high earners paying more in taxes \u2014 without getting more in benefits",
-      "s": 0.82
-    },
-    {
-      "t": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year.",
-      "s": 0.81
-    },
     {
       "t": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
       "s": -0.8
@@ -24,8 +16,16 @@
       "s": 0.62
     },
     {
-      "t": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
-      "s": 0.48
+      "t": "Trump asks Supreme Court to let White House ballroom construction continue",
+      "s": 0.56
+    },
+    {
+      "t": "16 beaten-down AI stocks that are beloved by BofA analysts",
+      "s": 0.51
+    },
+    {
+      "t": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
+      "s": -0.13
     }
   ]
 }
