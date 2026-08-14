@@ -1,27 +1,15 @@
 {
-  "ts": "2026-08-14 22:30 UTC",
+  "ts": "2026-08-14 23:27 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": 0.388,
+  "recent": 1,
+  "avg_sentiment": 0.758,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-on",
   "top": [
     {
       "t": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
       "s": 0.76
-    },
-    {
-      "t": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
-      "s": 0.48
-    },
-    {
-      "t": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
-      "s": 0.32
-    },
-    {
-      "t": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
-      "s": 0.0
     }
   ]
 }
