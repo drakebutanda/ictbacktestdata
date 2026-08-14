@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-14 21:31 UTC",
+  "ts": "2026-08-14 22:30 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 5,
-  "avg_sentiment": 0.221,
+  "recent": 4,
+  "avg_sentiment": 0.388,
   "burst": false,
   "mood": "neutral",
   "top": [
@@ -16,15 +16,11 @@
       "s": 0.48
     },
     {
-      "t": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-      "s": -0.13
+      "t": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
+      "s": 0.32
     },
     {
-      "t": "Goldman\u2019s latest cash cow is all about funding the AI infrastructure boom",
-      "s": 0.0
-    },
-    {
-      "t": "Drone stocks rally after Trump orders tariffs on foreign-made components",
+      "t": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
       "s": 0.0
     }
   ]
