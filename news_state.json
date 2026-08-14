@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-14 14:58 UTC",
+  "ts": "2026-08-14 16:00 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 10,
-  "avg_sentiment": -0.089,
+  "recent": 12,
+  "avg_sentiment": 0.158,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year.",
-      "s": 0.81
+      "t": "We're buying more shares of a recent spin-off that has great long-term prospects",
+      "s": 0.83
     },
     {
-      "t": "My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
-      "s": -0.7
+      "t": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
+      "s": -0.8
     },
     {
-      "t": "Property Play: Housing investors say this is their worst market in at least 3 years",
-      "s": -0.4
+      "t": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "s": 0.77
     },
     {
-      "t": "Should I tap my home equity or sell stocks to build a $100,000 emergency fund?",
-      "s": -0.38
+      "t": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+      "s": 0.62
     },
     {
-      "t": "\u2018I didn\u2019t know what else to do\u2019: Patients take their health-insurance battles to Facebook and LinkedIn",
-      "s": -0.38
+      "t": "Housing investors say this is their worst market in at least 3 years",
+      "s": -0.62
     }
   ]
 }
