@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-14 06:19 UTC",
+  "ts": "2026-08-14 08:22 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": 0.25,
+  "recent": 2,
+  "avg_sentiment": 0.311,
   "burst": false,
   "mood": "neutral",
   "top": [
@@ -12,12 +12,8 @@
       "s": 0.75
     },
     {
-      "t": "How a niche copper trade became a real-time gauge of Trump\u2019s next tariff move",
-      "s": 0.0
-    },
-    {
-      "t": "China built robots that can do backflips \u2013 but can they make money?",
-      "s": 0.0
+      "t": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
+      "s": -0.13
     }
   ]
 }
