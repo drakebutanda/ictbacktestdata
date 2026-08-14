@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-14 20:36 UTC",
+  "ts": "2026-08-14 21:31 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 8,
-  "avg_sentiment": 0.095,
-  "burst": true,
+  "recent": 5,
+  "avg_sentiment": 0.221,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-      "s": -0.8
+      "t": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+      "s": 0.76
     },
     {
-      "t": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-      "s": 0.62
-    },
-    {
-      "t": "Trump asks Supreme Court to let White House ballroom construction continue",
-      "s": 0.56
-    },
-    {
-      "t": "16 beaten-down AI stocks that are beloved by BofA analysts",
-      "s": 0.51
+      "t": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
+      "s": 0.48
     },
     {
       "t": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
       "s": -0.13
+    },
+    {
+      "t": "Goldman\u2019s latest cash cow is all about funding the AI infrastructure boom",
+      "s": 0.0
+    },
+    {
+      "t": "Drone stocks rally after Trump orders tariffs on foreign-made components",
+      "s": 0.0
     }
   ]
 }
