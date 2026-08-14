@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-14 13:22 UTC",
+  "ts": "2026-08-14 14:58 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 13,
-  "avg_sentiment": -0.05,
+  "recent": 10,
+  "avg_sentiment": -0.089,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic warfare'",
-      "s": -0.74
+      "t": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year.",
+      "s": 0.81
     },
     {
-      "t": "\u2018Absolutely unacceptable\u2019: Japan PM Takaichi condemns Putin\u2019s visit to disputed Kuril Islands",
-      "s": -0.69
+      "t": "My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
+      "s": -0.7
     },
     {
-      "t": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
-      "s": 0.66
+      "t": "Property Play: Housing investors say this is their worst market in at least 3 years",
+      "s": -0.4
+    },
+    {
+      "t": "Should I tap my home equity or sell stocks to build a $100,000 emergency fund?",
+      "s": -0.38
     },
     {
       "t": "\u2018I didn\u2019t know what else to do\u2019: Patients take their health-insurance battles to Facebook and LinkedIn",
       "s": -0.38
-    },
-    {
-      "t": "Data breach notices have already blown past last year\u2019s total \u2014 and AI is playing a growing role",
-      "s": 0.36
     }
   ]
 }
