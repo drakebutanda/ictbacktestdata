@@ -1,19 +1,31 @@
 {
-  "ts": "2026-08-14 08:22 UTC",
+  "ts": "2026-08-14 10:11 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": 0.311,
+  "recent": 5,
+  "avg_sentiment": 0.142,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump ally Nigel Farage wins special election to return to UK parliament",
-      "s": 0.75
+      "t": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "s": 0.77
     },
     {
-      "t": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-      "s": -0.13
+      "t": "\u2018She\u2019s desperate\u2019: My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
+      "s": -0.7
+    },
+    {
+      "t": "Nintendo shares pop 7% after 'Pok\u00e9mon Pokopia' sales top 5 million",
+      "s": 0.46
+    },
+    {
+      "t": "\u2018American Pie\u2019 star Seann William Scott lists stunning Malibu waterfront home for $17.5 million",
+      "s": 0.38
+    },
+    {
+      "t": "Treasury yields rise as U.S. threatens Iran with more economic sanctions",
+      "s": -0.2
     }
   ]
 }
