@@ -1,27 +1,23 @@
 {
-  "ts": "2026-08-15 18:39 UTC",
+  "ts": "2026-08-15 19:26 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": 0.006,
+  "recent": 3,
+  "avg_sentiment": 0.274,
   "burst": false,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Think interest rates are high now? These charts offer a different perspective.",
+      "s": 0.46
+    },
     {
       "t": "Owning a home is overrated. Renting is now often a much better money move.",
       "s": 0.44
     },
     {
-      "t": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
-      "s": -0.34
-    },
-    {
       "t": "An active fund holding a whopping 800 stocks is beating major indexes. Here\u2019s how.",
       "s": -0.08
-    },
-    {
-      "t": "Marijuana reform is\u00a0emerging\u00a0as a midterm elections issue\u00a0on both sides of the aisle",
-      "s": 0.0
     }
   ]
 }
