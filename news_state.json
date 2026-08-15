@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-15 13:35 UTC",
+  "ts": "2026-08-15 14:30 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 9,
-  "avg_sentiment": -0.061,
+  "recent": 12,
+  "avg_sentiment": -0.007,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
-      "s": 0.73
+      "t": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year.",
+      "s": 0.81
     },
     {
       "t": "My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
       "s": -0.7
     },
     {
+      "t": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
+      "s": 0.66
+    },
+    {
       "t": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
       "s": -0.49
     },
     {
-      "t": "Should I tap my home equity or sell stocks to build a $100,000 emergency fund?",
-      "s": -0.38
-    },
-    {
-      "t": "Here\u2019s who could pay higher Social Security taxes under proposals to shore up the program",
-      "s": 0.25
+      "t": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO. That could affect the state\u2019s case.",
+      "s": -0.42
     }
   ]
 }
