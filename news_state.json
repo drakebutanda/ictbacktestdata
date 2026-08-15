@@ -1,12 +1,28 @@
 {
-  "ts": "2026-08-14 23:27 UTC",
+  "ts": "2026-08-15 01:41 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": 0.758,
+  "recent": 0,
+  "avg_sentiment": 0.028,
   "burst": false,
-  "mood": "risk-on",
+  "mood": "neutral",
   "top": [
+    {
+      "t": "A plan to save Social Security involves high earners paying more in taxes \u2014 without getting more in benefits",
+      "s": 0.82
+    },
+    {
+      "t": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year.",
+      "s": 0.81
+    },
+    {
+      "t": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
+      "s": -0.8
+    },
+    {
+      "t": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+      "s": -0.8
+    },
     {
       "t": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
       "s": 0.76
