@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-15 15:27 UTC",
+  "ts": "2026-08-15 16:32 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 11,
-  "avg_sentiment": 0.149,
-  "burst": true,
+  "recent": 5,
+  "avg_sentiment": 0.388,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year.",
-      "s": 0.81
+      "t": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "s": 0.77
     },
     {
-      "t": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
-      "s": 0.66
+      "t": "Social Security recipients will get more money next year. Here\u2019s how much the COLA may boost benefits.",
+      "s": 0.77
     },
     {
       "t": "Nvidia, Intel, Google: Wall Street is partying like it\u2019s 1999",
       "s": 0.62
     },
     {
-      "t": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
-      "s": -0.49
+      "t": "Health insurers are dumping Medicare Advantage plans. Here\u2019s how many seniors could be affected.",
+      "s": -0.23
     },
     {
-      "t": "I have $10 million and pay two advisers for financial help, but still have questions",
-      "s": 0.17
+      "t": "Is $1 million enough for a household to retire? The answer keeps changing.",
+      "s": 0.0
     }
   ]
 }
