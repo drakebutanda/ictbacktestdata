@@ -1,30 +1,26 @@
 {
-  "ts": "2026-08-15 17:26 UTC",
+  "ts": "2026-08-15 18:39 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 6,
-  "avg_sentiment": 0.156,
+  "recent": 4,
+  "avg_sentiment": 0.006,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-      "s": 0.77
-    },
-    {
-      "t": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
-      "s": 0.73
+      "t": "Owning a home is overrated. Renting is now often a much better money move.",
+      "s": 0.44
     },
     {
       "t": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
       "s": -0.34
     },
     {
-      "t": "Health insurers are dumping Medicare Advantage plans. Here\u2019s how many seniors could be affected.",
-      "s": -0.23
+      "t": "An active fund holding a whopping 800 stocks is beating major indexes. Here\u2019s how.",
+      "s": -0.08
     },
     {
-      "t": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
+      "t": "Marijuana reform is\u00a0emerging\u00a0as a midterm elections issue\u00a0on both sides of the aisle",
       "s": 0.0
     }
   ]
