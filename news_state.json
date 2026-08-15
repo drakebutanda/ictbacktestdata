@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-15 14:30 UTC",
+  "ts": "2026-08-15 15:27 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 12,
-  "avg_sentiment": -0.007,
+  "recent": 11,
+  "avg_sentiment": 0.149,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": 0.81
     },
     {
-      "t": "My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
-      "s": -0.7
-    },
-    {
       "t": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
       "s": 0.66
+    },
+    {
+      "t": "Nvidia, Intel, Google: Wall Street is partying like it\u2019s 1999",
+      "s": 0.62
     },
     {
       "t": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
       "s": -0.49
     },
     {
-      "t": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO. That could affect the state\u2019s case.",
-      "s": -0.42
+      "t": "I have $10 million and pay two advisers for financial help, but still have questions",
+      "s": 0.17
     }
   ]
 }
