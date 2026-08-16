@@ -1,31 +1,15 @@
 {
-  "ts": "2026-08-16 09:34 UTC",
+  "ts": "2026-08-16 10:29 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 0,
-  "avg_sentiment": 0.029,
+  "recent": 1,
+  "avg_sentiment": -0.44,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-      "s": -0.8
-    },
-    {
-      "t": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-      "s": -0.8
-    },
-    {
-      "t": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-      "s": 0.77
-    },
-    {
-      "t": "Social Security recipients will get more money next year. Here\u2019s how much the COLA may boost benefits.",
-      "s": 0.77
-    },
-    {
-      "t": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
-      "s": 0.76
+      "t": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
+      "s": -0.44
     }
   ]
 }
