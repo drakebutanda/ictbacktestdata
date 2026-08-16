@@ -1,12 +1,16 @@
 {
-  "ts": "2026-08-16 13:36 UTC",
+  "ts": "2026-08-16 14:29 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": 0.0,
+  "recent": 2,
+  "avg_sentiment": 0.17,
   "burst": false,
   "mood": "neutral",
   "top": [
+    {
+      "t": "What the results of a Connecticut congressional primary race may mean for Social Security",
+      "s": 0.34
+    },
     {
       "t": "Here\u2019s the real reason oil prices aren\u2019t moving higher",
       "s": 0.0
