@@ -1,15 +1,19 @@
 {
-  "ts": "2026-08-16 11:26 UTC",
+  "ts": "2026-08-16 12:52 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": 0.0,
+  "recent": 2,
+  "avg_sentiment": 0.476,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-on",
   "top": [
     {
-      "t": "Walmart and Target are about to reveal the health of the U.S. consumer",
-      "s": 0.0
+      "t": "Top Wall Street analysts like these 3 dividend stocks for steady income",
+      "s": 0.51
+    },
+    {
+      "t": "The Mediterranean diet is the best out there. Here\u2019s why Americans struggle with it.",
+      "s": 0.44
     }
   ]
 }
