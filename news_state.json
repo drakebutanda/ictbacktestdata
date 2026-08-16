@@ -1,15 +1,19 @@
 {
-  "ts": "2026-08-16 21:26 UTC",
+  "ts": "2026-08-16 22:29 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": 0.202,
+  "recent": 2,
+  "avg_sentiment": 0.101,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
+      "t": "Believe the unbelievable in this market \u2014 things can be different this time",
       "s": 0.2
+    },
+    {
+      "t": "U.S. stock futures little changed as investors ponder the Fed\u2019s next move",
+      "s": 0.0
     }
   ]
 }
