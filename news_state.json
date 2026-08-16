@@ -1,12 +1,20 @@
 {
-  "ts": "2026-08-16 16:33 UTC",
+  "ts": "2026-08-16 17:25 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": -0.34,
+  "recent": 3,
+  "avg_sentiment": 0.302,
   "burst": false,
   "mood": "neutral",
   "top": [
+    {
+      "t": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "s": 0.77
+    },
+    {
+      "t": "Lamborghini unveils Revuelto SV, its most powerful production car ever",
+      "s": 0.48
+    },
     {
       "t": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
       "s": -0.34
