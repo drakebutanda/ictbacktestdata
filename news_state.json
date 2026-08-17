@@ -1,19 +1,31 @@
 {
-  "ts": "2026-08-17 03:06 UTC",
+  "ts": "2026-08-17 04:51 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 2,
-  "avg_sentiment": -0.148,
+  "recent": 0,
+  "avg_sentiment": 0.041,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations",
-      "s": -0.3
+      "t": "Gift Nifty 50 tests double-top support at $24,328: Live levels",
+      "s": 0.81
     },
     {
-      "t": "U.S. stock futures little changed as investors ponder the Fed\u2019s next move",
-      "s": 0.0
+      "t": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
+      "s": -0.8
+    },
+    {
+      "t": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+      "s": -0.8
+    },
+    {
+      "t": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "s": 0.77
+    },
+    {
+      "t": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+      "s": 0.76
     }
   ]
 }
