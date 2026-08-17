@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-17 22:31 UTC",
+  "ts": "2026-08-17 23:29 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 9,
-  "avg_sentiment": 0.144,
+  "recent": 8,
+  "avg_sentiment": 0.094,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-      "s": 0.77
+      "t": "CNBC's The China Connection newsletter: Money or power? The key to winning the AI race",
+      "s": 0.53
     },
     {
       "t": "Sanders proposes bill to stop Social Security benefit garnishment for unpaid student loans",
@@ -20,12 +20,12 @@
       "s": -0.32
     },
     {
-      "t": "There\u2019s a 49% chance the Dow will finish this year up double digits. Here\u2019s why.",
-      "s": 0.25
+      "t": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
+      "s": 0.05
     },
     {
-      "t": "The number of \u2018negative-beta\u2019 stocks in the S&P 500 just hit a new record high. What that means for investors.",
-      "s": 0.08
+      "t": "Lakers governor Jeanie Buss says siblings cannot sell family\u2019s stake to Bob Iger, Joshua Kushner",
+      "s": 0.0
     }
   ]
 }
