@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-17 20:34 UTC",
+  "ts": "2026-08-17 21:31 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 9,
-  "avg_sentiment": 0.086,
+  "recent": 14,
+  "avg_sentiment": 0.169,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'",
-      "s": -0.74
-    },
-    {
       "t": "30-year Treasury yield tops 5.31%, the highest in 19 years",
       "s": 0.62
-    },
-    {
-      "t": "Why it pays to stay invested: No amount of bad news could stop the stock market\u2019s strongest run in more than 25 years",
-      "s": -0.61
     },
     {
       "t": "What will TV look like in three years? Media insiders share their predictions",
       "s": 0.57
     },
     {
+      "t": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
+      "s": 0.54
+    },
+    {
       "t": "Sanders proposes bill to stop Social Security benefit garnishment for unpaid student loans",
       "s": 0.49
+    },
+    {
+      "t": "SpaceX\u2019s stock is rising, and that\u2019s a good sign for Nvidia and Google",
+      "s": 0.44
     }
   ]
 }
