@@ -1,12 +1,16 @@
 {
-  "ts": "2026-08-16 23:26 UTC",
+  "ts": "2026-08-17 01:46 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": 0.0,
+  "recent": 2,
+  "avg_sentiment": -0.148,
   "burst": false,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations",
+      "s": -0.3
+    },
     {
       "t": "U.S. stock futures little changed as investors ponder the Fed\u2019s next move",
       "s": 0.0
