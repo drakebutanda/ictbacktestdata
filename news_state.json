@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-17 10:38 UTC",
+  "ts": "2026-08-17 11:32 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 5,
-  "avg_sentiment": -0.2,
+  "recent": 7,
+  "avg_sentiment": 0.054,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Russia targets Danube port after one of Ukraine\u2019s largest aerial attacks of the war",
-      "s": -0.78
+      "t": "What will TV look like in three years? Media insiders share their predictions",
+      "s": 0.57
     },
     {
       "t": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
       "s": -0.54
     },
     {
-      "t": "My son does not work, yet he pays $500 for ACA health insurance. How is that fair?",
-      "s": 0.32
+      "t": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+      "s": -0.34
     },
     {
-      "t": "Investor dubbed \u2018AI stock god\u2019 had 56% of his funds in these two stocks before it blew up",
-      "s": 0.0
+      "t": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads.",
+      "s": 0.34
     },
     {
-      "t": "Santoli: Earnings bonanza that lifted market to record may not be all that it appears to be",
-      "s": 0.0
+      "t": "Vista Energy up 5% after billionaire Peter Thiel buys stake in the Argentine shale oil producer",
+      "s": 0.27
     }
   ]
 }
