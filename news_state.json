@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-17 21:31 UTC",
+  "ts": "2026-08-17 22:31 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 14,
-  "avg_sentiment": 0.169,
+  "recent": 9,
+  "avg_sentiment": 0.144,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "30-year Treasury yield tops 5.31%, the highest in 19 years",
-      "s": 0.62
-    },
-    {
-      "t": "What will TV look like in three years? Media insiders share their predictions",
-      "s": 0.57
-    },
-    {
-      "t": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
-      "s": 0.54
+      "t": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "s": 0.77
     },
     {
       "t": "Sanders proposes bill to stop Social Security benefit garnishment for unpaid student loans",
       "s": 0.49
     },
     {
-      "t": "SpaceX\u2019s stock is rising, and that\u2019s a good sign for Nvidia and Google",
-      "s": 0.44
+      "t": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
+      "s": -0.32
+    },
+    {
+      "t": "There\u2019s a 49% chance the Dow will finish this year up double digits. Here\u2019s why.",
+      "s": 0.25
+    },
+    {
+      "t": "The number of \u2018negative-beta\u2019 stocks in the S&P 500 just hit a new record high. What that means for investors.",
+      "s": 0.08
     }
   ]
 }
