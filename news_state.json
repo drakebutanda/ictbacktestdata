@@ -1,14 +1,18 @@
 {
-  "ts": "2026-08-17 17:33 UTC",
+  "ts": "2026-08-17 18:49 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 10,
-  "avg_sentiment": -0.044,
+  "recent": 8,
+  "avg_sentiment": -0.032,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
+      "t": "30-year Treasury yield tops 5.31%, the highest in 19 years",
+      "s": 0.62
+    },
+    {
+      "t": "Brent oil rises to $91 as Iran rules out interim deal extension, threatens to escalate conflict",
       "s": -0.6
     },
     {
@@ -16,16 +20,12 @@
       "s": 0.51
     },
     {
-      "t": "Meta faces \u2018astronomical\u2019 consequences as legal fight reaches critical moment in California",
+      "t": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
       "s": -0.49
     },
     {
-      "t": "Owning a home is overrated. Renting is now often a much better money move.",
+      "t": "The Mediterranean diet is the best one out there. Here\u2019s why Americans struggle with it.",
       "s": 0.44
-    },
-    {
-      "t": "Prediction market traders see roughly 1-in-4 odds Paramount\u2019s bid to buy Warner Bros. Discovery fails",
-      "s": -0.42
     }
   ]
 }
