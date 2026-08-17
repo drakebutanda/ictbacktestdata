@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-17 16:36 UTC",
+  "ts": "2026-08-17 17:33 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 16,
-  "avg_sentiment": 0.048,
+  "recent": 10,
+  "avg_sentiment": -0.044,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Social Security recipients will get more money next year. Here\u2019s how much the COLA may boost benefits.",
-      "s": 0.77
-    },
-    {
-      "t": "Oil prices little changed as Iran rules out interim deal extension, threatens to escalate conflict",
+      "t": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
       "s": -0.6
-    },
-    {
-      "t": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
-      "s": -0.54
-    },
-    {
-      "t": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
-      "s": 0.54
     },
     {
       "t": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
       "s": 0.51
+    },
+    {
+      "t": "Meta faces \u2018astronomical\u2019 consequences as legal fight reaches critical moment in California",
+      "s": -0.49
+    },
+    {
+      "t": "Owning a home is overrated. Renting is now often a much better money move.",
+      "s": 0.44
+    },
+    {
+      "t": "Prediction market traders see roughly 1-in-4 odds Paramount\u2019s bid to buy Warner Bros. Discovery fails",
+      "s": -0.42
     }
   ]
 }
