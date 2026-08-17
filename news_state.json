@@ -1,14 +1,26 @@
 {
-  "ts": "2026-08-17 08:52 UTC",
+  "ts": "2026-08-17 09:50 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 2,
-  "avg_sentiment": 0.0,
+  "recent": 5,
+  "avg_sentiment": -0.028,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry",
+      "t": "Neighbors in rural Texas county are not happy about Elon Musk\u2019s plan to erect world\u2019s largest building",
+      "s": -0.46
+    },
+    {
+      "t": "My son does not work, yet he pays $500 for ACA health insurance. How is that fair?",
+      "s": 0.32
+    },
+    {
+      "t": "Investor dubbed \u2018AI stock god\u2019 had 56% of his funds in these two stocks before it blew up",
+      "s": 0.0
+    },
+    {
+      "t": "Former Starbucks CEO\u00a0Howard Schultz sells home in Hawaii for $36 million after moving to Florida",
       "s": 0.0
     },
     {
