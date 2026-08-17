@@ -1,19 +1,19 @@
 {
-  "ts": "2026-08-17 12:57 UTC",
+  "ts": "2026-08-17 13:47 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 11,
-  "avg_sentiment": -0.012,
+  "recent": 12,
+  "avg_sentiment": -0.124,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-      "s": 0.77
-    },
-    {
       "t": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
       "s": -0.7
+    },
+    {
+      "t": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
+      "s": -0.6
     },
     {
       "t": "'Don't get too comfortable': Wall Street\u2019s \u2018fear gauge\u2019 hits 2026 low \u2014 here's why it's unlikely to last",
