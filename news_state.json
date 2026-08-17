@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-17 19:33 UTC",
+  "ts": "2026-08-17 20:34 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 12,
-  "avg_sentiment": 0.041,
+  "recent": 9,
+  "avg_sentiment": 0.086,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": -0.74
     },
     {
-      "t": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "s": 0.67
-    },
-    {
       "t": "30-year Treasury yield tops 5.31%, the highest in 19 years",
       "s": 0.62
     },
     {
-      "t": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
-      "s": -0.54
+      "t": "Why it pays to stay invested: No amount of bad news could stop the stock market\u2019s strongest run in more than 25 years",
+      "s": -0.61
     },
     {
-      "t": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
-      "s": 0.51
+      "t": "What will TV look like in three years? Media insiders share their predictions",
+      "s": 0.57
+    },
+    {
+      "t": "Sanders proposes bill to stop Social Security benefit garnishment for unpaid student loans",
+      "s": 0.49
     }
   ]
 }
