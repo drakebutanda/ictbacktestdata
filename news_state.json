@@ -1,15 +1,19 @@
 {
-  "ts": "2026-08-17 05:40 UTC",
+  "ts": "2026-08-17 07:08 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": -0.7,
+  "recent": 2,
+  "avg_sentiment": 0.0,
   "burst": false,
-  "mood": "risk-off",
+  "mood": "neutral",
   "top": [
     {
-      "t": "Japanese automakers vulnerable to one-two punch of Iran war, yen rally",
-      "s": -0.7
+      "t": "Ferrari Luce: Polarizing EV becomes a $40 million collector\u2019s item",
+      "s": 0.0
+    },
+    {
+      "t": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
+      "s": 0.0
     }
   ]
 }
