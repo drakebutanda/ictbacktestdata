@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-17 11:32 UTC",
+  "ts": "2026-08-17 12:57 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 7,
-  "avg_sentiment": 0.054,
-  "burst": false,
+  "recent": 11,
+  "avg_sentiment": -0.012,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "What will TV look like in three years? Media insiders share their predictions",
-      "s": 0.57
+      "t": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "s": 0.77
     },
     {
-      "t": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
-      "s": -0.54
+      "t": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
+      "s": -0.7
     },
     {
-      "t": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
-      "s": -0.34
+      "t": "'Don't get too comfortable': Wall Street\u2019s \u2018fear gauge\u2019 hits 2026 low \u2014 here's why it's unlikely to last",
+      "s": -0.59
     },
     {
-      "t": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads.",
-      "s": 0.34
+      "t": "Meta faces \u2018astronomical\u2019 consequences as legal fight reaches critical moment in California",
+      "s": -0.49
     },
     {
-      "t": "Vista Energy up 5% after billionaire Peter Thiel buys stake in the Argentine shale oil producer",
-      "s": 0.27
+      "t": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
+      "s": -0.49
     }
   ]
 }
