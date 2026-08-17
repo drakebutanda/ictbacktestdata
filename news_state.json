@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-17 18:49 UTC",
+  "ts": "2026-08-17 19:33 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 8,
-  "avg_sentiment": -0.032,
+  "recent": 12,
+  "avg_sentiment": 0.041,
   "burst": true,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'",
+      "s": -0.74
+    },
+    {
+      "t": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "s": 0.67
+    },
     {
       "t": "30-year Treasury yield tops 5.31%, the highest in 19 years",
       "s": 0.62
     },
     {
-      "t": "Brent oil rises to $91 as Iran rules out interim deal extension, threatens to escalate conflict",
-      "s": -0.6
+      "t": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
+      "s": -0.54
     },
     {
       "t": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
       "s": 0.51
-    },
-    {
-      "t": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
-      "s": -0.49
-    },
-    {
-      "t": "The Mediterranean diet is the best one out there. Here\u2019s why Americans struggle with it.",
-      "s": 0.44
     }
   ]
 }
