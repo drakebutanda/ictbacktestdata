@@ -1,15 +1,19 @@
 {
-  "ts": "2026-08-17 14:35 UTC",
+  "ts": "2026-08-17 15:31 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 14,
-  "avg_sentiment": -0.017,
+  "recent": 19,
+  "avg_sentiment": 0.041,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "My friend\u2019s mother died. Can she stop Medicaid from taking the family home?",
-      "s": -0.7
+      "t": "Social Security recipients will get more money next year. Here\u2019s how much the COLA may boost benefits.",
+      "s": 0.77
+    },
+    {
+      "t": "Most investors are making the same costly mistake \u2014 and it has nothing to do with picking the wrong stocks",
+      "s": -0.71
     },
     {
       "t": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
@@ -22,10 +26,6 @@
     {
       "t": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
       "s": -0.6
-    },
-    {
-      "t": "Meta faces \u2018astronomical\u2019 consequences as legal fight reaches critical moment in California",
-      "s": -0.49
     }
   ]
 }
