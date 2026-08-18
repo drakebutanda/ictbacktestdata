@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-18 03:02 UTC",
+  "ts": "2026-08-18 04:42 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 1,
-  "avg_sentiment": 0.382,
+  "avg_sentiment": -0.751,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "Credit card issuer Synchrony announces partnership with OpenAI",
-      "s": 0.38
+      "t": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict",
+      "s": -0.75
     }
   ]
 }
