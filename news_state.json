@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-18 19:32 UTC",
+  "ts": "2026-08-18 20:31 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 11,
-  "avg_sentiment": -0.124,
-  "burst": true,
+  "recent": 7,
+  "avg_sentiment": 0.154,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
-      "s": -0.72
+      "t": "My co-workers complain about minor things and\u00a0make every meeting miserable. How should I deal with them?",
+      "s": -0.69
     },
     {
-      "t": "The national debt is about to hit $40 trillion. Here\u2019s how it can hurt Americans.",
-      "s": -0.71
+      "t": "We upgraded Home Depot and raised our price target. It made the best of a terrible hand",
+      "s": 0.65
     },
     {
-      "t": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
+      "t": "30-year Treasury yield tops 5.33%, new 19-year high, on inflation and spending concerns",
       "s": 0.62
     },
     {
-      "t": "Trump says no talks scheduled with Iran as he teases action in Hormuz Strait",
-      "s": -0.53
+      "t": "Here\u2019s a \u2018ridiculously cheap\u2019 way to protect yourself against a stock-market selloff",
+      "s": 0.38
     },
     {
-      "t": "\u2018Too many people go bankrupt\u2019: Should Medicare provide catastrophic coverage?",
-      "s": -0.49
+      "t": "Mortgage rates could move even higher \u2014 dealing a fresh blow to home buyers",
+      "s": 0.32
     }
   ]
 }
