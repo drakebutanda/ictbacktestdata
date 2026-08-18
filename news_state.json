@@ -1,10 +1,10 @@
 {
-  "ts": "2026-08-18 09:40 UTC",
+  "ts": "2026-08-18 10:36 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 5,
-  "avg_sentiment": -0.197,
-  "burst": false,
+  "headlines": 99,
+  "recent": 8,
+  "avg_sentiment": -0.164,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
@@ -12,20 +12,20 @@
       "s": -0.77
     },
     {
+      "t": "\u2018This is very stressful\u2019: My son\u2019s insurance company won\u2019t pay for his damaged roof. How can he fight this?",
+      "s": -0.71
+    },
+    {
+      "t": "Financial advisers tell us how they handle clients who love to gamble",
+      "s": 0.64
+    },
+    {
       "t": "\u2018We are hurt\u2019: Our son and daughter-in-law cut off contact with us over politics. Should we change our $3 million will?",
       "s": -0.27
     },
     {
-      "t": "How investors profit from soccer even as Premier League club losses skyrocket",
-      "s": 0.05
-    },
-    {
-      "t": "Usher\u2019s art-packed Atlanta mansion also has a hookah lounge and a barbershop",
-      "s": 0.0
-    },
-    {
-      "t": "Chris Pratt\u2019s Pacific Palisades home returns to the market for just under $20 million",
-      "s": 0.0
+      "t": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
+      "s": -0.15
     }
   ]
 }
