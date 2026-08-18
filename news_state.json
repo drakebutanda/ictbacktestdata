@@ -1,15 +1,31 @@
 {
-  "ts": "2026-08-18 06:55 UTC",
+  "ts": "2026-08-18 07:45 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": 0.202,
+  "recent": 0,
+  "avg_sentiment": -0.012,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher",
-      "s": 0.2
+      "t": "European stocks slip toward longest losing streak since 2025 on war risks",
+      "s": -0.82
+    },
+    {
+      "t": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+      "s": -0.8
+    },
+    {
+      "t": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "s": 0.77
+    },
+    {
+      "t": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict",
+      "s": -0.75
+    },
+    {
+      "t": "Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'",
+      "s": -0.74
     }
   ]
 }
