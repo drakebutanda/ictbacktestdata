@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-18 11:31 UTC",
+  "ts": "2026-08-18 12:59 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 9,
-  "avg_sentiment": -0.174,
+  "recent": 13,
+  "avg_sentiment": 0.056,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador",
-      "s": -0.77
+      "t": "How do I deal with co-workers who constantly complain about the dumbest problems?",
+      "s": -0.82
     },
     {
-      "t": "\u2018This is very stressful\u2019: My son\u2019s insurance company won\u2019t pay for his damaged roof. How can he fight this?",
-      "s": -0.71
+      "t": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "s": 0.67
     },
     {
-      "t": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
-      "s": -0.54
+      "t": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
+      "s": 0.62
     },
     {
-      "t": "The startup using AI to help rare disease families develop custom treatments",
-      "s": 0.4
+      "t": "'Worrisome': AI is driving a looming market correction, central bank economists warn",
+      "s": -0.56
     },
     {
-      "t": "U.S. 30-year Treasury yield hits highest level since 2007 amid global bond sell-off",
-      "s": 0.2
+      "t": "The TI-84 has ruled math classes for decades. Can cheaper calculators gain ground?",
+      "s": 0.53
     }
   ]
 }
