@@ -1,18 +1,14 @@
 {
-  "ts": "2026-08-18 14:40 UTC",
+  "ts": "2026-08-18 15:38 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 24,
-  "avg_sentiment": -0.061,
+  "recent": 18,
+  "avg_sentiment": -0.047,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador",
-      "s": -0.77
-    },
-    {
-      "t": "Jimmy Kimmel infuriated Trump. Now Disney is suing the FCC over what it calls a \u2018retaliatory campaign.\u2019",
+      "t": "We're adding to our position in a stock that's been hurt by rekindled Middle East tensions",
       "s": -0.73
     },
     {
@@ -20,12 +16,16 @@
       "s": -0.71
     },
     {
-      "t": "Financial advisers tell us how they handle clients who love to gamble",
-      "s": 0.64
+      "t": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "s": 0.67
     },
     {
       "t": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
       "s": 0.62
+    },
+    {
+      "t": "Hims & Hers CEO says FTC lawsuit misunderstands how the company works",
+      "s": -0.49
     }
   ]
 }
