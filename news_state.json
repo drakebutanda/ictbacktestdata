@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-18 10:36 UTC",
+  "ts": "2026-08-18 11:31 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 8,
-  "avg_sentiment": -0.164,
+  "recent": 9,
+  "avg_sentiment": -0.174,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -16,16 +16,16 @@
       "s": -0.71
     },
     {
-      "t": "Financial advisers tell us how they handle clients who love to gamble",
-      "s": 0.64
+      "t": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
+      "s": -0.54
     },
     {
-      "t": "\u2018We are hurt\u2019: Our son and daughter-in-law cut off contact with us over politics. Should we change our $3 million will?",
-      "s": -0.27
+      "t": "The startup using AI to help rare disease families develop custom treatments",
+      "s": 0.4
     },
     {
-      "t": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
-      "s": -0.15
+      "t": "U.S. 30-year Treasury yield hits highest level since 2007 amid global bond sell-off",
+      "s": 0.2
     }
   ]
 }
