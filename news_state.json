@@ -1,15 +1,19 @@
 {
-  "ts": "2026-08-18 04:42 UTC",
+  "ts": "2026-08-18 05:35 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": -0.751,
+  "recent": 2,
+  "avg_sentiment": -0.523,
   "burst": false,
   "mood": "risk-off",
   "top": [
     {
       "t": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict",
       "s": -0.75
+    },
+    {
+      "t": "South Korea must brace for \u2018worst-case scenario,\u2019 President Lee says, as Trump cuts military drills",
+      "s": -0.3
     }
   ]
 }
