@@ -1,31 +1,15 @@
 {
-  "ts": "2026-08-18 01:41 UTC",
+  "ts": "2026-08-18 03:02 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 0,
-  "avg_sentiment": -0.018,
+  "recent": 1,
+  "avg_sentiment": 0.382,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-      "s": -0.8
-    },
-    {
-      "t": "Russia targets Danube port after one of Ukraine\u2019s largest aerial attacks of the war",
-      "s": -0.78
-    },
-    {
-      "t": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-      "s": 0.77
-    },
-    {
-      "t": "Pro Medicus FY profit soars 130% on U.S. contract wins",
-      "s": 0.77
-    },
-    {
-      "t": "Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'",
-      "s": -0.74
+      "t": "Credit card issuer Synchrony announces partnership with OpenAI",
+      "s": 0.38
     }
   ]
 }
