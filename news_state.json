@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-19 21:32 UTC",
+  "ts": "2026-08-19 22:31 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 19,
-  "avg_sentiment": 0.003,
+  "recent": 9,
+  "avg_sentiment": 0.236,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018I brought my Super Bowl ring to the open houses\u2019: Seahawks player shares story of getting his real-estate license",
-      "s": 0.73
-    },
-    {
-      "t": "The national debt just hit $40 trillion. Here\u2019s how it can hurt Americans.",
-      "s": -0.71
-    },
-    {
-      "t": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
-      "s": 0.66
-    },
-    {
-      "t": "Hidden Valley Ranch dressing may be a victim of this summer\u2019s salad scare",
-      "s": -0.65
+      "t": "The chip-stock rally hits a speed bump \u2014 but these analysts see reason to be hopeful",
+      "s": 0.67
     },
     {
       "t": "Why the Treasury market\u2019s newfound calm could break down in September",
       "s": 0.48
+    },
+    {
+      "t": "ServiceNow\u2019s stock leads a software rally. Here\u2019s what\u2019s energizing investors.",
+      "s": 0.46
+    },
+    {
+      "t": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+      "s": 0.46
+    },
+    {
+      "t": "Treasury, IRS move to restrict refundable tax credits to certain immigrants",
+      "s": 0.42
     }
   ]
 }
