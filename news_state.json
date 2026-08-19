@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-19 17:32 UTC",
+  "ts": "2026-08-19 18:44 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 10,
-  "avg_sentiment": 0.019,
+  "recent": 18,
+  "avg_sentiment": -0.071,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018Trump accounts\u2019 won\u2019t help solve Americans\u2019 savings problems. Here\u2019s a better way.",
-      "s": 0.57
+      "t": "Gen Z used to embrace AI. Now most young adults fear it will steal their jobs.",
+      "s": -0.66
     },
     {
-      "t": "Meta's legal troubles has options traders eyeing the 'jade lizard'",
-      "s": -0.36
+      "t": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
+      "s": -0.54
     },
     {
-      "t": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
-      "s": -0.23
+      "t": "Fed minutes reveal growing support for rate hikes",
+      "s": 0.53
     },
     {
-      "t": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-      "s": 0.2
+      "t": "Five reasons we\u2019re headed for a 10% stock-market correction \u2014 or worse",
+      "s": -0.48
     },
     {
-      "t": "My male co-workers with kids expect me to pick up their slack because I don\u2019t have children. Do I push back?",
-      "s": 0.0
+      "t": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 150%",
+      "s": -0.48
     }
   ]
 }
