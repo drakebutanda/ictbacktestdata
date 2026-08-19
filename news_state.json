@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-19 19:31 UTC",
+  "ts": "2026-08-19 20:36 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 11,
-  "avg_sentiment": -0.086,
+  "recent": 19,
+  "avg_sentiment": -0.027,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": -0.71
     },
     {
-      "t": "Gen Z used to embrace AI. Now most young adults fear it will steal their jobs.",
-      "s": -0.66
+      "t": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
+      "s": 0.66
     },
     {
-      "t": "Fed minutes reveal growing support for rate hikes",
-      "s": 0.53
+      "t": "Hidden Valley Ranch dressing may be a victim of this summer\u2019s salad scare",
+      "s": -0.65
     },
     {
-      "t": "My wife can claim $900 at 62. Should she take it now \u2014 or wait for her spousal benefit?",
-      "s": 0.46
+      "t": "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar",
+      "s": -0.48
     },
     {
-      "t": "DOJ cites Comey's novel in urging judge not to toss \u201886 47' seashells threat to Trump case",
-      "s": -0.27
+      "t": "Treasury, IRS move to restrict refundable tax credits to certain immigrants",
+      "s": 0.42
     }
   ]
 }
