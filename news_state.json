@@ -1,10 +1,10 @@
 {
-  "ts": "2026-08-19 22:31 UTC",
+  "ts": "2026-08-19 23:28 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 9,
-  "avg_sentiment": 0.236,
-  "burst": true,
+  "recent": 6,
+  "avg_sentiment": 0.083,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
@@ -12,20 +12,20 @@
       "s": 0.67
     },
     {
-      "t": "Why the Treasury market\u2019s newfound calm could break down in September",
-      "s": 0.48
+      "t": "Trump announces 'economic warfare' on Iran, threatens \u2018tremendous\u2019 consequences for its backers",
+      "s": -0.59
     },
     {
-      "t": "ServiceNow\u2019s stock leads a software rally. Here\u2019s what\u2019s energizing investors.",
+      "t": "Retirees: This investment gives you a guaranteed 5% safe withdrawal rate",
       "s": 0.46
     },
     {
-      "t": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
-      "s": 0.46
+      "t": "U.S. government debt passes $40 trillion, more than doubling in a decade",
+      "s": -0.36
     },
     {
-      "t": "Treasury, IRS move to restrict refundable tax credits to certain immigrants",
-      "s": 0.42
+      "t": "I hold my mother-in-law\u2019s power of attorney. I\u2019m also her executor and trustee. Do I have ultimate authority?",
+      "s": 0.32
     }
   ]
 }
