@@ -1,12 +1,16 @@
 {
-  "ts": "2026-08-19 10:35 UTC",
+  "ts": "2026-08-19 11:32 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 9,
-  "avg_sentiment": 0.077,
+  "recent": 12,
+  "avg_sentiment": 0.026,
   "burst": true,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Target\u2019s grocery overhaul is helping it win back customers",
+      "s": 0.72
+    },
     {
       "t": "Dollar risks are mounting. Here\u2019s what could weaken the greenback",
       "s": -0.6
@@ -16,16 +20,12 @@
       "s": 0.56
     },
     {
-      "t": "Amazon to expand drone service to nearly 500 cities after targeting 1 million deliveries this year",
-      "s": 0.46
+      "t": "\u2018Too many people go bankrupt\u2019: Should Medicare provide catastrophic coverage?",
+      "s": -0.49
     },
     {
-      "t": "World\u2019s largest olive oil company pops over 15% as rivals circle in takeover battle",
-      "s": -0.38
-    },
-    {
-      "t": "I\u2019m my mother-in-law\u2019s power of attorney, executor and trustee. Do I hold all the power?",
-      "s": 0.25
+      "t": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 50%",
+      "s": -0.48
     }
   ]
 }
