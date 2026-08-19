@@ -1,26 +1,26 @@
 {
-  "ts": "2026-08-19 14:40 UTC",
+  "ts": "2026-08-19 15:38 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 19,
-  "avg_sentiment": 0.131,
+  "avg_sentiment": 0.076,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Target\u2019s grocery overhaul is helping it win back customers",
-      "s": 0.72
+      "t": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "s": 0.67
+    },
+    {
+      "t": "\u2018Too many people go bankrupt\u2019: Should Medicare provide catastrophic coverage?",
+      "s": -0.49
     },
     {
       "t": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock more than doubles",
       "s": -0.48
     },
     {
-      "t": "Meta is facing its \u2018Big Tobacco\u2019 moment \u2014 and investors can profit",
-      "s": 0.44
-    },
-    {
-      "t": "Car dealerships are relying more on parts and service for profits",
+      "t": "We're booking a five-fold profit on one of drug stock's rally to record highs",
       "s": 0.44
     },
     {
