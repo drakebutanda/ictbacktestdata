@@ -1,31 +1,19 @@
 {
-  "ts": "2026-08-18 23:28 UTC",
+  "ts": "2026-08-19 01:43 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 5,
-  "avg_sentiment": 0.113,
+  "recent": 2,
+  "avg_sentiment": 0.171,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018This is very stressful\u2019: My son\u2019s roof was damaged in a storm, but his insurance won\u2019t pay. Can he fight this?",
-      "s": -0.71
+      "t": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
+      "s": 0.34
     },
     {
-      "t": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "s": 0.67
-    },
-    {
-      "t": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'",
-      "s": 0.66
-    },
-    {
-      "t": "\u2018Too many people go bankrupt\u2019: Should Medicare provide catastrophic coverage?",
-      "s": -0.49
-    },
-    {
-      "t": "Meta is facing its \u2018Big Tobacco\u2019 moment \u2014 and investors can profit",
-      "s": 0.44
+      "t": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
+      "s": 0.0
     }
   ]
 }
