@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-19 13:52 UTC",
+  "ts": "2026-08-19 14:40 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 18,
-  "avg_sentiment": 0.026,
+  "recent": 19,
+  "avg_sentiment": 0.131,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,19 +12,19 @@
       "s": 0.72
     },
     {
-      "t": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
-      "s": -0.72
-    },
-    {
-      "t": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
+      "t": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock more than doubles",
       "s": -0.48
     },
     {
-      "t": "I\u2019m leaving my grandkids money \u2014 but they must pass financial-literacy classes to get it. Is that fair?",
-      "s": 0.45
+      "t": "Meta is facing its \u2018Big Tobacco\u2019 moment \u2014 and investors can profit",
+      "s": 0.44
     },
     {
-      "t": "Moderna\u2019s stock doubles on promising cancer-vaccine results",
+      "t": "Car dealerships are relying more on parts and service for profits",
+      "s": 0.44
+    },
+    {
+      "t": "Target says its turnaround is picking up steam, with help from a big tariff refund",
       "s": 0.4
     }
   ]
