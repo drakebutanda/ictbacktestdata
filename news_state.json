@@ -1,15 +1,31 @@
 {
-  "ts": "2026-08-19 04:43 UTC",
+  "ts": "2026-08-19 05:37 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": 0.0,
+  "recent": 0,
+  "avg_sentiment": -0.021,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
-      "s": 0.0
+      "t": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+      "s": -0.8
+    },
+    {
+      "t": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
+      "s": -0.72
+    },
+    {
+      "t": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
+      "s": -0.72
+    },
+    {
+      "t": "\u2018This is very stressful\u2019: My son\u2019s roof was damaged in a storm, but his insurance won\u2019t pay. Can he fight this?",
+      "s": -0.71
+    },
+    {
+      "t": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "s": 0.67
     }
   ]
 }
