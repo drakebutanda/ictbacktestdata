@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-19 16:38 UTC",
+  "ts": "2026-08-19 17:32 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 11,
-  "avg_sentiment": -0.044,
+  "recent": 10,
+  "avg_sentiment": 0.019,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "s": 0.67
+      "t": "\u2018Trump accounts\u2019 won\u2019t help solve Americans\u2019 savings problems. Here\u2019s a better way.",
+      "s": 0.57
     },
     {
-      "t": "\u2018Too many people go bankrupt\u2019: Should Medicare provide catastrophic coverage?",
-      "s": -0.49
-    },
-    {
-      "t": "I want to be a snowbird, but I\u2019m not sure my $2 million nest egg can sustain two homes",
-      "s": -0.32
-    },
-    {
-      "t": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-      "s": 0.3
+      "t": "Meta's legal troubles has options traders eyeing the 'jade lizard'",
+      "s": -0.36
     },
     {
       "t": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
       "s": -0.23
+    },
+    {
+      "t": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+      "s": 0.2
+    },
+    {
+      "t": "My male co-workers with kids expect me to pick up their slack because I don\u2019t have children. Do I push back?",
+      "s": 0.0
     }
   ]
 }
