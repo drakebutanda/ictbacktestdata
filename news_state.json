@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-19 15:38 UTC",
+  "ts": "2026-08-19 16:38 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 19,
-  "avg_sentiment": 0.076,
+  "recent": 11,
+  "avg_sentiment": -0.044,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -16,16 +16,16 @@
       "s": -0.49
     },
     {
-      "t": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock more than doubles",
-      "s": -0.48
+      "t": "I want to be a snowbird, but I\u2019m not sure my $2 million nest egg can sustain two homes",
+      "s": -0.32
     },
     {
-      "t": "We're booking a five-fold profit on one of drug stock's rally to record highs",
-      "s": 0.44
+      "t": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+      "s": 0.3
     },
     {
-      "t": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-      "s": 0.4
+      "t": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
+      "s": -0.23
     }
   ]
 }
