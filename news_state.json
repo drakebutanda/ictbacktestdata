@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-19 18:44 UTC",
+  "ts": "2026-08-19 19:31 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 18,
-  "avg_sentiment": -0.071,
+  "recent": 11,
+  "avg_sentiment": -0.086,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Gen Z used to embrace AI. Now most young adults fear it will steal their jobs.",
-      "s": -0.66
+      "t": "\u2018This is very stressful\u2019: My son\u2019s roof was damaged in a storm, but his insurance won\u2019t pay. Can he fight this?",
+      "s": -0.71
     },
     {
-      "t": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
-      "s": -0.54
+      "t": "Gen Z used to embrace AI. Now most young adults fear it will steal their jobs.",
+      "s": -0.66
     },
     {
       "t": "Fed minutes reveal growing support for rate hikes",
       "s": 0.53
     },
     {
-      "t": "Five reasons we\u2019re headed for a 10% stock-market correction \u2014 or worse",
-      "s": -0.48
+      "t": "My wife can claim $900 at 62. Should she take it now \u2014 or wait for her spousal benefit?",
+      "s": 0.46
     },
     {
-      "t": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 150%",
-      "s": -0.48
+      "t": "DOJ cites Comey's novel in urging judge not to toss \u201886 47' seashells threat to Trump case",
+      "s": -0.27
     }
   ]
 }
