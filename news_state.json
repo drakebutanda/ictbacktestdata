@@ -1,22 +1,22 @@
 {
-  "ts": "2026-08-19 07:47 UTC",
+  "ts": "2026-08-19 08:46 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 4,
-  "avg_sentiment": -0.06,
+  "avg_sentiment": -0.045,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
-      "s": -0.44
+      "t": "World\u2019s largest olive oil company pops 17% as rivals circle in takeover battle",
+      "s": -0.38
     },
     {
-      "t": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
+      "t": "Treasury yields pull back from multi-decade highs ahead of FOMC minutes",
       "s": 0.2
     },
     {
-      "t": "Goldman studied where AI is squeezing labor markets. Here's what it found",
+      "t": "My male co-workers with kids expect me to pick up their slack because I don\u2019t have children. Do I push back?",
       "s": 0.0
     },
     {
