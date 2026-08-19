@@ -1,30 +1,30 @@
 {
-  "ts": "2026-08-19 11:32 UTC",
+  "ts": "2026-08-19 13:00 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 12,
-  "avg_sentiment": 0.026,
+  "recent": 13,
+  "avg_sentiment": -0.057,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Target\u2019s grocery overhaul is helping it win back customers",
-      "s": 0.72
+      "t": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
+      "s": -0.72
     },
     {
-      "t": "Dollar risks are mounting. Here\u2019s what could weaken the greenback",
-      "s": -0.6
+      "t": "\u2018This is very stressful\u2019: My son\u2019s roof was damaged in a storm, but his insurance won\u2019t pay. Can he fight this?",
+      "s": -0.71
+    },
+    {
+      "t": "30-year Treasury yield tops 5.33%, new 19-year high, on inflation and spending concerns",
+      "s": 0.62
     },
     {
       "t": "Target hikes outlook as sales rebound and huge tariff refund boosts bottom line",
       "s": 0.56
     },
     {
-      "t": "\u2018Too many people go bankrupt\u2019: Should Medicare provide catastrophic coverage?",
-      "s": -0.49
-    },
-    {
-      "t": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 50%",
+      "t": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
       "s": -0.48
     }
   ]
