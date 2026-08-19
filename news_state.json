@@ -1,14 +1,18 @@
 {
-  "ts": "2026-08-19 20:36 UTC",
+  "ts": "2026-08-19 21:32 UTC",
   "feeds_live": 5,
-  "headlines": 100,
+  "headlines": 98,
   "recent": 19,
-  "avg_sentiment": -0.027,
+  "avg_sentiment": 0.003,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018This is very stressful\u2019: My son\u2019s roof was damaged in a storm, but his insurance won\u2019t pay. Can he fight this?",
+      "t": "\u2018I brought my Super Bowl ring to the open houses\u2019: Seahawks player shares story of getting his real-estate license",
+      "s": 0.73
+    },
+    {
+      "t": "The national debt just hit $40 trillion. Here\u2019s how it can hurt Americans.",
       "s": -0.71
     },
     {
@@ -20,12 +24,8 @@
       "s": -0.65
     },
     {
-      "t": "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar",
-      "s": -0.48
-    },
-    {
-      "t": "Treasury, IRS move to restrict refundable tax credits to certain immigrants",
-      "s": 0.42
+      "t": "Why the Treasury market\u2019s newfound calm could break down in September",
+      "s": 0.48
     }
   ]
 }
