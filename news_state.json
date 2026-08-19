@@ -1,19 +1,27 @@
 {
-  "ts": "2026-08-19 06:56 UTC",
+  "ts": "2026-08-19 07:47 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 2,
-  "avg_sentiment": -0.156,
+  "recent": 4,
+  "avg_sentiment": -0.06,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Iran reportedly weighs attacks on European military targets as UAE severs trade with Tehran",
+      "t": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
       "s": -0.44
     },
     {
-      "t": "Ukraine's Zelenskyy faces call for wartime election from former defense chief",
-      "s": 0.13
+      "t": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
+      "s": 0.2
+    },
+    {
+      "t": "Goldman studied where AI is squeezing labor markets. Here's what it found",
+      "s": 0.0
+    },
+    {
+      "t": "China\u2019s backflipping robot maker Unitree pops 542% in Shanghai debut",
+      "s": 0.0
     }
   ]
 }
