@@ -1,31 +1,27 @@
 {
-  "ts": "2026-08-20 20:36 UTC",
+  "ts": "2026-08-20 21:34 UTC",
   "feeds_live": 5,
   "headlines": 96,
-  "recent": 10,
-  "avg_sentiment": 0.034,
-  "burst": true,
+  "recent": 4,
+  "avg_sentiment": 0.187,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Anxious bond market sends troubling message to investors: There\u2019s no easy fix for U.S. debt",
-      "s": -0.86
+      "t": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
+      "s": 0.32
     },
     {
-      "t": "Sports betting to build wealth is becoming the new American dream",
-      "s": 0.64
+      "t": "The Los Angeles Lakers sold for $12.5 billion. Here\u2019s what every NBA team is now worth",
+      "s": 0.23
     },
     {
-      "t": "Oil prices rise after Treasury Secretary says U.S. will collapse Iran with economic pressure",
-      "s": -0.56
+      "t": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
+      "s": 0.2
     },
     {
-      "t": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-      "s": 0.48
-    },
-    {
-      "t": "Walmart stock tumbles 9% after outlook disappoints Wall Street",
-      "s": -0.38
+      "t": "We\u2019re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
+      "s": 0.0
     }
   ]
 }
