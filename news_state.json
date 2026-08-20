@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-20 06:57 UTC",
+  "ts": "2026-08-20 07:49 UTC",
   "feeds_live": 5,
   "headlines": 98,
   "recent": 3,
-  "avg_sentiment": -0.07,
+  "avg_sentiment": -0.204,
   "burst": false,
   "mood": "neutral",
   "top": [
@@ -12,12 +12,12 @@
       "s": -0.59
     },
     {
-      "t": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
-      "s": 0.4
+      "t": "Trump scaling down U.S.-South Korea drills could risk more than just joint military readiness",
+      "s": -0.03
     },
     {
-      "t": "Trump scaling down U.S.-South Korea drills risks more than just joint military readiness",
-      "s": -0.03
+      "t": "Singapore's Temasek is on a hot streak in India as three bets surge after IPOs",
+      "s": 0.0
     }
   ]
 }
