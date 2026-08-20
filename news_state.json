@@ -1,24 +1,12 @@
 {
-  "ts": "2026-08-20 17:36 UTC",
+  "ts": "2026-08-20 18:50 UTC",
   "feeds_live": 5,
   "headlines": 97,
-  "recent": 18,
-  "avg_sentiment": 0.047,
+  "recent": 15,
+  "avg_sentiment": 0.031,
   "burst": true,
   "mood": "neutral",
   "top": [
-    {
-      "t": "Walmart\u2019s stock slides as investors worry that pressure on consumers is getting worse",
-      "s": -0.8
-    },
-    {
-      "t": "Seahawks player on his real-estate side hustle: \u2018I brought my Super Bowl ring to the open houses\u2019",
-      "s": 0.6
-    },
-    {
-      "t": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
-      "s": -0.56
-    },
     {
       "t": "Oil prices rise 2% after Treasury Secretary says U.S. will collapse Iran with economic pressure",
       "s": -0.56
@@ -26,6 +14,18 @@
     {
       "t": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
       "s": -0.54
+    },
+    {
+      "t": "The rise in interest rates hit a \u2018raw nerve\u2019 at the White House. Bessent\u2019s plan has analysts on edge.",
+      "s": 0.46
+    },
+    {
+      "t": "Neocloud stocks like CoreWeave are having a moment \u2014 and time\u2019s running out to cash in",
+      "s": 0.36
+    },
+    {
+      "t": "Here's how the Los Angeles Lakers' $12.5B sale impacts the value of all 30 NBA teams",
+      "s": 0.34
     }
   ]
 }
