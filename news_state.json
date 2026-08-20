@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-20 11:33 UTC",
+  "ts": "2026-08-20 13:02 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 11,
-  "avg_sentiment": -0.17,
+  "recent": 15,
+  "avg_sentiment": -0.062,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Somali pirate menace returns as U.S.-Iran war stokes regional chaos and saps enforcement resources",
-      "s": -0.9
+      "t": "Most of Gen Z is now afraid AI will steal their jobs.",
+      "s": -0.49
     },
     {
-      "t": "Oil prices jump after Trump declares economic war on Iran",
-      "s": -0.6
+      "t": "How wealthy families can prepare for aging parents and avoid a succession crisis",
+      "s": -0.46
     },
     {
-      "t": "Workers can't agree if junior employees should use AI at work: CNBC survey",
-      "s": -0.28
+      "t": "A $420 camera for $10: China\u2019s young consumers would rather rent than buy. It\u2019s a problem for the government and the economy.",
+      "s": -0.4
     },
     {
-      "t": "\u2018There is considerable tension\u2019: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
-      "s": -0.27
+      "t": "Trump threatens 'Economic D-Day' for Iran and \u2018tremendous\u2019 consequences for its backers",
+      "s": -0.38
     },
     {
-      "t": "Why Bessent\u2019s Treasury operations have breathed life back into the gold trade",
-      "s": 0.2
+      "t": "I hold my mother-in-law\u2019s power of attorney. I\u2019m also her executor and trustee. Do I have ultimate authority?",
+      "s": 0.32
     }
   ]
 }
