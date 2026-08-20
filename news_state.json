@@ -1,19 +1,19 @@
 {
-  "ts": "2026-08-20 04:44 UTC",
+  "ts": "2026-08-20 05:37 UTC",
   "feeds_live": 5,
   "headlines": 98,
   "recent": 2,
-  "avg_sentiment": 0.199,
+  "avg_sentiment": 0.188,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
-      "s": 0.3
+      "t": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+      "s": 0.4
     },
     {
-      "t": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
-      "s": 0.1
+      "t": "Trump scaling down U.S.-South Korea drills risks more than just joint military readiness",
+      "s": -0.03
     }
   ]
 }
