@@ -1,19 +1,15 @@
 {
-  "ts": "2026-08-20 09:41 UTC",
+  "ts": "2026-08-20 10:37 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 11,
-  "avg_sentiment": -0.06,
-  "burst": true,
+  "recent": 7,
+  "avg_sentiment": -0.132,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
       "t": "Somali pirate menace returns as U.S.-Iran war stokes regional chaos and saps enforcement resources",
       "s": -0.9
-    },
-    {
-      "t": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
-      "s": 0.69
     },
     {
       "t": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
@@ -24,8 +20,12 @@
       "s": -0.38
     },
     {
-      "t": "Trump says Iran's economy is collapsing. A former central bank adviser in Tehran pushes back",
-      "s": -0.3
+      "t": "\u2018There is considerable tension\u2019: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+      "s": -0.27
+    },
+    {
+      "t": "Why Bessent\u2019s Treasury operations have breathed life back into the gold trade",
+      "s": 0.2
     }
   ]
 }
