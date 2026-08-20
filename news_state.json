@@ -1,10 +1,10 @@
 {
-  "ts": "2026-08-20 10:37 UTC",
+  "ts": "2026-08-20 11:33 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 7,
-  "avg_sentiment": -0.132,
-  "burst": false,
+  "recent": 11,
+  "avg_sentiment": -0.17,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
@@ -12,12 +12,12 @@
       "s": -0.9
     },
     {
-      "t": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
-      "s": 0.4
+      "t": "Oil prices jump after Trump declares economic war on Iran",
+      "s": -0.6
     },
     {
-      "t": "Trump threatens 'Economic D-Day' for Iran and \u2018tremendous\u2019 consequences for its backers",
-      "s": -0.38
+      "t": "Workers can't agree if junior employees should use AI at work: CNBC survey",
+      "s": -0.28
     },
     {
       "t": "\u2018There is considerable tension\u2019: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
