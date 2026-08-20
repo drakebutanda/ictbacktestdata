@@ -1,15 +1,19 @@
 {
-  "ts": "2026-08-20 16:41 UTC",
+  "ts": "2026-08-20 17:36 UTC",
   "feeds_live": 5,
   "headlines": 97,
-  "recent": 19,
-  "avg_sentiment": 0.04,
+  "recent": 18,
+  "avg_sentiment": 0.047,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Why our cyber stocks are dropping and our favorite memory play is rallying",
-      "s": 0.66
+      "t": "Walmart\u2019s stock slides as investors worry that pressure on consumers is getting worse",
+      "s": -0.8
+    },
+    {
+      "t": "Seahawks player on his real-estate side hustle: \u2018I brought my Super Bowl ring to the open houses\u2019",
+      "s": 0.6
     },
     {
       "t": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
@@ -20,12 +24,8 @@
       "s": -0.56
     },
     {
-      "t": "The biggest loser from the Treasury\u2019s latest buyback plan: The U.S. dollar. Here\u2019s why.",
-      "s": -0.53
-    },
-    {
-      "t": "AI data center outrage is showing up everywhere from ads to elections",
-      "s": -0.51
+      "t": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+      "s": -0.54
     }
   ]
 }
