@@ -1,31 +1,23 @@
 {
-  "ts": "2026-08-19 23:28 UTC",
+  "ts": "2026-08-20 01:42 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 6,
-  "avg_sentiment": 0.083,
+  "recent": 3,
+  "avg_sentiment": 0.211,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "The chip-stock rally hits a speed bump \u2014 but these analysts see reason to be hopeful",
-      "s": 0.67
+      "t": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
+      "s": 0.69
     },
     {
       "t": "Trump announces 'economic warfare' on Iran, threatens \u2018tremendous\u2019 consequences for its backers",
       "s": -0.59
     },
     {
-      "t": "Retirees: This investment gives you a guaranteed 5% safe withdrawal rate",
-      "s": 0.46
-    },
-    {
-      "t": "U.S. government debt passes $40 trillion, more than doubling in a decade",
-      "s": -0.36
-    },
-    {
-      "t": "I hold my mother-in-law\u2019s power of attorney. I\u2019m also her executor and trustee. Do I have ultimate authority?",
-      "s": 0.32
+      "t": "Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge",
+      "s": 0.53
     }
   ]
 }
