@@ -1,12 +1,16 @@
 {
-  "ts": "2026-08-20 05:37 UTC",
+  "ts": "2026-08-20 06:57 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 2,
-  "avg_sentiment": 0.188,
+  "recent": 3,
+  "avg_sentiment": -0.07,
   "burst": false,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Trump announces 'economic warfare' on Iran, threatens \u2018tremendous\u2019 consequences for its backers",
+      "s": -0.59
+    },
     {
       "t": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
       "s": 0.4
