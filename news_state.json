@@ -1,10 +1,10 @@
 {
-  "ts": "2026-08-20 08:48 UTC",
+  "ts": "2026-08-20 09:41 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 5,
-  "avg_sentiment": 0.071,
-  "burst": false,
+  "recent": 11,
+  "avg_sentiment": -0.06,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
@@ -16,16 +16,16 @@
       "s": 0.69
     },
     {
-      "t": "Hong Kong\u2019s IPO boom extends beyond tech, HKEX CEO says, as fundraising tops $40 billion",
-      "s": 0.59
+      "t": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+      "s": 0.4
     },
     {
-      "t": "Trump scaling down U.S.-South Korea drills could risk more than just joint military readiness",
-      "s": -0.03
+      "t": "Trump threatens 'Economic D-Day' for Iran and \u2018tremendous\u2019 consequences for its backers",
+      "s": -0.38
     },
     {
-      "t": "Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says",
-      "s": 0.0
+      "t": "Trump says Iran's economy is collapsing. A former central bank adviser in Tehran pushes back",
+      "s": -0.3
     }
   ]
 }
