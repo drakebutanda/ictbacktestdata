@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-20 14:43 UTC",
+  "ts": "2026-08-20 15:40 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 14,
-  "avg_sentiment": -0.154,
+  "headlines": 97,
+  "recent": 18,
+  "avg_sentiment": -0.07,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,8 +12,8 @@
       "s": -0.7
     },
     {
-      "t": "Crypto comeback? Bitcoin, ethereum are headed for their best day in months as investors flock to hard assets",
-      "s": 0.67
+      "t": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
+      "s": -0.56
     },
     {
       "t": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
@@ -24,8 +24,8 @@
       "s": -0.51
     },
     {
-      "t": "How wealthy families can prepare for aging parents and avoid a succession crisis",
-      "s": -0.46
+      "t": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "s": 0.42
     }
   ]
 }
