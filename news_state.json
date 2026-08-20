@@ -1,23 +1,23 @@
 {
-  "ts": "2026-08-20 01:42 UTC",
+  "ts": "2026-08-20 03:04 UTC",
   "feeds_live": 5,
   "headlines": 98,
   "recent": 3,
-  "avg_sentiment": 0.211,
+  "avg_sentiment": -0.048,
   "burst": false,
   "mood": "neutral",
   "top": [
-    {
-      "t": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
-      "s": 0.69
-    },
     {
       "t": "Trump announces 'economic warfare' on Iran, threatens \u2018tremendous\u2019 consequences for its backers",
       "s": -0.59
     },
     {
-      "t": "Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge",
-      "s": 0.53
+      "t": "China is defying the global bond yield surge, boosting its diversification appeal",
+      "s": 0.34
+    },
+    {
+      "t": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
+      "s": 0.1
     }
   ]
 }
