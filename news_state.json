@@ -1,22 +1,26 @@
 {
-  "ts": "2026-08-21 01:47 UTC",
+  "ts": "2026-08-21 03:10 UTC",
   "feeds_live": 5,
   "headlines": 97,
-  "recent": 3,
-  "avg_sentiment": 0.134,
+  "recent": 4,
+  "avg_sentiment": 0.25,
   "burst": false,
   "mood": "neutral",
   "top": [
+    {
+      "t": "U.S. bond intervention is like 'paying your mortgage with your credit card,' JPMorgan's Sullivan says",
+      "s": 0.62
+    },
     {
       "t": "Japan headline inflation rate hits highest this year as energy prices bite",
       "s": 0.27
     },
     {
-      "t": "CFTC\u2019s Innovation Advisory Committee meeting addresses emerging prediction market risks",
-      "s": 0.13
+      "t": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
+      "s": 0.1
     },
     {
-      "t": "Micron CEO pushes back on memory bear case. 3 key takeaways from Cramer's big interview",
+      "t": "Japan's historic yen intervention has \u2018turbo-charged\u2019 the carry trade",
       "s": 0.0
     }
   ]
