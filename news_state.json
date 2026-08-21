@@ -1,19 +1,15 @@
 {
-  "ts": "2026-08-21 08:50 UTC",
+  "ts": "2026-08-21 09:44 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 5,
-  "avg_sentiment": 0.118,
-  "burst": false,
+  "headlines": 99,
+  "recent": 9,
+  "avg_sentiment": 0.06,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
       "t": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
       "s": 0.78
-    },
-    {
-      "t": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
-      "s": 0.49
     },
     {
       "t": "Here are three key takeaways from the disappointing July jobs report",
@@ -24,8 +20,12 @@
       "s": -0.3
     },
     {
-      "t": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
-      "s": 0.1
+      "t": "\u2018It\u2019s truly a tragedy\u2019: My daughter hasn\u2019t spoken to me for 4 years, but it has nothing to do with politics",
+      "s": 0.24
+    },
+    {
+      "t": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
+      "s": 0.2
     }
   ]
 }
