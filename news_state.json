@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-21 11:32 UTC",
+  "ts": "2026-08-21 13:01 UTC",
   "feeds_live": 5,
   "headlines": 99,
   "recent": 8,
-  "avg_sentiment": 0.067,
+  "avg_sentiment": -0.047,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": 0.78
     },
     {
-      "t": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
-      "s": -0.64
+      "t": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
+      "s": -0.74
     },
     {
-      "t": "New York unseats San Francisco as the top market for tech talent, CBRE reports",
-      "s": 0.56
+      "t": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know",
+      "s": -0.24
     },
     {
-      "t": "Moderna\u2019s personalized mRNA shot could reshape the fight against skin cancer \u2014 but it may also be overhyped",
-      "s": -0.54
+      "t": "Wall Street's existential crisis over perpetual futures \u2014 the 24/7 security on steroids \u2014 just got urgent",
+      "s": -0.23
     },
     {
-      "t": "Most Americans aren't anti-vaccine. They're uncertain \u2014 and that's a growing public health challenge",
-      "s": 0.44
+      "t": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
+      "s": 0.2
     }
   ]
 }
