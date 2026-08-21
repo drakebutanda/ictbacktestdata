@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-21 19:30 UTC",
+  "ts": "2026-08-21 20:32 UTC",
   "feeds_live": 5,
   "headlines": 99,
   "recent": 13,
-  "avg_sentiment": 0.034,
+  "avg_sentiment": 0.228,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": -0.69
     },
     {
+      "t": "Sports betting to build wealth is becoming the new American dream",
+      "s": 0.64
+    },
+    {
       "t": "Supreme Court allows Trump to continue White House ballroom construction for now",
       "s": 0.56
     },
     {
-      "t": "Most Americans aren't anti-vaccine. They're uncertain \u2014 and that's a growing public health challenge",
-      "s": 0.44
+      "t": "Bitcoin surges 22% for the week as investor optimism floods back",
+      "s": 0.54
     },
     {
-      "t": "An overlooked AI winner names a new CFO \u2014 plus, Nvidia's key earnings loom",
-      "s": 0.42
-    },
-    {
-      "t": "The Treasury, the Fed and the threat to your money",
-      "s": -0.38
+      "t": "Retirees: This investment gives you a guaranteed 5% safe withdrawal rate",
+      "s": 0.46
     }
   ]
 }
