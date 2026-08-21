@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-21 17:35 UTC",
+  "ts": "2026-08-21 18:47 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 16,
-  "avg_sentiment": 0.055,
+  "recent": 13,
+  "avg_sentiment": 0.016,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Bitcoin on track for 23% weekly gain as investor optimism floods back",
-      "s": 0.78
+      "t": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "s": 0.67
     },
     {
-      "t": "Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays",
-      "s": 0.6
+      "t": "Jim Cramer looks at why our AI data center stocks are among the worst of the week",
+      "s": -0.62
     },
     {
-      "t": "Most Americans aren't anti-vaccine. They're uncertain \u2014 and that's a growing public health challenge",
-      "s": 0.44
+      "t": "Supreme Court allows Trump to continue White House ballroom construction for now",
+      "s": 0.56
+    },
+    {
+      "t": "The Treasury, the Fed and the threat to your money",
+      "s": -0.38
     },
     {
       "t": "Why some of America's biggest brands are losing ground in China",
       "s": -0.38
-    },
-    {
-      "t": "Tesla\u2019s stock jumps as the company gets ready for a robotaxi push",
-      "s": 0.36
     }
   ]
 }
