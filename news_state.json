@@ -1,19 +1,19 @@
 {
-  "ts": "2026-08-20 23:32 UTC",
+  "ts": "2026-08-21 01:47 UTC",
   "feeds_live": 5,
-  "headlines": 96,
+  "headlines": 97,
   "recent": 3,
-  "avg_sentiment": 0.307,
+  "avg_sentiment": 0.134,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "s": 0.67
+      "t": "Japan headline inflation rate hits highest this year as energy prices bite",
+      "s": 0.27
     },
     {
-      "t": "I hold my mother-in-law\u2019s power of attorney. I\u2019m also her executor and trustee. Do I have too much power over her affairs?",
-      "s": 0.25
+      "t": "CFTC\u2019s Innovation Advisory Committee meeting addresses emerging prediction market risks",
+      "s": 0.13
     },
     {
       "t": "Micron CEO pushes back on memory bear case. 3 key takeaways from Cramer's big interview",
