@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-21 09:44 UTC",
+  "ts": "2026-08-21 10:37 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 9,
-  "avg_sentiment": 0.06,
+  "recent": 8,
+  "avg_sentiment": 0.156,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,12 +12,12 @@
       "s": 0.78
     },
     {
-      "t": "Here are three key takeaways from the disappointing July jobs report",
-      "s": -0.49
+      "t": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
+      "s": -0.64
     },
     {
-      "t": "Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran",
-      "s": -0.3
+      "t": "New York unseats San Francisco as the top market for tech talent, CBRE reports",
+      "s": 0.56
     },
     {
       "t": "\u2018It\u2019s truly a tragedy\u2019: My daughter hasn\u2019t spoken to me for 4 years, but it has nothing to do with politics",
