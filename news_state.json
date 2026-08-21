@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-21 10:37 UTC",
+  "ts": "2026-08-21 11:32 UTC",
   "feeds_live": 5,
   "headlines": 99,
   "recent": 8,
-  "avg_sentiment": 0.156,
+  "avg_sentiment": 0.067,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -20,12 +20,12 @@
       "s": 0.56
     },
     {
-      "t": "\u2018It\u2019s truly a tragedy\u2019: My daughter hasn\u2019t spoken to me for 4 years, but it has nothing to do with politics",
-      "s": 0.24
+      "t": "Moderna\u2019s personalized mRNA shot could reshape the fight against skin cancer \u2014 but it may also be overhyped",
+      "s": -0.54
     },
     {
-      "t": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
-      "s": 0.2
+      "t": "Most Americans aren't anti-vaccine. They're uncertain \u2014 and that's a growing public health challenge",
+      "s": 0.44
     }
   ]
 }
