@@ -1,19 +1,19 @@
 {
-  "ts": "2026-08-21 04:46 UTC",
+  "ts": "2026-08-21 05:38 UTC",
   "feeds_live": 5,
   "headlines": 98,
   "recent": 2,
-  "avg_sentiment": 0.438,
+  "avg_sentiment": -0.157,
   "burst": false,
-  "mood": "risk-on",
+  "mood": "neutral",
   "top": [
+    {
+      "t": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data",
+      "s": -0.81
+    },
     {
       "t": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
       "s": 0.49
-    },
-    {
-      "t": "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
-      "s": 0.38
     }
   ]
 }
