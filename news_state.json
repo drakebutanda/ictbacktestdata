@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-21 06:58 UTC",
+  "ts": "2026-08-21 07:51 UTC",
   "feeds_live": 5,
   "headlines": 98,
   "recent": 0,
-  "avg_sentiment": 0.022,
+  "avg_sentiment": 0.027,
   "burst": false,
   "mood": "neutral",
   "top": [
@@ -16,15 +16,15 @@
       "s": -0.8
     },
     {
+      "t": "European stocks on course to cap worst week since July on oil, bond pressure",
+      "s": -0.74
+    },
+    {
       "t": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
       "s": -0.72
     },
     {
       "t": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "s": 0.67
-    },
-    {
-      "t": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
       "s": 0.67
     }
   ]
