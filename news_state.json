@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-21 15:40 UTC",
+  "ts": "2026-08-21 16:41 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 9,
-  "avg_sentiment": -0.007,
+  "recent": 15,
+  "avg_sentiment": -0.09,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -16,16 +16,16 @@
       "s": -0.71
     },
     {
-      "t": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-      "s": -0.54
+      "t": "Most Americans aren't anti-vaccine. They're uncertain \u2014 and that's a growing public health challenge",
+      "s": 0.44
     },
     {
-      "t": "4 memory stocks are darlings of the AI boom. How they differ and why we own Micron",
-      "s": 0.49
+      "t": "Why some of America's biggest brands are losing ground in China",
+      "s": -0.38
     },
     {
-      "t": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
-      "s": 0.34
+      "t": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
+      "s": -0.36
     }
   ]
 }
