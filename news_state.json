@@ -1,31 +1,19 @@
 {
-  "ts": "2026-08-22 14:28 UTC",
+  "ts": "2026-08-22 15:28 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 6,
-  "avg_sentiment": 0.09,
+  "recent": 2,
+  "avg_sentiment": 0.072,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
-      "s": 0.72
-    },
-    {
-      "t": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-      "s": -0.54
+      "t": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It's 'like a circus or a magic act'",
+      "s": 0.64
     },
     {
       "t": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
       "s": -0.49
-    },
-    {
-      "t": "How a physician with a 1 a.m. bedtime optimizes his health: I try to 'tick all the longevity boxes that I can'",
-      "s": 0.42
-    },
-    {
-      "t": "\u2018She\u2019s desperate\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-      "s": 0.23
     }
   ]
 }
