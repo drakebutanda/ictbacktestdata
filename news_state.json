@@ -1,15 +1,23 @@
 {
-  "ts": "2026-08-22 19:27 UTC",
+  "ts": "2026-08-22 20:30 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": 0.181,
+  "recent": 4,
+  "avg_sentiment": -0.135,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
-      "s": 0.36
+      "t": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+      "s": -0.49
+    },
+    {
+      "t": "Nvidia customers reportedly warned about AI-related price hikes",
+      "s": -0.27
+    },
+    {
+      "t": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+      "s": 0.23
     },
     {
       "t": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
