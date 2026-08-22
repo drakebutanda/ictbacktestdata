@@ -1,31 +1,19 @@
 {
-  "ts": "2026-08-22 09:33 UTC",
+  "ts": "2026-08-22 10:30 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 0,
-  "avg_sentiment": 0.029,
+  "recent": 2,
+  "avg_sentiment": 0.113,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data",
-      "s": -0.81
+      "t": "\u2018She\u2019s desperate\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+      "s": 0.23
     },
     {
-      "t": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-      "s": -0.8
-    },
-    {
-      "t": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
-      "s": -0.74
-    },
-    {
-      "t": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
-      "s": -0.72
-    },
-    {
-      "t": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
-      "s": -0.69
+      "t": "This has been one of the most affordable U.S. cities to buy a home for the past 134 years",
+      "s": 0.0
     }
   ]
 }
