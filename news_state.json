@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-22 12:52 UTC",
+  "ts": "2026-08-22 13:37 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 9,
-  "avg_sentiment": 0.15,
-  "burst": true,
+  "recent": 6,
+  "avg_sentiment": 0.198,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Here\u2019s some surprisingly good news for the stock market this midterm election year",
-      "s": 0.62
+      "t": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
+      "s": 0.72
     },
     {
-      "t": "Supreme Court allows Trump to continue White House ballroom construction for now",
-      "s": 0.56
+      "t": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+      "s": -0.54
     },
     {
-      "t": "For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer",
-      "s": 0.49
+      "t": "How a physician with a 1 a.m. bedtime optimizes his health: I try to 'tick all the longevity boxes that I can'",
+      "s": 0.42
     },
     {
       "t": "Move over, credit cards: Social-media stars are tapping magic wands to buy things",
       "s": 0.38
     },
     {
-      "t": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
-      "s": -0.36
+      "t": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
+      "s": 0.2
     }
   ]
 }
