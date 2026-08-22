@@ -1,15 +1,19 @@
 {
-  "ts": "2026-08-22 18:39 UTC",
+  "ts": "2026-08-22 19:27 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 1,
-  "avg_sentiment": 0.361,
+  "recent": 2,
+  "avg_sentiment": 0.181,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
       "t": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
       "s": 0.36
+    },
+    {
+      "t": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
+      "s": 0.0
     }
   ]
 }
