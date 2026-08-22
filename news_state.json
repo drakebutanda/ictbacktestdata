@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-22 11:26 UTC",
+  "ts": "2026-08-22 12:52 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 5,
-  "avg_sentiment": -0.094,
-  "burst": false,
+  "recent": 9,
+  "avg_sentiment": 0.15,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
-      "s": -0.44
+      "t": "Here\u2019s some surprisingly good news for the stock market this midterm election year",
+      "s": 0.62
     },
     {
-      "t": "\u2018She\u2019s desperate\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-      "s": 0.23
+      "t": "Supreme Court allows Trump to continue White House ballroom construction for now",
+      "s": 0.56
     },
     {
-      "t": "A massive \u2018corporate welfare\u2019 program is underway \u2014 and consumers want a bigger cut of it",
-      "s": -0.2
+      "t": "For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer",
+      "s": 0.49
     },
     {
-      "t": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?",
-      "s": -0.05
+      "t": "Move over, credit cards: Social-media stars are tapping magic wands to buy things",
+      "s": 0.38
     },
     {
-      "t": "This has been one of the most affordable U.S. cities to buy a home for the past 134 years",
-      "s": 0.0
+      "t": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
+      "s": -0.36
     }
   ]
 }
