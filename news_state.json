@@ -1,15 +1,27 @@
 {
-  "ts": "2026-08-22 10:30 UTC",
+  "ts": "2026-08-22 11:26 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": 0.113,
+  "recent": 5,
+  "avg_sentiment": -0.094,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
+      "t": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
+      "s": -0.44
+    },
+    {
       "t": "\u2018She\u2019s desperate\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
       "s": 0.23
+    },
+    {
+      "t": "A massive \u2018corporate welfare\u2019 program is underway \u2014 and consumers want a bigger cut of it",
+      "s": -0.2
+    },
+    {
+      "t": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?",
+      "s": -0.05
     },
     {
       "t": "This has been one of the most affordable U.S. cities to buy a home for the past 134 years",
