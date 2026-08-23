@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-23 13:37 UTC",
+  "ts": "2026-08-23 14:29 UTC",
   "feeds_live": 5,
   "headlines": 99,
   "recent": 2,
-  "avg_sentiment": 0.438,
+  "avg_sentiment": 0.489,
   "burst": false,
   "mood": "risk-on",
   "top": [
@@ -12,8 +12,8 @@
       "s": 0.88
     },
     {
-      "t": "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
-      "s": 0.0
+      "t": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
+      "s": 0.1
     }
   ]
 }
