@@ -1,31 +1,19 @@
 {
-  "ts": "2026-08-23 21:28 UTC",
+  "ts": "2026-08-23 22:29 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 0,
-  "avg_sentiment": 0.03,
+  "recent": 2,
+  "avg_sentiment": -0.593,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "Nvidia is the beating heart of the AI boom and the stock market \u2014 which sets up a big test",
-      "s": 0.88
+      "t": "Stock futures slip as U.S. and Canada appear headed for trade war",
+      "s": -0.6
     },
     {
-      "t": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-      "s": -0.8
-    },
-    {
-      "t": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
-      "s": 0.72
-    },
-    {
-      "t": "Emergency savings shortfall signals 'danger' for working households, Suze Orman says",
-      "s": -0.72
-    },
-    {
-      "t": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
-      "s": -0.72
+      "t": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
+      "s": -0.59
     }
   ]
 }
