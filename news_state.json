@@ -1,31 +1,19 @@
 {
-  "ts": "2026-08-23 16:33 UTC",
+  "ts": "2026-08-23 17:26 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 0,
-  "avg_sentiment": 0.033,
+  "recent": 2,
+  "avg_sentiment": 0.087,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Nvidia is the beating heart of the AI boom and the stock market \u2014 which sets up a big test",
-      "s": 0.88
+      "t": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+      "s": 0.23
     },
     {
-      "t": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-      "s": -0.8
-    },
-    {
-      "t": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
-      "s": 0.72
-    },
-    {
-      "t": "Emergency savings shortfall signals 'danger' for working households, Suze Orman says",
-      "s": -0.72
-    },
-    {
-      "t": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
-      "s": -0.72
+      "t": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?",
+      "s": -0.05
     }
   ]
 }
