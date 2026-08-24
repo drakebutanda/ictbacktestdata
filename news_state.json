@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-24 09:56 UTC",
+  "ts": "2026-08-24 10:46 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 6,
-  "avg_sentiment": -0.223,
+  "recent": 5,
+  "avg_sentiment": -0.258,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Samsung Electronics stock had its worst day in three weeks, and the other memory stocks are lower as well",
-      "s": -0.64
-    },
-    {
       "t": "The post-World War II market shift is here \u2014 and bond yields could have higher to go, says Morgan Stanley",
       "s": -0.6
-    },
-    {
-      "t": "Alibaba shares tumble as investors question whether AI spending splurge is justified",
-      "s": 0.6
     },
     {
       "t": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
       "s": -0.6
     },
     {
-      "t": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
-      "s": -0.1
+      "t": "Here are two trades to make ahead of a critical week for markets as Nvidia results and Jackson Hole loom.",
+      "s": -0.49
+    },
+    {
+      "t": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "s": 0.4
+    },
+    {
+      "t": "5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO",
+      "s": 0.0
     }
   ]
 }
