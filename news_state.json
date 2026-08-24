@@ -1,20 +1,12 @@
 {
-  "ts": "2026-08-24 03:11 UTC",
+  "ts": "2026-08-24 04:53 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 3,
-  "avg_sentiment": -0.135,
+  "recent": 1,
+  "avg_sentiment": -0.103,
   "burst": false,
   "mood": "neutral",
   "top": [
-    {
-      "t": "Stock futures flat as U.S. and Canada appear headed for trade war",
-      "s": -0.6
-    },
-    {
-      "t": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
-      "s": 0.3
-    },
     {
       "t": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
       "s": -0.1
