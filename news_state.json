@@ -1,18 +1,14 @@
 {
-  "ts": "2026-08-24 13:04 UTC",
+  "ts": "2026-08-24 14:50 UTC",
   "feeds_live": 5,
-  "headlines": 97,
-  "recent": 15,
-  "avg_sentiment": -0.167,
+  "headlines": 98,
+  "recent": 11,
+  "avg_sentiment": 0.002,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more'",
-      "s": -0.72
-    },
-    {
-      "t": "This market shift resembles the post\u2013World War II era \u2014 and bond yields could have room to go higher, says Morgan Stanley",
+      "t": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
       "s": -0.6
     },
     {
@@ -20,12 +16,16 @@
       "s": -0.6
     },
     {
-      "t": "Yields are the highest they\u2019ve been in years \u2014 but are bonds cheap enough to buy? Two strategists disagree.",
-      "s": -0.53
+      "t": "I\u2019m turning 70. Here\u2019s how I\u2019m making this decade the richest of my retirement.",
+      "s": 0.53
     },
     {
-      "t": "There are six stocks that hedge funds and mutual funds are both overweight \u2014 and SpaceX is one",
-      "s": -0.36
+      "t": "Here are two trades to make ahead of a critical week for markets as Nvidia results and Jackson Hole loom",
+      "s": -0.49
+    },
+    {
+      "t": "Crypto extends gains after biggest 3-day rally since 2023",
+      "s": 0.44
     }
   ]
 }
