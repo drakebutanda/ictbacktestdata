@@ -1,19 +1,19 @@
 {
-  "ts": "2026-08-24 15:47 UTC",
+  "ts": "2026-08-24 16:47 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 13,
-  "avg_sentiment": -0.026,
+  "headlines": 99,
+  "recent": 17,
+  "avg_sentiment": -0.059,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Think Medicare Advantage provides better care for chronic conditions? A new study suggests otherwise.",
-      "s": 0.8
+      "t": "U.S. automakers and home builders are among the big losers as Trump launches a trade war against Canada",
+      "s": -0.81
     },
     {
-      "t": "We're booking a 300% profit in an AI winner and buying more of a healthcare name",
-      "s": 0.77
+      "t": "Think Medicare Advantage provides better care for chronic conditions? A new study suggests otherwise.",
+      "s": 0.8
     },
     {
       "t": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
