@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-24 19:35 UTC",
+  "ts": "2026-08-24 20:38 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 12,
-  "avg_sentiment": 0.052,
+  "recent": 8,
+  "avg_sentiment": 0.032,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "s": 0.67
-    },
-    {
-      "t": "We're downgrading 2 AI stocks \u2014 plus, what we need to see to turn more positive",
-      "s": 0.6
-    },
-    {
-      "t": "Prediction market traders doubtful Bessent\u2019s bond interventions will push yields lower",
-      "s": -0.56
-    },
-    {
-      "t": "Trump\u2019s trade war with Canada could lead the U.S. back to quantitative easing",
-      "s": -0.44
+      "t": "Crypto extends gains after biggest 3-day rally since 2023",
+      "s": 0.44
     },
     {
       "t": "Trump\u2019s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say",
       "s": -0.32
+    },
+    {
+      "t": "Jim Cramer says don't sell Meta on litigation risk \u2014 the stock is worth the wait",
+      "s": -0.25
+    },
+    {
+      "t": "Yields decline on CNBC report Treasury could use General Account to fund buybacks",
+      "s": 0.2
+    },
+    {
+      "t": "Bessent\u2019s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation",
+      "s": 0.18
     }
   ]
 }
