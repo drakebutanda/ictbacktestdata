@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-24 07:12 UTC",
+  "ts": "2026-08-24 08:56 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 0,
-  "avg_sentiment": 0.024,
+  "recent": 5,
+  "avg_sentiment": -0.211,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Nvidia is the beating heart of the AI boom and the stock market \u2014 which sets up a big test",
-      "s": 0.88
+      "t": "Samsung Electronics stock had its worst day in three weeks, and the other memory stocks are lower as well",
+      "s": -0.64
     },
     {
-      "t": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-      "s": -0.8
+      "t": "There are six stocks that hedge funds and mutual funds are both overweight \u2014 and SpaceX is one",
+      "s": -0.36
     },
     {
-      "t": "Emergency savings shortfall signals 'danger' for working households, Suze Orman says",
-      "s": -0.72
+      "t": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+      "s": 0.3
     },
     {
-      "t": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
-      "s": -0.72
+      "t": "Treasury yields fall as investors brace for Warsh\u2019s Jackson Hole keynote amid bond fears",
+      "s": -0.25
     },
     {
-      "t": "J.P. Morgan upgrades Diploma on strong earnings growth and M&A upside",
-      "s": 0.71
+      "t": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
+      "s": -0.1
     }
   ]
 }
