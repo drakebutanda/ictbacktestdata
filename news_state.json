@@ -1,15 +1,23 @@
 {
-  "ts": "2026-08-24 20:38 UTC",
+  "ts": "2026-08-24 21:36 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 8,
-  "avg_sentiment": 0.032,
+  "recent": 9,
+  "avg_sentiment": -0.079,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Crypto extends gains after biggest 3-day rally since 2023",
-      "s": 0.44
+      "t": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
+      "s": 0.56
+    },
+    {
+      "t": "It\u2019s time to bet big on Nvidia\u2019s stock, says this analyst who thinks the market has it all wrong",
+      "s": -0.48
+    },
+    {
+      "t": "Bitcoin has beaten stocks and gold over six months. Now it\u2019s closing in on $80,000.",
+      "s": -0.42
     },
     {
       "t": "Trump\u2019s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say",
@@ -18,14 +26,6 @@
     {
       "t": "Jim Cramer says don't sell Meta on litigation risk \u2014 the stock is worth the wait",
       "s": -0.25
-    },
-    {
-      "t": "Yields decline on CNBC report Treasury could use General Account to fund buybacks",
-      "s": 0.2
-    },
-    {
-      "t": "Bessent\u2019s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation",
-      "s": 0.18
     }
   ]
 }
