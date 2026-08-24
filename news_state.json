@@ -1,22 +1,22 @@
 {
-  "ts": "2026-08-24 10:46 UTC",
+  "ts": "2026-08-24 11:35 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 5,
-  "avg_sentiment": -0.258,
-  "burst": false,
+  "recent": 9,
+  "avg_sentiment": 0.09,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "The post-World War II market shift is here \u2014 and bond yields could have higher to go, says Morgan Stanley",
-      "s": -0.6
+      "t": "Think Medicare Advantage provides better care for chronic conditions? A new study suggests otherwise.",
+      "s": 0.8
     },
     {
       "t": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
       "s": -0.6
     },
     {
-      "t": "Here are two trades to make ahead of a critical week for markets as Nvidia results and Jackson Hole loom.",
+      "t": "Here are two trades to make ahead of a critical week for markets as Nvidia results and Jackson Hole loom",
       "s": -0.49
     },
     {
@@ -24,8 +24,8 @@
       "s": 0.4
     },
     {
-      "t": "5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO",
-      "s": 0.0
+      "t": "France, UK step up missile support for Ukraine as European leaders meet",
+      "s": 0.4
     }
   ]
 }
