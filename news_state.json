@@ -1,19 +1,19 @@
 {
-  "ts": "2026-08-25 06:59 UTC",
+  "ts": "2026-08-25 07:52 UTC",
   "feeds_live": 5,
-  "headlines": 98,
+  "headlines": 99,
   "recent": 2,
-  "avg_sentiment": -0.076,
+  "avg_sentiment": 0.072,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump targets Iran\u2019s trade lifelines \u2014 here are the countries most exposed",
-      "s": -0.15
+      "t": "Treasury yields steady as traders await more economic data",
+      "s": 0.3
     },
     {
-      "t": "Shein targets $27 billion Hong Kong IPO \u2014 a fraction of its 2022 valuation",
-      "s": 0.0
+      "t": "Trump targets Iran\u2019s trade lifelines \u2014 here are the countries most exposed",
+      "s": -0.15
     }
   ]
 }
