@@ -1,30 +1,14 @@
 {
-  "ts": "2026-08-24 23:27 UTC",
+  "ts": "2026-08-25 01:42 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 8,
-  "avg_sentiment": -0.045,
-  "burst": true,
+  "recent": 1,
+  "avg_sentiment": 0.226,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
-      "s": -0.6
-    },
-    {
-      "t": "CNBC's The China Connection newsletter: Robots need help learning human skills. These AI companies are rushing to meet the demand",
-      "s": 0.3
-    },
-    {
-      "t": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
-      "s": -0.29
-    },
-    {
-      "t": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
-      "s": -0.27
-    },
-    {
-      "t": "Los Angeles Lakers worth 'every bit' of $12.5 billion price tag: 76ers and Commanders owner Josh Harris",
+      "t": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
       "s": 0.23
     }
   ]
