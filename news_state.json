@@ -1,15 +1,19 @@
 {
-  "ts": "2026-08-25 04:46 UTC",
+  "ts": "2026-08-25 05:37 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": -0.089,
+  "recent": 3,
+  "avg_sentiment": -0.11,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
       "t": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
       "s": -0.18
+    },
+    {
+      "t": "Trump targets Iran\u2019s trade lifelines \u2014 here are the countries most exposed",
+      "s": -0.15
     },
     {
       "t": "Bitcoin surges past $80,000 as crypto rally gathers pace",
