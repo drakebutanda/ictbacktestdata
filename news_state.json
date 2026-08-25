@@ -1,18 +1,18 @@
 {
-  "ts": "2026-08-25 03:06 UTC",
+  "ts": "2026-08-25 04:46 UTC",
   "feeds_live": 5,
   "headlines": 99,
   "recent": 2,
-  "avg_sentiment": -0.125,
+  "avg_sentiment": -0.089,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans",
-      "s": -0.25
+      "t": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
+      "s": -0.18
     },
     {
-      "t": "Porsche inks $1.5 billion deal for AI deployment with India\u2019s largest IT services firm Tata Consultancy",
+      "t": "Bitcoin surges past $80,000 as crypto rally gathers pace",
       "s": 0.0
     }
   ]
