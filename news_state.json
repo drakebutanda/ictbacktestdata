@@ -1,16 +1,12 @@
 {
-  "ts": "2026-08-25 14:52 UTC",
+  "ts": "2026-08-25 15:50 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 14,
-  "avg_sentiment": 0.095,
+  "recent": 16,
+  "avg_sentiment": 0.111,
   "burst": true,
   "mood": "neutral",
   "top": [
-    {
-      "t": "Think Medicare Advantage provides better care for chronic conditions? A new study suggests otherwise.",
-      "s": 0.8
-    },
     {
       "t": "World Liberty Financial CEO Zach Witkoff says success of stablecoin silences charge of Trump cronyism",
       "s": 0.8
@@ -20,12 +16,16 @@
       "s": -0.78
     },
     {
+      "t": "We're trimming our position in an AI stock to protect our profits",
+      "s": 0.67
+    },
+    {
       "t": "Dick\u2019s Sporting Goods\u2019 stock is having its worst day ever, as sneakers aren\u2019t selling without deeper discounts",
       "s": -0.62
     },
     {
-      "t": "Trump suggested states should fund Medicare \u2014 which would weaken the program and put Americans at risk",
-      "s": -0.6
+      "t": "You don\u2019t have to be rich to start investing. Here\u2019s a simple way to begin.",
+      "s": 0.56
     }
   ]
 }
