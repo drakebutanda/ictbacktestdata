@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-25 21:35 UTC",
+  "ts": "2026-08-25 22:34 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 15,
-  "avg_sentiment": 0.14,
-  "burst": true,
+  "recent": 6,
+  "avg_sentiment": 0.082,
+  "burst": false,
   "mood": "neutral",
   "top": [
-    {
-      "t": "Investor competition for commercial real estate sees strongest growth in a year",
-      "s": 0.67
-    },
-    {
-      "t": "Callaway Golf\u2019s apology for ad showing woman being shoved to the ground exposes a major industry blind spot",
-      "s": -0.51
-    },
     {
       "t": "Here's why markets are starting to care about the 2026 election 10 weeks out",
       "s": 0.49
     },
     {
-      "t": "Why Meta\u2019s stock could see a 50% rally, thanks to an overlooked AI wild card",
-      "s": 0.42
+      "t": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits",
+      "s": 0.0
     },
     {
-      "t": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved.",
-      "s": 0.42
+      "t": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
+      "s": 0.0
+    },
+    {
+      "t": "SpaceX plans to build a $100 billion spaceport in Louisiana",
+      "s": 0.0
+    },
+    {
+      "t": "Is the K-shaped economy ending? Finance pros weigh in",
+      "s": 0.0
     }
   ]
 }
