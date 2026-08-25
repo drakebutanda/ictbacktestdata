@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-25 17:37 UTC",
+  "ts": "2026-08-25 18:49 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 19,
-  "avg_sentiment": 0.047,
+  "recent": 12,
+  "avg_sentiment": -0.056,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "World Liberty Financial CEO Zach Witkoff says success of stablecoin silences charge of Trump cronyism",
-      "s": 0.8
-    },
-    {
-      "t": "Bitcoin price extends gains, briefly tops $81,000 as crypto rally gathers pace",
-      "s": 0.74
-    },
-    {
-      "t": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
-      "s": -0.7
-    },
-    {
-      "t": "Investor competition for commercial real estate sees strongest growth in a year",
-      "s": 0.67
-    },
-    {
       "t": "Trump goes all in on Sen. Darline Graham in South Carolina, as primary losses pile up",
       "s": -0.4
+    },
+    {
+      "t": "Apple\u2019s next chapter: 3 pressing challenges facing Tim Cook\u2019s successor as CEO",
+      "s": 0.3
+    },
+    {
+      "t": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+      "s": -0.29
+    },
+    {
+      "t": "\u2018There is considerable tension\u2019: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+      "s": -0.27
+    },
+    {
+      "t": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs",
+      "s": 0.0
     }
   ]
 }
