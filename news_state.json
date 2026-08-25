@@ -1,19 +1,15 @@
 {
-  "ts": "2026-08-25 16:46 UTC",
+  "ts": "2026-08-25 17:37 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 17,
-  "avg_sentiment": 0.044,
+  "recent": 19,
+  "avg_sentiment": 0.047,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
       "t": "World Liberty Financial CEO Zach Witkoff says success of stablecoin silences charge of Trump cronyism",
       "s": 0.8
-    },
-    {
-      "t": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
-      "s": -0.78
     },
     {
       "t": "Bitcoin price extends gains, briefly tops $81,000 as crypto rally gathers pace",
@@ -24,8 +20,12 @@
       "s": -0.7
     },
     {
-      "t": "These growth stocks are still cheap, despite the S&P 500 being near a record high price-to-sales valuation",
-      "s": 0.38
+      "t": "Investor competition for commercial real estate sees strongest growth in a year",
+      "s": 0.67
+    },
+    {
+      "t": "Trump goes all in on Sen. Darline Graham in South Carolina, as primary losses pile up",
+      "s": -0.4
     }
   ]
 }
