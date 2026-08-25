@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-25 22:34 UTC",
+  "ts": "2026-08-25 23:30 UTC",
   "feeds_live": 5,
   "headlines": 98,
   "recent": 6,
-  "avg_sentiment": 0.082,
+  "avg_sentiment": 0.06,
   "burst": false,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Dick\u2019s Sporting Goods just had its worst day ever. Here's Jim Cramer's advice on the stock now",
+      "s": -0.62
+    },
     {
       "t": "Here's why markets are starting to care about the 2026 election 10 weeks out",
       "s": 0.49
     },
     {
-      "t": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits",
-      "s": 0.0
+      "t": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved.",
+      "s": 0.42
     },
     {
-      "t": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
-      "s": 0.0
+      "t": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+      "s": 0.34
     },
     {
-      "t": "SpaceX plans to build a $100 billion spaceport in Louisiana",
-      "s": 0.0
-    },
-    {
-      "t": "Is the K-shaped economy ending? Finance pros weigh in",
-      "s": 0.0
+      "t": "Dick\u2019s Sporting Goods\u2019 epic drop hits other footwear giants, as shoppers sour on retro sneakers",
+      "s": -0.27
     }
   ]
 }
