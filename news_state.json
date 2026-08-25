@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-25 19:37 UTC",
+  "ts": "2026-08-25 20:36 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 13,
-  "avg_sentiment": 0.051,
+  "recent": 11,
+  "avg_sentiment": 0.1,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -16,16 +16,16 @@
       "s": 0.67
     },
     {
-      "t": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?",
-      "s": 0.59
+      "t": "Here's why markets are starting to care about the 2026 election 10 weeks out",
+      "s": 0.49
     },
     {
-      "t": "Are you richer than you think? How to find out\u2014and what experts say to do if you are",
-      "s": 0.53
+      "t": "Has AI gotten any better at stock picking?",
+      "s": 0.44
     },
     {
-      "t": "This chart shows exactly why investors should worry about rising yields \u2014 even if they don\u2019t own any bonds",
-      "s": -0.44
+      "t": "Options traders are betting on the quietest Nvidia earnings reaction in years. It could be an opportunity for AI bulls.",
+      "s": 0.42
     }
   ]
 }
