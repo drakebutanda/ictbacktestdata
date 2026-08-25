@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-25 13:00 UTC",
+  "ts": "2026-08-25 14:52 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 15,
-  "avg_sentiment": -0.029,
+  "recent": 14,
+  "avg_sentiment": 0.095,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Yes, the government can take your home after a Medicaid recipient dies. Here\u2019s how to protect yourself.",
-      "s": 0.65
+      "t": "Think Medicare Advantage provides better care for chronic conditions? A new study suggests otherwise.",
+      "s": 0.8
     },
     {
-      "t": "Oil prices decline as investors brush aside Bessent\u2019s \u2018economic D-Day\u2019 threat against Iran",
-      "s": -0.53
+      "t": "World Liberty Financial CEO Zach Witkoff says success of stablecoin silences charge of Trump cronyism",
+      "s": 0.8
     },
     {
-      "t": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
-      "s": -0.49
+      "t": "Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war",
+      "s": -0.78
     },
     {
-      "t": "Trump\u2019s trade war with Canada could lead the U.S. back to quantitative easing",
-      "s": -0.44
+      "t": "Dick\u2019s Sporting Goods\u2019 stock is having its worst day ever, as sneakers aren\u2019t selling without deeper discounts",
+      "s": -0.62
     },
     {
-      "t": "Investors poured into Canadian ETFs right before trade talks broke down",
-      "s": -0.42
+      "t": "Trump suggested states should fund Medicare \u2014 which would weaken the program and put Americans at risk",
+      "s": -0.6
     }
   ]
 }
