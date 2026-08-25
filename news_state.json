@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-25 11:34 UTC",
+  "ts": "2026-08-25 13:00 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 10,
-  "avg_sentiment": -0.056,
+  "headlines": 99,
+  "recent": 15,
+  "avg_sentiment": -0.029,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "The debt-fueled AI build-out may already be too big to fail",
-      "s": -0.54
+      "t": "Yes, the government can take your home after a Medicaid recipient dies. Here\u2019s how to protect yourself.",
+      "s": 0.65
+    },
+    {
+      "t": "Oil prices decline as investors brush aside Bessent\u2019s \u2018economic D-Day\u2019 threat against Iran",
+      "s": -0.53
     },
     {
       "t": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
       "s": -0.49
     },
     {
-      "t": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
-      "s": 0.42
+      "t": "Trump\u2019s trade war with Canada could lead the U.S. back to quantitative easing",
+      "s": -0.44
     },
     {
-      "t": "New Delhi draws in $73 billion in 11 weeks, powered by special deposits for non-resident Indians",
-      "s": 0.4
-    },
-    {
-      "t": "Stick with value stocks until everyone is talking about them \u2014 and they are still under the radar, this Wall Street firm says.",
-      "s": 0.34
+      "t": "Investors poured into Canadian ETFs right before trade talks broke down",
+      "s": -0.42
     }
   ]
 }
