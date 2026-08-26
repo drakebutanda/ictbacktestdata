@@ -1,23 +1,19 @@
 {
-  "ts": "2026-08-26 07:00 UTC",
+  "ts": "2026-08-26 08:52 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 3,
-  "avg_sentiment": 0.15,
+  "recent": 2,
+  "avg_sentiment": 0.078,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "'Too much too quickly': Indonesia's growth ambitions questioned by economists",
-      "s": 0.3
+      "t": "The S&P 500 has three hurdles to clear before a move to 8,000, says this strategist",
+      "s": 0.38
     },
     {
-      "t": "Oil prices fall on Hormuz deal hopes, U.S. pivots to economic pressure on Iran",
-      "s": 0.15
-    },
-    {
-      "t": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
-      "s": 0.0
+      "t": "U.S. crude falls below $80 as oil prices sink on Hormuz deal hopes",
+      "s": -0.23
     }
   ]
 }
