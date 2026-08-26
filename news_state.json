@@ -1,15 +1,15 @@
 {
-  "ts": "2026-08-26 04:48 UTC",
+  "ts": "2026-08-26 05:40 UTC",
   "feeds_live": 5,
   "headlines": 98,
   "recent": 2,
-  "avg_sentiment": -0.148,
+  "avg_sentiment": 0.148,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Oil falls as the U.S. pivots to economic pressure on Iran",
-      "s": -0.3
+      "t": "'Too much too quickly': Indonesia's growth ambitions questioned by economists",
+      "s": 0.3
     },
     {
       "t": "HP partners with U.S.-blacklisted Huawei for licensing the Chinese company's WiFi tech",
