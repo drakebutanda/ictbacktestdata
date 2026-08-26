@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-25 23:30 UTC",
+  "ts": "2026-08-26 01:48 UTC",
   "feeds_live": 5,
   "headlines": 98,
   "recent": 6,
-  "avg_sentiment": 0.06,
+  "avg_sentiment": 0.12,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Dick\u2019s Sporting Goods just had its worst day ever. Here's Jim Cramer's advice on the stock now",
-      "s": -0.62
+      "t": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+      "s": 0.59
     },
     {
-      "t": "Here's why markets are starting to care about the 2026 election 10 weeks out",
-      "s": 0.49
+      "t": "Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary",
+      "s": 0.57
     },
     {
-      "t": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved.",
-      "s": 0.42
+      "t": "Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran",
+      "s": -0.44
     },
     {
-      "t": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
-      "s": 0.34
+      "t": "Are older Americans spoiling the economy for everyone else?",
+      "s": 0.0
     },
     {
-      "t": "Dick\u2019s Sporting Goods\u2019 epic drop hits other footwear giants, as shoppers sour on retro sneakers",
-      "s": -0.27
+      "t": "5 cheap U.S. cities to retire in \u2014 if you can deal with this one thing",
+      "s": 0.0
     }
   ]
 }
