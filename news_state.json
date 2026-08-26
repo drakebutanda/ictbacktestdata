@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-26 14:51 UTC",
+  "ts": "2026-08-26 16:23 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 20,
-  "avg_sentiment": -0.006,
+  "headlines": 99,
+  "recent": 9,
+  "avg_sentiment": 0.066,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe",
-      "s": -0.77
+      "t": "I manage Dolly Parton\u2019s Imagination Library in Cincinnati\u2014the No. 1 lesson she taught me about success",
+      "s": 0.57
     },
     {
-      "t": "12 stocks for \u2018bottom-fishing\u2019 investors looking for cheap growth opportunities",
-      "s": 0.64
+      "t": "\u2018The relationship quickly deteriorated\u2019: My friend\u2019s lawyer settled his injury case without his consent. What can he do?",
+      "s": -0.54
     },
     {
-      "t": "Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next",
-      "s": -0.56
+      "t": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
+      "s": -0.32
     },
     {
-      "t": "U.S. inflation rises again and stays well above the Fed\u2019s target. A rate hike could be in play.",
-      "s": 0.54
+      "t": "The post-penny economy: How cash rounding and credit card surcharges are changing what you pay",
+      "s": 0.3
     },
     {
-      "t": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved.",
-      "s": 0.42
+      "t": "Meta\u2019s stock rises after child-safety settlement \u2014 and looks poised to head even higher from here",
+      "s": 0.25
     }
   ]
 }
