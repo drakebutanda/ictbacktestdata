@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-26 10:41 UTC",
+  "ts": "2026-08-26 11:36 UTC",
   "feeds_live": 5,
   "headlines": 98,
   "recent": 6,
-  "avg_sentiment": 0.227,
+  "avg_sentiment": 0.164,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Haidilao shares jump as delivery growth and new restaurant brands boost outlook",
-      "s": 0.76
-    },
-    {
       "t": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
       "s": 0.74
-    },
-    {
-      "t": "\u2018The relationship quickly deteriorated\u2019: My friend\u2019s lawyer settled his injury case without his consent. What can he do?",
-      "s": -0.54
     },
     {
       "t": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved.",
       "s": 0.42
     },
     {
-      "t": "Two-thirds of parents don\u2019t have this vital document they need in case of emergency",
-      "s": -0.03
+      "t": "Mortgage rates hit highest level in 3 weeks, weakening demand further",
+      "s": -0.42
+    },
+    {
+      "t": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+      "s": 0.34
+    },
+    {
+      "t": "Wall Street\u2019s massive bet against long-term bonds is a recipe for a painful bearish unwind, says Citadel Securities",
+      "s": -0.18
     }
   ]
 }
