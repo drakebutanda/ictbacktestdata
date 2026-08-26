@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-26 11:36 UTC",
+  "ts": "2026-08-26 13:05 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 6,
-  "avg_sentiment": 0.164,
-  "burst": false,
+  "recent": 13,
+  "avg_sentiment": 0.109,
+  "burst": true,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe",
+      "s": -0.77
+    },
     {
       "t": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
       "s": 0.74
     },
     {
-      "t": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved.",
-      "s": 0.42
+      "t": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down",
+      "s": 0.59
     },
     {
-      "t": "Mortgage rates hit highest level in 3 weeks, weakening demand further",
-      "s": -0.42
+      "t": "U.S. inflation rises again and stays well above Fed\u2019s target. Rate hike might be in play.",
+      "s": 0.54
     },
     {
-      "t": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
-      "s": 0.34
-    },
-    {
-      "t": "Wall Street\u2019s massive bet against long-term bonds is a recipe for a painful bearish unwind, says Citadel Securities",
-      "s": -0.18
+      "t": "Wall Street\u2019s biggest optimist says \u2018I wouldn\u2019t jump into the AI trade right now\u2019",
+      "s": 0.53
     }
   ]
 }
