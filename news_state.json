@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-27 08:54 UTC",
+  "ts": "2026-08-27 19:47 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 5,
-  "avg_sentiment": 0.04,
-  "burst": false,
+  "recent": 15,
+  "avg_sentiment": 0.02,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Nvidia jumps 7% after blockbuster earnings boost AI confidence",
-      "s": 0.87
+      "t": "Trump signs order to rename Lake Ontario 'Lake America' amid Canada trade war",
+      "s": -0.6
     },
     {
-      "t": "Qatari PM heads to Iran to 'de-escalate tensions' as tanker attack tests Trump\u2019s Hormuz claim",
-      "s": -0.7
-    },
-    {
-      "t": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
+      "t": "August apartment rents turn positive for the first time in four years",
       "s": 0.56
     },
     {
-      "t": "CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO",
-      "s": -0.53
+      "t": "Texas Senate hopeful Talarico teams with Mark Cuban on plan to break up healthcare 'monopolies'",
+      "s": 0.51
     },
     {
-      "t": "Ozempic maker Novo Nordisk downgraded to sell after 70% stock-price dive from peak",
-      "s": 0.0
+      "t": "I just had my first baby and don\u2019t want to go back to work. Is quitting for a year a bad idea?",
+      "s": -0.49
+    },
+    {
+      "t": "SpaceX shares are doing something very unusual. Options traders are taking note",
+      "s": 0.3
     }
   ]
 }
