@@ -1,27 +1,31 @@
 {
-  "ts": "2026-08-28 04:10 UTC",
+  "ts": "2026-08-28 17:18 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": 0.054,
-  "burst": false,
+  "recent": 15,
+  "avg_sentiment": -0.048,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access",
-      "s": 0.66
+      "t": "Is it a bad idea to withdraw from my retirement account to pay off my last $1,000 in credit-card debt?",
+      "s": -0.75
     },
     {
-      "t": "Mixue shares extend slide after profit drop as ice cream-and-tea chain sees costs rise",
-      "s": 0.57
+      "t": "The Democratic Socialist and the retired Rear Admiral: How Democrats aim to win in Colorado",
+      "s": 0.73
     },
     {
-      "t": "Judge says Trump administration\u2019s blacklist of Anthropic was illegal",
-      "s": -0.56
+      "t": "The biggest risk to retirement plans may no longer be a stock market crash or inflation",
+      "s": -0.72
     },
     {
-      "t": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
-      "s": -0.46
+      "t": "I\u2019m turning 70. Here\u2019s how I\u2019m making this decade the richest of my retirement.",
+      "s": 0.53
+    },
+    {
+      "t": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
+      "s": -0.34
     }
   ]
 }
