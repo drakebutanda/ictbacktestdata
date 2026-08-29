@@ -1,15 +1,19 @@
 {
-  "ts": "2026-08-29 18:18 UTC",
+  "ts": "2026-08-29 21:38 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 1,
-  "avg_sentiment": -0.052,
+  "headlines": 99,
+  "recent": 2,
+  "avg_sentiment": 0.531,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-on",
   "top": [
     {
-      "t": "National Park Service backs Trump\u2019s 250-foot arch despite \u2018adverse effects\u2019 on historic sites",
-      "s": -0.05
+      "t": "Op-ed: Dolly Parton was underestimated for decades. That became one of her greatest strengths",
+      "s": 0.7
+    },
+    {
+      "t": "K, C or E? Why economists can\u2019t agree on the shape of today\u2019s economy",
+      "s": 0.36
     }
   ]
 }
