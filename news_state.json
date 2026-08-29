@@ -1,9 +1,9 @@
 {
-  "ts": "2026-08-29 01:41 UTC",
+  "ts": "2026-08-29 08:55 UTC",
   "feeds_live": 5,
   "headlines": 99,
   "recent": 0,
-  "avg_sentiment": 0.034,
+  "avg_sentiment": 0.016,
   "burst": false,
   "mood": "neutral",
   "top": [
@@ -16,16 +16,16 @@
       "s": 0.78
     },
     {
+      "t": "Trump\u2019s Greenland fixation puts security at the heart of Iceland\u2019s knife-edge EU vote",
+      "s": 0.77
+    },
+    {
       "t": "'Grand Theft Auto 6' preview signals blockbuster demand, analysts say",
       "s": 0.75
     },
     {
       "t": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
       "s": 0.74
-    },
-    {
-      "t": "The Democratic Socialist and the retired Rear Admiral: How Democrats aim to win in Colorado",
-      "s": 0.73
     }
   ]
 }
