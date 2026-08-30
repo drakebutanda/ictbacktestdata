@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-30 06:27 UTC",
+  "ts": "2026-08-30 12:44 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 0,
-  "avg_sentiment": 0.019,
+  "recent": 6,
+  "avg_sentiment": 0.006,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-      "s": -0.8
+      "t": "Party balloons could become a \u2018luxury\u2019 as the Iran war spurs a helium shortage",
+      "s": -0.49
     },
     {
-      "t": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
-      "s": 0.74
+      "t": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
+      "s": 0.32
     },
     {
-      "t": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
-      "s": -0.72
+      "t": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
+      "s": 0.21
     },
     {
-      "t": "Op-ed: Dolly Parton was underestimated for decades. That became one of her greatest strengths",
-      "s": 0.7
+      "t": "\u2018I feel shoehorned\u2019: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+      "s": 0.0
     },
     {
-      "t": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
-      "s": -0.7
+      "t": "AI isn\u2019t eating software after all \u2014 and the sector\u2019s \u2018epic\u2019 rally could run through October",
+      "s": 0.0
     }
   ]
 }
