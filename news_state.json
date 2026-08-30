@@ -1,18 +1,30 @@
 {
-  "ts": "2026-08-30 20:55 UTC",
+  "ts": "2026-08-30 23:22 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": -0.263,
+  "recent": 5,
+  "avg_sentiment": 0.189,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
-      "s": -0.53
+      "t": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "s": 0.4
     },
     {
-      "t": "Aon nears $17 billion deal to buy insurance broker USI, WSJ reports",
+      "t": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+      "s": 0.34
+    },
+    {
+      "t": "U.S. stock futures flat as chances of rate hike rise after Warsh\u2019s Jackson Hole comments",
+      "s": 0.2
+    },
+    {
+      "t": "\u2018I feel shoehorned\u2019: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+      "s": 0.0
+    },
+    {
+      "t": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports",
       "s": 0.0
     }
   ]
