@@ -1,31 +1,31 @@
 {
-  "ts": "2026-08-31 13:26 UTC",
+  "ts": "2026-08-31 19:55 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 14,
-  "avg_sentiment": -0.058,
+  "recent": 21,
+  "avg_sentiment": -0.094,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "America is asking the wrong question about its $40 trillion in debt, this MIT expert warns",
-      "s": -0.72
+      "t": "Why Dell\u2019s stock stands to gain from developments at Nvidia and SpaceX",
+      "s": 0.53
     },
     {
-      "t": "U.S., Iran exchange strikes for first time since July as Trump threatens strategic oil hub",
-      "s": -0.62
-    },
-    {
-      "t": "Brent jumps 3% to above $90 after flare-up in U.S.-Iran hostilities",
+      "t": "Trump says U.S. communities opposing AI data centers could end up 'backwards and poor'",
       "s": -0.48
     },
     {
-      "t": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
-      "s": 0.38
+      "t": "Brent jumps above $90 after flare-up in U.S.-Iran hostilities",
+      "s": -0.48
     },
     {
-      "t": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
-      "s": -0.24
+      "t": "My friend is charging everyone $80 to attend her 30th birthday party. She says it\u2019s to cover the open bar. Is it rude to not go?",
+      "s": 0.44
+    },
+    {
+      "t": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up",
+      "s": -0.44
     }
   ]
 }
