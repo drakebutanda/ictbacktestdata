@@ -1,31 +1,19 @@
 {
-  "ts": "2026-09-01 21:41 UTC",
+  "ts": "2026-09-01 23:57 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 15,
-  "avg_sentiment": -0.12,
-  "burst": true,
+  "recent": 2,
+  "avg_sentiment": 0.101,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
-      "s": -0.82
+      "t": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "s": 0.2
     },
     {
-      "t": "This could be the 10-year Treasury\u2019s tipping point into the danger zone",
-      "s": -0.53
-    },
-    {
-      "t": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
-      "s": 0.49
-    },
-    {
-      "t": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
-      "s": 0.49
-    },
-    {
-      "t": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
-      "s": -0.42
+      "t": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
+      "s": 0.0
     }
   ]
 }
