@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-01 09:54 UTC",
+  "ts": "2026-09-01 14:42 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 8,
-  "avg_sentiment": -0.094,
+  "headlines": 99,
+  "recent": 13,
+  "avg_sentiment": -0.019,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Are rising bond rates really so bad? Maybe not, say these exports",
-      "s": -0.7
+      "t": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
+      "s": -0.81
     },
     {
-      "t": "Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears",
-      "s": -0.65
+      "t": "Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot",
+      "s": 0.8
     },
     {
-      "t": "Shein shares fall up to 10% after long-awaited trading debut",
-      "s": 0.3
+      "t": "Bessent reportedly tells Russia it won't get economic relief until it ends Ukraine war",
+      "s": -0.75
     },
     {
-      "t": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-      "s": 0.2
+      "t": "Vanguard\u2019s S&P 500 index fund changed how we invest \u2014 but there may be a smarter way to get a piece of the market",
+      "s": 0.61
     },
     {
-      "t": "The ultimate retreat and status symbol: These A-list celebrities have their own private islands",
-      "s": 0.2
+      "t": "Get over your fear of haggling \u2014 and start saving real money",
+      "s": -0.49
     }
   ]
 }
