@@ -1,19 +1,31 @@
 {
-  "ts": "2026-09-01 04:49 UTC",
+  "ts": "2026-09-01 09:54 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": -0.434,
-  "burst": false,
-  "mood": "risk-off",
+  "headlines": 100,
+  "recent": 8,
+  "avg_sentiment": -0.094,
+  "burst": true,
+  "mood": "neutral",
   "top": [
     {
-      "t": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
-      "s": -0.89
+      "t": "Are rising bond rates really so bad? Maybe not, say these exports",
+      "s": -0.7
     },
     {
-      "t": "Fast-fashion giant Shein's shares drop 9% in Hong Kong market debut",
-      "s": 0.03
+      "t": "Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears",
+      "s": -0.65
+    },
+    {
+      "t": "Shein shares fall up to 10% after long-awaited trading debut",
+      "s": 0.3
+    },
+    {
+      "t": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "s": 0.2
+    },
+    {
+      "t": "The ultimate retreat and status symbol: These A-list celebrities have their own private islands",
+      "s": 0.2
     }
   ]
 }
