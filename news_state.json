@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-01 14:42 UTC",
+  "ts": "2026-09-01 18:20 UTC",
   "feeds_live": 5,
-  "headlines": 99,
+  "headlines": 100,
   "recent": 13,
-  "avg_sentiment": -0.019,
+  "avg_sentiment": -0.08,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
-      "s": -0.81
+      "t": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom",
+      "s": -0.66
     },
     {
-      "t": "Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot",
-      "s": 0.8
+      "t": "Why Microsoft\u2019s stock could rally another 20% even after a summer winning streak",
+      "s": 0.53
     },
     {
-      "t": "Bessent reportedly tells Russia it won't get economic relief until it ends Ukraine war",
-      "s": -0.75
+      "t": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
+      "s": -0.42
     },
     {
-      "t": "Vanguard\u2019s S&P 500 index fund changed how we invest \u2014 but there may be a smarter way to get a piece of the market",
-      "s": 0.61
+      "t": "Global oil prices surge above $94  a barrel after the U.S. strikes Iranian targets",
+      "s": -0.36
     },
     {
-      "t": "Get over your fear of haggling \u2014 and start saving real money",
-      "s": -0.49
+      "t": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance",
+      "s": -0.3
     }
   ]
 }
