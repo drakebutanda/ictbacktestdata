@@ -1,23 +1,19 @@
 {
-  "ts": "2026-08-31 23:43 UTC",
+  "ts": "2026-09-01 04:49 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": 0.159,
+  "recent": 2,
+  "avg_sentiment": -0.434,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "August was the month of the comeback kids. Cramer reviews what drove the biggest winners",
-      "s": 0.48
+      "t": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
+      "s": -0.89
     },
     {
-      "t": "Amazon\u2019s stock slips as the FTC alleges billions of dollars in hidden ad fees",
-      "s": 0.0
-    },
-    {
-      "t": "CNBC's The China Connection newsletter: McKinsey's contrarian economic view",
-      "s": 0.0
+      "t": "Fast-fashion giant Shein's shares drop 9% in Hong Kong market debut",
+      "s": 0.03
     }
   ]
 }
