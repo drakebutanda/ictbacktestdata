@@ -1,15 +1,31 @@
 {
-  "ts": "2026-09-02 04:16 UTC",
+  "ts": "2026-09-02 09:25 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": -0.103,
-  "burst": false,
+  "recent": 8,
+  "avg_sentiment": -0.202,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Australia posts second-quarter growth of 2.1%, beating expectations",
-      "s": -0.1
+      "t": "Iran says two tankers have hit Hormuz naval mines, attacks regional targets in retaliation to U.S. strikes",
+      "s": -0.66
+    },
+    {
+      "t": "Nepal\u2019s mountain tourism industry faces \u2018serious warning\u2019 after Himalayan flood disaster",
+      "s": -0.62
+    },
+    {
+      "t": "U.S. crude tops $90 as Iran retaliates with strikes on Kuwait, Jordan and Bahrain",
+      "s": -0.44
+    },
+    {
+      "t": "Sarah Michelle Gellar and Freddie Prinze Jr. cut the price of their $10 million L.A. mansion",
+      "s": -0.27
+    },
+    {
+      "t": "Treasury yields rise as global bond sell-off continues",
+      "s": 0.2
     }
   ]
 }
