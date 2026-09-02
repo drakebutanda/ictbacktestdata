@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-02 14:17 UTC",
+  "ts": "2026-09-02 18:32 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 15,
-  "avg_sentiment": 0.113,
+  "recent": 13,
+  "avg_sentiment": 0.093,
   "burst": true,
   "mood": "neutral",
   "top": [
-    {
-      "t": "U.S. crude near $90 as Iran retaliates with strikes on Kuwait, Jordan and Bahrain",
-      "s": -0.74
-    },
     {
       "t": "New York Fed's Williams says yield surge due to strong economic prospects",
       "s": 0.67
     },
     {
-      "t": "Bond market sell-off: How investors can move and protect their money as rates rise",
-      "s": 0.38
+      "t": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
+      "s": 0.57
     },
     {
-      "t": "Berkshire CEO Abel says Alphabet a 'significant player' in AI after growing stake in Q2",
-      "s": 0.36
+      "t": "New Jersey asks the Supreme Court to take on prediction markets",
+      "s": 0.56
     },
     {
-      "t": "Uber to cut 10% of workforce in bid to move 'simpler and faster'",
-      "s": -0.34
+      "t": "\u2018I currently give him $1,000 a month\u2019: My grandson has severe mental illness. How do I protect him after I\u2019m gone?",
+      "s": -0.4
+    },
+    {
+      "t": "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says",
+      "s": -0.27
     }
   ]
 }
