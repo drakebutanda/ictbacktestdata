@@ -1,31 +1,23 @@
 {
-  "ts": "2026-09-02 21:43 UTC",
+  "ts": "2026-09-02 23:59 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 16,
-  "avg_sentiment": -0.054,
-  "burst": true,
+  "recent": 3,
+  "avg_sentiment": 0.026,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "New Jersey asks the Supreme Court to take on prediction markets",
-      "s": 0.56
+      "t": "Jim Cramer says investors aren't ditching tech \u2014 they just want cheaper stocks",
+      "s": 0.08
     },
     {
-      "t": "Nvidia\u2019s stock is climbing as investors get more confidence in an expanding base of AI customers",
-      "s": 0.56
+      "t": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
+      "s": 0.0
     },
     {
-      "t": "Broadcom\u2019s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
-      "s": -0.44
-    },
-    {
-      "t": "Broadcom's stock drops 5% as weak guidance overshadows earnings beat",
-      "s": -0.44
-    },
-    {
-      "t": "\u2018I currently give him $1,000 a month\u2019: My grandson has severe mental illness. How do I protect him after I\u2019m gone?",
-      "s": -0.4
+      "t": "How Equinix has found a niche in the multitrillion-dollar AI data center boom",
+      "s": 0.0
     }
   ]
 }
