@@ -1,23 +1,27 @@
 {
-  "ts": "2026-09-02 23:59 UTC",
+  "ts": "2026-09-03 04:15 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": 0.026,
+  "headlines": 98,
+  "recent": 4,
+  "avg_sentiment": -0.097,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Jim Cramer says investors aren't ditching tech \u2014 they just want cheaper stocks",
+      "t": "Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
+      "s": -0.72
+    },
+    {
+      "t": "Shipping stocks at a crossroads amid their best rally in decades",
+      "s": 0.64
+    },
+    {
+      "t": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+      "s": -0.38
+    },
+    {
+      "t": "There\u2019s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
       "s": 0.08
-    },
-    {
-      "t": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
-      "s": 0.0
-    },
-    {
-      "t": "How Equinix has found a niche in the multitrillion-dollar AI data center boom",
-      "s": 0.0
     }
   ]
 }
