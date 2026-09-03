@@ -1,27 +1,31 @@
 {
-  "ts": "2026-09-03 04:15 UTC",
+  "ts": "2026-09-03 09:35 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 4,
-  "avg_sentiment": -0.097,
+  "headlines": 99,
+  "recent": 5,
+  "avg_sentiment": 0.082,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
-      "s": -0.72
-    },
-    {
-      "t": "Shipping stocks at a crossroads amid their best rally in decades",
-      "s": 0.64
-    },
-    {
-      "t": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+      "t": "Why alarming bond yields might drop sooner than investors think",
       "s": -0.38
     },
     {
-      "t": "There\u2019s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
-      "s": 0.08
+      "t": "Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'",
+      "s": 0.34
+    },
+    {
+      "t": "Here\u2019s your chance to rent \u2018haunted\u2019 Hollywoodland house from Holly Madison",
+      "s": 0.25
+    },
+    {
+      "t": "\u2018Please don\u2019t let this happen to you\u2019: My best friend died without a will \u2014 her neglectful family gets everything",
+      "s": 0.2
+    },
+    {
+      "t": "Broadcom stock fall as investors weigh guidance. Here\u2019s what Wall Street analysts are saying.",
+      "s": 0.0
     }
   ]
 }
