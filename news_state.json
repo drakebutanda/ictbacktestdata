@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-03 18:28 UTC",
+  "ts": "2026-09-03 21:37 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 10,
-  "avg_sentiment": 0.04,
+  "headlines": 98,
+  "recent": 16,
+  "avg_sentiment": -0.006,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "'No steering wheel, no pedals': Tesla teases fans ahead of long-awaited Cybercab update",
+      "t": "This subtle Microsoft change could be a big win for investors",
+      "s": 0.59
+    },
+    {
+      "t": "Trump-promoted Freedom Fuel expands to Detroit as lawsuit over supplier's unpaid fuel heats up",
+      "s": 0.57
+    },
+    {
+      "t": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
+      "s": -0.56
+    },
+    {
+      "t": "Trump admin targets tax-exempt status at private colleges \u2014 threatening a key tax break for donations",
       "s": -0.53
     },
     {
-      "t": "Options volume erupts in retail trading favorites as Robinhood, Tesla surge",
-      "s": 0.42
-    },
-    {
-      "t": "What's behind Nvidia buying Hugging Face? A past Microsoft deal offers clues",
-      "s": 0.42
-    },
-    {
-      "t": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
-      "s": -0.3
-    },
-    {
-      "t": "New doubts emerge about whether Fed will raise interest rates this month",
-      "s": 0.2
+      "t": "'No steering wheel, no pedals': Tesla teases fans ahead of long-awaited Cybercab update",
+      "s": -0.53
     }
   ]
 }
