@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-03 09:35 UTC",
+  "ts": "2026-09-03 14:20 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 5,
-  "avg_sentiment": 0.082,
-  "burst": false,
+  "headlines": 98,
+  "recent": 13,
+  "avg_sentiment": 0.131,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Why alarming bond yields might drop sooner than investors think",
-      "s": -0.38
+      "t": "Snowflake has a secret weapon that\u2019s powering its stock toward a huge gain",
+      "s": 0.54
     },
     {
-      "t": "Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'",
-      "s": 0.34
+      "t": "Hugging Face approached Nvidia\u2019s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+      "s": 0.42
     },
     {
-      "t": "Here\u2019s your chance to rent \u2018haunted\u2019 Hollywoodland house from Holly Madison",
-      "s": 0.25
+      "t": "Clean sweep or divided Congress, these are the midterm-elections trades to make, says JPMorgan",
+      "s": 0.4
     },
     {
-      "t": "\u2018Please don\u2019t let this happen to you\u2019: My best friend died without a will \u2014 her neglectful family gets everything",
-      "s": 0.2
+      "t": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+      "s": 0.4
     },
     {
-      "t": "Broadcom stock fall as investors weigh guidance. Here\u2019s what Wall Street analysts are saying.",
-      "s": 0.0
+      "t": "Hidden China risks are emerging in America\u2019s multibillion-dollar AI data center boom",
+      "s": -0.27
     }
   ]
 }
