@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-03 21:37 UTC",
+  "ts": "2026-09-03 23:55 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 16,
-  "avg_sentiment": -0.006,
-  "burst": true,
+  "recent": 5,
+  "avg_sentiment": 0.019,
+  "burst": false,
   "mood": "neutral",
   "top": [
-    {
-      "t": "This subtle Microsoft change could be a big win for investors",
-      "s": 0.59
-    },
     {
       "t": "Trump-promoted Freedom Fuel expands to Detroit as lawsuit over supplier's unpaid fuel heats up",
       "s": 0.57
     },
     {
-      "t": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
-      "s": -0.56
-    },
-    {
-      "t": "Trump admin targets tax-exempt status at private colleges \u2014 threatening a key tax break for donations",
-      "s": -0.53
-    },
-    {
       "t": "'No steering wheel, no pedals': Tesla teases fans ahead of long-awaited Cybercab update",
       "s": -0.53
+    },
+    {
+      "t": "Tesla investors await updates on Cybercab robotaxi touted as the \u2018future of transport\u2019",
+      "s": 0.05
+    },
+    {
+      "t": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+      "s": 0.0
+    },
+    {
+      "t": "Lululemon bets on \u2018away from body\u2019 pants as customers sour on form-fitting leggings",
+      "s": 0.0
     }
   ]
 }
