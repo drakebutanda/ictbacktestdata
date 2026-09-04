@@ -1,23 +1,31 @@
 {
-  "ts": "2026-09-04 09:28 UTC",
+  "ts": "2026-09-04 14:09 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": 0.049,
-  "burst": false,
+  "headlines": 98,
+  "recent": 13,
+  "avg_sentiment": -0.099,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018Don\u2019t Say Good Luck\u2019 star Melanie Lynskey dreams of buying a New Zealand home but can\u2019t afford it",
-      "s": 0.42
+      "t": "Lululemon stock plunges 20% on disappointing earnings and outlook",
+      "s": -0.49
     },
     {
-      "t": "Volkswagen jumps 6% on plans to cut 50,000 jobs amid tariffs, China competition",
-      "s": -0.27
+      "t": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+      "s": -0.49
     },
     {
-      "t": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
-      "s": 0.0
+      "t": "\u2018I didn\u2019t know what I didn\u2019t know\u2019: I thought I\u2019d have to depend on Social Security. Then I taught myself how to invest.",
+      "s": 0.34
+    },
+    {
+      "t": "Potential midterm-election chaos could roil markets. Here\u2019s one trader\u2019s play.",
+      "s": -0.32
+    },
+    {
+      "t": "2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates",
+      "s": 0.32
     }
   ]
 }
