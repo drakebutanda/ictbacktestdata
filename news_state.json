@@ -1,27 +1,27 @@
 {
-  "ts": "2026-09-04 18:15 UTC",
+  "ts": "2026-09-04 21:20 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 14,
-  "avg_sentiment": 0.004,
+  "recent": 15,
+  "avg_sentiment": 0.075,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Analysis: Lower Treasury yields could require a weaker economy. Trump won't fix them",
-      "s": -0.51
+      "t": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
+      "s": 0.66
     },
     {
-      "t": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
-      "s": -0.49
+      "t": "Will a data center hurt your home\u2019s value? Research says no. Sellers disagree.",
+      "s": -0.56
     },
     {
-      "t": "\u2018I didn\u2019t know what I didn\u2019t know\u2019: I thought I\u2019d have to depend on Social Security. Then I taught myself how to invest.",
-      "s": 0.34
+      "t": "Why Oracle\u2019s stock looks like a compelling buy ahead of earnings",
+      "s": 0.53
     },
     {
-      "t": "Women accounted for almost all of job gains in August. Here's why",
-      "s": 0.34
+      "t": "Trump says he will spend up to $500 million of 'my money' to help Republicans in midterms",
+      "s": 0.4
     },
     {
       "t": "2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates",
