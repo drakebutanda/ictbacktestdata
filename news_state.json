@@ -1,15 +1,15 @@
 {
-  "ts": "2026-09-04 14:09 UTC",
+  "ts": "2026-09-04 18:15 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 13,
-  "avg_sentiment": -0.099,
+  "recent": 14,
+  "avg_sentiment": 0.004,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Lululemon stock plunges 20% on disappointing earnings and outlook",
-      "s": -0.49
+      "t": "Analysis: Lower Treasury yields could require a weaker economy. Trump won't fix them",
+      "s": -0.51
     },
     {
       "t": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
@@ -20,8 +20,8 @@
       "s": 0.34
     },
     {
-      "t": "Potential midterm-election chaos could roil markets. Here\u2019s one trader\u2019s play.",
-      "s": -0.32
+      "t": "Women accounted for almost all of job gains in August. Here's why",
+      "s": 0.34
     },
     {
       "t": "2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates",
