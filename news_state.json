@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-05 08:55 UTC",
+  "ts": "2026-09-05 12:34 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 0,
-  "avg_sentiment": 0.079,
-  "burst": false,
+  "headlines": 96,
+  "recent": 9,
+  "avg_sentiment": 0.048,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries",
-      "s": -0.75
+      "t": "Meet the CISO: A new front line star in the AI cybersecurity war",
+      "s": -0.6
     },
     {
-      "t": "Vance says Fed should lower interest rates: 'Would be nice to have some help'",
-      "s": 0.74
+      "t": "Humanoid robots could upend life as we know it \u2014\u00a0if only they had better brains",
+      "s": 0.44
     },
     {
-      "t": "Singapore tackles finances and culture to avert a demographic crisis",
-      "s": -0.7
+      "t": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
+      "s": 0.38
     },
     {
-      "t": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
-      "s": -0.7
+      "t": "Why does almost nobody want to befriend older people like me \u2014 except scammers?",
+      "s": 0.37
     },
     {
-      "t": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
-      "s": 0.66
+      "t": "Plastic surgery is booming with boomers. Here\u2019s how to cash in on the antiaging craze.",
+      "s": -0.15
     }
   ]
 }
