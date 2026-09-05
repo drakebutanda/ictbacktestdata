@@ -1,15 +1,15 @@
 {
-  "ts": "2026-09-05 21:05 UTC",
+  "ts": "2026-09-05 23:44 UTC",
   "feeds_live": 5,
   "headlines": 96,
   "recent": 1,
-  "avg_sentiment": -0.296,
+  "avg_sentiment": 0.366,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "LeBron James teases partnership with Polymarket",
-      "s": -0.3
+      "t": "Why does almost nobody want to befriend older people like me \u2014 except scammers?",
+      "s": 0.37
     }
   ]
 }
