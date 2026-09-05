@@ -1,31 +1,23 @@
 {
-  "ts": "2026-09-05 15:54 UTC",
+  "ts": "2026-09-05 18:05 UTC",
   "feeds_live": 5,
   "headlines": 96,
-  "recent": 7,
-  "avg_sentiment": 0.084,
+  "recent": 3,
+  "avg_sentiment": 0.112,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
-      "s": 0.57
+      "t": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
+      "s": 0.66
     },
     {
-      "t": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
-      "s": -0.53
+      "t": "\u2018I currently give him $1,000 a month\u2019: My grandson has severe mental illness. How do I protect him after I\u2019m gone?",
+      "s": -0.4
     },
     {
-      "t": "Here\u2019s how much Americans rely on Social Security \u2014 at all income levels",
-      "s": 0.34
-    },
-    {
-      "t": "\u2018Please don\u2019t let this happen to you\u2019: My best friend died without a will \u2014 her neglectful family gets everything",
-      "s": 0.2
-    },
-    {
-      "t": "I\u2019m 68. Should I spend half my 401(k) to buy a home with a mortgage?",
-      "s": 0.0
+      "t": "There\u2019s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
+      "s": 0.08
     }
   ]
 }
