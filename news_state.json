@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-06 09:16 UTC",
+  "ts": "2026-09-06 13:32 UTC",
   "feeds_live": 5,
   "headlines": 96,
-  "recent": 0,
-  "avg_sentiment": 0.009,
-  "burst": false,
+  "recent": 8,
+  "avg_sentiment": -0.076,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries",
-      "s": -0.75
+      "t": "Iran warns of \u2018more painful\u2019 response to U.S. attacks as economic pressure mounts",
+      "s": -0.67
     },
     {
-      "t": "Singapore tackles finances and culture to avert a demographic crisis",
-      "s": -0.7
+      "t": "\u2018I\u2019m leaving money on the table\u2019: I\u2019m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+      "s": 0.38
     },
     {
-      "t": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
-      "s": -0.7
+      "t": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
+      "s": -0.38
     },
     {
-      "t": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
-      "s": 0.66
+      "t": "\u2018Poverty doesn\u2019t have to be my reality\u2019: I thought I\u2019d have to rely on Social Security. Then I taught myself how to invest.",
+      "s": 0.34
     },
     {
-      "t": "'Danger zone of extreme weather': UN warns of supersized El Ni\u00f1o set to hit global economy and markets",
-      "s": -0.62
+      "t": "Many truckers don't feel like the rest of America about AI data centers as business booms",
+      "s": -0.28
     }
   ]
 }
