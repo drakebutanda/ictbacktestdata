@@ -1,16 +1,12 @@
 {
-  "ts": "2026-09-06 16:51 UTC",
+  "ts": "2026-09-06 19:00 UTC",
   "feeds_live": 5,
   "headlines": 96,
-  "recent": 2,
-  "avg_sentiment": 0.137,
+  "recent": 1,
+  "avg_sentiment": 0.0,
   "burst": false,
   "mood": "neutral",
   "top": [
-    {
-      "t": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
-      "s": 0.27
-    },
     {
       "t": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
       "s": 0.0
