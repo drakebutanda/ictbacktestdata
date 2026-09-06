@@ -1,15 +1,31 @@
 {
-  "ts": "2026-09-05 23:44 UTC",
+  "ts": "2026-09-06 04:17 UTC",
   "feeds_live": 5,
   "headlines": 96,
-  "recent": 1,
-  "avg_sentiment": 0.366,
+  "recent": 0,
+  "avg_sentiment": 0.002,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Why does almost nobody want to befriend older people like me \u2014 except scammers?",
-      "s": 0.37
+      "t": "Japanese stocks face continued risk aversion despite record profits, Nomura says",
+      "s": -0.75
+    },
+    {
+      "t": "Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries",
+      "s": -0.75
+    },
+    {
+      "t": "Singapore tackles finances and culture to avert a demographic crisis",
+      "s": -0.7
+    },
+    {
+      "t": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
+      "s": -0.7
+    },
+    {
+      "t": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
+      "s": 0.66
     }
   ]
 }
