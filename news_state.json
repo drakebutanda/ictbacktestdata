@@ -1,19 +1,15 @@
 {
-  "ts": "2026-09-06 22:03 UTC",
+  "ts": "2026-09-07 00:49 UTC",
   "feeds_live": 5,
   "headlines": 96,
-  "recent": 2,
-  "avg_sentiment": -0.1,
+  "recent": 1,
+  "avg_sentiment": 0.128,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018I currently give him $1,000 a month\u2019: My grandson has severe mental illness. How do I protect him after I\u2019m gone?",
-      "s": -0.4
-    },
-    {
-      "t": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-      "s": 0.2
+      "t": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
+      "s": 0.13
     }
   ]
 }
