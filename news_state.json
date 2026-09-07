@@ -1,15 +1,15 @@
 {
-  "ts": "2026-09-07 00:49 UTC",
+  "ts": "2026-09-07 05:54 UTC",
   "feeds_live": 5,
-  "headlines": 96,
+  "headlines": 97,
   "recent": 1,
-  "avg_sentiment": 0.128,
+  "avg_sentiment": -0.178,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
-      "s": 0.13
+      "t": "Israel-Hezbollah clashes deepen threat to fragile truce as Lebanon's president calls for U.S. support",
+      "s": -0.18
     }
   ]
 }
