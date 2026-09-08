@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-08 05:47 UTC",
+  "ts": "2026-09-08 11:04 UTC",
   "feeds_live": 5,
-  "headlines": 98,
+  "headlines": 97,
   "recent": 5,
-  "avg_sentiment": -0.032,
+  "avg_sentiment": 0.088,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Oil extends gains as renewed Mideast hostilities raise worries of prolonged conflict",
-      "s": -0.65
+      "t": "Beneath the surface, the next market leaders are getting ready to break out, says Morgan Stanley",
+      "s": 0.36
     },
     {
-      "t": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
-      "s": 0.6
+      "t": "I\u2019m a single 58-year-old veteran with $1.5 million in assets and a VA pension. Can I afford to retire?",
+      "s": 0.18
     },
     {
-      "t": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
-      "s": 0.4
-    },
-    {
-      "t": "Cholesterol drug setback casts doubt over multibillion-dollar race",
-      "s": -0.36
-    },
-    {
-      "t": "China's imports in August miss estimates as calls for rebalancing trade grow",
+      "t": "Plastic surgery is booming with boomers. Here\u2019s how to cash in on the antiaging craze.",
       "s": -0.15
+    },
+    {
+      "t": "U.S. oil prices reach highest level in over three months after Saudi Arabia says civilian and energy sites struck",
+      "s": 0.05
+    },
+    {
+      "t": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?",
+      "s": 0.0
     }
   ]
 }
