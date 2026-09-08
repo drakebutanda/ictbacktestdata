@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-08 11:04 UTC",
+  "ts": "2026-09-08 16:29 UTC",
   "feeds_live": 5,
-  "headlines": 97,
-  "recent": 5,
-  "avg_sentiment": 0.088,
-  "burst": false,
+  "headlines": 98,
+  "recent": 13,
+  "avg_sentiment": 0.048,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Beneath the surface, the next market leaders are getting ready to break out, says Morgan Stanley",
-      "s": 0.36
+      "t": "AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes",
+      "s": 0.91
     },
     {
-      "t": "I\u2019m a single 58-year-old veteran with $1.5 million in assets and a VA pension. Can I afford to retire?",
-      "s": 0.18
+      "t": "Brent crude oil hits $98 after Iran's Houthi allies attack multiple Saudi energy facilities",
+      "s": -0.69
     },
     {
-      "t": "Plastic surgery is booming with boomers. Here\u2019s how to cash in on the antiaging craze.",
-      "s": -0.15
+      "t": "Bombardier\u2019s stock drops as the U.S.-Canada trade war intensifies. Here\u2019s what Trump may target next.",
+      "s": -0.6
     },
     {
-      "t": "U.S. oil prices reach highest level in over three months after Saudi Arabia says civilian and energy sites struck",
-      "s": 0.05
+      "t": "U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises",
+      "s": -0.6
     },
     {
-      "t": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?",
-      "s": 0.0
+      "t": "These software stocks are in a prime spot to benefit from a rapidly shifting AI landscape",
+      "s": 0.46
     }
   ]
 }
