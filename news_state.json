@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-08 19:48 UTC",
+  "ts": "2026-09-08 22:31 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 10,
-  "avg_sentiment": 0.015,
+  "recent": 14,
+  "avg_sentiment": 0.099,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Brent crude oil hits $98 after Iran's Houthi allies attack multiple Saudi energy facilities",
-      "s": -0.69
+      "t": "Oracle\u2019s stock gets a boost as the OpenAI ecosystem comes back into favor",
+      "s": 0.66
     },
     {
-      "t": "Stocks are stumbling after Labor Day. This year\u2019s easy gains may be over.",
-      "s": 0.65
+      "t": "Bombardier\u2019s stock drops as the U.S.-Canada trade war intensifies. Here\u2019s what Trump is targeting next.",
+      "s": -0.6
     },
     {
-      "t": "Lilly perseveres in a bad day for drug stocks \u2014 plus, Boeing's mixed deliveries",
-      "s": -0.54
+      "t": "Qualcomm\u2019s stock climbs as Amazon chip deal offers investors much-needed good news",
+      "s": 0.56
     },
     {
-      "t": "Meta pushes into personal AI agents as company faces public reckoning over privacy and safety",
-      "s": 0.42
+      "t": "Intel\u2019s stock is rising as the company looks primed to boost prices even more",
+      "s": 0.4
     },
     {
-      "t": "\u2018Poverty doesn\u2019t have to be my reality\u2019: I thought I\u2019d have to rely on Social Security. Then I taught myself how to invest.",
-      "s": 0.34
+      "t": "Why does almost nobody want to befriend older people like me \u2014 except scammers?",
+      "s": 0.37
     }
   ]
 }
