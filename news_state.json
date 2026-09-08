@@ -1,27 +1,31 @@
 {
-  "ts": "2026-09-08 00:11 UTC",
+  "ts": "2026-09-08 05:47 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 4,
-  "avg_sentiment": -0.221,
+  "recent": 5,
+  "avg_sentiment": -0.032,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem",
-      "s": -0.68
+      "t": "Oil extends gains as renewed Mideast hostilities raise worries of prolonged conflict",
+      "s": -0.65
     },
     {
-      "t": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
-      "s": -0.2
+      "t": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+      "s": 0.6
     },
     {
-      "t": "Here are the 3 big things we're watching in this holiday-shortened trading week",
-      "s": 0.0
+      "t": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
+      "s": 0.4
     },
     {
-      "t": "China says it will pump $54 billion into banks and insurers \u2014 but their stocks still fell",
-      "s": 0.0
+      "t": "Cholesterol drug setback casts doubt over multibillion-dollar race",
+      "s": -0.36
+    },
+    {
+      "t": "China's imports in August miss estimates as calls for rebalancing trade grow",
+      "s": -0.15
     }
   ]
 }
