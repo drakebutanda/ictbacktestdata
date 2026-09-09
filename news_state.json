@@ -1,23 +1,31 @@
 {
-  "ts": "2026-09-09 07:17 UTC",
+  "ts": "2026-09-09 12:53 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": -0.402,
-  "burst": false,
-  "mood": "risk-off",
+  "headlines": 98,
+  "recent": 8,
+  "avg_sentiment": -0.151,
+  "burst": true,
+  "mood": "neutral",
   "top": [
+    {
+      "t": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+      "s": -0.82
+    },
     {
       "t": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
       "s": -0.48
     },
     {
-      "t": "Iran says it hit American vessels, oil tankers in Hormuz in retaliation for U.S. strikes",
-      "s": -0.36
+      "t": "Strategists say S&P 500 could top 8,000 \u2014 but risks of a pullback are mounting",
+      "s": -0.31
     },
     {
-      "t": "CNBC Daily Open: Gulf strikes jolt oil toward triple digits",
-      "s": -0.36
+      "t": "I did everything \u2018right\u2019 with my health insurance \u2014 and still got a surprise bill. Here\u2019s what I learned.",
+      "s": 0.27
+    },
+    {
+      "t": "Bessent bond plan details to be revealed as Treasury secretary warns FX traders he's 'the house now'",
+      "s": 0.1
     }
   ]
 }
