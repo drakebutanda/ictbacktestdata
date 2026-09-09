@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-09 20:50 UTC",
+  "ts": "2026-09-09 23:08 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 9,
-  "avg_sentiment": 0.037,
+  "recent": 8,
+  "avg_sentiment": -0.166,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Canadian whisky on the rocks? Crown Royal is set to avoid Trump\u2019s new ban.",
-      "s": -0.7
+      "t": "\u2018We fear financial exploitation\u2019: Who will manage our finances if my wife and I become incapacitated?",
+      "s": -0.73
     },
     {
-      "t": "Republicans to tout congressional stock-trading ban at midterm convention as Trump trades",
-      "s": -0.62
+      "t": "Hunter Biden\u2019s memecoin flops, falling 95% just hours after launch",
+      "s": -0.46
     },
     {
-      "t": "You should always have energy stocks in your 401(k). Yes, even when oil is at $100.",
-      "s": 0.59
+      "t": "Diesel prices hit another record high. If you\u2019re shocked, wait until you see your grocery bill.",
+      "s": -0.32
     },
     {
-      "t": "Conversations from Goldman Sachs' Communacopia: AI blowback, broadband and Disney's free tier",
-      "s": 0.51
+      "t": "Amazon adds cybersecurity veteran Kevin Mandia to board 2 years after he left Google",
+      "s": 0.18
     },
     {
-      "t": "Oil\u2019s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
-      "s": 0.36
+      "t": "I\u2019m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+      "s": 0.0
     }
   ]
 }
