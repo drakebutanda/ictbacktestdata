@@ -1,9 +1,9 @@
 {
-  "ts": "2026-09-09 12:53 UTC",
+  "ts": "2026-09-09 17:06 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 8,
-  "avg_sentiment": -0.151,
+  "recent": 15,
+  "avg_sentiment": -0.212,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": -0.82
     },
     {
-      "t": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
+      "t": "\u2018We fear financial exploitation\u2019: Who will manage our finances if my wife and I become incapacitated?",
+      "s": -0.73
+    },
+    {
+      "t": "CoreWeave CEO chalks up public AI pushback to the speed of change: 'And that is frightening'",
+      "s": -0.49
+    },
+    {
+      "t": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
       "s": -0.48
     },
     {
-      "t": "Strategists say S&P 500 could top 8,000 \u2014 but risks of a pullback are mounting",
-      "s": -0.31
-    },
-    {
-      "t": "I did everything \u2018right\u2019 with my health insurance \u2014 and still got a surprise bill. Here\u2019s what I learned.",
-      "s": 0.27
-    },
-    {
-      "t": "Bessent bond plan details to be revealed as Treasury secretary warns FX traders he's 'the house now'",
-      "s": 0.1
+      "t": "Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf",
+      "s": -0.44
     }
   ]
 }
