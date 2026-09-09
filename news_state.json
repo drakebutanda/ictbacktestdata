@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-09 17:06 UTC",
+  "ts": "2026-09-09 20:50 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 15,
-  "avg_sentiment": -0.212,
+  "headlines": 99,
+  "recent": 9,
+  "avg_sentiment": 0.037,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "s": -0.82
+      "t": "Canadian whisky on the rocks? Crown Royal is set to avoid Trump\u2019s new ban.",
+      "s": -0.7
     },
     {
-      "t": "\u2018We fear financial exploitation\u2019: Who will manage our finances if my wife and I become incapacitated?",
-      "s": -0.73
+      "t": "Republicans to tout congressional stock-trading ban at midterm convention as Trump trades",
+      "s": -0.62
     },
     {
-      "t": "CoreWeave CEO chalks up public AI pushback to the speed of change: 'And that is frightening'",
-      "s": -0.49
+      "t": "You should always have energy stocks in your 401(k). Yes, even when oil is at $100.",
+      "s": 0.59
     },
     {
-      "t": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
-      "s": -0.48
+      "t": "Conversations from Goldman Sachs' Communacopia: AI blowback, broadband and Disney's free tier",
+      "s": 0.51
     },
     {
-      "t": "Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf",
-      "s": -0.44
+      "t": "Oil\u2019s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
+      "s": 0.36
     }
   ]
 }
