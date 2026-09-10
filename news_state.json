@@ -1,23 +1,31 @@
 {
-  "ts": "2026-09-10 04:20 UTC",
+  "ts": "2026-09-10 09:33 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": 0.121,
-  "burst": false,
+  "recent": 9,
+  "avg_sentiment": 0.089,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and \u2018DOGE\u2019 dividends last year that never came.",
-      "s": 0.64
+      "t": "Trump promises $5,000 'dividend' to U.S. citizens if Republicans win midterms",
+      "s": 0.75
     },
     {
-      "t": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
-      "s": -0.27
+      "t": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
+      "s": -0.51
     },
     {
-      "t": "Bessent\u2019s political turn in GOP speech tests his bond-market credibility",
-      "s": 0.0
+      "t": "This is the advice comedian Tiffany Haddish got that helped her build a real-estate portfolio of 17 properties",
+      "s": 0.38
+    },
+    {
+      "t": "Coinbase CEO says clearer U.S. crypto rules are coming \u2014 with or without Senate approval",
+      "s": -0.37
+    },
+    {
+      "t": "The ECB is virtually certain to raise rates. Wall Street is bracing for what comes next.",
+      "s": 0.27
     }
   ]
 }
