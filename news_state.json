@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-10 18:16 UTC",
+  "ts": "2026-09-10 21:31 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 16,
-  "avg_sentiment": -0.085,
+  "headlines": 97,
+  "recent": 14,
+  "avg_sentiment": 0.098,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Where investors are finding income outside traditional bonds as brutal drawdown drags on",
-      "s": -0.7
+      "t": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
+      "s": 0.51
     },
     {
-      "t": "U.S. crude oil tops $100 again \u2013 last seen in May \u2013 as market braces for prolonged Iran war",
-      "s": -0.65
-    },
-    {
-      "t": "The future of retirement: Work until you die",
-      "s": -0.6
-    },
-    {
-      "t": "The likelihood of a Fed interest rate hike next week just got a lot higher",
-      "s": 0.46
+      "t": "The traditional paths to building wealth are becoming less accessible for young Americans. Here\u2019s what happened.",
+      "s": 0.49
     },
     {
       "t": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
       "s": -0.44
+    },
+    {
+      "t": "Why $500 checks won\u2019t help Americans facing 15% increases in Obamacare premiums next year",
+      "s": 0.4
+    },
+    {
+      "t": "Oracle\u2019s AI bet pays off as cloud momentum helps drive a rosier forecast",
+      "s": 0.38
     }
   ]
 }
