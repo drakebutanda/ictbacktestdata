@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-10 09:33 UTC",
+  "ts": "2026-09-10 14:14 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 9,
-  "avg_sentiment": 0.089,
+  "recent": 27,
+  "avg_sentiment": 0.086,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump promises $5,000 'dividend' to U.S. citizens if Republicans win midterms",
-      "s": 0.75
+      "t": "This simple mistake can cost your loved ones their share of your estate. Here\u2019s how to protect your money.",
+      "s": 0.74
     },
     {
-      "t": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
-      "s": -0.51
+      "t": "Canadian whisky on the rocks? Crown Royal is set to avoid Trump\u2019s new ban.",
+      "s": -0.7
     },
     {
-      "t": "This is the advice comedian Tiffany Haddish got that helped her build a real-estate portfolio of 17 properties",
-      "s": 0.38
+      "t": "Coinbase partners with Moov to boost community bank stablecoin capabilities before Clarity vote",
+      "s": 0.66
     },
     {
-      "t": "Coinbase CEO says clearer U.S. crypto rules are coming \u2014 with or without Senate approval",
-      "s": -0.37
+      "t": "U.S. crude oil tops $100 again \u2013 last seen in May \u2013 as market braces for prolonged Iran war",
+      "s": -0.65
     },
     {
-      "t": "The ECB is virtually certain to raise rates. Wall Street is bracing for what comes next.",
-      "s": 0.27
+      "t": "Here\u2019s how to avoid a six-figure error that many retirees make with their company stock",
+      "s": -0.6
     }
   ]
 }
