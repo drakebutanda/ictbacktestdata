@@ -1,19 +1,27 @@
 {
-  "ts": "2026-09-11 04:25 UTC",
+  "ts": "2026-09-11 09:29 UTC",
   "feeds_live": 5,
-  "headlines": 97,
-  "recent": 2,
-  "avg_sentiment": -0.302,
+  "headlines": 98,
+  "recent": 4,
+  "avg_sentiment": -0.084,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "China-Philippines tensions simmer after Beijing rebukes Manila over Seoul clash",
-      "s": -0.4
+      "t": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
+      "s": -0.61
     },
     {
-      "t": "Y Combinator\u2019s Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech",
-      "s": -0.2
+      "t": "Further European rate hikes 'very much dependent' on energy costs, Bundesbank chief tells CNBC",
+      "s": 0.27
+    },
+    {
+      "t": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
+      "s": 0.0
+    },
+    {
+      "t": "Treasury yields steady as traders await consumer inflation data amid oil price pressure",
+      "s": 0.0
     }
   ]
 }
