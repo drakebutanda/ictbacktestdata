@@ -1,27 +1,31 @@
 {
-  "ts": "2026-09-11 09:29 UTC",
+  "ts": "2026-09-11 14:14 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 4,
-  "avg_sentiment": -0.084,
-  "burst": false,
+  "headlines": 99,
+  "recent": 21,
+  "avg_sentiment": -0.124,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
-      "s": -0.61
+      "t": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
+      "s": -0.78
     },
     {
-      "t": "Further European rate hikes 'very much dependent' on energy costs, Bundesbank chief tells CNBC",
-      "s": 0.27
+      "t": "Anthropic\u2019s safety-first image takes a hit ahead of its massive IPO: \u2018AI could kill all humans\u2019",
+      "s": -0.69
     },
     {
-      "t": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
-      "s": 0.0
+      "t": "Nonprofit received $2 million from Olivia Rodrigo and Melinda French Gates\u2014it wants to give cash to abuse survivors",
+      "s": -0.64
     },
     {
-      "t": "Treasury yields steady as traders await consumer inflation data amid oil price pressure",
-      "s": 0.0
+      "t": "The future of retirement? Work until you die.",
+      "s": -0.6
+    },
+    {
+      "t": "How Oracle shook off fears about AI spending, sending its stock higher",
+      "s": -0.49
     }
   ]
 }
