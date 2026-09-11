@@ -1,23 +1,19 @@
 {
-  "ts": "2026-09-10 23:56 UTC",
+  "ts": "2026-09-11 04:25 UTC",
   "feeds_live": 5,
   "headlines": 97,
-  "recent": 3,
-  "avg_sentiment": 0.106,
+  "recent": 2,
+  "avg_sentiment": -0.302,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears",
-      "s": 0.32
+      "t": "China-Philippines tensions simmer after Beijing rebukes Manila over Seoul clash",
+      "s": -0.4
     },
     {
-      "t": "All the ways record-high diesel and rising gas prices are about to make your life more expensive \u2014 from commuting to grocery shopping",
-      "s": 0.0
-    },
-    {
-      "t": "Jim Cramer says this is the key force driving stocks right now",
-      "s": 0.0
+      "t": "Y Combinator\u2019s Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech",
+      "s": -0.2
     }
   ]
 }
