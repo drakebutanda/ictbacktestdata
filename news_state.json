@@ -1,9 +1,9 @@
 {
-  "ts": "2026-09-11 14:14 UTC",
+  "ts": "2026-09-11 18:20 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 21,
-  "avg_sentiment": -0.124,
+  "recent": 14,
+  "avg_sentiment": -0.071,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": -0.78
     },
     {
-      "t": "Anthropic\u2019s safety-first image takes a hit ahead of its massive IPO: \u2018AI could kill all humans\u2019",
-      "s": -0.69
+      "t": "Why a shrinking population doesn\u2019t have to be the kiss of death for an economy or stock market",
+      "s": -0.61
     },
     {
-      "t": "Nonprofit received $2 million from Olivia Rodrigo and Melinda French Gates\u2014it wants to give cash to abuse survivors",
-      "s": -0.64
+      "t": "The traditional paths to building wealth are becoming less accessible for young Americans. Here\u2019s what happened.",
+      "s": 0.49
     },
     {
-      "t": "The future of retirement? Work until you die.",
-      "s": -0.6
+      "t": "Consumer outlook plunges in September as inflation outlook worsens",
+      "s": -0.48
     },
     {
-      "t": "How Oracle shook off fears about AI spending, sending its stock higher",
-      "s": -0.49
+      "t": "The Fed could raise interest rates three times. Here\u2019s where the market could face the stiffest test.",
+      "s": 0.46
     }
   ]
 }
