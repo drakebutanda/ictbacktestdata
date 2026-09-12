@@ -1,23 +1,15 @@
 {
-  "ts": "2026-09-12 17:00 UTC",
+  "ts": "2026-09-12 20:27 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": 0.089,
+  "headlines": 98,
+  "recent": 1,
+  "avg_sentiment": 0.681,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-on",
   "top": [
     {
-      "t": "\u2018I still don\u2019t have my MRI\u2019: My health insurer canceled my plan without warning. Is that legal?",
-      "s": 0.37
-    },
-    {
-      "t": "Why it might be time to use AI to rehearse pay, performance chats before meeting with your manager",
-      "s": -0.1
-    },
-    {
-      "t": "Anthropic's Amodei proposes plan to 'slow the pace' of advancing AI capabilities",
-      "s": 0.0
+      "t": "Anthropic\u2019s Amodei shares plan to \u2018slow the pace\u2019 of growing AI capabilities; Musk and Altman express support",
+      "s": 0.68
     }
   ]
 }
