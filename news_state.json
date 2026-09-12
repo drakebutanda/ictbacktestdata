@@ -1,31 +1,23 @@
 {
-  "ts": "2026-09-11 21:38 UTC",
-  "feeds_live": 5,
-  "headlines": 99,
-  "recent": 11,
-  "avg_sentiment": 0.046,
-  "burst": true,
+  "ts": "2026-09-12 00:04 UTC",
+  "feeds_live": 4,
+  "headlines": 79,
+  "recent": 3,
+  "avg_sentiment": 0.2,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
-      "s": -0.77
+      "t": "The Fed could raise interest rates three times. Here\u2019s where the market could face the stiffest test.",
+      "s": 0.46
     },
     {
-      "t": "Marvell is sitting on an incredibly \u2018sticky\u2019 business that could help it unlock a $30 billion opportunity",
-      "s": 0.67
+      "t": "Cramer\u2019s week ahead: Falling oil could help stocks but Fed is the next big test",
+      "s": 0.14
     },
     {
-      "t": "Oracle shook off fears about AI spending, but its stock still loses ground",
-      "s": -0.62
-    },
-    {
-      "t": "Salesforce\u2019s stock has been riding a wave of AI optimism. Here\u2019s what Wall Street wants to see next.",
-      "s": 0.54
-    },
-    {
-      "t": "Dan Chung rebuilt a decimated Alger Management after 9/11. He's still finding the market's winners",
-      "s": 0.48
+      "t": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
+      "s": 0.0
     }
   ]
 }
