@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-12 10:33 UTC",
+  "ts": "2026-09-12 13:58 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 0,
-  "avg_sentiment": 0.037,
-  "burst": false,
+  "recent": 10,
+  "avg_sentiment": 0.017,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Russian attacks on Kyiv petrol stations kill two, Ukrainian strikes kill three in Russia",
-      "s": -0.94
+      "t": "Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply",
+      "s": -0.6
     },
     {
-      "t": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "s": -0.82
+      "t": "Tehran won\u2019t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
+      "s": 0.54
     },
     {
-      "t": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
-      "s": -0.78
+      "t": "I worked with Gloria Steinem for 30 years\u2014This was her No. 1 antidote to fear",
+      "s": -0.49
     },
     {
-      "t": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
-      "s": -0.77
+      "t": "I want to pay for every customer at my late husband\u2019s favorite restaurant on his birthday. Could this backfire?",
+      "s": 0.44
     },
     {
-      "t": "Arizona accuses L\u2019Oreal of concealing cancer risks linked to hair relaxers",
-      "s": -0.76
+      "t": "Inflation is outpacing wage growth again, squeezing Americans\u2019 paychecks",
+      "s": 0.38
     }
   ]
 }
