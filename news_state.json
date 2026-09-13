@@ -1,19 +1,15 @@
 {
-  "ts": "2026-09-12 22:56 UTC",
+  "ts": "2026-09-13 00:48 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 2,
-  "avg_sentiment": -0.051,
+  "recent": 1,
+  "avg_sentiment": -0.103,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
       "t": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
       "s": -0.1
-    },
-    {
-      "t": "Why OpenAI\u2019s Sam Altman says an IPO isn\u2019t in the cards this year",
-      "s": 0.0
     }
   ]
 }
