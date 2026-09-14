@@ -1,18 +1,14 @@
 {
-  "ts": "2026-09-13 22:18 UTC",
+  "ts": "2026-09-14 00:53 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": -0.211,
+  "recent": 1,
+  "avg_sentiment": 0.0,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "These are the 10 biggest retirement fears \u2014 and what you can do about them",
-      "s": -0.42
-    },
-    {
-      "t": "I\u2019m locked into a 10-year annuity and now I\u2019m strapped for cash. What are my options?",
+      "t": "Jim Cramer questions Anthropic CEO's slowdown manifesto and puts forth an action plan",
       "s": 0.0
     }
   ]
