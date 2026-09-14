@@ -1,31 +1,27 @@
 {
-  "ts": "2026-09-14 19:13 UTC",
+  "ts": "2026-09-14 23:03 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 20,
-  "avg_sentiment": -0.056,
-  "burst": true,
+  "recent": 4,
+  "avg_sentiment": 0.023,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "AI doomsday fears are arriving at the worst possible time for the stock market",
-      "s": -0.89
+      "t": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
+      "s": 0.3
     },
     {
-      "t": "Trump agrees to ethics requirements in crypto Clarity Act as GOP seeks Democratic votes",
-      "s": 0.54
+      "t": "Ukraine says it's open to halting attacks on Russian energy after Trump's claims of deal",
+      "s": -0.2
     },
     {
-      "t": "10-year Treasury yield eases back from crucial 5% level despite concerns about AI and the surge in oil prices",
-      "s": 0.48
+      "t": "The murky AI milestone that has some of the industry\u2019s leading voices increasingly on edge",
+      "s": 0.0
     },
     {
-      "t": "Inflation is sinking your high-yield savings account\u2019s returns. Here\u2019s one way to fight it.",
-      "s": -0.38
-    },
-    {
-      "t": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-      "s": 0.35
+      "t": "Mitch McConnell returns to Senate after three-month health absence",
+      "s": 0.0
     }
   ]
 }
