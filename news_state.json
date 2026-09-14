@@ -1,19 +1,31 @@
 {
-  "ts": "2026-09-14 06:01 UTC",
+  "ts": "2026-09-14 13:51 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": 0.467,
-  "burst": false,
-  "mood": "risk-on",
+  "headlines": 100,
+  "recent": 15,
+  "avg_sentiment": -0.135,
+  "burst": true,
+  "mood": "neutral",
   "top": [
     {
-      "t": "Shein shares fall 10% amid urgent recall of contact-lens cleaner by Australia, New Zealand",
-      "s": 0.57
+      "t": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock",
+      "s": -0.62
     },
     {
-      "t": "LA Clippers owner Steve Ballmer apologizes over team sanctions",
-      "s": 0.36
+      "t": "Novo drops \u2018Nordisk\u2019 in corporate refresh to take on Lilly in the weight-loss wars",
+      "s": -0.56
+    },
+    {
+      "t": "Satellite images show extent of damage to Saudi Arabia\u2019s oil pipeline that bypasses Strait of Hormuz",
+      "s": -0.49
+    },
+    {
+      "t": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'",
+      "s": -0.4
+    },
+    {
+      "t": "Brent crude tops $108 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
+      "s": -0.4
     }
   ]
 }
