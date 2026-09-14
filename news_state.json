@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-14 13:51 UTC",
+  "ts": "2026-09-14 19:13 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 15,
-  "avg_sentiment": -0.135,
+  "headlines": 99,
+  "recent": 20,
+  "avg_sentiment": -0.056,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock",
-      "s": -0.62
+      "t": "AI doomsday fears are arriving at the worst possible time for the stock market",
+      "s": -0.89
     },
     {
-      "t": "Novo drops \u2018Nordisk\u2019 in corporate refresh to take on Lilly in the weight-loss wars",
-      "s": -0.56
+      "t": "Trump agrees to ethics requirements in crypto Clarity Act as GOP seeks Democratic votes",
+      "s": 0.54
     },
     {
-      "t": "Satellite images show extent of damage to Saudi Arabia\u2019s oil pipeline that bypasses Strait of Hormuz",
-      "s": -0.49
+      "t": "10-year Treasury yield eases back from crucial 5% level despite concerns about AI and the surge in oil prices",
+      "s": 0.48
     },
     {
-      "t": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'",
-      "s": -0.4
+      "t": "Inflation is sinking your high-yield savings account\u2019s returns. Here\u2019s one way to fight it.",
+      "s": -0.38
     },
     {
-      "t": "Brent crude tops $108 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
-      "s": -0.4
+      "t": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+      "s": 0.35
     }
   ]
 }
