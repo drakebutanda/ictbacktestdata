@@ -1,27 +1,27 @@
 {
-  "ts": "2026-09-14 23:03 UTC",
+  "ts": "2026-09-15 04:38 UTC",
   "feeds_live": 5,
   "headlines": 99,
   "recent": 4,
-  "avg_sentiment": 0.023,
+  "avg_sentiment": -0.277,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
-      "s": 0.3
+      "t": "Weapon shortfalls, 'hundreds' of buildings and aircraft damaged, $33.4 billion spent: the U.S. government tallies costs of the Iran war",
+      "s": -0.84
     },
     {
-      "t": "Ukraine says it's open to halting attacks on Russian energy after Trump's claims of deal",
-      "s": -0.2
+      "t": "Wealthy Chinese, tech talent confront tighter borders as Beijing widens exit controls",
+      "s": 0.56
     },
     {
-      "t": "The murky AI milestone that has some of the industry\u2019s leading voices increasingly on edge",
-      "s": 0.0
+      "t": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+      "s": -0.42
     },
     {
-      "t": "Mitch McConnell returns to Senate after three-month health absence",
-      "s": 0.0
+      "t": "Oil and Treasury yields haven\u2019t moved this closely in seven years. That\u2019s bad news for markets",
+      "s": -0.4
     }
   ]
 }
