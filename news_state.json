@@ -1,15 +1,15 @@
 {
-  "ts": "2026-09-15 04:38 UTC",
-  "feeds_live": 5,
-  "headlines": 99,
-  "recent": 4,
-  "avg_sentiment": -0.277,
+  "ts": "2026-09-15 09:57 UTC",
+  "feeds_live": 4,
+  "headlines": 89,
+  "recent": 5,
+  "avg_sentiment": -0.012,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Weapon shortfalls, 'hundreds' of buildings and aircraft damaged, $33.4 billion spent: the U.S. government tallies costs of the Iran war",
-      "s": -0.84
+      "t": "Iranian foreign minister will head to China for talks, as Pentagon reveals financial cost of war",
+      "s": -0.6
     },
     {
       "t": "Wealthy Chinese, tech talent confront tighter borders as Beijing widens exit controls",
@@ -20,8 +20,12 @@
       "s": -0.42
     },
     {
-      "t": "Oil and Treasury yields haven\u2019t moved this closely in seven years. That\u2019s bad news for markets",
-      "s": -0.4
+      "t": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
+      "s": 0.2
+    },
+    {
+      "t": "What to watch as Treasury Secretary Scott Bessent testifies before Congress",
+      "s": 0.2
     }
   ]
 }
