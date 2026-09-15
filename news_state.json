@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-15 14:52 UTC",
+  "ts": "2026-09-15 18:51 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 15,
-  "avg_sentiment": 0.023,
+  "recent": 11,
+  "avg_sentiment": 0.001,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Pet insurance or savings account: What\u2019s the best way to plan for a big vet bill?",
-      "s": 0.64
+      "t": "The best time to book your flight home for the holidays? Yesterday.",
+      "s": 0.78
     },
     {
-      "t": "U.S. crude oil rises back above $104 as market awaits updates on Saudi pipeline outage",
-      "s": -0.53
+      "t": "Trump admin. says private sector can solve AI threats as critics balk",
+      "s": -0.49
     },
     {
-      "t": "What to expect from stocks and bonds if interest rates remain higher for longer, according to investing pros",
-      "s": 0.46
+      "t": "Stocks have so far survived rising Treasury yields. But that may be about to change.",
+      "s": 0.4
     },
     {
-      "t": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-      "s": -0.42
+      "t": "U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure",
+      "s": -0.32
     },
     {
-      "t": "Inflation is sinking your high-yield savings account\u2019s returns. Here\u2019s one way to fight it.",
-      "s": -0.38
+      "t": "Kennedy Center board votes to close for renovations; judge blocks Trump name returning to building",
+      "s": -0.23
     }
   ]
 }
