@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-15 18:51 UTC",
+  "ts": "2026-09-15 22:04 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 11,
-  "avg_sentiment": 0.001,
+  "recent": 10,
+  "avg_sentiment": -0.167,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "The best time to book your flight home for the holidays? Yesterday.",
-      "s": 0.78
+      "t": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
+      "s": 0.7
     },
     {
-      "t": "Trump admin. says private sector can solve AI threats as critics balk",
-      "s": -0.49
+      "t": "Inflation killed the penny. Now it\u2019s coming for your dollar.",
+      "s": -0.67
     },
     {
-      "t": "Stocks have so far survived rising Treasury yields. But that may be about to change.",
-      "s": 0.4
+      "t": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+      "s": -0.6
     },
     {
-      "t": "U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure",
-      "s": -0.32
+      "t": "Americans' incomes rose and poverty fell in 2025, Census Bureau says",
+      "s": -0.51
     },
     {
-      "t": "Kennedy Center board votes to close for renovations; judge blocks Trump name returning to building",
-      "s": -0.23
+      "t": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
+      "s": -0.42
     }
   ]
 }
