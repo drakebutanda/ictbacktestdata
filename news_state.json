@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-15 09:57 UTC",
-  "feeds_live": 4,
-  "headlines": 89,
-  "recent": 5,
-  "avg_sentiment": -0.012,
-  "burst": false,
+  "ts": "2026-09-15 14:52 UTC",
+  "feeds_live": 5,
+  "headlines": 99,
+  "recent": 15,
+  "avg_sentiment": 0.023,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Iranian foreign minister will head to China for talks, as Pentagon reveals financial cost of war",
-      "s": -0.6
+      "t": "Pet insurance or savings account: What\u2019s the best way to plan for a big vet bill?",
+      "s": 0.64
     },
     {
-      "t": "Wealthy Chinese, tech talent confront tighter borders as Beijing widens exit controls",
-      "s": 0.56
+      "t": "U.S. crude oil rises back above $104 as market awaits updates on Saudi pipeline outage",
+      "s": -0.53
     },
     {
-      "t": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+      "t": "What to expect from stocks and bonds if interest rates remain higher for longer, according to investing pros",
+      "s": 0.46
+    },
+    {
+      "t": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
       "s": -0.42
     },
     {
-      "t": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
-      "s": 0.2
-    },
-    {
-      "t": "What to watch as Treasury Secretary Scott Bessent testifies before Congress",
-      "s": 0.2
+      "t": "Inflation is sinking your high-yield savings account\u2019s returns. Here\u2019s one way to fight it.",
+      "s": -0.38
     }
   ]
 }
