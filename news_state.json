@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-16 18:06 UTC",
-  "feeds_live": 4,
-  "headlines": 87,
-  "recent": 15,
-  "avg_sentiment": -0.088,
+  "ts": "2026-09-16 22:02 UTC",
+  "feeds_live": 5,
+  "headlines": 97,
+  "recent": 10,
+  "avg_sentiment": -0.0,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Fed approves interest rate hike, signals one more to come this year",
-      "s": 0.69
+      "t": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+      "s": 0.65
     },
     {
-      "t": "Hyperscaler debt signals warning sign, Apollo cautions",
-      "s": -0.6
+      "t": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
+      "s": -0.59
     },
     {
-      "t": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
-      "s": -0.6
+      "t": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+      "s": -0.54
     },
     {
-      "t": "10-year Treasury yield falls as traders bet Fed rate increase can tamp down inflation",
-      "s": 0.48
+      "t": "Intel\u2019s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "s": 0.44
     },
     {
-      "t": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
-      "s": -0.44
+      "t": "Here\u2019s a sneaky way to play the Fed\u2019s rate increase",
+      "s": 0.42
     }
   ]
 }
