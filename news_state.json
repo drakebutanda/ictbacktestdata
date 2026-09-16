@@ -1,31 +1,23 @@
 {
-  "ts": "2026-09-15 22:04 UTC",
+  "ts": "2026-09-16 01:16 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 10,
-  "avg_sentiment": -0.167,
-  "burst": true,
+  "recent": 3,
+  "avg_sentiment": 0.106,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
-      "s": 0.7
+      "t": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
+      "s": 0.32
     },
     {
-      "t": "Inflation killed the penny. Now it\u2019s coming for your dollar.",
-      "s": -0.67
+      "t": "Inside South Korea\u2019s university programs offering a direct route to Samsung and SK Hynix",
+      "s": 0.0
     },
     {
-      "t": "How the Iran war is transforming the relationship between stocks, bonds and oil",
-      "s": -0.6
-    },
-    {
-      "t": "Americans' incomes rose and poverty fell in 2025, Census Bureau says",
-      "s": -0.51
-    },
-    {
-      "t": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
-      "s": -0.42
+      "t": "House to vote on bill to rein in AI data center utility costs",
+      "s": 0.0
     }
   ]
 }
