@@ -1,23 +1,23 @@
 {
-  "ts": "2026-09-16 01:16 UTC",
+  "ts": "2026-09-16 07:33 UTC",
   "feeds_live": 5,
-  "headlines": 99,
+  "headlines": 97,
   "recent": 3,
-  "avg_sentiment": 0.106,
+  "avg_sentiment": 0.032,
   "burst": false,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
+      "s": -0.49
+    },
     {
       "t": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
       "s": 0.32
     },
     {
-      "t": "Inside South Korea\u2019s university programs offering a direct route to Samsung and SK Hynix",
-      "s": 0.0
-    },
-    {
-      "t": "House to vote on bill to rein in AI data center utility costs",
-      "s": 0.0
+      "t": "UK inflation jumps to 3.1% as energy costs soar",
+      "s": 0.27
     }
   ]
 }
