@@ -1,27 +1,15 @@
 {
-  "ts": "2026-09-17 01:16 UTC",
-  "feeds_live": 5,
-  "headlines": 97,
-  "recent": 4,
-  "avg_sentiment": 0.019,
+  "ts": "2026-09-17 07:30 UTC",
+  "feeds_live": 4,
+  "headlines": 86,
+  "recent": 1,
+  "avg_sentiment": -0.318,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
-      "s": -0.64
-    },
-    {
-      "t": "Intel\u2019s stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "s": 0.44
-    },
-    {
-      "t": "Inside India newsletter: The world\u2019s largest real-time payments system will no longer be free for all",
-      "s": 0.27
-    },
-    {
-      "t": "House advances bill to rein in AI data center utility costs",
-      "s": 0.0
+      "t": "Reddit co-founder says tech industry has been 'tone deaf' in explaining AI: 'Misinformation flying around'",
+      "s": -0.32
     }
   ]
 }
