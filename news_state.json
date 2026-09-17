@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-17 13:19 UTC",
+  "ts": "2026-09-17 18:06 UTC",
   "feeds_live": 5,
   "headlines": 97,
-  "recent": 17,
-  "avg_sentiment": -0.103,
+  "recent": 11,
+  "avg_sentiment": -0.154,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. oil falls below $100 as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
+      "t": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
       "s": -0.8
     },
     {
-      "t": "Trump says U.S. \u2018hopefully\u2019 nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
-      "s": -0.75
+      "t": "AI was supposed to kill Google search. These numbers show the opposite, analyst says.",
+      "s": -0.69
     },
     {
-      "t": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "s": -0.7
+      "t": "Why growth stocks\u2019 surprising strength may be warning of a market bubble",
+      "s": 0.67
     },
     {
-      "t": "\u2018I\u2019m burned out\u2019: I\u2019m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "s": 0.6
+      "t": "Trump photo seems to reference Kennedy Center demolition, judge denies emergency hearing bid",
+      "s": -0.66
     },
     {
-      "t": "Labor crisis in U.S. chip manufacturing leaves Samsung, TSMC desperate for talent",
-      "s": -0.56
+      "t": "Amazon\u2019s secret weapon against Walmart could be a massive blitz in same-day delivery",
+      "s": -0.3
     }
   ]
 }
