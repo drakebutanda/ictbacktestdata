@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-17 18:06 UTC",
+  "ts": "2026-09-17 22:02 UTC",
   "feeds_live": 5,
   "headlines": 97,
-  "recent": 11,
-  "avg_sentiment": -0.154,
-  "burst": true,
+  "recent": 6,
+  "avg_sentiment": -0.122,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
-      "s": -0.8
+      "t": "Wall Street is betting Trump backs down on Iran \u2014 but what if the \u2018TACO\u2019 trade fails this time?",
+      "s": -0.59
     },
     {
-      "t": "AI was supposed to kill Google search. These numbers show the opposite, analyst says.",
-      "s": -0.69
+      "t": "The bond market is having a historically bad run. Why investors are buying now anyway.",
+      "s": -0.54
     },
     {
-      "t": "Why growth stocks\u2019 surprising strength may be warning of a market bubble",
-      "s": 0.67
+      "t": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "s": 0.51
     },
     {
-      "t": "Trump photo seems to reference Kennedy Center demolition, judge denies emergency hearing bid",
-      "s": -0.66
+      "t": "America\u2019s AI chip talent crisis \u2014 why The U.S. needs 157,000 more workers",
+      "s": -0.32
     },
     {
-      "t": "Amazon\u2019s secret weapon against Walmart could be a massive blitz in same-day delivery",
-      "s": -0.3
+      "t": "House heads home to campaign amid calls for urgent AI action",
+      "s": 0.2
     }
   ]
 }
