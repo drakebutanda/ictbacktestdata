@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-18 17:01 UTC",
+  "ts": "2026-09-18 20:47 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 17,
-  "avg_sentiment": -0.012,
-  "burst": true,
+  "recent": 5,
+  "avg_sentiment": -0.307,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
-      "s": -0.65
+      "t": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "s": -0.7
     },
     {
-      "t": "Why investors\u2019 best move in reaction to Fed\u2019s rate hike is doing nothing at all",
-      "s": 0.64
+      "t": "Most of what you know about data centers is wrong",
+      "s": -0.48
     },
     {
-      "t": "A happier retirement contains these 3 elements",
-      "s": 0.53
+      "t": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "s": -0.36
     },
     {
-      "t": "Two signs investors don\u2019t have to fear an AI slowdown",
-      "s": -0.49
+      "t": "Trump says he's banning MS NOW, CNN and Politico from White House",
+      "s": 0.0
     },
     {
-      "t": "What\u2019s really driving inflation and rising interest rates",
-      "s": 0.46
+      "t": "Nike parts ways with Kylian Mbapp\u00e9; soccer superstar signs with On",
+      "s": 0.0
     }
   ]
 }
