@@ -1,19 +1,31 @@
 {
-  "ts": "2026-09-18 01:11 UTC",
-  "feeds_live": 4,
-  "headlines": 87,
-  "recent": 2,
-  "avg_sentiment": -0.137,
+  "ts": "2026-09-18 07:19 UTC",
+  "feeds_live": 5,
+  "headlines": 98,
+  "recent": 0,
+  "avg_sentiment": 0.015,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
-      "s": -0.27
+      "t": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+      "s": -0.82
     },
     {
-      "t": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
-      "s": 0.0
+      "t": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
+      "s": -0.8
+    },
+    {
+      "t": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
+      "s": -0.8
+    },
+    {
+      "t": "Trump says U.S. \u2018hopefully\u2019 nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
+      "s": -0.75
+    },
+    {
+      "t": "Tesla\u2019s upcoming product frenzy could leave investors disappointed",
+      "s": -0.68
     }
   ]
 }
