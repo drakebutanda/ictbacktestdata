@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-18 07:19 UTC",
+  "ts": "2026-09-18 12:53 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 0,
-  "avg_sentiment": 0.015,
-  "burst": false,
+  "recent": 12,
+  "avg_sentiment": -0.17,
+  "burst": true,
   "mood": "neutral",
   "top": [
-    {
-      "t": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "s": -0.82
-    },
     {
       "t": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
       "s": -0.8
     },
     {
-      "t": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
-      "s": -0.8
-    },
-    {
-      "t": "Trump says U.S. \u2018hopefully\u2019 nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
-      "s": -0.75
-    },
-    {
       "t": "Tesla\u2019s upcoming product frenzy could leave investors disappointed",
       "s": -0.68
+    },
+    {
+      "t": "Wall Street is betting Trump backs down on Iran \u2014 but what if the \u2018TACO\u2019 trade fails this time?",
+      "s": -0.59
+    },
+    {
+      "t": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
+      "s": 0.57
+    },
+    {
+      "t": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+      "s": -0.51
     }
   ]
 }
