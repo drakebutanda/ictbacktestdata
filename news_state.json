@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-18 12:53 UTC",
+  "ts": "2026-09-18 17:01 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 12,
-  "avg_sentiment": -0.17,
+  "headlines": 100,
+  "recent": 17,
+  "avg_sentiment": -0.012,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
-      "s": -0.8
+      "t": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
+      "s": -0.65
     },
     {
-      "t": "Tesla\u2019s upcoming product frenzy could leave investors disappointed",
-      "s": -0.68
+      "t": "Why investors\u2019 best move in reaction to Fed\u2019s rate hike is doing nothing at all",
+      "s": 0.64
     },
     {
-      "t": "Wall Street is betting Trump backs down on Iran \u2014 but what if the \u2018TACO\u2019 trade fails this time?",
-      "s": -0.59
+      "t": "A happier retirement contains these 3 elements",
+      "s": 0.53
     },
     {
-      "t": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-      "s": 0.57
+      "t": "Two signs investors don\u2019t have to fear an AI slowdown",
+      "s": -0.49
     },
     {
-      "t": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
-      "s": -0.51
+      "t": "What\u2019s really driving inflation and rising interest rates",
+      "s": 0.46
     }
   ]
 }
