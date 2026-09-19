@@ -1,15 +1,31 @@
 {
-  "ts": "2026-09-19 20:28 UTC",
+  "ts": "2026-09-19 22:51 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 1,
-  "avg_sentiment": 0.273,
+  "recent": 0,
+  "avg_sentiment": 0.021,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
-      "s": 0.27
+      "t": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+      "s": -0.82
+    },
+    {
+      "t": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
+      "s": -0.69
+    },
+    {
+      "t": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+      "s": 0.69
+    },
+    {
+      "t": "Will worries about AI Doom end the AI Boom? BCA answers",
+      "s": -0.67
+    },
+    {
+      "t": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
+      "s": -0.65
     }
   ]
 }
