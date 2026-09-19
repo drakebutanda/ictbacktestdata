@@ -1,31 +1,15 @@
 {
-  "ts": "2026-09-19 17:08 UTC",
+  "ts": "2026-09-19 20:28 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 8,
-  "avg_sentiment": 0.188,
-  "burst": true,
+  "recent": 1,
+  "avg_sentiment": 0.273,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
-      "s": -0.69
-    },
-    {
-      "t": "What happens if you never buy a house? What renters are gaining \u2014 and giving up.",
-      "s": 0.64
-    },
-    {
-      "t": "\u2018I\u2019m burned out\u2019: I\u2019m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "s": 0.6
-    },
-    {
-      "t": "Like Costco, Walmart will sell Medicare Advantage plans",
-      "s": 0.54
-    },
-    {
-      "t": "Higher interest rates and AI safety fears put the stock market to the test last week",
-      "s": 0.46
+      "t": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
+      "s": 0.27
     }
   ]
 }
