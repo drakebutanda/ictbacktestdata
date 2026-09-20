@@ -1,31 +1,15 @@
 {
-  "ts": "2026-09-20 00:56 UTC",
+  "ts": "2026-09-20 06:00 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 0,
-  "avg_sentiment": 0.027,
+  "recent": 1,
+  "avg_sentiment": -0.382,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "s": -0.82
-    },
-    {
-      "t": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
-      "s": -0.69
-    },
-    {
-      "t": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
-      "s": 0.69
-    },
-    {
-      "t": "Will worries about AI Doom end the AI Boom? BCA answers",
-      "s": -0.67
-    },
-    {
-      "t": "Venezuela leader Rodriguez signs agreement with French Oil Company Total Energies",
-      "s": 0.66
+      "t": "France\u2019s wine production nears a 70-year low, leaving winemakers with tough choices",
+      "s": -0.38
     }
   ]
 }
