@@ -1,31 +1,15 @@
 {
-  "ts": "2026-09-20 12:12 UTC",
+  "ts": "2026-09-20 16:44 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 6,
-  "avg_sentiment": 0.363,
+  "recent": 1,
+  "avg_sentiment": 0.402,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-on",
   "top": [
     {
-      "t": "Caruso-Cabrera: The investing tailwinds for Latin America are the best in decades",
-      "s": 0.64
-    },
-    {
-      "t": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
-      "s": 0.56
-    },
-    {
-      "t": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-      "s": 0.46
-    },
-    {
-      "t": "Budget airline king Bill Franke warms to first-class seats and premium upgrades",
-      "s": 0.27
-    },
-    {
-      "t": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
-      "s": 0.25
+      "t": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "s": 0.4
     }
   ]
 }
