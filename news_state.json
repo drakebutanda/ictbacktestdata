@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-21 19:15 UTC",
-  "feeds_live": 5,
-  "headlines": 99,
-  "recent": 11,
-  "avg_sentiment": -0.06,
-  "burst": true,
+  "ts": "2026-09-21 23:09 UTC",
+  "feeds_live": 4,
+  "headlines": 80,
+  "recent": 7,
+  "avg_sentiment": 0.214,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "s": -0.7
+      "t": "Meta\u2019s stock is enjoying its best month in 13 years thanks to the company\u2019s hot new AI assistant",
+      "s": 0.89
     },
     {
-      "t": "Trump media ban lawsuit set for Wednesday court hearing",
-      "s": -0.67
+      "t": "AT&T\u2019s stock looks like the smartest bet in the wireless sector, analyst says",
+      "s": 0.76
     },
     {
-      "t": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads",
-      "s": 0.51
+      "t": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
+      "s": -0.27
     },
     {
-      "t": "Treasury yields ease as global borrowing costs tumble",
-      "s": 0.51
+      "t": "Bitcoin hits an 8-month high \u2014 and sends a clear message about risk appetite right now",
+      "s": 0.13
     },
     {
-      "t": "\u2018She says it\u2019s just money\u2019: My friend pays for everything. I should be grateful, but I can\u2019t stand her anymore.",
-      "s": 0.48
+      "t": "Texas Gov. Abbott orders data center permit halt weeks after issuing moratorium",
+      "s": 0.0
     }
   ]
 }
