@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-22 09:48 UTC",
+  "ts": "2026-09-22 14:37 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 9,
-  "avg_sentiment": 0.116,
+  "recent": 13,
+  "avg_sentiment": -0.16,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. Treasury yields ease as investors await fresh jobs data, Fed comments",
-      "s": 0.72
+      "t": "U.S. strikes Greenland deal for 'permanent control over security,' will send forces to Danish dogsled outpost and reopen Cold War base: Report",
+      "s": -0.61
     },
     {
-      "t": "Novo CEO signals M&A opportunities to strengthen drug pipeline",
-      "s": 0.6
+      "t": "I\u2019m in my 50s. My mother died from Alzheimer\u2019s. Do I need long-term-care insurance?",
+      "s": -0.56
     },
     {
-      "t": "U.S. threatens to 'shut down' Iranian airlines as Houthis tighten pressure on oil route",
-      "s": -0.59
-    },
-    {
-      "t": "Oil prices reverse gains as United Nations General Assembly meeting lifts hopes for Iran war diplomacy",
-      "s": 0.48
+      "t": "My plan to pay off $7,500 in credit-card debt can work for you",
+      "s": -0.44
     },
     {
       "t": "Trump to press Zelenskyy for energy truce, says Russia has \u2018lost control\u2019 of oil due to Ukraine war",
       "s": -0.42
+    },
+    {
+      "t": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
+      "s": -0.4
     }
   ]
 }
