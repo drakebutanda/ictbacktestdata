@@ -1,30 +1,26 @@
 {
-  "ts": "2026-09-21 23:09 UTC",
-  "feeds_live": 4,
-  "headlines": 80,
-  "recent": 7,
-  "avg_sentiment": 0.214,
+  "ts": "2026-09-22 04:34 UTC",
+  "feeds_live": 5,
+  "headlines": 100,
+  "recent": 4,
+  "avg_sentiment": -0.133,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Meta\u2019s stock is enjoying its best month in 13 years thanks to the company\u2019s hot new AI assistant",
-      "s": 0.89
+      "t": "Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline shutdown warning",
+      "s": -0.74
     },
     {
-      "t": "AT&T\u2019s stock looks like the smartest bet in the wireless sector, analyst says",
-      "s": 0.76
+      "t": "Princeton\u2019s 15-year run as the nation\u2019s top college is over. MIT is now No. 1.",
+      "s": 0.2
     },
     {
-      "t": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
-      "s": -0.27
+      "t": "Investors rush into India\u2019s National Stock Exchange IPO at valuation multiple above Nasdaq",
+      "s": 0.0
     },
     {
-      "t": "Bitcoin hits an 8-month high \u2014 and sends a clear message about risk appetite right now",
-      "s": 0.13
-    },
-    {
-      "t": "Texas Gov. Abbott orders data center permit halt weeks after issuing moratorium",
+      "t": "Taiwan benchmark Taiex rises to record intraday high as tech stocks advance",
       "s": 0.0
     }
   ]
