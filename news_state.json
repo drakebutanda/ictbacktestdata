@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-23 20:08 UTC",
+  "ts": "2026-09-23 23:33 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 17,
-  "avg_sentiment": 0.037,
-  "burst": true,
+  "recent": 5,
+  "avg_sentiment": 0.144,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Oil industry warns a diesel export ban will raise fuel prices as Trump weighs restrictions",
-      "s": -0.61
+      "t": "The timely tax strategy that can help bond investors make the best of runaway yields and big losses",
+      "s": 0.64
     },
     {
-      "t": "Tesla Roadster reveal is creating a unique options opportunity, says Mike Khouw",
-      "s": 0.61
+      "t": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
+      "s": -0.53
     },
     {
-      "t": "Here's what happens to the economy when Treasury yields soar like they are now",
-      "s": 0.51
+      "t": "\u2018It doesn\u2019t seem fair\u2019: I\u2019m retired and have plenty of money. Why can\u2019t I qualify for a retail credit card?",
+      "s": 0.38
     },
     {
-      "t": "Higher interest rates squeeze younger and lower-income households. 'A rate hike is a blunt tool,' says expert",
-      "s": 0.46
+      "t": "Meta's standoff with Amazon over Muse could be a sign of things to come",
+      "s": 0.18
     },
     {
-      "t": "Bond yields surge above 5% as Wall Street fears more Fed rate hikes",
-      "s": -0.42
+      "t": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+      "s": 0.05
     }
   ]
 }
