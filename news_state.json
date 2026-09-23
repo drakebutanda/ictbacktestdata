@@ -1,15 +1,31 @@
 {
-  "ts": "2026-09-23 05:47 UTC",
+  "ts": "2026-09-23 11:22 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": 0.0,
-  "burst": false,
+  "recent": 9,
+  "avg_sentiment": 0.047,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Oil falls after U.S. and Iran talk for hours at UN meeting",
-      "s": 0.0
+      "t": "Financial stocks are falling as rates rise. Why that\u2019s a problem for the broader market.",
+      "s": -0.51
+    },
+    {
+      "t": "\u2018I don\u2019t begrudge them their money\u2019: My husband and I have friends who spend, spend, spend. How do we keep up?",
+      "s": 0.48
+    },
+    {
+      "t": "\u2018It doesn\u2019t seem fair\u2019: I\u2019m retired and have plenty of money. Why can\u2019t I qualify for a retail credit card?",
+      "s": 0.38
+    },
+    {
+      "t": "Zelenskyy says Ukraine ready for \u2018energy ceasefire\u2019, calls for trilateral meeting with Putin, Trump",
+      "s": 0.36
+    },
+    {
+      "t": "Nearly 10% of borrowers opted for riskier mortgages last week, as rates soared over 7%",
+      "s": -0.34
     }
   ]
 }
