@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-23 11:22 UTC",
+  "ts": "2026-09-23 16:42 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 9,
-  "avg_sentiment": 0.047,
+  "recent": 20,
+  "avg_sentiment": -0.046,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Financial stocks are falling as rates rise. Why that\u2019s a problem for the broader market.",
-      "s": -0.51
+      "t": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty",
+      "s": -0.83
     },
     {
-      "t": "\u2018I don\u2019t begrudge them their money\u2019: My husband and I have friends who spend, spend, spend. How do we keep up?",
-      "s": 0.48
+      "t": "\u2018I don\u2019t consider him our responsibility,\u2019 but my wife wants to give money to a relative starting college. Please help.",
+      "s": 0.76
     },
     {
-      "t": "\u2018It doesn\u2019t seem fair\u2019: I\u2019m retired and have plenty of money. Why can\u2019t I qualify for a retail credit card?",
-      "s": 0.38
+      "t": "A celebrity-endorsed cryptocurrency is almost five times as likely to be a scam",
+      "s": -0.57
     },
     {
-      "t": "Zelenskyy says Ukraine ready for \u2018energy ceasefire\u2019, calls for trilateral meeting with Putin, Trump",
-      "s": 0.36
+      "t": "A diesel export ban could backfire \u2014 here\u2019s why",
+      "s": -0.56
     },
     {
-      "t": "Nearly 10% of borrowers opted for riskier mortgages last week, as rates soared over 7%",
-      "s": -0.34
+      "t": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
+      "s": -0.56
     }
   ]
 }
