@@ -1,27 +1,31 @@
 {
-  "ts": "2026-09-24 04:27 UTC",
+  "ts": "2026-09-24 09:51 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 4,
-  "avg_sentiment": -0.317,
-  "burst": false,
+  "headlines": 96,
+  "recent": 8,
+  "avg_sentiment": 0.083,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Oil falls on report Asia will import highest volume of crude since start of Iran war",
-      "s": -0.82
+      "t": "\u2018We made a bad, bad decision\u2019: I learned the hard way how to manage my aging father\u2019s money",
+      "s": -0.81
     },
     {
-      "t": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
-      "s": -0.65
+      "t": "Meta gets price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT",
+      "s": 0.54
     },
     {
-      "t": "Historic day for global bonds as 10-year Treasury and JGB yields hit highest in decades",
-      "s": 0.2
+      "t": "8 grassroots porchfests for experiencing free live music and neighborhood culture",
+      "s": 0.51
     },
     {
-      "t": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
-      "s": 0.0
+      "t": "Oil prices rise sharply as investors seek progress on U.S.-Iran talks",
+      "s": 0.42
+    },
+    {
+      "t": "Selena Gomez sells her Encino mansion, once owned by Tom Petty, for $5.4 million",
+      "s": -0.2
     }
   ]
 }
