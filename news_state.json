@@ -1,9 +1,9 @@
 {
-  "ts": "2026-09-24 09:51 UTC",
+  "ts": "2026-09-24 14:51 UTC",
   "feeds_live": 5,
-  "headlines": 96,
-  "recent": 8,
-  "avg_sentiment": 0.083,
+  "headlines": 97,
+  "recent": 23,
+  "avg_sentiment": -0.056,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": -0.81
     },
     {
-      "t": "Meta gets price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT",
-      "s": 0.54
+      "t": "White House still blocks some reporters despite judge's order lifting Trump ban",
+      "s": -0.67
     },
     {
-      "t": "8 grassroots porchfests for experiencing free live music and neighborhood culture",
+      "t": "Oracle\u2019s stock is falling as investors fear a data-center setback",
+      "s": -0.59
+    },
+    {
+      "t": "With the stock market \u2018priced for perfection,\u2019 the S&P 500 is in danger of a 20% slump next year",
+      "s": -0.53
+    },
+    {
+      "t": "Here's what happens to the economy when Treasury yields soar like they are now",
       "s": 0.51
-    },
-    {
-      "t": "Oil prices rise sharply as investors seek progress on U.S.-Iran talks",
-      "s": 0.42
-    },
-    {
-      "t": "Selena Gomez sells her Encino mansion, once owned by Tom Petty, for $5.4 million",
-      "s": -0.2
     }
   ]
 }
