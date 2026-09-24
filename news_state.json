@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-24 18:59 UTC",
+  "ts": "2026-09-24 22:16 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 18,
-  "avg_sentiment": -0.126,
+  "recent": 9,
+  "avg_sentiment": 0.117,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "White House allows blocked reporters in after judge lifts Trump ban",
-      "s": -0.69
+      "t": "Why investors aren\u2019t buying yet another attempt by the Treasury to calm the rattled bond market",
+      "s": 0.48
     },
     {
-      "t": "Senate narrowly votes down resolution calling for end to Iran war",
-      "s": -0.6
+      "t": "Costco earnings beat expectations, thanks to tariff refunds",
+      "s": 0.44
     },
     {
-      "t": "Bond liquidation wrecks small caps. Here's how bad some traders see it getting",
-      "s": -0.54
+      "t": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
+      "s": 0.36
     },
     {
-      "t": "I spend my time and money caring for my aging mother \u2014 yet she gave my brother $100,000. Should I pull back?",
-      "s": 0.49
+      "t": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+      "s": -0.23
     },
     {
-      "t": "It\u2019s no secret that Social Security and Medicare are on the ropes. Here\u2019s what to do instead of panicking.",
-      "s": -0.4
+      "t": "8% mortgage rates are \u2018not an impossibility\u2019 as the 30-year fixed rate surges",
+      "s": 0.0
     }
   ]
 }
