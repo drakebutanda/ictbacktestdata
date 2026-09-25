@@ -1,30 +1,30 @@
 {
-  "ts": "2026-09-24 22:16 UTC",
+  "ts": "2026-09-25 01:21 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 9,
-  "avg_sentiment": 0.117,
-  "burst": true,
+  "recent": 5,
+  "avg_sentiment": 0.211,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Why investors aren\u2019t buying yet another attempt by the Treasury to calm the rattled bond market",
-      "s": 0.48
+      "t": "Costco makes progress on a key membership metric. Here's our new price target on the stock",
+      "s": 0.42
     },
     {
-      "t": "Costco earnings beat expectations, thanks to tariff refunds",
-      "s": 0.44
+      "t": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
+      "s": 0.38
     },
     {
-      "t": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
-      "s": 0.36
+      "t": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
+      "s": 0.25
     },
     {
-      "t": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
-      "s": -0.23
+      "t": "Polymarket countersues New York state over \u2018unregulated gambling\u2019 allegation",
+      "s": 0.0
     },
     {
-      "t": "8% mortgage rates are \u2018not an impossibility\u2019 as the 30-year fixed rate surges",
+      "t": "Here's who is attending the Trump-Xi state dinner",
       "s": 0.0
     }
   ]
