@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-25 18:27 UTC",
+  "ts": "2026-09-25 22:10 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 14,
-  "avg_sentiment": -0.027,
+  "headlines": 99,
+  "recent": 8,
+  "avg_sentiment": 0.09,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
-      "s": -0.82
+      "t": "A \u2018death cross\u2019 is coming for the dollar. Why Trump will be happy.",
+      "s": 0.57
     },
     {
-      "t": "\u2018We made a bad, bad decision\u2019: I learned the hard way how to manage my aging father\u2019s money",
-      "s": -0.81
+      "t": "\u2018She says it\u2019s just money\u2019: My friend pays for everything. I should be grateful, but I can\u2019t stand her anymore.",
+      "s": 0.48
     },
     {
-      "t": "I spend my time and money caring for my aging mother \u2014 yet she gave my brother $100,000. Should I pull back?",
-      "s": 0.49
+      "t": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
+      "s": -0.36
     },
     {
-      "t": "The iced coffee debate reflects 'everything wrong with hiring right now,' says career expert",
-      "s": -0.48
+      "t": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "s": -0.3
     },
     {
-      "t": "Meta's 'powerful breakout' sets up a unique trading strategy, says Mike Khouw",
-      "s": 0.42
+      "t": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+      "s": 0.2
     }
   ]
 }
