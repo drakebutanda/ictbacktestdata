@@ -1,30 +1,22 @@
 {
-  "ts": "2026-09-25 01:21 UTC",
+  "ts": "2026-09-25 07:34 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 5,
-  "avg_sentiment": 0.211,
+  "headlines": 99,
+  "recent": 3,
+  "avg_sentiment": -0.06,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Costco makes progress on a key membership metric. Here's our new price target on the stock",
-      "s": 0.42
+      "t": "India's viral Cockroach Party calls election panel head 'biggest threat' to democracy. Here's why it matters",
+      "s": -0.15
     },
     {
-      "t": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
-      "s": 0.38
+      "t": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
+      "s": -0.03
     },
     {
-      "t": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
-      "s": 0.25
-    },
-    {
-      "t": "Polymarket countersues New York state over \u2018unregulated gambling\u2019 allegation",
-      "s": 0.0
-    },
-    {
-      "t": "Here's who is attending the Trump-Xi state dinner",
+      "t": "Here's who attended the Trump-Xi state dinner",
       "s": 0.0
     }
   ]
