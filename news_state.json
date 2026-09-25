@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-25 13:35 UTC",
+  "ts": "2026-09-25 18:27 UTC",
   "feeds_live": 5,
   "headlines": 98,
   "recent": 14,
-  "avg_sentiment": -0.022,
+  "avg_sentiment": -0.027,
   "burst": true,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
+      "s": -0.82
+    },
     {
       "t": "\u2018We made a bad, bad decision\u2019: I learned the hard way how to manage my aging father\u2019s money",
       "s": -0.81
     },
     {
-      "t": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "s": 0.62
+      "t": "I spend my time and money caring for my aging mother \u2014 yet she gave my brother $100,000. Should I pull back?",
+      "s": 0.49
     },
     {
-      "t": "The stock market could be due for a nasty selloff, judging by these two signals",
-      "s": -0.56
+      "t": "The iced coffee debate reflects 'everything wrong with hiring right now,' says career expert",
+      "s": -0.48
     },
     {
-      "t": "Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s",
-      "s": 0.34
-    },
-    {
-      "t": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
-      "s": -0.3
+      "t": "Meta's 'powerful breakout' sets up a unique trading strategy, says Mike Khouw",
+      "s": 0.42
     }
   ]
 }
