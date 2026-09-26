@@ -1,27 +1,23 @@
 {
-  "ts": "2026-09-26 17:03 UTC",
+  "ts": "2026-09-26 20:58 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": 0.099,
+  "recent": 3,
+  "avg_sentiment": 0.254,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Tax-free bond yields are in a sweet spot. Get in before it\u2019s too late.",
-      "s": 0.46
+      "t": "Trump says he approved new fuel economy standards rolling back Biden-era rules",
+      "s": 0.42
     },
     {
-      "t": "A 10% risk-free yield? For some, yes.",
-      "s": 0.4
+      "t": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "s": 0.34
     },
     {
-      "t": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
-      "s": -0.36
-    },
-    {
-      "t": "Choosing these AI-exposed college majors could dent your job prospects \u2014 and lower your pay",
-      "s": -0.1
+      "t": "Boeing flags 737 Max software glitch affecting some automated approach functions",
+      "s": 0.0
     }
   ]
 }
