@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-26 07:27 UTC",
-  "feeds_live": 4,
-  "headlines": 79,
-  "recent": 0,
-  "avg_sentiment": -0.013,
+  "ts": "2026-09-26 12:57 UTC",
+  "feeds_live": 5,
+  "headlines": 99,
+  "recent": 6,
+  "avg_sentiment": -0.035,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
-      "s": -0.82
+      "t": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
+      "s": -0.49
     },
     {
-      "t": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "s": -0.82
+      "t": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
+      "s": 0.42
     },
     {
-      "t": "NIH funding cuts delayed a promising childhood brain cancer trial. Patients lost time they didn't have",
-      "s": -0.8
+      "t": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
+      "s": -0.34
     },
     {
-      "t": "New Jersey\u2019s lieutenant governor resigns amid sexual harassment findings",
-      "s": -0.7
+      "t": "China is playing a different game when it comes to AI",
+      "s": 0.2
     },
     {
-      "t": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
-      "s": -0.65
+      "t": "Why bond-market volatility hasn\u2019t spilled over into stocks",
+      "s": 0.0
     }
   ]
 }
