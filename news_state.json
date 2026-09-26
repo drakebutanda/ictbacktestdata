@@ -1,31 +1,15 @@
 {
-  "ts": "2026-09-25 22:10 UTC",
+  "ts": "2026-09-26 01:24 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 8,
-  "avg_sentiment": 0.09,
-  "burst": true,
-  "mood": "neutral",
+  "recent": 1,
+  "avg_sentiment": 0.619,
+  "burst": false,
+  "mood": "risk-on",
   "top": [
     {
-      "t": "A \u2018death cross\u2019 is coming for the dollar. Why Trump will be happy.",
-      "s": 0.57
-    },
-    {
-      "t": "\u2018She says it\u2019s just money\u2019: My friend pays for everything. I should be grateful, but I can\u2019t stand her anymore.",
-      "s": 0.48
-    },
-    {
-      "t": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
-      "s": -0.36
-    },
-    {
-      "t": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "s": -0.3
-    },
-    {
-      "t": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
-      "s": 0.2
+      "t": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "s": 0.62
     }
   ]
 }
