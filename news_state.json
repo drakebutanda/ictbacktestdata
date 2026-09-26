@@ -1,23 +1,31 @@
 {
-  "ts": "2026-09-26 20:58 UTC",
+  "ts": "2026-09-26 23:31 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 3,
-  "avg_sentiment": 0.254,
+  "recent": 0,
+  "avg_sentiment": 0.007,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump says he approved new fuel economy standards rolling back Biden-era rules",
-      "s": 0.42
+      "t": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
+      "s": -0.82
     },
     {
-      "t": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-      "s": 0.34
+      "t": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+      "s": -0.82
     },
     {
-      "t": "Boeing flags 737 Max software glitch affecting some automated approach functions",
-      "s": 0.0
+      "t": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+      "s": -0.65
+    },
+    {
+      "t": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+      "s": -0.6
+    },
+    {
+      "t": "TikTok reaches first state settlement over teen safety claims, agrees to user limits",
+      "s": 0.59
     }
   ]
 }
