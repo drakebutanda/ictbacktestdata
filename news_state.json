@@ -1,15 +1,31 @@
 {
-  "ts": "2026-09-26 01:24 UTC",
-  "feeds_live": 5,
-  "headlines": 99,
-  "recent": 1,
-  "avg_sentiment": 0.619,
+  "ts": "2026-09-26 07:27 UTC",
+  "feeds_live": 4,
+  "headlines": 79,
+  "recent": 0,
+  "avg_sentiment": -0.013,
   "burst": false,
-  "mood": "risk-on",
+  "mood": "neutral",
   "top": [
     {
-      "t": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "s": 0.62
+      "t": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
+      "s": -0.82
+    },
+    {
+      "t": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+      "s": -0.82
+    },
+    {
+      "t": "NIH funding cuts delayed a promising childhood brain cancer trial. Patients lost time they didn't have",
+      "s": -0.8
+    },
+    {
+      "t": "New Jersey\u2019s lieutenant governor resigns amid sexual harassment findings",
+      "s": -0.7
+    },
+    {
+      "t": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+      "s": -0.65
     }
   ]
 }
