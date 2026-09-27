@@ -1,30 +1,14 @@
 {
-  "ts": "2026-09-27 20:00 UTC",
+  "ts": "2026-09-27 23:44 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 5,
-  "avg_sentiment": -0.142,
+  "recent": 1,
+  "avg_sentiment": 0.0,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "A \u2018death cross\u2019 is coming for the dollar. Why Trump will be happy.",
-      "s": 0.57
-    },
-    {
-      "t": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
-      "s": -0.51
-    },
-    {
-      "t": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table",
-      "s": -0.48
-    },
-    {
-      "t": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
-      "s": -0.3
-    },
-    {
-      "t": "Nor'easter delays hundreds of flights, airlines waive change fees",
+      "t": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
       "s": 0.0
     }
   ]
