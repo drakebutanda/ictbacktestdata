@@ -1,27 +1,31 @@
 {
-  "ts": "2026-09-27 11:52 UTC",
+  "ts": "2026-09-27 16:50 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": 0.178,
+  "recent": 7,
+  "avg_sentiment": -0.081,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Top Wall Street analysts like these 3 dividend stocks for steady income",
-      "s": 0.51
+      "t": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table",
+      "s": -0.48
     },
     {
-      "t": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
-      "s": 0.2
+      "t": "\u2018It doesn\u2019t seem fair\u2019: I\u2019m retired and have plenty of money. Why can\u2019t I qualify for a retail credit card?",
+      "s": 0.38
     },
     {
-      "t": "Debt-hungry AI companies face increased risk as bond yields spike",
-      "s": 0.0
+      "t": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "s": -0.3
     },
     {
-      "t": "Wall Street money takes back over from small investors as driving force of the stock market",
-      "s": 0.0
+      "t": "At NFL games this season, drone defense tech aims to bring down disruptions",
+      "s": -0.23
+    },
+    {
+      "t": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+      "s": 0.05
     }
   ]
 }
