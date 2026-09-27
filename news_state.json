@@ -1,9 +1,9 @@
 {
-  "ts": "2026-09-26 23:31 UTC",
+  "ts": "2026-09-27 05:03 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 0,
-  "avg_sentiment": 0.007,
+  "avg_sentiment": 0.001,
   "burst": false,
   "mood": "neutral",
   "top": [
@@ -24,8 +24,8 @@
       "s": -0.6
     },
     {
-      "t": "TikTok reaches first state settlement over teen safety claims, agrees to user limits",
-      "s": 0.59
+      "t": "U.S. crude oil falls nearly 8% for the week after Tehran and Washington hold talks at the U.N.",
+      "s": -0.57
     }
   ]
 }
