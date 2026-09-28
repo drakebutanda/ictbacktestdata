@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-28 13:37 UTC",
+  "ts": "2026-09-28 20:28 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 15,
-  "avg_sentiment": -0.117,
+  "headlines": 100,
+  "recent": 17,
+  "avg_sentiment": 0.1,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Five arrested over alleged bomb plot at UK air base used by U.S.; Iran denies link",
-      "s": -0.84
+      "t": "Supreme Court Justice Alito will not participate in big climate change case next week",
+      "s": 0.79
     },
     {
-      "t": "Trump \u2018very seriously\u2019 considering diesel export ban as global supply crunch worsens",
-      "s": -0.77
+      "t": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
+      "s": -0.51
     },
     {
-      "t": "Nvidia share buyback plan gets $150 billion boost",
-      "s": 0.6
+      "t": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
+      "s": 0.42
     },
     {
-      "t": "Oil prices rise as Trump rejects Iranian proposal to reopen Strait of Hormuz",
-      "s": -0.49
+      "t": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
+      "s": 0.42
     },
     {
-      "t": "White House moves to block $810 million in funding through pocket rescission",
-      "s": -0.44
+      "t": "IRS hires Joseph Velli to help administer Trump accounts",
+      "s": 0.4
     }
   ]
 }
