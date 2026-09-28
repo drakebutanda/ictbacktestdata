@@ -1,27 +1,31 @@
 {
-  "ts": "2026-09-28 05:05 UTC",
+  "ts": "2026-09-28 13:37 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 4,
-  "avg_sentiment": -0.039,
-  "burst": false,
+  "recent": 15,
+  "avg_sentiment": -0.117,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
-      "s": 0.3
+      "t": "Five arrested over alleged bomb plot at UK air base used by U.S.; Iran denies link",
+      "s": -0.84
     },
     {
-      "t": "Northern Star shares pop as Australian gold miner rejects $27 billion takeover proposal",
-      "s": -0.25
+      "t": "Trump \u2018very seriously\u2019 considering diesel export ban as global supply crunch worsens",
+      "s": -0.77
     },
     {
-      "t": "Brent gains 2.7% as Trump rejects Iranian proposal to reopen Hormuz Strait",
-      "s": -0.2
+      "t": "Nvidia share buyback plan gets $150 billion boost",
+      "s": 0.6
     },
     {
-      "t": "SpaceX prepares to send Starship rocket to orbit for first time",
-      "s": 0.0
+      "t": "Oil prices rise as Trump rejects Iranian proposal to reopen Strait of Hormuz",
+      "s": -0.49
+    },
+    {
+      "t": "White House moves to block $810 million in funding through pocket rescission",
+      "s": -0.44
     }
   ]
 }
