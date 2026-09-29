@@ -1,23 +1,31 @@
 {
-  "ts": "2026-09-29 00:55 UTC",
+  "ts": "2026-09-29 06:45 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 3,
-  "avg_sentiment": 0.0,
+  "recent": 0,
+  "avg_sentiment": 0.033,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "AMD makes a big bet on the next era of AI with World Labs acquisition",
-      "s": 0.0
+      "t": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+      "s": -0.82
     },
     {
-      "t": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
-      "s": 0.0
+      "t": "Supreme Court Justice Alito will not participate in big climate change case next week",
+      "s": 0.79
     },
     {
-      "t": "Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets",
-      "s": 0.0
+      "t": "CNN, MS NOW, Politico ask judge to extend block on White House ban",
+      "s": -0.7
+    },
+    {
+      "t": "SpaceX\u2019s next big growth engine isn\u2019t rockets \u2014 it\u2019s this play on AI power, analysts say",
+      "s": 0.65
+    },
+    {
+      "t": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+      "s": -0.65
     }
   ]
 }
