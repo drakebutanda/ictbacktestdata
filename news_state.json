@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-29 06:45 UTC",
+  "ts": "2026-09-29 13:56 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 0,
-  "avg_sentiment": 0.033,
-  "burst": false,
+  "recent": 16,
+  "avg_sentiment": 0.169,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "s": -0.82
-    },
-    {
-      "t": "Supreme Court Justice Alito will not participate in big climate change case next week",
+      "t": "Investors who have shunned diversification face maybe the best buying opportunity for bonds in decades",
       "s": 0.79
     },
     {
-      "t": "CNN, MS NOW, Politico ask judge to extend block on White House ban",
-      "s": -0.7
+      "t": "Jamie Dimon has a plan to revive the West: A 'big, beautiful' deal with Europe",
+      "s": 0.74
     },
     {
-      "t": "SpaceX\u2019s next big growth engine isn\u2019t rockets \u2014 it\u2019s this play on AI power, analysts say",
-      "s": 0.65
+      "t": "Some wealthy Americans are spending up to $250,000 a year on longevity care. Here's what doctors say about the practice",
+      "s": 0.69
     },
     {
-      "t": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
-      "s": -0.65
+      "t": "These private and public colleges have the best return on investment, according to The Princeton Review",
+      "s": 0.64
+    },
+    {
+      "t": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
+      "s": -0.36
     }
   ]
 }
