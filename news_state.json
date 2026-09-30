@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-30 12:23 UTC",
+  "ts": "2026-09-30 18:21 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 17,
-  "avg_sentiment": 0.111,
+  "recent": 16,
+  "avg_sentiment": -0.115,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Holiday retail sales are expected to top $1 trillion as inflation boosts growth",
-      "s": 0.81
+      "t": "Former NFL players are nearly four times as likely to die with brain damage. Is it time to boycott football?",
+      "s": -0.86
     },
     {
-      "t": "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
-      "s": 0.44
+      "t": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
+      "s": -0.86
     },
     {
-      "t": "Boeing rises 3% after securing U.S. navy deal to develop next-generation fighter jet",
-      "s": 0.44
+      "t": "Senate Democrats sink 'toothless' stock trading ban, data center bill in last act before election recess",
+      "s": -0.72
     },
     {
-      "t": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
-      "s": -0.38
+      "t": "These bond strategies can help you get a safe 5% return on your cash",
+      "s": 0.68
     },
     {
-      "t": "Citi tells investors it\u2019s time to sell Moderna after 600%-plus stock gains",
-      "s": 0.34
+      "t": "Trump touts economic wins in battleground states \u2014 like a $54 billion Alaskan pipeline \u2014 as the midterms draw closer",
+      "s": 0.53
     }
   ]
 }
