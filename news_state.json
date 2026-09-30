@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-30 05:17 UTC",
+  "ts": "2026-09-30 12:23 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 0,
-  "avg_sentiment": 0.058,
-  "burst": false,
+  "recent": 17,
+  "avg_sentiment": 0.111,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-      "s": -0.82
+      "t": "Holiday retail sales are expected to top $1 trillion as inflation boosts growth",
+      "s": 0.81
     },
     {
-      "t": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
-      "s": 0.79
+      "t": "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
+      "s": 0.44
     },
     {
-      "t": "Investors who have shunned diversification face maybe the best buying opportunity for bonds in decades",
-      "s": 0.79
+      "t": "Boeing rises 3% after securing U.S. navy deal to develop next-generation fighter jet",
+      "s": 0.44
     },
     {
-      "t": "Jamie Dimon has a plan to revive the West: A 'big, beautiful' deal with Europe",
-      "s": 0.74
+      "t": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
+      "s": -0.38
     },
     {
-      "t": "Gift Nifty 50 Bear Flag coils near $22,796: Live levels",
-      "s": 0.68
+      "t": "Citi tells investors it\u2019s time to sell Moderna after 600%-plus stock gains",
+      "s": 0.34
     }
   ]
 }
