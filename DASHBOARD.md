@@ -1,6 +1,6 @@
 # 📊 ICT FVG — Live Paper Trading Dashboard
 
-*Updated 2026-09-29 07:23 UTC · auto-generated each run · 3% risk · $10k account · MES/MNQ/Gold/Crude · long & short*
+*Updated 2026-09-30 07:14 UTC · auto-generated each run · 3% risk · $10k account · MES/MNQ/Gold/Crude · long & short*
 
 ## 💰 Accounts
 
