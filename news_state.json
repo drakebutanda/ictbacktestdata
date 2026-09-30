@@ -1,31 +1,31 @@
 {
-  "ts": "2026-09-30 18:21 UTC",
+  "ts": "2026-09-30 22:54 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 16,
-  "avg_sentiment": -0.115,
+  "recent": 10,
+  "avg_sentiment": 0.138,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Former NFL players are nearly four times as likely to die with brain damage. Is it time to boycott football?",
-      "s": -0.86
+      "t": "Meta stock enjoys best month since 2022 on AI momentum",
+      "s": 0.82
     },
     {
-      "t": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
-      "s": -0.86
+      "t": "Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline",
+      "s": -0.81
     },
     {
-      "t": "Senate Democrats sink 'toothless' stock trading ban, data center bill in last act before election recess",
-      "s": -0.72
+      "t": "Treasury launches student loan support center as new data show 9.3 million borrowers in default",
+      "s": 0.54
     },
     {
-      "t": "These bond strategies can help you get a safe 5% return on your cash",
-      "s": 0.68
+      "t": "Trump administration starts sending $500 Obamacare refund checks \u2014 who stands to benefit",
+      "s": 0.46
     },
     {
-      "t": "Trump touts economic wins in battleground states \u2014 like a $54 billion Alaskan pipeline \u2014 as the midterms draw closer",
-      "s": 0.53
+      "t": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+      "s": 0.32
     }
   ]
 }
