@@ -1,23 +1,23 @@
 {
-  "ts": "2026-10-01 01:58 UTC",
-  "feeds_live": 4,
-  "headlines": 80,
+  "ts": "2026-10-01 08:45 UTC",
+  "feeds_live": 5,
+  "headlines": 99,
   "recent": 3,
-  "avg_sentiment": -0.247,
+  "avg_sentiment": 0.081,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Passengers and crew foil co-pilot's apparent attempt to crash FlyDubai flight to Israel",
-      "s": -0.4
+      "t": "The U.S. just made it much easier for retail investors to access private markets",
+      "s": 0.42
     },
     {
-      "t": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "s": -0.34
+      "t": "Russia launches massive strikes on Ukraine\u2019s energy grid, forcing power cuts ahead of winter",
+      "s": -0.38
     },
     {
-      "t": "OpenAI flags Chinese-linked effort to extract AI model reasoning",
-      "s": 0.0
+      "t": "10-year Treasury yield hits highest level since 2002 as global bond rout gathers pace",
+      "s": 0.2
     }
   ]
 }
