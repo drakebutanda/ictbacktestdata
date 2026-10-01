@@ -1,23 +1,31 @@
 {
-  "ts": "2026-10-01 08:45 UTC",
+  "ts": "2026-10-01 16:15 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": 0.081,
-  "burst": false,
+  "headlines": 100,
+  "recent": 18,
+  "avg_sentiment": -0.03,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "The U.S. just made it much easier for retail investors to access private markets",
-      "s": 0.42
+      "t": "Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude above $100",
+      "s": -0.81
     },
     {
-      "t": "Russia launches massive strikes on Ukraine\u2019s energy grid, forcing power cuts ahead of winter",
-      "s": -0.38
+      "t": "How you can help your grandparents age well, says researcher\u2014it could benefit your well-being too",
+      "s": 0.78
     },
     {
-      "t": "10-year Treasury yield hits highest level since 2002 as global bond rout gathers pace",
-      "s": 0.2
+      "t": "U.S. manufacturers say inflation is bad and not getting any better",
+      "s": -0.71
+    },
+    {
+      "t": "Accenture rallies more than 20% after earnings beat, heads for best day ever",
+      "s": 0.64
+    },
+    {
+      "t": "Health insurer points finger at AI as nearly $1 billion in questionable hospital charges appear",
+      "s": -0.51
     }
   ]
 }
