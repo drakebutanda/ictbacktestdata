@@ -1,31 +1,23 @@
 {
-  "ts": "2026-09-30 22:54 UTC",
-  "feeds_live": 5,
-  "headlines": 100,
-  "recent": 10,
-  "avg_sentiment": 0.138,
-  "burst": true,
+  "ts": "2026-10-01 01:58 UTC",
+  "feeds_live": 4,
+  "headlines": 80,
+  "recent": 3,
+  "avg_sentiment": -0.247,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Meta stock enjoys best month since 2022 on AI momentum",
-      "s": 0.82
+      "t": "Passengers and crew foil co-pilot's apparent attempt to crash FlyDubai flight to Israel",
+      "s": -0.4
     },
     {
-      "t": "Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline",
-      "s": -0.81
+      "t": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "s": -0.34
     },
     {
-      "t": "Treasury launches student loan support center as new data show 9.3 million borrowers in default",
-      "s": 0.54
-    },
-    {
-      "t": "Trump administration starts sending $500 Obamacare refund checks \u2014 who stands to benefit",
-      "s": 0.46
-    },
-    {
-      "t": "Google rolls out Gemini 4 Argon, its most advanced AI model",
-      "s": 0.32
+      "t": "OpenAI flags Chinese-linked effort to extract AI model reasoning",
+      "s": 0.0
     }
   ]
 }
