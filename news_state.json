@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-01 21:43 UTC",
+  "ts": "2026-10-02 01:30 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 17,
-  "avg_sentiment": 0.052,
-  "burst": true,
+  "recent": 6,
+  "avg_sentiment": -0.16,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
-      "s": 0.7
+      "t": "This could be the worst year ever for Nike\u2019s stock, with sales set to fall further",
+      "s": -0.62
     },
     {
-      "t": "Mattel shares rise after reports of takeover interest from Authentic Brands Group",
-      "s": 0.64
-    },
-    {
-      "t": "Europe\u2019s winter energy crunch may already be underway. Two U.S. stocks that may benefit",
-      "s": 0.62
-    },
-    {
-      "t": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
+      "t": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
       "s": -0.48
     },
     {
-      "t": "Nike\u2019s troubles are mounting, and sales could fall further",
-      "s": -0.46
+      "t": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "s": 0.3
+    },
+    {
+      "t": "Here\u2019s who\u2019s joining the S&P 500 in the index\u2019s latest shakeup",
+      "s": -0.15
+    },
+    {
+      "t": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "s": 0.0
     }
   ]
 }
