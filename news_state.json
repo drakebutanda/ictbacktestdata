@@ -1,31 +1,23 @@
 {
-  "ts": "2026-10-02 01:30 UTC",
+  "ts": "2026-10-02 08:19 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 6,
-  "avg_sentiment": -0.16,
+  "recent": 3,
+  "avg_sentiment": -0.522,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "This could be the worst year ever for Nike\u2019s stock, with sales set to fall further",
-      "s": -0.62
+      "t": "U.S. urges Europe to \u2018immediately\u2019 release diesel reserves as Iran war fuels record prices",
+      "s": -0.6
     },
     {
-      "t": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
-      "s": -0.48
+      "t": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+      "s": -0.53
     },
     {
-      "t": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "s": 0.3
-    },
-    {
-      "t": "Here\u2019s who\u2019s joining the S&P 500 in the index\u2019s latest shakeup",
-      "s": -0.15
-    },
-    {
-      "t": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "s": 0.0
+      "t": "U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes",
+      "s": -0.44
     }
   ]
 }
