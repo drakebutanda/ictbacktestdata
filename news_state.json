@@ -1,23 +1,31 @@
 {
-  "ts": "2026-10-02 08:19 UTC",
+  "ts": "2026-10-02 15:39 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 3,
-  "avg_sentiment": -0.522,
-  "burst": false,
-  "mood": "risk-off",
+  "headlines": 99,
+  "recent": 13,
+  "avg_sentiment": 0.014,
+  "burst": true,
+  "mood": "neutral",
   "top": [
     {
-      "t": "U.S. urges Europe to \u2018immediately\u2019 release diesel reserves as Iran war fuels record prices",
-      "s": -0.6
+      "t": "From Unicorn Frappuccinos to VIP meet-and-greets: How 3 brands are turning buzz into business",
+      "s": 0.62
     },
     {
-      "t": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
-      "s": -0.53
+      "t": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
+      "s": -0.56
     },
     {
-      "t": "U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes",
-      "s": -0.44
+      "t": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
+      "s": -0.51
+    },
+    {
+      "t": "Rivian tops Q3 delivery expectations, reconfirms 2026 guidance",
+      "s": 0.51
+    },
+    {
+      "t": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
+      "s": 0.42
     }
   ]
 }
