@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-03 12:24 UTC",
+  "ts": "2026-10-03 17:09 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 8,
-  "avg_sentiment": 0.108,
-  "burst": true,
+  "recent": 5,
+  "avg_sentiment": 0.136,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "These companies look set to face high-profile hearings and other scrutiny if Democrats win the House",
+      "t": "High interest rates are foreclosing on the American dream of home remodeling",
+      "s": 0.61
+    },
+    {
+      "t": "Switching jobs to get higher pay works best in these industries",
       "s": 0.59
     },
     {
-      "t": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "s": -0.56
+      "t": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
+      "s": -0.48
     },
     {
-      "t": "I bought a $126 concert ticket for my sister and now she can\u2019t go. Will I be able to make a profit selling the ticket?",
-      "s": 0.44
+      "t": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
+      "s": -0.34
     },
     {
       "t": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "s": 0.3
-    },
-    {
-      "t": "As Treasury yields touch generational highs, investors brace for the market fallout",
-      "s": 0.2
     }
   ]
 }
