@@ -1,15 +1,31 @@
 {
-  "ts": "2026-10-03 06:18 UTC",
+  "ts": "2026-10-03 12:24 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 1,
-  "avg_sentiment": -0.382,
-  "burst": false,
+  "recent": 8,
+  "avg_sentiment": 0.108,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "America\u2019s data center fight is a preview of what's to come for the rest of the world",
-      "s": -0.38
+      "t": "These companies look set to face high-profile hearings and other scrutiny if Democrats win the House",
+      "s": 0.59
+    },
+    {
+      "t": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "s": -0.56
+    },
+    {
+      "t": "I bought a $126 concert ticket for my sister and now she can\u2019t go. Will I be able to make a profit selling the ticket?",
+      "s": 0.44
+    },
+    {
+      "t": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "s": 0.3
+    },
+    {
+      "t": "As Treasury yields touch generational highs, investors brace for the market fallout",
+      "s": 0.2
     }
   ]
 }
