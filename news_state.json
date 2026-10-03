@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-02 20:36 UTC",
+  "ts": "2026-10-03 00:21 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 16,
-  "avg_sentiment": -0.073,
-  "burst": true,
+  "recent": 0,
+  "avg_sentiment": -0.023,
+  "burst": false,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "s": -0.68
+    },
     {
       "t": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
       "s": -0.65
     },
     {
-      "t": "Switching jobs to get higher pay works best in these industries",
-      "s": 0.59
+      "t": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+      "s": -0.65
     },
     {
-      "t": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "s": -0.56
+      "t": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+      "s": -0.6
     },
     {
       "t": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
       "s": -0.56
-    },
-    {
-      "t": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
-      "s": 0.42
     }
   ]
 }
