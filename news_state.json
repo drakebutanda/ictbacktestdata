@@ -1,15 +1,31 @@
 {
-  "ts": "2026-10-04 05:35 UTC",
+  "ts": "2026-10-04 12:11 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 1,
-  "avg_sentiment": -0.802,
+  "headlines": 99,
+  "recent": 5,
+  "avg_sentiment": 0.043,
   "burst": false,
-  "mood": "risk-off",
+  "mood": "neutral",
   "top": [
     {
-      "t": "Ukraine\u2019s surprise robot offensive exposes a vulnerability in Putin\u2019s war machine",
-      "s": -0.8
+      "t": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
+      "s": 0.59
+    },
+    {
+      "t": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+      "s": -0.36
+    },
+    {
+      "t": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
+      "s": -0.31
+    },
+    {
+      "t": "Fed minutes coming this week could give markets important clues about future rate hikes",
+      "s": 0.2
+    },
+    {
+      "t": "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
+      "s": 0.1
     }
   ]
 }
