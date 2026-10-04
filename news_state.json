@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-04 12:11 UTC",
+  "ts": "2026-10-04 17:25 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 5,
-  "avg_sentiment": 0.043,
+  "headlines": 100,
+  "recent": 0,
+  "avg_sentiment": 0.013,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
-      "s": 0.59
+      "t": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
+      "s": -0.83
     },
     {
-      "t": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-      "s": -0.36
+      "t": "Ukraine\u2019s surprise robot offensive exposes a vulnerability in Putin\u2019s war machine",
+      "s": -0.8
     },
     {
-      "t": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
-      "s": -0.31
+      "t": "Gen Alpha kids are earning money. Here's how parents can help them save and invest",
+      "s": 0.71
     },
     {
-      "t": "Fed minutes coming this week could give markets important clues about future rate hikes",
-      "s": 0.2
+      "t": "These bond strategies can help you get a safe 5% return on your cash",
+      "s": 0.68
     },
     {
-      "t": "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
-      "s": 0.1
+      "t": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "s": -0.68
     }
   ]
 }
