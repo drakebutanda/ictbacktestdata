@@ -1,31 +1,15 @@
 {
-  "ts": "2026-10-05 00:41 UTC",
+  "ts": "2026-10-05 06:48 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 0,
-  "avg_sentiment": -0.017,
+  "headlines": 99,
+  "recent": 1,
+  "avg_sentiment": -0.599,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
-      "s": -0.83
-    },
-    {
-      "t": "Ukraine\u2019s surprise robot offensive exposes a vulnerability in Putin\u2019s war machine",
-      "s": -0.8
-    },
-    {
-      "t": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
-      "s": 0.79
-    },
-    {
-      "t": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
-      "s": -0.78
-    },
-    {
-      "t": "Gen Alpha kids are earning money. Here's how parents can help them save and invest",
-      "s": 0.71
+      "t": "Russia hospitalizes almost 200 people after researcher's death from plague: Reports",
+      "s": -0.6
     }
   ]
 }
