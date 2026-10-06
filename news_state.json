@@ -1,31 +1,27 @@
 {
-  "ts": "2026-10-05 22:29 UTC",
+  "ts": "2026-10-06 02:51 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 8,
-  "avg_sentiment": -0.1,
-  "burst": true,
+  "headlines": 100,
+  "recent": 4,
+  "avg_sentiment": -0.392,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "House Democrat targets candidate prediction market trades after opponent\u2019s Kalshi penalty",
-      "s": -0.46
+      "t": "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk",
+      "s": -0.66
     },
     {
-      "t": "This new AI model could help America close a technological gap with China",
-      "s": 0.4
+      "t": "Pentagon says Trump approves Army firing squad execution of Fort Hood killer Nidal Hasan",
+      "s": -0.61
     },
     {
-      "t": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
-      "s": -0.4
-    },
-    {
-      "t": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
+      "t": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded",
       "s": -0.3
     },
     {
-      "t": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
-      "s": -0.3
+      "t": "Little room for \u2018giving and taking\u2019: India\u2019s finance minister confirms trade impasse with the U.S.",
+      "s": 0.0
     }
   ]
 }
