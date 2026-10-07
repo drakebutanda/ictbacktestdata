@@ -1,31 +1,23 @@
 {
-  "ts": "2026-10-06 22:34 UTC",
+  "ts": "2026-10-07 02:12 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 6,
-  "avg_sentiment": 0.183,
+  "recent": 3,
+  "avg_sentiment": -0.359,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "The S&P 500 is back in record territory as the \u2018Magnificent Seven\u2019 ride to the rescue",
-      "s": 0.51
+      "t": "Trump isn't \u2018completely wrong\u2019: Hormuz disruption is Asia\u2019s problem, says Singapore's foreign minister",
+      "s": -0.64
     },
     {
-      "t": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
+      "t": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
       "s": -0.44
     },
     {
-      "t": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "s": 0.4
-    },
-    {
-      "t": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-      "s": 0.4
-    },
-    {
-      "t": "Russia plague: How great is the global risk? Maybe low, but infectious disease experts want more data",
-      "s": 0.23
+      "t": "Trillions are being \u2018wasted\u2019 on the AI boom, Arthur Hayes says. He\u2019s betting on what comes next",
+      "s": 0.0
     }
   ]
 }
