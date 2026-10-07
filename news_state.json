@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-07 17:44 UTC",
+  "ts": "2026-10-07 22:58 UTC",
   "feeds_live": 5,
-  "headlines": 97,
-  "recent": 12,
-  "avg_sentiment": 0.032,
-  "burst": true,
+  "headlines": 99,
+  "recent": 7,
+  "avg_sentiment": 0.196,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Disney+ to stream upcoming Super Bowl",
-      "s": 0.6
-    },
-    {
-      "t": "\u2018He grew up wealthy\u2019: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who\u2019s right?",
+      "t": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
       "s": 0.54
     },
     {
-      "t": "Meta's Muse assistant tops app charts. Now it needs to become a habit",
-      "s": 0.51
+      "t": "Rising yields are quietly crashing the stock market\u2019s earlier winners of 2026",
+      "s": 0.48
     },
     {
-      "t": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+      "t": "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom",
+      "s": 0.44
+    },
+    {
+      "t": "Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit",
+      "s": 0.44
+    },
+    {
+      "t": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
       "s": -0.42
-    },
-    {
-      "t": "The \u2018Magnificent Seven\u2019 are now big enough to move the economy. Why that could be a problem.",
-      "s": -0.4
     }
   ]
 }
