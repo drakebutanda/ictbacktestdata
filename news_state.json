@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-07 10:06 UTC",
+  "ts": "2026-10-07 17:44 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 11,
-  "avg_sentiment": -0.068,
+  "headlines": 97,
+  "recent": 12,
+  "avg_sentiment": 0.032,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse",
-      "s": -0.8
+      "t": "Disney+ to stream upcoming Super Bowl",
+      "s": 0.6
     },
     {
-      "t": "\u2018He grew up wealthy\u2019: My husband inherited $3 million. He wants a vacation home. I want to save for retirement.",
+      "t": "\u2018He grew up wealthy\u2019: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who\u2019s right?",
       "s": 0.54
     },
     {
-      "t": "Longtime tech bull Dan Ives says these are his top tech plays going into 2027",
-      "s": 0.42
+      "t": "Meta's Muse assistant tops app charts. Now it needs to become a habit",
+      "s": 0.51
     },
     {
-      "t": "'Get your house in order': IMF chief's stark warning for France over surging bond yields",
-      "s": -0.34
+      "t": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+      "s": -0.42
     },
     {
-      "t": "Josh Brolin sells Atlanta-area mansion for $4 million after slashing price",
-      "s": -0.27
+      "t": "The \u2018Magnificent Seven\u2019 are now big enough to move the economy. Why that could be a problem.",
+      "s": -0.4
     }
   ]
 }
