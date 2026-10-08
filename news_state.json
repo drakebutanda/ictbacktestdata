@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-08 10:21 UTC",
+  "ts": "2026-10-08 17:48 UTC",
   "feeds_live": 5,
-  "headlines": 100,
+  "headlines": 99,
   "recent": 14,
-  "avg_sentiment": 0.052,
+  "avg_sentiment": 0.091,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "French bonds are suffering through their worst decade since 1803 \u2014 and investors are bracing for more pain",
-      "s": -0.9
+      "t": "I keep comparing myself to my more financially successful friends. How can I stop?",
+      "s": 0.74
     },
     {
       "t": "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2026 ranked",
       "s": 0.72
     },
     {
-      "t": "NFL tells Supreme Court prediction markets are gambling and should be regulated by the states",
-      "s": 0.56
+      "t": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
+      "s": -0.67
     },
     {
-      "t": "Russia's internet giant Yandex halts operations at major data center after drone attack",
-      "s": -0.48
+      "t": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
+      "s": 0.59
     },
     {
-      "t": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "s": 0.4
+      "t": "Trump says U.S. will not attack Iran before midterm election",
+      "s": 0.37
     }
   ]
 }
