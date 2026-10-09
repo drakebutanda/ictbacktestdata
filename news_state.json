@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-09 13:02 UTC",
+  "ts": "2026-10-09 19:24 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 13,
-  "avg_sentiment": 0.094,
+  "headlines": 98,
+  "recent": 18,
+  "avg_sentiment": 0.004,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
-      "s": -0.81
+      "t": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who\u2019s right?",
+      "s": 0.7
     },
     {
-      "t": "Nobel winner Krugman says France may have become 'too big to save'",
-      "s": 0.79
+      "t": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+      "s": -0.65
     },
     {
-      "t": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-      "s": 0.48
+      "t": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
+      "s": -0.62
     },
     {
-      "t": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
-      "s": 0.48
+      "t": "Elon Musk is now richer than any American ever \u2014 and it\u2019s not even close",
+      "s": 0.53
     },
     {
-      "t": "GLP-1 drugs could ease back and knee pain, but doctors say there are risks for older adults",
-      "s": -0.47
+      "t": "Why you need to take a closer look at your favorite stock index",
+      "s": 0.46
     }
   ]
 }
