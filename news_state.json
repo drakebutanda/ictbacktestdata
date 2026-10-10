@@ -1,19 +1,31 @@
 {
-  "ts": "2026-10-09 23:57 UTC",
+  "ts": "2026-10-10 05:38 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 2,
-  "avg_sentiment": 0.053,
+  "recent": 0,
+  "avg_sentiment": -0.033,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "s": 0.4
+      "t": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
+      "s": -0.81
     },
     {
-      "t": "How to provide guaranteed retirement income while paying no commissions",
-      "s": -0.3
+      "t": "Nobel winner Krugman says France may have become 'too big to save'",
+      "s": 0.79
+    },
+    {
+      "t": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "s": -0.68
+    },
+    {
+      "t": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+      "s": -0.65
+    },
+    {
+      "t": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+      "s": -0.65
     }
   ]
 }
