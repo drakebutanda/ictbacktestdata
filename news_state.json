@@ -1,15 +1,15 @@
 {
-  "ts": "2026-10-10 17:44 UTC",
+  "ts": "2026-10-10 21:29 UTC",
   "feeds_live": 5,
   "headlines": 98,
   "recent": 1,
-  "avg_sentiment": 0.527,
+  "avg_sentiment": 0.0,
   "burst": false,
-  "mood": "risk-on",
+  "mood": "neutral",
   "top": [
     {
-      "t": "Elon Musk is now richer than any American ever \u2014 and it\u2019s not even close",
-      "s": 0.53
+      "t": "Microsoft's Nadella says AI needs an \u2018emergency brake\u2019 that humans control",
+      "s": 0.0
     }
   ]
 }
