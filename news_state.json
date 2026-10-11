@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-11 13:56 UTC",
+  "ts": "2026-10-11 18:45 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 5,
-  "avg_sentiment": -0.097,
+  "recent": 0,
+  "avg_sentiment": -0.015,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "I\u2019m a psychologist who studies couples: The No. 1 way to end a fight before it escalates\u2014it works \u2018almost immediately\u2019",
-      "s": -0.38
+      "t": "I work hard to stay close to my friends. A researcher says it\u2019s good for my well-being\u2014and these 3 habits can help",
+      "s": 0.81
     },
     {
-      "t": "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "s": -0.1
+      "t": "How to downsize like a pro \u2014 and free yourself from being a \u2018prisoner of your possessions\u2019",
+      "s": 0.7
     },
     {
-      "t": "The bull market is turning 4 years old \u2014 but yields could crash the party",
-      "s": 0.0
+      "t": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "s": -0.68
     },
     {
-      "t": "NBA commissioner Adam Silver says league could introduce \u2018smart ball\u2019 technology as soon as next year",
-      "s": 0.0
+      "t": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+      "s": -0.65
     },
     {
-      "t": "AI is automating coding. So why are software developer job postings on the rise?",
-      "s": 0.0
+      "t": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+      "s": -0.65
     }
   ]
 }
