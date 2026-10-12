@@ -1,31 +1,27 @@
 {
-  "ts": "2026-10-12 10:35 UTC",
+  "ts": "2026-10-12 20:12 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 9,
-  "avg_sentiment": 0.222,
-  "burst": true,
+  "headlines": 99,
+  "recent": 4,
+  "avg_sentiment": 0.074,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-      "s": 0.72
+      "t": "A massive trade just happened in surging shares of Snap",
+      "s": 0.3
     },
     {
-      "t": "Brent tops $105 as doubts grow over supply boost from Trump\u2019s \u2018energy ceasefire\u2019",
-      "s": 0.59
+      "t": "Meta is back on the AI leaderboard with its new family of Wonder models",
+      "s": 0.0
     },
     {
-      "t": "Trump turns to Russian diesel ahead of midterms, but analysts see little price relief",
-      "s": 0.58
+      "t": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion",
+      "s": 0.0
     },
     {
-      "t": "My sister moved in with our widowed mother, 78, and says she deserves the family home. Is she right?",
-      "s": -0.48
-    },
-    {
-      "t": "The bond market is doing the Fed\u2019s job, and that could be good news for stocks, says Morgan Stanley strategist",
-      "s": 0.44
+      "t": "Bear to bull: A double upgrade of Salesforce illustrates the folly of the 'SaaSpocalypse'",
+      "s": 0.0
     }
   ]
 }
