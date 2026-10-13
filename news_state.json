@@ -1,27 +1,31 @@
 {
-  "ts": "2026-10-13 02:30 UTC",
+  "ts": "2026-10-13 10:23 UTC",
   "feeds_live": 5,
-  "headlines": 97,
-  "recent": 4,
-  "avg_sentiment": -0.155,
-  "burst": false,
+  "headlines": 96,
+  "recent": 16,
+  "avg_sentiment": -0.056,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF",
-      "s": -0.6
+      "t": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
+      "s": 0.74
     },
     {
-      "t": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
-      "s": 0.3
+      "t": "In charts: How one of the world's biggest economies got trapped by debt",
+      "s": -0.71
     },
     {
-      "t": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-      "s": -0.24
+      "t": "Trump census plan to cut noncitizens from 2030 count spurs critics toward legal fight",
+      "s": -0.66
     },
     {
-      "t": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
-      "s": -0.08
+      "t": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
+      "s": -0.66
+    },
+    {
+      "t": "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena",
+      "s": 0.56
     }
   ]
 }
