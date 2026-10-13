@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-13 10:23 UTC",
+  "ts": "2026-10-13 18:05 UTC",
   "feeds_live": 5,
-  "headlines": 96,
-  "recent": 16,
-  "avg_sentiment": -0.056,
+  "headlines": 98,
+  "recent": 15,
+  "avg_sentiment": 0.032,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
+      "t": "I keep comparing myself to my more financially successful friends. How can I stop?",
       "s": 0.74
     },
     {
-      "t": "In charts: How one of the world's biggest economies got trapped by debt",
-      "s": -0.71
+      "t": "AI fatigue is gripping the market and driving chip stocks toward their worst stretch in 16 months",
+      "s": -0.73
     },
     {
-      "t": "Trump census plan to cut noncitizens from 2030 count spurs critics toward legal fight",
-      "s": -0.66
+      "t": "How to read your body\u2019s warning signs years before you get sick",
+      "s": -0.69
     },
     {
-      "t": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
-      "s": -0.66
+      "t": "The AI trade is cracking. Here's how to profit",
+      "s": 0.44
     },
     {
-      "t": "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena",
-      "s": 0.56
+      "t": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+      "s": 0.4
     }
   ]
 }
