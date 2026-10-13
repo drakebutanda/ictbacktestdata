@@ -1,27 +1,27 @@
 {
-  "ts": "2026-10-12 20:12 UTC",
+  "ts": "2026-10-13 02:30 UTC",
   "feeds_live": 5,
-  "headlines": 99,
+  "headlines": 97,
   "recent": 4,
-  "avg_sentiment": 0.074,
+  "avg_sentiment": -0.155,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "A massive trade just happened in surging shares of Snap",
+      "t": "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF",
+      "s": -0.6
+    },
+    {
+      "t": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
       "s": 0.3
     },
     {
-      "t": "Meta is back on the AI leaderboard with its new family of Wonder models",
-      "s": 0.0
+      "t": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+      "s": -0.24
     },
     {
-      "t": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion",
-      "s": 0.0
-    },
-    {
-      "t": "Bear to bull: A double upgrade of Salesforce illustrates the folly of the 'SaaSpocalypse'",
-      "s": 0.0
+      "t": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+      "s": -0.08
     }
   ]
 }
