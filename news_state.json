@@ -1,31 +1,19 @@
 {
-  "ts": "2026-10-13 18:05 UTC",
+  "ts": "2026-10-13 23:14 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 15,
-  "avg_sentiment": 0.032,
-  "burst": true,
+  "recent": 2,
+  "avg_sentiment": -0.22,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "I keep comparing myself to my more financially successful friends. How can I stop?",
-      "s": 0.74
+      "t": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+      "s": -0.44
     },
     {
-      "t": "AI fatigue is gripping the market and driving chip stocks toward their worst stretch in 16 months",
-      "s": -0.73
-    },
-    {
-      "t": "How to read your body\u2019s warning signs years before you get sick",
-      "s": -0.69
-    },
-    {
-      "t": "The AI trade is cracking. Here's how to profit",
-      "s": 0.44
-    },
-    {
-      "t": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
-      "s": 0.4
+      "t": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
+      "s": 0.0
     }
   ]
 }
