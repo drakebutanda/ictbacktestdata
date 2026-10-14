@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-14 10:01 UTC",
-  "feeds_live": 5,
-  "headlines": 98,
-  "recent": 9,
-  "avg_sentiment": -0.024,
+  "ts": "2026-10-14 15:46 UTC",
+  "feeds_live": 4,
+  "headlines": 90,
+  "recent": 10,
+  "avg_sentiment": -0.179,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "ASML says it's getting order interest through 2030 as profit smashes expectations",
-      "s": 0.71
+      "t": "Iran says it\u2019s \u2018counting the moments\u2019 until it can strike U.S. warships; Saudi Aramco facilities attacked",
+      "s": -0.61
     },
     {
-      "t": "Oil prices choppy after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
-      "s": -0.53
+      "t": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+      "s": -0.54
     },
     {
-      "t": "\u2018I earn $110,000 a year\u2019: I lost my home in the Great Recession. I\u2019m renting in my 50s. Why is that judged as failure?",
-      "s": -0.51
+      "t": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
+      "s": -0.49
     },
     {
-      "t": "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile, IMF chief says",
-      "s": -0.38
+      "t": "We're exiting our remaining stake in an industrial stock spin-off gone wrong",
+      "s": -0.48
     },
     {
-      "t": "The truth about being a landlord in retirement",
-      "s": 0.32
+      "t": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+      "s": 0.34
     }
   ]
 }
