@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-14 04:36 UTC",
+  "ts": "2026-10-14 10:01 UTC",
   "feeds_live": 5,
-  "headlines": 97,
-  "recent": 5,
-  "avg_sentiment": -0.396,
-  "burst": false,
+  "headlines": 98,
+  "recent": 9,
+  "avg_sentiment": -0.024,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Judge indefinitely blocks Trump White House ban of three media outlets",
-      "s": -0.67
+      "t": "ASML says it's getting order interest through 2030 as profit smashes expectations",
+      "s": 0.71
     },
     {
-      "t": "'Godzilla El Ni\u00f1o' is wreaking havoc with Philippine central bank's inflation forecasts",
-      "s": -0.6
+      "t": "Oil prices choppy after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
+      "s": -0.53
     },
     {
-      "t": "China's producer prices rise at fastest pace since June 2022, beating expectations",
-      "s": -0.46
+      "t": "\u2018I earn $110,000 a year\u2019: I lost my home in the Great Recession. I\u2019m renting in my 50s. Why is that judged as failure?",
+      "s": -0.51
     },
     {
-      "t": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
-      "s": -0.25
+      "t": "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile, IMF chief says",
+      "s": -0.38
     },
     {
-      "t": "China's exports and imports surge past expectations in September",
-      "s": 0.0
+      "t": "The truth about being a landlord in retirement",
+      "s": 0.32
     }
   ]
 }
