@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-14 15:46 UTC",
-  "feeds_live": 4,
-  "headlines": 90,
-  "recent": 10,
-  "avg_sentiment": -0.179,
+  "ts": "2026-10-14 20:07 UTC",
+  "feeds_live": 5,
+  "headlines": 99,
+  "recent": 14,
+  "avg_sentiment": -0.005,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Iran says it\u2019s \u2018counting the moments\u2019 until it can strike U.S. warships; Saudi Aramco facilities attacked",
-      "s": -0.61
+      "t": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "s": -0.51
     },
     {
-      "t": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
-      "s": -0.54
+      "t": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+      "s": -0.44
     },
     {
-      "t": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
-      "s": -0.49
+      "t": "Anduril employee tender offer would value the defense tech startup at $90 billion",
+      "s": 0.44
     },
     {
-      "t": "We're exiting our remaining stake in an industrial stock spin-off gone wrong",
-      "s": -0.48
+      "t": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
+      "s": -0.38
     },
     {
-      "t": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
-      "s": 0.34
+      "t": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+      "s": 0.3
     }
   ]
 }
