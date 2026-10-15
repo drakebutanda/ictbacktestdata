@@ -1,31 +1,23 @@
 {
-  "ts": "2026-10-14 23:49 UTC",
+  "ts": "2026-10-15 04:19 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 8,
-  "avg_sentiment": 0.081,
-  "burst": true,
+  "recent": 3,
+  "avg_sentiment": 0.055,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Big banks see risks in financing the AI boom, but are happy to keep writing the checks",
-      "s": 0.67
+      "t": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
+      "s": 0.32
     },
     {
-      "t": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "s": -0.51
+      "t": "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
+      "s": -0.15
     },
     {
-      "t": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
-      "s": -0.42
-    },
-    {
-      "t": "You\u2019re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.",
-      "s": 0.4
-    },
-    {
-      "t": "Your Social Security check will rise an average of $75 a month \u2014 will it be able to keep up with inflation?",
-      "s": 0.34
+      "t": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
+      "s": 0.0
     }
   ]
 }
