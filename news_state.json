@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-15 14:48 UTC",
+  "ts": "2026-10-15 19:00 UTC",
   "feeds_live": 5,
-  "headlines": 97,
-  "recent": 14,
-  "avg_sentiment": -0.089,
+  "headlines": 96,
+  "recent": 15,
+  "avg_sentiment": 0.024,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-      "s": -0.68
+      "t": "Equal-weight failed. Now tech stocks look shaky again. So what should you do about S&P 500 risk?",
+      "s": -0.74
     },
     {
-      "t": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
-      "s": -0.66
+      "t": "BNY stock pops on strong earnings \u2014 showing exactly why we like this bank in this market",
+      "s": 0.7
     },
     {
-      "t": "Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell",
-      "s": -0.61
+      "t": "Big pharma stocks near all-time highs as tech selloff pushes investors toward safer bets",
+      "s": 0.42
     },
     {
-      "t": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
-      "s": 0.56
+      "t": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
+      "s": -0.42
     },
     {
-      "t": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-      "s": 0.53
+      "t": "U.S. sues California in fight over checking citizenship of mail voters",
+      "s": -0.38
     }
   ]
 }
