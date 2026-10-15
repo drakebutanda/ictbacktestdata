@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-15 09:44 UTC",
+  "ts": "2026-10-15 14:48 UTC",
   "feeds_live": 5,
-  "headlines": 96,
-  "recent": 8,
-  "avg_sentiment": -0.019,
+  "headlines": 97,
+  "recent": 14,
+  "avg_sentiment": -0.089,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "UK economy grew 0.1% in August, beating expectations",
-      "s": -0.46
+      "t": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+      "s": -0.68
     },
     {
-      "t": "Why the AI trade is not set up for a rebound like July\u2019s, according to JPMorgan",
-      "s": 0.36
+      "t": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
+      "s": -0.66
     },
     {
-      "t": "TSMC CEO sees no sign of a slowdown as chip foundry reports record profit",
-      "s": 0.18
+      "t": "Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell",
+      "s": -0.61
     },
     {
-      "t": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "s": -0.15
+      "t": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
+      "s": 0.56
     },
     {
-      "t": "I\u2019m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "s": -0.08
+      "t": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+      "s": 0.53
     }
   ]
 }
