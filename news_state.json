@@ -1,19 +1,31 @@
 {
-  "ts": "2026-10-16 01:08 UTC",
+  "ts": "2026-10-16 06:59 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 2,
-  "avg_sentiment": -0.224,
+  "headlines": 100,
+  "recent": 5,
+  "avg_sentiment": 0.052,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
-      "s": -0.42
+      "t": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
+      "s": 0.77
     },
     {
-      "t": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
-      "s": -0.03
+      "t": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
+      "s": -0.51
+    },
+    {
+      "t": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
+      "s": 0.0
+    },
+    {
+      "t": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
+      "s": 0.0
+    },
+    {
+      "t": "What to know about Starshield, SpaceX's military-focused Starlink service",
+      "s": 0.0
     }
   ]
 }
