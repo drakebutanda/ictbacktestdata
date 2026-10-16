@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-16 06:59 UTC",
+  "ts": "2026-10-16 12:18 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 5,
-  "avg_sentiment": 0.052,
-  "burst": false,
+  "recent": 16,
+  "avg_sentiment": 0.213,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
-      "s": 0.77
+      "t": "Elon Musk cash infusion helps GOP Senate super PAC raise record $273 million",
+      "s": 0.76
     },
     {
-      "t": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
-      "s": -0.51
+      "t": "Norway's $2 trillion wealth fund was frozen out of major defense companies. That may be about to change",
+      "s": 0.61
     },
     {
-      "t": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
-      "s": 0.0
+      "t": "Phoenix Suns owner Mat Ishbia predicts team will win opening round playoff series \u2014 and the NBA season hasn't even started",
+      "s": 0.59
     },
     {
-      "t": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
-      "s": 0.0
+      "t": "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.",
+      "s": 0.53
     },
     {
-      "t": "What to know about Starshield, SpaceX's military-focused Starlink service",
-      "s": 0.0
+      "t": "Fed's Warsh withholds rate signal, praises recent global tightening",
+      "s": 0.53
     }
   ]
 }
