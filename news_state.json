@@ -1,31 +1,19 @@
 {
-  "ts": "2026-10-15 22:10 UTC",
+  "ts": "2026-10-16 01:08 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 10,
-  "avg_sentiment": -0.223,
-  "burst": true,
+  "recent": 2,
+  "avg_sentiment": -0.224,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-      "s": -0.61
+      "t": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
+      "s": -0.42
     },
     {
-      "t": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
-      "s": -0.57
-    },
-    {
-      "t": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-      "s": -0.51
-    },
-    {
-      "t": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-      "s": -0.4
-    },
-    {
-      "t": "U.S. sues California in fight over checking citizenship of mail voters",
-      "s": -0.38
+      "t": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
+      "s": -0.03
     }
   ]
 }
