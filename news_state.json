@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-16 12:18 UTC",
+  "ts": "2026-10-16 17:18 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 16,
-  "avg_sentiment": 0.213,
+  "avg_sentiment": 0.071,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Elon Musk cash infusion helps GOP Senate super PAC raise record $273 million",
-      "s": 0.76
+      "t": "Schwab to create 'tax-aware' strategy that's been attracting billions from wealthy investors",
+      "s": 0.77
     },
     {
-      "t": "Norway's $2 trillion wealth fund was frozen out of major defense companies. That may be about to change",
-      "s": 0.61
+      "t": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
+      "s": -0.53
     },
     {
-      "t": "Phoenix Suns owner Mat Ishbia predicts team will win opening round playoff series \u2014 and the NBA season hasn't even started",
-      "s": 0.59
+      "t": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
+      "s": 0.43
     },
     {
-      "t": "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.",
-      "s": 0.53
+      "t": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash \u2014 then IRA.",
+      "s": 0.34
     },
     {
-      "t": "Fed's Warsh withholds rate signal, praises recent global tightening",
-      "s": 0.53
+      "t": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+      "s": 0.27
     }
   ]
 }
