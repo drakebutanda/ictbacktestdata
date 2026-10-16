@@ -1,31 +1,27 @@
 {
-  "ts": "2026-10-16 20:52 UTC",
+  "ts": "2026-10-16 23:25 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 14,
-  "avg_sentiment": -0.057,
-  "burst": true,
+  "recent": 4,
+  "avg_sentiment": -0.106,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
-      "s": -0.65
+      "t": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+      "s": -0.4
     },
     {
-      "t": "Wall Street's fear gauge is ripping. Traders see it going even higher",
-      "s": -0.49
+      "t": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "s": -0.15
     },
     {
-      "t": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
-      "s": -0.44
+      "t": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "s": 0.13
     },
     {
-      "t": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
-      "s": 0.42
-    },
-    {
-      "t": "Debt is eating up a bigger chunk of your raise, research shows",
-      "s": -0.36
+      "t": "Apple\u2019s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+      "s": 0.0
     }
   ]
 }
