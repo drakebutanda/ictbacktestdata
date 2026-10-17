@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-17 09:09 UTC",
+  "ts": "2026-10-17 13:34 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 0,
-  "avg_sentiment": -0.038,
+  "recent": 6,
+  "avg_sentiment": -0.035,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-      "s": -0.81
+      "t": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "s": -0.51
     },
     {
-      "t": "Schwab to create 'tax-aware' strategy that's been attracting billions from wealthy investors",
-      "s": 0.77
+      "t": "'Everyone laughed' when he started a pumpkin farm\u2014now it brings in $2 million a year",
+      "s": 0.46
     },
     {
-      "t": "Elon Musk cash infusion helps GOP Senate super PAC raise record $273 million",
-      "s": 0.76
+      "t": "Silver\u2019s recent 50% drop from a record high hints that an economic slowdown looms",
+      "s": -0.4
     },
     {
-      "t": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-      "s": 0.72
+      "t": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
+      "s": 0.3
     },
     {
-      "t": "In charts: How one of the world's biggest economies got trapped by debt",
-      "s": -0.71
+      "t": "Influencers and biohackers swear by fasting. Here\u2019s what the science says.",
+      "s": -0.05
     }
   ]
 }
