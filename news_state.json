@@ -1,27 +1,23 @@
 {
-  "ts": "2026-10-17 16:57 UTC",
+  "ts": "2026-10-17 19:13 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 4,
-  "avg_sentiment": 0.006,
+  "recent": 3,
+  "avg_sentiment": 0.08,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "s": -0.51
+      "t": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
+      "s": 0.59
     },
     {
-      "t": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
-      "s": 0.38
+      "t": "Fake shopping sprees and \u2018happiness insurance\u2019: The latest fintech apps reveal our financial anxieties",
+      "s": -0.57
     },
     {
-      "t": "Semiconductor market to remain solid \u2018at least through next year,\u2019 South Korea finance minister says",
-      "s": 0.15
-    },
-    {
-      "t": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
-      "s": 0.0
+      "t": "Is Apple\u2019s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
+      "s": 0.23
     }
   ]
 }
