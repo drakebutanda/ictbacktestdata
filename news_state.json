@@ -1,27 +1,31 @@
 {
-  "ts": "2026-10-16 23:25 UTC",
+  "ts": "2026-10-17 04:05 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 4,
-  "avg_sentiment": -0.106,
+  "recent": 0,
+  "avg_sentiment": -0.022,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-      "s": -0.4
+      "t": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+      "s": -0.81
     },
     {
-      "t": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "s": -0.15
+      "t": "Schwab to create 'tax-aware' strategy that's been attracting billions from wealthy investors",
+      "s": 0.77
     },
     {
-      "t": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
-      "s": 0.13
+      "t": "Elon Musk cash infusion helps GOP Senate super PAC raise record $273 million",
+      "s": 0.76
     },
     {
-      "t": "Apple\u2019s $1,999 iPhone Duo puts the company's status-symbol power to the test",
-      "s": 0.0
+      "t": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+      "s": 0.72
+    },
+    {
+      "t": "In charts: How one of the world's biggest economies got trapped by debt",
+      "s": -0.71
     }
   ]
 }
