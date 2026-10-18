@@ -1,15 +1,31 @@
 {
-  "ts": "2026-10-17 22:09 UTC",
+  "ts": "2026-10-18 00:49 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 1,
-  "avg_sentiment": 0.0,
+  "recent": 0,
+  "avg_sentiment": -0.079,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-      "s": 0.0
+      "t": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+      "s": -0.81
+    },
+    {
+      "t": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+      "s": -0.75
+    },
+    {
+      "t": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+      "s": 0.72
+    },
+    {
+      "t": "In charts: How one of the world's biggest economies got trapped by debt",
+      "s": -0.71
+    },
+    {
+      "t": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+      "s": -0.68
     }
   ]
 }
