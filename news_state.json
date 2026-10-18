@@ -1,15 +1,23 @@
 {
-  "ts": "2026-10-18 20:32 UTC",
+  "ts": "2026-10-18 22:57 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 1,
-  "avg_sentiment": 0.126,
+  "recent": 3,
+  "avg_sentiment": -0.265,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
-      "s": 0.13
+      "t": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
+      "s": -0.8
+    },
+    {
+      "t": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+      "s": 0.42
+    },
+    {
+      "t": "Why I am taking the other side of the trade that crushed the market Friday",
+      "s": -0.42
     }
   ]
 }
