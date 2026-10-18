@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-18 10:50 UTC",
+  "ts": "2026-10-18 14:26 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 0,
-  "avg_sentiment": -0.087,
+  "headlines": 99,
+  "recent": 7,
+  "avg_sentiment": 0.199,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-      "s": -0.81
+      "t": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+      "s": -0.66
     },
     {
-      "t": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
-      "s": -0.75
+      "t": "I've studied over 200 kids\u2014parents who raise resilient, successful children teach them these 6 lessons early on",
+      "s": 0.59
     },
     {
-      "t": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-      "s": 0.72
+      "t": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
+      "s": 0.57
     },
     {
-      "t": "In charts: How one of the world's biggest economies got trapped by debt",
-      "s": -0.71
+      "t": "The bloated workweek is coming for Sundays\u2014as some embrace flexibility, others worry about job security",
+      "s": 0.49
     },
     {
-      "t": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-      "s": -0.68
+      "t": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+      "s": 0.46
     }
   ]
 }
