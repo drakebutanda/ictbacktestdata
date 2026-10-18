@@ -1,19 +1,15 @@
 {
-  "ts": "2026-10-18 17:58 UTC",
+  "ts": "2026-10-18 20:32 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 2,
-  "avg_sentiment": 0.063,
+  "recent": 1,
+  "avg_sentiment": 0.126,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
       "t": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
       "s": 0.13
-    },
-    {
-      "t": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
-      "s": 0.0
     }
   ]
 }
