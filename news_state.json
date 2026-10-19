@@ -1,9 +1,9 @@
 {
-  "ts": "2026-10-19 15:29 UTC",
+  "ts": "2026-10-19 20:58 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 8,
-  "avg_sentiment": -0.225,
+  "headlines": 99,
+  "recent": 10,
+  "avg_sentiment": -0.16,
   "burst": true,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": -0.61
     },
     {
-      "t": "Credit stress is threatening to unwind the AI bull. All eyes are on Oracle to hold the line",
-      "s": -0.56
+      "t": "Why Elon Musk, Anthropic and other AI titans are giving away shares",
+      "s": 0.56
     },
     {
-      "t": "\u2018My husband suffered a massive stroke at 53\u2019: I\u2019m 64 and will rent for the rest of my life \u2014 but I\u2019m still hopeful",
-      "s": 0.52
+      "t": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
+      "s": -0.38
     },
     {
-      "t": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
-      "s": -0.49
-    },
-    {
-      "t": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
+      "t": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
       "s": -0.34
+    },
+    {
+      "t": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+      "s": -0.32
     }
   ]
 }
