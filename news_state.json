@@ -1,23 +1,31 @@
 {
-  "ts": "2026-10-18 22:57 UTC",
+  "ts": "2026-10-19 01:04 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 3,
-  "avg_sentiment": -0.265,
+  "headlines": 91,
+  "recent": 0,
+  "avg_sentiment": -0.039,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
-      "s": -0.8
+      "t": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+      "s": -0.81
     },
     {
-      "t": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
-      "s": 0.42
+      "t": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+      "s": 0.72
     },
     {
-      "t": "Why I am taking the other side of the trade that crushed the market Friday",
-      "s": -0.42
+      "t": "In charts: How one of the world's biggest economies got trapped by debt",
+      "s": -0.71
+    },
+    {
+      "t": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+      "s": -0.68
+    },
+    {
+      "t": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "s": -0.68
     }
   ]
 }
