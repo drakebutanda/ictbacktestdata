@@ -1,15 +1,19 @@
 {
-  "ts": "2026-10-19 01:04 UTC",
+  "ts": "2026-10-19 07:37 UTC",
   "feeds_live": 5,
-  "headlines": 91,
+  "headlines": 98,
   "recent": 0,
-  "avg_sentiment": -0.039,
+  "avg_sentiment": -0.061,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
       "t": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
       "s": -0.81
+    },
+    {
+      "t": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
+      "s": -0.72
     },
     {
       "t": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
@@ -20,12 +24,8 @@
       "s": -0.71
     },
     {
-      "t": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-      "s": -0.68
-    },
-    {
-      "t": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-      "s": -0.68
+      "t": "French stocks slide after violent protests",
+      "s": -0.7
     }
   ]
 }
