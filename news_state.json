@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-19 07:37 UTC",
+  "ts": "2026-10-19 15:29 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 0,
-  "avg_sentiment": -0.061,
-  "burst": false,
+  "recent": 8,
+  "avg_sentiment": -0.225,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-      "s": -0.81
+      "t": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+      "s": -0.61
     },
     {
-      "t": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
-      "s": -0.72
+      "t": "Credit stress is threatening to unwind the AI bull. All eyes are on Oracle to hold the line",
+      "s": -0.56
     },
     {
-      "t": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-      "s": 0.72
+      "t": "\u2018My husband suffered a massive stroke at 53\u2019: I\u2019m 64 and will rent for the rest of my life \u2014 but I\u2019m still hopeful",
+      "s": 0.52
     },
     {
-      "t": "In charts: How one of the world's biggest economies got trapped by debt",
-      "s": -0.71
+      "t": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
+      "s": -0.49
     },
     {
-      "t": "French stocks slide after violent protests",
-      "s": -0.7
+      "t": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
+      "s": -0.34
     }
   ]
 }
