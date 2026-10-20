@@ -1,31 +1,19 @@
 {
-  "ts": "2026-10-20 00:14 UTC",
+  "ts": "2026-10-20 05:50 UTC",
   "feeds_live": 5,
-  "headlines": 79,
-  "recent": 0,
-  "avg_sentiment": -0.04,
+  "headlines": 100,
+  "recent": 2,
+  "avg_sentiment": -0.45,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-      "s": -0.81
+      "t": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
+      "s": -0.63
     },
     {
-      "t": "3M expands Amazon data center partnership, shares gain",
-      "s": 0.77
-    },
-    {
-      "t": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
-      "s": -0.72
-    },
-    {
-      "t": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-      "s": 0.72
-    },
-    {
-      "t": "In charts: How one of the world's biggest economies got trapped by debt",
-      "s": -0.71
+      "t": "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
+      "s": -0.27
     }
   ]
 }
