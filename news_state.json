@@ -1,19 +1,31 @@
 {
-  "ts": "2026-10-20 05:50 UTC",
+  "ts": "2026-10-20 11:20 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 2,
-  "avg_sentiment": -0.45,
-  "burst": false,
-  "mood": "risk-off",
+  "recent": 12,
+  "avg_sentiment": -0.052,
+  "burst": true,
+  "mood": "neutral",
   "top": [
     {
-      "t": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
-      "s": -0.63
+      "t": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
+      "s": 0.8
     },
     {
-      "t": "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
-      "s": -0.27
+      "t": "U.S. oil surges to top $109, Brent crude at five-month high amid Mideast tensions",
+      "s": -0.68
+    },
+    {
+      "t": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
+      "s": -0.4
+    },
+    {
+      "t": "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
+      "s": 0.36
+    },
+    {
+      "t": "Why smaller stocks face worse prospects than the S&P 500 in the coming years",
+      "s": -0.23
     }
   ]
 }
