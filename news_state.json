@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-20 16:45 UTC",
+  "ts": "2026-10-20 20:24 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 14,
-  "avg_sentiment": -0.024,
+  "headlines": 99,
+  "recent": 9,
+  "avg_sentiment": 0.353,
   "burst": true,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Boeing wins FAA approval for 737 Max 10 after years of delays",
+      "s": 0.78
+    },
+    {
+      "t": "Netflix posts third-quarter earnings beat, says viewer engagement remains 'healthy'",
+      "s": 0.69
+    },
     {
       "t": "Oil prices fall as traders hope for diplomatic progress in Middle East",
       "s": 0.69
     },
     {
-      "t": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath",
-      "s": 0.57
+      "t": "We're booking big profits in an AI stock and trimming a credit-exposed bank",
+      "s": 0.44
     },
     {
-      "t": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
-      "s": -0.49
-    },
-    {
-      "t": "It\u2019s no secret what the best financial advice for retirement is \u2014 but most people ignore it anyway",
-      "s": -0.4
-    },
-    {
-      "t": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
-      "s": -0.32
+      "t": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
+      "s": 0.35
     }
   ]
 }
