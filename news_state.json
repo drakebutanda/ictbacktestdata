@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-20 11:20 UTC",
+  "ts": "2026-10-20 16:45 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 12,
-  "avg_sentiment": -0.052,
+  "recent": 14,
+  "avg_sentiment": -0.024,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
-      "s": 0.8
+      "t": "Oil prices fall as traders hope for diplomatic progress in Middle East",
+      "s": 0.69
     },
     {
-      "t": "U.S. oil surges to top $109, Brent crude at five-month high amid Mideast tensions",
-      "s": -0.68
+      "t": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath",
+      "s": 0.57
     },
     {
-      "t": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
+      "t": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
+      "s": -0.49
+    },
+    {
+      "t": "It\u2019s no secret what the best financial advice for retirement is \u2014 but most people ignore it anyway",
       "s": -0.4
     },
     {
-      "t": "HSBC CEO warns the AI boom won\u2019t make every data center a good bet",
-      "s": 0.36
-    },
-    {
-      "t": "Why smaller stocks face worse prospects than the S&P 500 in the coming years",
-      "s": -0.23
+      "t": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+      "s": -0.32
     }
   ]
 }
