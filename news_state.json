@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-19 20:58 UTC",
+  "ts": "2026-10-20 00:14 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 10,
-  "avg_sentiment": -0.16,
-  "burst": true,
+  "headlines": 79,
+  "recent": 0,
+  "avg_sentiment": -0.04,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-      "s": -0.61
+      "t": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+      "s": -0.81
     },
     {
-      "t": "Why Elon Musk, Anthropic and other AI titans are giving away shares",
-      "s": 0.56
+      "t": "3M expands Amazon data center partnership, shares gain",
+      "s": 0.77
     },
     {
-      "t": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
-      "s": -0.38
+      "t": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
+      "s": -0.72
     },
     {
-      "t": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
-      "s": -0.34
+      "t": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+      "s": 0.72
     },
     {
-      "t": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-      "s": -0.32
+      "t": "In charts: How one of the world's biggest economies got trapped by debt",
+      "s": -0.71
     }
   ]
 }
