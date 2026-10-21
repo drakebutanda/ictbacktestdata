@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-21 15:07 UTC",
+  "ts": "2026-10-21 20:01 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 15,
-  "avg_sentiment": 0.036,
+  "headlines": 99,
+  "recent": 8,
+  "avg_sentiment": 0.098,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
-      "s": -0.7
+      "t": "\u2018Super\u2019 El Ni\u00f1o may soon make your coffee super expensive",
+      "s": 0.6
     },
     {
-      "t": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?",
-      "s": 0.69
+      "t": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+      "s": -0.53
     },
     {
-      "t": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
-      "s": -0.66
+      "t": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+      "s": -0.51
     },
     {
-      "t": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
-      "s": 0.54
+      "t": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says",
+      "s": 0.44
     },
     {
-      "t": "It\u2019s not just California\u2019s billionaire tax. Wealth is on the ballot in the midterm elections.",
-      "s": 0.49
+      "t": "BlackRock's Rick Rieder sees 'historic' opportunity in high-quality bonds",
+      "s": 0.42
     }
   ]
 }
