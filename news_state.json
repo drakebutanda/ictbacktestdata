@@ -1,31 +1,27 @@
 {
-  "ts": "2026-10-21 20:01 UTC",
+  "ts": "2026-10-21 23:57 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 8,
-  "avg_sentiment": 0.098,
-  "burst": true,
+  "recent": 4,
+  "avg_sentiment": 0.233,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018Super\u2019 El Ni\u00f1o may soon make your coffee super expensive",
-      "s": 0.6
+      "t": "CoreWeave\u2019s market confidence erodes as bond yields spike and stock sinks",
+      "s": 0.51
     },
     {
-      "t": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-      "s": -0.53
-    },
-    {
-      "t": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
-      "s": -0.51
-    },
-    {
-      "t": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says",
-      "s": 0.44
-    },
-    {
-      "t": "BlackRock's Rick Rieder sees 'historic' opportunity in high-quality bonds",
+      "t": "Meta\u2019s stock rises as investors glimpse an opportunity that could dwarf the ad business",
       "s": 0.42
+    },
+    {
+      "t": "Tesla\u2019s stock falls as Elon Musk leaves investors wanting more",
+      "s": 0.0
+    },
+    {
+      "t": "Tesla beats on earnings and sales even as auto revenue declines",
+      "s": 0.0
     }
   ]
 }
