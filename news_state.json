@@ -1,15 +1,31 @@
 {
-  "ts": "2026-10-21 04:24 UTC",
+  "ts": "2026-10-21 09:59 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 1,
-  "avg_sentiment": 0.103,
-  "burst": false,
+  "headlines": 98,
+  "recent": 9,
+  "avg_sentiment": 0.132,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
-      "s": 0.1
+      "t": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
+      "s": 0.73
+    },
+    {
+      "t": "AI stocks are probably in a bubble \u2014 but might be worth holding onto, says Citadel\u2019s Ken Griffin",
+      "s": 0.33
+    },
+    {
+      "t": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I\u2019m crazy. Who\u2019s right?",
+      "s": 0.13
+    },
+    {
+      "t": "George Foreman\u2019s lavish Texas estate with 50-car garage is listed for $6 million",
+      "s": 0.0
+    },
+    {
+      "t": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "s": 0.0
     }
   ]
 }
