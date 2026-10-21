@@ -1,31 +1,15 @@
 {
-  "ts": "2026-10-20 23:45 UTC",
+  "ts": "2026-10-21 04:24 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 9,
-  "avg_sentiment": 0.345,
-  "burst": true,
+  "recent": 1,
+  "avg_sentiment": 0.103,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Super Micro\u2019s stock soars after surprise update \u2014 with Dell and HPE shares joining the rally",
-      "s": 0.8
-    },
-    {
-      "t": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
-      "s": 0.76
-    },
-    {
-      "t": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life \u2014 but here\u2019s why I\u2019m still hopeful",
-      "s": 0.65
-    },
-    {
-      "t": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-      "s": 0.42
-    },
-    {
-      "t": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-      "s": 0.3
+      "t": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
+      "s": 0.1
     }
   ]
 }
