@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-22 15:08 UTC",
+  "ts": "2026-10-22 19:55 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 15,
-  "avg_sentiment": -0.214,
+  "recent": 11,
+  "avg_sentiment": -0.261,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
-      "s": -0.87
+      "t": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
+      "s": -0.82
     },
     {
-      "t": "I\u2019m 58 and hate annuities. How can I get dependable income in retirement?",
-      "s": -0.57
+      "t": "Is getting a wedding band from Quince a bad idea? \u2018It\u2019s a third of the price.\u2019",
+      "s": -0.54
     },
     {
-      "t": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-      "s": -0.48
+      "t": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
+      "s": -0.44
     },
     {
       "t": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
       "s": -0.44
     },
     {
-      "t": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
-      "s": -0.42
+      "t": "Moderna\u2019s cancer vaccine hits its targets, but an embargo breach rattles investors and the stock tumbles",
+      "s": -0.4
     }
   ]
 }
