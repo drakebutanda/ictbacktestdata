@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-22 09:59 UTC",
+  "ts": "2026-10-22 15:08 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 8,
-  "avg_sentiment": -0.012,
+  "headlines": 98,
+  "recent": 15,
+  "avg_sentiment": -0.214,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Why a global bank is slashing thousands of jobs \u2014 and what the Fed says about AI replacing workers",
-      "s": -0.27
+      "t": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
+      "s": -0.87
     },
     {
-      "t": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
-      "s": 0.23
+      "t": "I\u2019m 58 and hate annuities. How can I get dependable income in retirement?",
+      "s": -0.57
     },
     {
-      "t": "A top strategist has a warning for retail investors chasing the AI rally",
-      "s": -0.15
+      "t": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+      "s": -0.48
     },
     {
-      "t": "Barclays to slash 5,000 jobs in AI efficiency push",
-      "s": 0.1
+      "t": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+      "s": -0.44
     },
     {
-      "t": "Meta\u2019s stock falls in early trading amid broader sector selloff, despite well-received results",
-      "s": 0.0
+      "t": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
+      "s": -0.42
     }
   ]
 }
