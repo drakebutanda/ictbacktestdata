@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-23 14:52 UTC",
+  "ts": "2026-10-23 19:02 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 13,
-  "avg_sentiment": -0.09,
+  "recent": 11,
+  "avg_sentiment": -0.116,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Young Americans are giving up on cars. It\u2019s a path to financial freedom for some.",
-      "s": 0.77
+      "t": "The real test for Moderna\u2019s cancer vaccine isn\u2019t about beating Keytruda. It\u2019s keeping cancer from coming back in the long term.",
+      "s": -0.92
     },
     {
-      "t": "Moderna shares plunge after cancer vaccine data leaks \u2014 despite positive results",
-      "s": -0.73
+      "t": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
+      "s": -0.67
     },
     {
-      "t": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
-      "s": -0.7
+      "t": "Think annuities are a rip-off? Now might be the perfect time to reconsider.",
+      "s": 0.57
     },
     {
-      "t": "Surging economy gets off to a good start in the fourth quarter \u2014 but there\u2019s one big problem",
-      "s": -0.38
+      "t": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
+      "s": -0.48
     },
     {
-      "t": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "s": 0.25
+      "t": "Can Nvidia\u2019s stock become a safe haven as Wall Street rethinks the AI trade?",
+      "s": 0.44
     }
   ]
 }
