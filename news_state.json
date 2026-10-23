@@ -1,15 +1,31 @@
 {
-  "ts": "2026-10-23 04:28 UTC",
+  "ts": "2026-10-23 09:54 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 1,
-  "avg_sentiment": 0.026,
-  "burst": false,
+  "headlines": 99,
+  "recent": 11,
+  "avg_sentiment": 0.045,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans",
-      "s": 0.03
+      "t": "France is flashing euro crisis signals. This time, the fault lines are different",
+      "s": -0.78
+    },
+    {
+      "t": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "s": 0.61
+    },
+    {
+      "t": "NBA star Precious Achiuwa signs on for $1.8 million condo in luxury Miami tower",
+      "s": 0.57
+    },
+    {
+      "t": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
+      "s": 0.51
+    },
+    {
+      "t": "France is getting its credit rating reviewed by Moody\u2019s. What to expect as French debt turmoil spills overseas.",
+      "s": -0.34
     }
   ]
 }
