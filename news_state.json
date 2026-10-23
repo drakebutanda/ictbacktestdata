@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-23 19:02 UTC",
+  "ts": "2026-10-23 23:01 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 11,
-  "avg_sentiment": -0.116,
-  "burst": true,
+  "recent": 5,
+  "avg_sentiment": -0.135,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "The real test for Moderna\u2019s cancer vaccine isn\u2019t about beating Keytruda. It\u2019s keeping cancer from coming back in the long term.",
-      "s": -0.92
+      "t": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
+      "s": -0.7
     },
     {
-      "t": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
-      "s": -0.67
+      "t": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
+      "s": 0.03
     },
     {
-      "t": "Think annuities are a rip-off? Now might be the perfect time to reconsider.",
-      "s": 0.57
+      "t": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+      "s": 0.0
     },
     {
-      "t": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
-      "s": -0.48
+      "t": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn\u2019t work out.",
+      "s": 0.0
     },
     {
-      "t": "Can Nvidia\u2019s stock become a safe haven as Wall Street rethinks the AI trade?",
-      "s": 0.44
+      "t": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
+      "s": 0.0
     }
   ]
 }
