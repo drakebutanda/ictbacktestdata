@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-23 09:54 UTC",
+  "ts": "2026-10-23 14:52 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 11,
-  "avg_sentiment": 0.045,
+  "headlines": 100,
+  "recent": 13,
+  "avg_sentiment": -0.09,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "France is flashing euro crisis signals. This time, the fault lines are different",
-      "s": -0.78
+      "t": "Young Americans are giving up on cars. It\u2019s a path to financial freedom for some.",
+      "s": 0.77
     },
     {
-      "t": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "s": 0.61
+      "t": "Moderna shares plunge after cancer vaccine data leaks \u2014 despite positive results",
+      "s": -0.73
     },
     {
-      "t": "NBA star Precious Achiuwa signs on for $1.8 million condo in luxury Miami tower",
-      "s": 0.57
+      "t": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
+      "s": -0.7
     },
     {
-      "t": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
-      "s": 0.51
+      "t": "Surging economy gets off to a good start in the fourth quarter \u2014 but there\u2019s one big problem",
+      "s": -0.38
     },
     {
-      "t": "France is getting its credit rating reviewed by Moody\u2019s. What to expect as French debt turmoil spills overseas.",
-      "s": -0.34
+      "t": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "s": 0.25
     }
   ]
 }
