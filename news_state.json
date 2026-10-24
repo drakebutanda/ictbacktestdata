@@ -1,31 +1,27 @@
 {
-  "ts": "2026-10-24 17:19 UTC",
+  "ts": "2026-10-24 20:35 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 6,
-  "avg_sentiment": 0.063,
+  "recent": 4,
+  "avg_sentiment": -0.162,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath",
-      "s": 0.57
+      "t": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
+      "s": -0.44
     },
     {
-      "t": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-      "s": -0.48
+      "t": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
+      "s": -0.38
     },
     {
-      "t": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-      "s": 0.46
+      "t": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "s": 0.25
     },
     {
-      "t": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
-      "s": -0.42
-    },
-    {
-      "t": "The Social Security Administration wants more babies signed up for \u2018Trump accounts.\u2019 But there\u2019s still a catch.",
-      "s": 0.18
+      "t": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
+      "s": -0.08
     }
   ]
 }
