@@ -1,12 +1,28 @@
 {
-  "ts": "2026-10-24 09:23 UTC",
+  "ts": "2026-10-24 13:55 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": 0.25,
-  "burst": false,
+  "recent": 8,
+  "avg_sentiment": 0.306,
+  "burst": true,
   "mood": "neutral",
   "top": [
+    {
+      "t": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
+      "s": 0.8
+    },
+    {
+      "t": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "s": 0.61
+    },
+    {
+      "t": "Why popular airplanes are getting scrapped years early",
+      "s": 0.42
+    },
+    {
+      "t": "Investors\u2019 recent money moves show a preference for lowering risks over boosting rewards",
+      "s": 0.34
+    },
     {
       "t": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
       "s": 0.25
