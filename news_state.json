@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-23 23:01 UTC",
+  "ts": "2026-10-24 04:18 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 5,
-  "avg_sentiment": -0.135,
+  "recent": 0,
+  "avg_sentiment": -0.087,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
-      "s": -0.7
+      "t": "The real test for Moderna\u2019s cancer vaccine isn\u2019t about beating Keytruda. It\u2019s keeping cancer from coming back in the long term.",
+      "s": -0.92
     },
     {
-      "t": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
-      "s": 0.03
+      "t": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+      "s": -0.81
     },
     {
-      "t": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
-      "s": 0.0
+      "t": "The U.S. economy is great by this measure, and the good times aren\u2019t over. So why are Americans so sour?",
+      "s": 0.79
     },
     {
-      "t": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn\u2019t work out.",
-      "s": 0.0
+      "t": "France is flashing euro crisis signals. This time, the fault lines are different",
+      "s": -0.78
     },
     {
-      "t": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
-      "s": 0.0
+      "t": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+      "s": 0.72
     }
   ]
 }
