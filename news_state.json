@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-24 13:55 UTC",
+  "ts": "2026-10-24 17:19 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 8,
-  "avg_sentiment": 0.306,
-  "burst": true,
+  "recent": 6,
+  "avg_sentiment": 0.063,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
-      "s": 0.8
+      "t": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath",
+      "s": 0.57
     },
     {
-      "t": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "s": 0.61
+      "t": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+      "s": -0.48
     },
     {
-      "t": "Why popular airplanes are getting scrapped years early",
-      "s": 0.42
+      "t": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
+      "s": 0.46
     },
     {
-      "t": "Investors\u2019 recent money moves show a preference for lowering risks over boosting rewards",
-      "s": 0.34
+      "t": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+      "s": -0.42
     },
     {
-      "t": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "s": 0.25
+      "t": "The Social Security Administration wants more babies signed up for \u2018Trump accounts.\u2019 But there\u2019s still a catch.",
+      "s": 0.18
     }
   ]
 }
