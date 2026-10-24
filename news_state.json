@@ -1,27 +1,31 @@
 {
-  "ts": "2026-10-24 20:35 UTC",
+  "ts": "2026-10-24 23:03 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": -0.162,
+  "recent": 0,
+  "avg_sentiment": -0.054,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
-      "s": -0.44
+      "t": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
+      "s": -0.92
     },
     {
-      "t": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
-      "s": -0.38
+      "t": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+      "s": -0.81
     },
     {
-      "t": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "s": 0.25
+      "t": "Young Americans are giving up on car ownership. It\u2019s a path to financial freedom for some.",
+      "s": 0.77
     },
     {
-      "t": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
-      "s": -0.08
+      "t": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+      "s": 0.72
+    },
+    {
+      "t": "In charts: How one of the world's biggest economies got trapped by debt",
+      "s": -0.71
     }
   ]
 }
