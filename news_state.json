@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-25 09:42 UTC",
+  "ts": "2026-10-25 14:13 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 0,
-  "avg_sentiment": -0.05,
+  "recent": 6,
+  "avg_sentiment": 0.226,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
-      "s": -0.92
+      "t": "Worried about this stock-market selloff? Relief may be coming after the midterms \u2014 no matter who wins.",
+      "s": 0.67
     },
     {
-      "t": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-      "s": -0.81
+      "t": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
+      "s": 0.51
     },
     {
-      "t": "Young Americans are giving up on car ownership. It\u2019s a path to financial freedom for some.",
-      "s": 0.77
+      "t": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "s": 0.25
     },
     {
-      "t": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-      "s": 0.72
+      "t": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
+      "s": -0.08
     },
     {
-      "t": "In charts: How one of the world's biggest economies got trapped by debt",
-      "s": -0.71
+      "t": "\u2018Nonanswers\u2019 aren\u2019t working. This is what investors really need from the Fed.",
+      "s": 0.0
     }
   ]
 }
