@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-26 12:46 UTC",
-  "feeds_live": 4,
-  "headlines": 90,
-  "recent": 14,
-  "avg_sentiment": 0.03,
+  "ts": "2026-10-26 19:07 UTC",
+  "feeds_live": 5,
+  "headlines": 100,
+  "recent": 11,
+  "avg_sentiment": 0.008,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Musk says SpaceX\u2019s AI rivals are in trouble, sending their stocks lower",
-      "s": -0.6
+      "t": "These energy stocks are poised to profit from an imminent AI power crunch",
+      "s": 0.72
     },
     {
-      "t": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
-      "s": -0.6
+      "t": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+      "s": -0.56
     },
     {
-      "t": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
-      "s": 0.57
+      "t": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+      "s": -0.48
     },
     {
-      "t": "Caregiving for adult relatives can cost thousands. AARP survey finds support could matter to midterm voters",
-      "s": 0.42
+      "t": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+      "s": 0.46
     },
     {
-      "t": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
-      "s": 0.36
+      "t": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+      "s": -0.38
     }
   ]
 }
