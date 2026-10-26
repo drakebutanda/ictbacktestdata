@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-26 19:07 UTC",
+  "ts": "2026-10-26 23:42 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 11,
-  "avg_sentiment": 0.008,
-  "burst": true,
+  "recent": 5,
+  "avg_sentiment": -0.077,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "These energy stocks are poised to profit from an imminent AI power crunch",
-      "s": 0.72
+      "t": "\u2018You need only watch episodes of Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "s": -0.36
     },
     {
-      "t": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-      "s": -0.56
+      "t": "DOJ charges ex-FBI Director James Comey in new case",
+      "s": -0.27
     },
     {
-      "t": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
-      "s": -0.48
+      "t": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "s": 0.25
     },
     {
-      "t": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
-      "s": 0.46
+      "t": "Israeli election draws tens of thousands of citizens flying back to vote",
+      "s": 0.0
     },
     {
-      "t": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
-      "s": -0.38
+      "t": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+      "s": 0.0
     }
   ]
 }
