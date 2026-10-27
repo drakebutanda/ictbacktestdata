@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-27 04:44 UTC",
+  "ts": "2026-10-27 10:20 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 6,
-  "avg_sentiment": 0.063,
-  "burst": false,
+  "recent": 9,
+  "avg_sentiment": 0.031,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
-      "s": 0.81
+      "t": "The impressive real estate portfolio of sitcom producer Chuck Lorre of \u2018Big Bang Theory\u2019 and \u2018Two and a Half Men\u2019 fame",
+      "s": 0.74
     },
     {
-      "t": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
-      "s": 0.62
+      "t": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
+      "s": 0.44
     },
     {
-      "t": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-      "s": -0.56
+      "t": "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses to pay. Is he legally obligated?",
+      "s": -0.4
     },
     {
-      "t": "DOJ charges ex-FBI Director James Comey in new case",
-      "s": -0.27
+      "t": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
+      "s": -0.32
     },
     {
-      "t": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
-      "s": -0.23
+      "t": "Customers are chasing higher-rate products, and that\u2019s bad news for banks like HSBC",
+      "s": -0.25
     }
   ]
 }
