@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-28 15:53 UTC",
+  "ts": "2026-10-28 20:55 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 16,
-  "avg_sentiment": 0.08,
+  "headlines": 97,
+  "recent": 28,
+  "avg_sentiment": 0.083,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "We\u2019re spending more than $11,000 a year of our own money caring for our aging parents and loved ones",
-      "s": 0.8
+      "t": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
+      "s": 0.64
     },
     {
-      "t": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "s": -0.79
+      "t": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
+      "s": -0.59
     },
     {
-      "t": "At least 68 people dead in high-speed Spain train crash",
-      "s": -0.79
+      "t": "Why did the Fed hold off on raising interest rates? Warsh says it\u2019s because an \u2018information rich\u2019 period is coming.",
+      "s": 0.46
     },
     {
-      "t": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
-      "s": 0.76
+      "t": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
+      "s": 0.42
     },
     {
-      "t": "These software stocks could be winners as earnings season kicks into high gear",
-      "s": 0.48
+      "t": "Oracle stock pops 11% as long-term revenue forecast and clarity on financing ease debt concerns",
+      "s": 0.4
     }
   ]
 }
