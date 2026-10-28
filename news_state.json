@@ -1,27 +1,31 @@
 {
-  "ts": "2026-10-28 01:06 UTC",
+  "ts": "2026-10-28 08:14 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 4,
-  "avg_sentiment": 0.107,
+  "recent": 6,
+  "avg_sentiment": 0.104,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
-      "s": 0.68
+      "t": "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
+      "s": 0.73
     },
     {
-      "t": "Anthropic's IPO is risky business",
-      "s": -0.2
+      "t": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+      "s": -0.64
     },
     {
-      "t": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-      "s": -0.05
+      "t": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
+      "s": 0.62
     },
     {
-      "t": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
-      "s": 0.0
+      "t": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+      "s": -0.38
+    },
+    {
+      "t": "Meta- and Google-backed Jio Platforms\u2019 shares soar over 21% on trading debut after record IPO",
+      "s": 0.3
     }
   ]
 }
