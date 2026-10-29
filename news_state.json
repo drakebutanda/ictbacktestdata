@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-29 14:04 UTC",
+  "ts": "2026-10-29 20:09 UTC",
   "feeds_live": 5,
-  "headlines": 93,
-  "recent": 19,
-  "avg_sentiment": 0.058,
+  "headlines": 96,
+  "recent": 15,
+  "avg_sentiment": -0.094,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "ServiceNow\u2019s stock is on track for its worst day ever. Here\u2019s what went wrong.",
-      "s": -0.8
-    },
-    {
-      "t": "Why Alphabet\u2019s stock could see its worst day ever after the latest results",
+      "t": "Alphabet\u2019s stock just triggered a \u2018death cross.\u2019 Could the worst of the selloff be over?",
       "s": -0.62
     },
     {
-      "t": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
-      "s": 0.62
+      "t": "Why Alphabet\u2019s stock is on track for its worst day ever after the latest results",
+      "s": -0.62
     },
     {
-      "t": "As voters struggle with pricey car loans, mortgages and credit-card debt, the cost of money itself is on the ballot",
-      "s": -0.59
+      "t": "Some Polymarket user funds stolen by hackers, exchange referring matter to U.K. authorities",
+      "s": -0.48
     },
     {
-      "t": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
-      "s": 0.57
+      "t": "Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
+      "s": -0.36
+    },
+    {
+      "t": "DoorDash and Instacart want to join forces. Will the U.S. government get in their way?",
+      "s": 0.36
     }
   ]
 }
