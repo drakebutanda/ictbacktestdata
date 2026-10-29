@@ -1,31 +1,19 @@
 {
-  "ts": "2026-10-29 00:44 UTC",
+  "ts": "2026-10-29 06:54 UTC",
   "feeds_live": 5,
   "headlines": 97,
-  "recent": 11,
-  "avg_sentiment": 0.029,
-  "burst": true,
+  "recent": 2,
+  "avg_sentiment": 0.164,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Why Alphabet\u2019s stock could see its worst drop in years after the latest results",
-      "s": -0.74
+      "t": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+      "s": 0.38
     },
     {
-      "t": "Lumentum\u2019s stock pops as investors cheer a possible sale to Marvell",
-      "s": 0.51
-    },
-    {
-      "t": "Microsoft\u2019s strong quarter backs up its stock rebound. Here's our new price target",
-      "s": 0.48
-    },
-    {
-      "t": "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-      "s": -0.36
-    },
-    {
-      "t": "One passport isn\u2019t enough for some wealthy Chinese. Here\u2019s where they\u2019re looking next",
-      "s": 0.36
+      "t": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "s": -0.05
     }
   ]
 }
