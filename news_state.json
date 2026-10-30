@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-29 20:09 UTC",
+  "ts": "2026-10-30 00:45 UTC",
   "feeds_live": 5,
   "headlines": 96,
-  "recent": 15,
-  "avg_sentiment": -0.094,
+  "recent": 10,
+  "avg_sentiment": -0.128,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Alphabet\u2019s stock just triggered a \u2018death cross.\u2019 Could the worst of the selloff be over?",
-      "s": -0.62
+      "t": "Why Intel\u2019s stock is sinking toward its worst drop in two years",
+      "s": -0.74
     },
     {
-      "t": "Why Alphabet\u2019s stock is on track for its worst day ever after the latest results",
-      "s": -0.62
+      "t": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+      "s": -0.68
     },
     {
-      "t": "Some Polymarket user funds stolen by hackers, exchange referring matter to U.K. authorities",
+      "t": "Binance 'potential security issue' sees $2.54 billion frozen by the likes of Circle, Tether",
+      "s": 0.64
+    },
+    {
+      "t": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
       "s": -0.48
     },
     {
-      "t": "Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
-      "s": -0.36
-    },
-    {
-      "t": "DoorDash and Instacart want to join forces. Will the U.S. government get in their way?",
-      "s": 0.36
+      "t": "Amazon\u2019s stock drops \u2014\u00a0even in the face of a bold new cloud forecast",
+      "s": 0.38
     }
   ]
 }
