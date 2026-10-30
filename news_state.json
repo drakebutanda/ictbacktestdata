@@ -1,19 +1,31 @@
 {
-  "ts": "2026-10-30 06:57 UTC",
+  "ts": "2026-10-30 13:59 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 2,
-  "avg_sentiment": -0.419,
-  "burst": false,
-  "mood": "risk-off",
+  "recent": 15,
+  "avg_sentiment": 0.001,
+  "burst": true,
+  "mood": "neutral",
   "top": [
     {
-      "t": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
-      "s": -0.65
+      "t": "Swiss central bank posts bumper $23bn profit thanks to gold, foreign assets",
+      "s": 0.76
     },
     {
-      "t": "A pharma giant is moving past one patent cliff \u2014 but another is already looming",
-      "s": -0.19
+      "t": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
+      "s": -0.59
+    },
+    {
+      "t": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+      "s": 0.53
+    },
+    {
+      "t": "Hackers steal $6.3 billion from Binance in biggest-ever cryptocurrency theft",
+      "s": -0.49
+    },
+    {
+      "t": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+      "s": -0.36
     }
   ]
 }
