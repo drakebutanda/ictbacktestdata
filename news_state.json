@@ -1,31 +1,19 @@
 {
-  "ts": "2026-10-30 00:45 UTC",
+  "ts": "2026-10-30 06:57 UTC",
   "feeds_live": 5,
-  "headlines": 96,
-  "recent": 10,
-  "avg_sentiment": -0.128,
-  "burst": true,
-  "mood": "neutral",
+  "headlines": 98,
+  "recent": 2,
+  "avg_sentiment": -0.419,
+  "burst": false,
+  "mood": "risk-off",
   "top": [
     {
-      "t": "Why Intel\u2019s stock is sinking toward its worst drop in two years",
-      "s": -0.74
+      "t": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
+      "s": -0.65
     },
     {
-      "t": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
-      "s": -0.68
-    },
-    {
-      "t": "Binance 'potential security issue' sees $2.54 billion frozen by the likes of Circle, Tether",
-      "s": 0.64
-    },
-    {
-      "t": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-      "s": -0.48
-    },
-    {
-      "t": "Amazon\u2019s stock drops \u2014\u00a0even in the face of a bold new cloud forecast",
-      "s": 0.38
+      "t": "A pharma giant is moving past one patent cliff \u2014 but another is already looming",
+      "s": -0.19
     }
   ]
 }
