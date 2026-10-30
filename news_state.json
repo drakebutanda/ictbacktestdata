@@ -1,31 +1,31 @@
 {
-  "ts": "2026-10-30 13:59 UTC",
+  "ts": "2026-10-30 19:14 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 15,
-  "avg_sentiment": 0.001,
+  "headlines": 99,
+  "recent": 14,
+  "avg_sentiment": -0.128,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Swiss central bank posts bumper $23bn profit thanks to gold, foreign assets",
-      "s": 0.76
+      "t": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
+      "s": -0.77
     },
     {
-      "t": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
-      "s": -0.59
-    },
-    {
-      "t": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-      "s": 0.53
-    },
-    {
-      "t": "Hackers steal $6.3 billion from Binance in biggest-ever cryptocurrency theft",
+      "t": "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he right to leave everything to me?",
       "s": -0.49
     },
     {
-      "t": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
-      "s": -0.36
+      "t": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+      "s": -0.49
+    },
+    {
+      "t": "Is your crypto safe? What Binance\u2019s $6.3 billion hack means for bitcoin investors.",
+      "s": 0.44
+    },
+    {
+      "t": "Why bitcoin held up better after the record Binance hack",
+      "s": 0.44
     }
   ]
 }
