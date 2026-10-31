@@ -1,15 +1,19 @@
 {
-  "ts": "2026-10-31 05:15 UTC",
+  "ts": "2026-10-31 12:06 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 1,
-  "avg_sentiment": 0.273,
+  "recent": 2,
+  "avg_sentiment": 0.0,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Grand Theft Callout: \u2018GTA 6\u2019 fans are missing work on the game\u2019s release day because they \u2018don\u2019t want to wait\u2019 anymore",
-      "s": 0.27
+      "t": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
+      "s": 0.0
+    },
+    {
+      "t": "Anthropic's path to the Nasdaq just got a lot bumpier",
+      "s": 0.0
     }
   ]
 }
