@@ -1,31 +1,27 @@
 {
-  "ts": "2026-11-01 14:55 UTC",
+  "ts": "2026-11-01 19:29 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 5,
-  "avg_sentiment": 0.102,
+  "recent": 4,
+  "avg_sentiment": 0.016,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
-      "s": 0.69
+      "t": "Democratic Rep. Stevens endorses Rogers over El-Sayed in Michigan Senate election",
+      "s": 0.34
     },
     {
-      "t": "These Senate races may help determine the fate of Social Security",
-      "s": 0.62
+      "t": "Judge dismisses DOJ lawsuit over Alaska Senate election",
+      "s": -0.23
     },
     {
-      "t": "This is the biggest threat to the AI-powered bull market",
-      "s": -0.53
+      "t": "\u2018Showy jewelry and fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend it all?",
+      "s": -0.05
     },
     {
-      "t": "Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
-      "s": -0.2
-    },
-    {
-      "t": "Why AI is boosting Meta's ad business while hurting Google search",
-      "s": -0.08
+      "t": "Here are 3 big things we're watching in the stock market in the week ahead",
+      "s": 0.0
     }
   ]
 }
