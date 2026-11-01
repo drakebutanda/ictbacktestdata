@@ -1,15 +1,31 @@
 {
-  "ts": "2026-11-01 07:19 UTC",
+  "ts": "2026-11-01 14:55 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 1,
-  "avg_sentiment": 0.361,
+  "recent": 5,
+  "avg_sentiment": 0.102,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Companies promised AI gains\u2014 here's how the payoff showed up in earnings",
-      "s": 0.36
+      "t": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
+      "s": 0.69
+    },
+    {
+      "t": "These Senate races may help determine the fate of Social Security",
+      "s": 0.62
+    },
+    {
+      "t": "This is the biggest threat to the AI-powered bull market",
+      "s": -0.53
+    },
+    {
+      "t": "Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
+      "s": -0.2
+    },
+    {
+      "t": "Why AI is boosting Meta's ad business while hurting Google search",
+      "s": -0.08
     }
   ]
 }
