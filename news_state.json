@@ -1,15 +1,15 @@
 {
-  "ts": "2026-11-01 23:28 UTC",
+  "ts": "2026-11-02 05:42 UTC",
   "feeds_live": 5,
   "headlines": 99,
   "recent": 1,
-  "avg_sentiment": -0.226,
+  "avg_sentiment": 0.0,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
-      "s": -0.23
+      "t": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
+      "s": 0.0
     }
   ]
 }
