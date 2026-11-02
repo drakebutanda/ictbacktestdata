@@ -1,15 +1,31 @@
 {
-  "ts": "2026-11-02 05:42 UTC",
+  "ts": "2026-11-02 15:30 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 1,
-  "avg_sentiment": 0.0,
-  "burst": false,
+  "headlines": 98,
+  "recent": 13,
+  "avg_sentiment": -0.025,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-      "s": 0.0
+      "t": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "s": -0.79
+    },
+    {
+      "t": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
+      "s": -0.78
+    },
+    {
+      "t": "\u2018She\u2019s a Type A personality\u2019: My stepmother wants me to repay my late father\u2019s $40,000 wedding gift. Should I oblige?",
+      "s": 0.44
+    },
+    {
+      "t": "Marvell\u2019s deal for Lumentum is giving flashbacks to the dot-com bubble",
+      "s": 0.34
+    },
+    {
+      "t": "My ex-husband sent me a text, promising $20,000 for our children\u2019s education. Now he refuses to pay. What can I do?",
+      "s": 0.32
     }
   ]
 }
