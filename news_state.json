@@ -1,15 +1,19 @@
 {
-  "ts": "2026-11-03 14:57 UTC",
+  "ts": "2026-11-03 20:54 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 15,
-  "avg_sentiment": -0.053,
+  "recent": 19,
+  "avg_sentiment": -0.022,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "The 'poison pill' ballot measure that could kill the California billionaire tax",
-      "s": -0.85
+      "t": "Eaton's strong quarter should mark a bottom for shares of the AI buildout winner",
+      "s": 0.85
+    },
+    {
+      "t": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+      "s": -0.78
     },
     {
       "t": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
@@ -20,12 +24,8 @@
       "s": 0.61
     },
     {
-      "t": "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test",
-      "s": -0.44
-    },
-    {
-      "t": "This indicator has triggered just 5 times since 2000 \u2014 and it warns of a trap for stocks",
-      "s": -0.4
+      "t": "An overlooked energy source could solve AI\u2019s power crunch \u2014 and these 2 stocks are prime plays",
+      "s": 0.59
     }
   ]
 }
