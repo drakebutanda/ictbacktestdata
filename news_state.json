@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-02 23:23 UTC",
+  "ts": "2026-11-03 06:23 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 5,
-  "avg_sentiment": -0.084,
+  "recent": 0,
+  "avg_sentiment": 0.023,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
-      "s": -0.6
+      "t": "North Korea denies links to Binance hack as researchers trace stolen billions",
+      "s": -0.72
     },
     {
-      "t": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
-      "s": 0.38
+      "t": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
+      "s": 0.69
     },
     {
-      "t": "Feeling isolated? Half of in-office workers describe their desk jobs as 'remote,' NY Fed survey finds",
-      "s": -0.2
+      "t": "Want to help your adult kids and grandkids? Give them money while you\u2019re still alive.",
+      "s": 0.68
     },
     {
-      "t": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
-      "s": 0.0
+      "t": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
+      "s": -0.68
     },
     {
-      "t": "Stock market after midterm elections: What S&P 500 history shows",
-      "s": 0.0
+      "t": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+      "s": -0.68
     }
   ]
 }
