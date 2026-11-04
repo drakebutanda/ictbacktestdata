@@ -1,27 +1,31 @@
 {
-  "ts": "2026-11-04 08:55 UTC",
+  "ts": "2026-11-04 17:01 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 4,
-  "avg_sentiment": 0.343,
-  "burst": false,
+  "headlines": 97,
+  "recent": 9,
+  "avg_sentiment": 0.013,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Novo shares jump 6% as Wegovy pill sales impress, drugmaker hikes outlook",
-      "s": 0.62
+      "t": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
+      "s": 0.88
     },
     {
-      "t": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
-      "s": 0.57
+      "t": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+      "s": -0.71
     },
     {
-      "t": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-      "s": 0.56
+      "t": "The U.S. economy is barreling ahead \u2014 but there\u2019s one big problem",
+      "s": -0.55
     },
     {
-      "t": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-      "s": -0.38
+      "t": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+      "s": 0.3
+    },
+    {
+      "t": "10-year Treasury yield slides as traders mull over Democrats' midterm victories",
+      "s": 0.2
     }
   ]
 }
