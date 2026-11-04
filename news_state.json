@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-04 17:01 UTC",
+  "ts": "2026-11-04 23:30 UTC",
   "feeds_live": 5,
-  "headlines": 97,
-  "recent": 9,
-  "avg_sentiment": 0.013,
+  "headlines": 98,
+  "recent": 16,
+  "avg_sentiment": 0.019,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
-      "s": 0.88
+      "t": "Qualcomm stock drops 6% on weak earnings forecast as memory shortage weighs on smartphone sales",
+      "s": -0.6
     },
     {
-      "t": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
-      "s": -0.71
+      "t": "What was really behind Wednesday's monster rally? Trump quickly making peace",
+      "s": 0.54
     },
     {
-      "t": "The U.S. economy is barreling ahead \u2014 but there\u2019s one big problem",
-      "s": -0.55
+      "t": "This year\u2019s worst-performing S&P 500 stock is finally seeing some major relief",
+      "s": 0.53
     },
     {
-      "t": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-      "s": 0.3
+      "t": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+      "s": -0.4
     },
     {
-      "t": "10-year Treasury yield slides as traders mull over Democrats' midterm victories",
-      "s": 0.2
+      "t": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
+      "s": 0.38
     }
   ]
 }
