@@ -1,31 +1,23 @@
 {
-  "ts": "2026-11-03 20:54 UTC",
+  "ts": "2026-11-04 01:11 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 19,
-  "avg_sentiment": -0.022,
-  "burst": true,
+  "recent": 3,
+  "avg_sentiment": 0.189,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Eaton's strong quarter should mark a bottom for shares of the AI buildout winner",
-      "s": 0.85
+      "t": "Jim Cramer sees signs of life in tech stocks \u2014 but not from the usual winners",
+      "s": 0.63
     },
     {
-      "t": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
-      "s": -0.78
+      "t": "Google responds to political backlash over removing search from schools that ban AI",
+      "s": -0.56
     },
     {
-      "t": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
-      "s": -0.7
-    },
-    {
-      "t": "\u2018It\u2019s good to be old\u2019: I\u2019ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
-      "s": 0.61
-    },
-    {
-      "t": "An overlooked energy source could solve AI\u2019s power crunch \u2014 and these 2 stocks are prime plays",
-      "s": 0.59
+      "t": "Here\u2019s why AMD\u2019s stock is rising \u2014 and sending a confident message about the AI trade",
+      "s": 0.49
     }
   ]
 }
