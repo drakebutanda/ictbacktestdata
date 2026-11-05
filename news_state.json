@@ -1,31 +1,15 @@
 {
-  "ts": "2026-11-04 23:30 UTC",
+  "ts": "2026-11-05 06:20 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 16,
-  "avg_sentiment": 0.019,
-  "burst": true,
+  "recent": 1,
+  "avg_sentiment": -0.225,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Qualcomm stock drops 6% on weak earnings forecast as memory shortage weighs on smartphone sales",
-      "s": -0.6
-    },
-    {
-      "t": "What was really behind Wednesday's monster rally? Trump quickly making peace",
-      "s": 0.54
-    },
-    {
-      "t": "This year\u2019s worst-performing S&P 500 stock is finally seeing some major relief",
-      "s": 0.53
-    },
-    {
-      "t": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-      "s": -0.4
-    },
-    {
-      "t": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
-      "s": 0.38
+      "t": "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings",
+      "s": -0.22
     }
   ]
 }
