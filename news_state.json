@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-05 15:19 UTC",
+  "ts": "2026-11-05 21:53 UTC",
   "feeds_live": 5,
   "headlines": 97,
-  "recent": 16,
-  "avg_sentiment": 0.068,
+  "recent": 18,
+  "avg_sentiment": -0.033,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "s": -0.79
+      "t": "Bloom Energy\u2019s stock is one of the S&P 500\u2019s biggest losers amid fears of data-center delays",
+      "s": -0.74
     },
     {
-      "t": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what\u2019s making them richer.",
-      "s": 0.77
+      "t": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025",
+      "s": -0.74
     },
     {
-      "t": "Billionaires aren\u2019t off the hook for higher taxes, even if they did dodge California\u2019s wealth tax",
-      "s": 0.49
+      "t": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
+      "s": -0.62
     },
     {
-      "t": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz\u2019s Trian",
-      "s": -0.49
+      "t": "As Nvidia\u2019s stock enters a bear market, bargain hunters see a golden buying opportunity",
+      "s": 0.56
     },
     {
-      "t": "This is the secret sauce for the economy \u2014 and it\u2019s showing up in faster U.S. growth",
-      "s": 0.38
+      "t": "Traders flock to Treasury market for safety as tech-led stock selloff deepens",
+      "s": 0.56
     }
   ]
 }
