@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-05 21:53 UTC",
+  "ts": "2026-11-06 02:10 UTC",
   "feeds_live": 5,
   "headlines": 97,
-  "recent": 18,
-  "avg_sentiment": -0.033,
-  "burst": true,
+  "recent": 5,
+  "avg_sentiment": -0.057,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Bloom Energy\u2019s stock is one of the S&P 500\u2019s biggest losers amid fears of data-center delays",
-      "s": -0.74
-    },
-    {
-      "t": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025",
-      "s": -0.74
-    },
-    {
-      "t": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
+      "t": "Here\u2019s what\u2019s driving Iren\u2019s stock higher after a brutal selloff",
       "s": -0.62
     },
     {
-      "t": "As Nvidia\u2019s stock enters a bear market, bargain hunters see a golden buying opportunity",
-      "s": 0.56
+      "t": "IRS unveils higher capital gains tax brackets for 2027",
+      "s": 0.34
     },
     {
-      "t": "Traders flock to Treasury market for safety as tech-led stock selloff deepens",
-      "s": 0.56
+      "t": "Cloudflare\u2019s stock mounts a big comeback after fastest sales surge in nearly 4 years",
+      "s": 0.0
+    },
+    {
+      "t": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+      "s": 0.0
+    },
+    {
+      "t": "IRS announces new federal income tax brackets for 2027",
+      "s": 0.0
     }
   ]
 }
