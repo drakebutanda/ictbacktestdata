@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-06 17:52 UTC",
+  "ts": "2026-11-06 22:57 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 13,
-  "avg_sentiment": -0.041,
-  "burst": true,
+  "recent": 6,
+  "avg_sentiment": -0.128,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Layoffs with dignity? Why these tech companies are offering free laptops and LinkedIn Premium.",
-      "s": 0.72
+      "t": "Data centers run on debt. That was a problem for bonds this year \u2014 and it\u2019s only going to get worse.",
+      "s": -0.81
     },
     {
-      "t": "\u2018We\u2019re losing to cottage cheese\u2019: The protein-maxxing craze is hurting cream cheese sales",
-      "s": -0.71
+      "t": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "s": 0.19
     },
     {
-      "t": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-      "s": -0.51
+      "t": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
+      "s": -0.15
     },
     {
-      "t": "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
-      "s": 0.51
+      "t": "Elon Musk opens the door for a big SpaceX acquisition",
+      "s": 0.0
     },
     {
-      "t": "Wall Street's fear gauge may be flashing a buy sign",
-      "s": -0.49
+      "t": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+      "s": 0.0
     }
   ]
 }
