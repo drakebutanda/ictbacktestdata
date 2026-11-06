@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-06 02:10 UTC",
+  "ts": "2026-11-06 10:40 UTC",
   "feeds_live": 5,
-  "headlines": 97,
-  "recent": 5,
-  "avg_sentiment": -0.057,
+  "headlines": 99,
+  "recent": 7,
+  "avg_sentiment": -0.001,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Here\u2019s what\u2019s driving Iren\u2019s stock higher after a brutal selloff",
-      "s": -0.62
+      "t": "Drones are changing warfare. But defense giants are still making billions from old-school weapons",
+      "s": -0.57
     },
     {
-      "t": "IRS unveils higher capital gains tax brackets for 2027",
-      "s": 0.34
+      "t": "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk",
+      "s": -0.53
     },
     {
-      "t": "Cloudflare\u2019s stock mounts a big comeback after fastest sales surge in nearly 4 years",
-      "s": 0.0
+      "t": "Democrat sweep gives markets a reason to rethink path of interest rates",
+      "s": 0.46
     },
     {
-      "t": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
-      "s": 0.0
+      "t": "The $4 million mansion that author Sarah J. Maas bought after finding fame with \u2018A Court of Thorns and Roses\u2019",
+      "s": 0.44
     },
     {
-      "t": "IRS announces new federal income tax brackets for 2027",
-      "s": 0.0
+      "t": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
+      "s": 0.19
     }
   ]
 }
