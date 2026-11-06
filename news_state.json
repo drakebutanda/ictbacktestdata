@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-06 10:40 UTC",
+  "ts": "2026-11-06 17:52 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 7,
-  "avg_sentiment": -0.001,
-  "burst": false,
+  "recent": 13,
+  "avg_sentiment": -0.041,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Drones are changing warfare. But defense giants are still making billions from old-school weapons",
-      "s": -0.57
+      "t": "Layoffs with dignity? Why these tech companies are offering free laptops and LinkedIn Premium.",
+      "s": 0.72
     },
     {
-      "t": "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk",
-      "s": -0.53
+      "t": "\u2018We\u2019re losing to cottage cheese\u2019: The protein-maxxing craze is hurting cream cheese sales",
+      "s": -0.71
     },
     {
-      "t": "Democrat sweep gives markets a reason to rethink path of interest rates",
-      "s": 0.46
+      "t": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "s": -0.51
     },
     {
-      "t": "The $4 million mansion that author Sarah J. Maas bought after finding fame with \u2018A Court of Thorns and Roses\u2019",
-      "s": 0.44
+      "t": "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
+      "s": 0.51
     },
     {
-      "t": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
-      "s": 0.19
+      "t": "Wall Street's fear gauge may be flashing a buy sign",
+      "s": -0.49
     }
   ]
 }
