@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-07 16:15 UTC",
+  "ts": "2026-11-07 20:45 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 9,
-  "avg_sentiment": -0.143,
-  "burst": true,
+  "headlines": 100,
+  "recent": 5,
+  "avg_sentiment": -0.084,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018We\u2019re losing to cottage cheese\u2019: The protein-maxxing craze is hurting cream-cheese sales",
-      "s": -0.71
+      "t": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+      "s": -0.42
     },
     {
-      "t": "You\u2019re fired! But you can keep the laptop and insurance. And here\u2019s $10,000.",
-      "s": -0.38
+      "t": "Second-guessing my adviser: Is an annuity the right move in this market?",
+      "s": 0.0
     },
     {
-      "t": "Trump\u2019s Iran war has changed the future of Social Security",
-      "s": -0.36
+      "t": "Here are the 2027 capital-gains tax rates for each income level",
+      "s": 0.0
     },
     {
-      "t": "Why the prognosis for healthcare stocks is uncertain ahead of Congress\u2019 new makeup",
-      "s": -0.3
+      "t": "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost you.",
+      "s": 0.0
     },
     {
-      "t": "You follow the rules for smart stock trading. But are they the right rules?",
-      "s": 0.21
+      "t": "Trump offers UFC chief Dana White press secretary job",
+      "s": 0.0
     }
   ]
 }
