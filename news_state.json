@@ -1,31 +1,15 @@
 {
-  "ts": "2026-11-07 02:41 UTC",
+  "ts": "2026-11-07 09:52 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 0,
-  "avg_sentiment": 0.029,
+  "recent": 1,
+  "avg_sentiment": -0.85,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-off",
   "top": [
     {
-      "t": "Data centers run on debt. That was a problem for bonds this year \u2014 and it\u2019s only going to get worse.",
-      "s": -0.81
-    },
-    {
-      "t": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
-      "s": 0.79
-    },
-    {
-      "t": "S&P revises Boston Scientific outlook to negative on franchise pressures",
-      "s": -0.72
-    },
-    {
-      "t": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-      "s": -0.68
-    },
-    {
-      "t": "Voters say the economy drove them to the polls \u2014 and blame Trump for their troubles",
-      "s": -0.66
+      "t": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
+      "s": -0.85
     }
   ]
 }
