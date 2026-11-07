@@ -1,9 +1,9 @@
 {
-  "ts": "2026-11-06 22:57 UTC",
+  "ts": "2026-11-07 02:41 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 6,
-  "avg_sentiment": -0.128,
+  "recent": 0,
+  "avg_sentiment": 0.029,
   "burst": false,
   "mood": "neutral",
   "top": [
@@ -12,20 +12,20 @@
       "s": -0.81
     },
     {
-      "t": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-      "s": 0.19
+      "t": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
+      "s": 0.79
     },
     {
-      "t": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
-      "s": -0.15
+      "t": "S&P revises Boston Scientific outlook to negative on franchise pressures",
+      "s": -0.72
     },
     {
-      "t": "Elon Musk opens the door for a big SpaceX acquisition",
-      "s": 0.0
+      "t": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "s": -0.68
     },
     {
-      "t": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-      "s": 0.0
+      "t": "Voters say the economy drove them to the polls \u2014 and blame Trump for their troubles",
+      "s": -0.66
     }
   ]
 }
