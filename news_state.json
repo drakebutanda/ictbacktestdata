@@ -1,30 +1,18 @@
 {
-  "ts": "2026-11-08 14:57 UTC",
+  "ts": "2026-11-08 19:30 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 5,
-  "avg_sentiment": -0.347,
+  "recent": 2,
+  "avg_sentiment": -0.211,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018We\u2019re losing to cottage cheese\u2019: The protein-maxxing craze is hurting cream-cheese sales",
-      "s": -0.71
-    },
-    {
-      "t": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+      "t": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
       "s": -0.42
     },
     {
-      "t": "Stocks are moving in sync again for the first time in a while. There\u2019s just one problem.",
-      "s": -0.4
-    },
-    {
-      "t": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
-      "s": -0.2
-    },
-    {
-      "t": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+      "t": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
       "s": 0.0
     }
   ]
