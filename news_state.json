@@ -1,15 +1,31 @@
 {
-  "ts": "2026-11-08 07:08 UTC",
+  "ts": "2026-11-08 14:57 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 1,
-  "avg_sentiment": 0.178,
+  "recent": 5,
+  "avg_sentiment": -0.347,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Cathie Wood 'always feels better when the market is worried' \u2014 here's why",
-      "s": 0.18
+      "t": "\u2018We\u2019re losing to cottage cheese\u2019: The protein-maxxing craze is hurting cream-cheese sales",
+      "s": -0.71
+    },
+    {
+      "t": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+      "s": -0.42
+    },
+    {
+      "t": "Stocks are moving in sync again for the first time in a while. There\u2019s just one problem.",
+      "s": -0.4
+    },
+    {
+      "t": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+      "s": -0.2
+    },
+    {
+      "t": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+      "s": 0.0
     }
   ]
 }
