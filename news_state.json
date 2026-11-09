@@ -1,15 +1,31 @@
 {
-  "ts": "2026-11-09 05:55 UTC",
+  "ts": "2026-11-09 15:56 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 1,
-  "avg_sentiment": -0.273,
-  "burst": false,
+  "headlines": 100,
+  "recent": 10,
+  "avg_sentiment": -0.168,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
-      "s": -0.27
+      "t": "Eli Lilly\u2019s Foundayo obesity pill eases sleep apnea in late-stage trial, paving way for approval",
+      "s": 0.66
+    },
+    {
+      "t": "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+      "s": -0.57
+    },
+    {
+      "t": "How SpaceX was able to avert one of the market\u2019s biggest fears about its stock",
+      "s": -0.54
+    },
+    {
+      "t": "As Nvidia\u2019s stock falls, here\u2019s what Wall Street has to say about the Jensen Huang scandal",
+      "s": -0.44
+    },
+    {
+      "t": "Weekend trading of Nvidia scandal shines light on new financial products",
+      "s": -0.44
     }
   ]
 }
