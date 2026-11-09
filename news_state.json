@@ -1,23 +1,15 @@
 {
-  "ts": "2026-11-08 23:35 UTC",
+  "ts": "2026-11-09 05:55 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 3,
-  "avg_sentiment": 0.071,
+  "headlines": 99,
+  "recent": 1,
+  "avg_sentiment": -0.273,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "You follow the rules for smart stock trading. But are they the right rules?",
-      "s": 0.21
-    },
-    {
-      "t": "A new setback for the AI trade: Nvidia\u2019s board is probing CEO Huang\u2019s relationship with alleged spy",
-      "s": 0.0
-    },
-    {
-      "t": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-      "s": 0.0
+      "t": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
+      "s": -0.27
     }
   ]
 }
