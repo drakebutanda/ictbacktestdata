@@ -1,10 +1,10 @@
 {
-  "ts": "2026-11-10 00:07 UTC",
+  "ts": "2026-11-10 08:12 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 11,
-  "avg_sentiment": -0.036,
-  "burst": true,
+  "headlines": 97,
+  "recent": 5,
+  "avg_sentiment": -0.152,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
@@ -12,20 +12,20 @@
       "s": -0.61
     },
     {
-      "t": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-      "s": -0.56
+      "t": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
+      "s": -0.49
     },
     {
-      "t": "Nvidia\u2019s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
-      "s": 0.48
+      "t": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+      "s": 0.36
     },
     {
-      "t": "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations\u2019",
-      "s": 0.34
+      "t": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
+      "s": -0.32
     },
     {
-      "t": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
-      "s": 0.2
+      "t": "SoftBank Group shares surge 14% as Asian tech stocks track Wall Street rebound",
+      "s": 0.3
     }
   ]
 }
