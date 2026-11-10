@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-09 15:56 UTC",
+  "ts": "2026-11-10 00:07 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 10,
-  "avg_sentiment": -0.168,
+  "headlines": 98,
+  "recent": 11,
+  "avg_sentiment": -0.036,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Eli Lilly\u2019s Foundayo obesity pill eases sleep apnea in late-stage trial, paving way for approval",
-      "s": 0.66
+      "t": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+      "s": -0.61
     },
     {
-      "t": "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-      "s": -0.57
+      "t": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+      "s": -0.56
     },
     {
-      "t": "How SpaceX was able to avert one of the market\u2019s biggest fears about its stock",
-      "s": -0.54
+      "t": "Nvidia\u2019s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+      "s": 0.48
     },
     {
-      "t": "As Nvidia\u2019s stock falls, here\u2019s what Wall Street has to say about the Jensen Huang scandal",
-      "s": -0.44
+      "t": "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations\u2019",
+      "s": 0.34
     },
     {
-      "t": "Weekend trading of Nvidia scandal shines light on new financial products",
-      "s": -0.44
+      "t": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+      "s": 0.2
     }
   ]
 }
