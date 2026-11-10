@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-10 16:56 UTC",
+  "ts": "2026-11-10 22:16 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 17,
-  "avg_sentiment": -0.128,
+  "headlines": 100,
+  "recent": 13,
+  "avg_sentiment": 0.025,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "s": -0.7
-    },
-    {
-      "t": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
-      "s": -0.67
-    },
-    {
-      "t": "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and other job interview mistakes\u2014do this instead",
+      "t": "GE Vernova sellers have it all wrong \u2014 plus, why Fed rate hike odds are soaring",
       "s": -0.48
     },
     {
-      "t": "Bridgepoint sees opportunity in 're-rated' real estate",
-      "s": 0.42
+      "t": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
+      "s": -0.44
     },
     {
-      "t": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-      "s": -0.38
+      "t": "Retirees should be big beneficiaries of the midterms: \u2018Democrats will hold every gavel that matters for aging and public policy\u2019",
+      "s": 0.44
+    },
+    {
+      "t": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
+      "s": 0.38
+    },
+    {
+      "t": "Ignore the wild swings in chip stocks until they reach these \u2018lines in the sand\u2019",
+      "s": -0.34
     }
   ]
 }
