@@ -1,23 +1,31 @@
 {
-  "ts": "2026-11-11 02:40 UTC",
+  "ts": "2026-11-11 10:39 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 3,
-  "avg_sentiment": -0.116,
-  "burst": false,
+  "recent": 10,
+  "avg_sentiment": -0.028,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
+      "t": "American soldier arrested on suspicion of spying for Russia",
+      "s": -0.69
+    },
+    {
+      "t": "Nissan CEO breaks down how it plans to fight back against Chinese companies, after second outlook cut in months",
+      "s": -0.57
+    },
+    {
+      "t": "I\u2019m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+      "s": 0.49
+    },
+    {
+      "t": "CoreWeave stock pops 11% after outlook raise eases AI slowdown concerns",
+      "s": 0.32
+    },
+    {
       "t": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
       "s": -0.3
-    },
-    {
-      "t": "CoreWeave\u2019s stock pops as new financing playbook eases debt concerns",
-      "s": -0.05
-    },
-    {
-      "t": "One reason Children\u2019s Place is filing for bankruptcy? Not enough children.",
-      "s": 0.0
     }
   ]
 }
