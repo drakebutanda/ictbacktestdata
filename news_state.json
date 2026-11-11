@@ -1,31 +1,23 @@
 {
-  "ts": "2026-11-10 22:16 UTC",
+  "ts": "2026-11-11 02:40 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 13,
-  "avg_sentiment": 0.025,
-  "burst": true,
+  "recent": 3,
+  "avg_sentiment": -0.116,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "GE Vernova sellers have it all wrong \u2014 plus, why Fed rate hike odds are soaring",
-      "s": -0.48
+      "t": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
+      "s": -0.3
     },
     {
-      "t": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
-      "s": -0.44
+      "t": "CoreWeave\u2019s stock pops as new financing playbook eases debt concerns",
+      "s": -0.05
     },
     {
-      "t": "Retirees should be big beneficiaries of the midterms: \u2018Democrats will hold every gavel that matters for aging and public policy\u2019",
-      "s": 0.44
-    },
-    {
-      "t": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
-      "s": 0.38
-    },
-    {
-      "t": "Ignore the wild swings in chip stocks until they reach these \u2018lines in the sand\u2019",
-      "s": -0.34
+      "t": "One reason Children\u2019s Place is filing for bankruptcy? Not enough children.",
+      "s": 0.0
     }
   ]
 }
