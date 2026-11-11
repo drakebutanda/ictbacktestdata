@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-11 10:39 UTC",
+  "ts": "2026-11-11 18:32 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 10,
-  "avg_sentiment": -0.028,
+  "headlines": 99,
+  "recent": 12,
+  "avg_sentiment": 0.088,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "American soldier arrested on suspicion of spying for Russia",
-      "s": -0.69
+      "t": "Analysis: Is Nvidia too big to fail?\u00a0Its AI financing web raises the stakes",
+      "s": -0.54
     },
     {
-      "t": "Nissan CEO breaks down how it plans to fight back against Chinese companies, after second outlook cut in months",
-      "s": -0.57
+      "t": "JetBlue unveils new first class seats to bring back profits",
+      "s": 0.44
     },
     {
-      "t": "I\u2019m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
-      "s": 0.49
+      "t": "Need money for a down payment? More employers are offering to help.",
+      "s": 0.4
     },
     {
-      "t": "CoreWeave stock pops 11% after outlook raise eases AI slowdown concerns",
-      "s": 0.32
+      "t": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
+      "s": 0.38
     },
     {
-      "t": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
-      "s": -0.3
+      "t": "General strikes to paralyze Spain as protestors clash with police ahead of election campaign",
+      "s": -0.36
     }
   ]
 }
