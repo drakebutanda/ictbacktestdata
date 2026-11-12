@@ -1,31 +1,19 @@
 {
-  "ts": "2026-11-12 01:26 UTC",
+  "ts": "2026-11-12 09:38 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 6,
-  "avg_sentiment": 0.137,
+  "recent": 2,
+  "avg_sentiment": 0.115,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
-      "s": 0.44
+      "t": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
+      "s": 0.13
     },
     {
-      "t": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
-      "s": 0.38
-    },
-    {
-      "t": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
-      "s": 0.0
-    },
-    {
-      "t": "Nvidia\u2019s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-      "s": 0.0
-    },
-    {
-      "t": "Nvidia prepares to oust Jensen Huang, WSJ reports \u2014 stock sinks",
-      "s": 0.0
+      "t": "Nvidia stock falls 6% as investors await Jensen Huang\u2019s fate",
+      "s": 0.1
     }
   ]
 }
