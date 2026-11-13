@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-13 16:05 UTC",
+  "ts": "2026-11-13 22:28 UTC",
   "feeds_live": 5,
-  "headlines": 97,
-  "recent": 20,
-  "avg_sentiment": -0.009,
+  "headlines": 98,
+  "recent": 18,
+  "avg_sentiment": -0.138,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "s": -0.7
+      "t": "AI risks are the biggest threat to the financial system, Fed survey finds",
+      "s": -0.67
     },
     {
-      "t": "NHL\u2019s next TV deal will test the league\u2019s strength while media companies prepare for NFL rights increase",
-      "s": 0.67
+      "t": "Global oil supplies are suddenly flowing. Why a crude glut won\u2019t mean cheaper diesel.",
+      "s": -0.57
     },
     {
-      "t": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
-      "s": 0.56
+      "t": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
+      "s": -0.51
     },
     {
-      "t": "The 2027 401(k) limits are here. See how much more you can save next year.",
-      "s": 0.54
+      "t": "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next?",
+      "s": -0.38
     },
     {
-      "t": "Bessent blames Lutnick\u2019s Commerce as he slams Nvidia chip \u2018leakage\u2019 to China",
-      "s": -0.4
+      "t": "They train people to avoid 'honeypot' scams\u2014here are the common red flags they spot: 'It feels so good to be wanted'",
+      "s": 0.37
     }
   ]
 }
