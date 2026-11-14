@@ -1,31 +1,27 @@
 {
-  "ts": "2026-11-13 22:28 UTC",
+  "ts": "2026-11-14 03:00 UTC",
   "feeds_live": 5,
   "headlines": 98,
-  "recent": 18,
-  "avg_sentiment": -0.138,
-  "burst": true,
+  "recent": 4,
+  "avg_sentiment": -0.017,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "AI risks are the biggest threat to the financial system, Fed survey finds",
-      "s": -0.67
+      "t": "14 dividend stocks selected for long-term growth",
+      "s": 0.38
     },
     {
-      "t": "Global oil supplies are suddenly flowing. Why a crude glut won\u2019t mean cheaper diesel.",
-      "s": -0.57
+      "t": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+      "s": -0.3
     },
     {
-      "t": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
-      "s": -0.51
+      "t": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
+      "s": -0.15
     },
     {
-      "t": "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next?",
-      "s": -0.38
-    },
-    {
-      "t": "They train people to avoid 'honeypot' scams\u2014here are the common red flags they spot: 'It feels so good to be wanted'",
-      "s": 0.37
+      "t": "Trump doesn\u2019t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+      "s": 0.0
     }
   ]
 }
