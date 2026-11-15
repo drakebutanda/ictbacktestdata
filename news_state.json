@@ -1,9 +1,9 @@
 {
-  "ts": "2026-11-15 02:30 UTC",
+  "ts": "2026-11-15 10:38 UTC",
   "feeds_live": 5,
-  "headlines": 98,
+  "headlines": 99,
   "recent": 0,
-  "avg_sentiment": 0.031,
+  "avg_sentiment": 0.028,
   "burst": false,
   "mood": "neutral",
   "top": [
@@ -16,16 +16,16 @@
       "s": 0.77
     },
     {
+      "t": "Kids\u2019 Choice Awards honor Chris Pratt, BTS",
+      "s": 0.74
+    },
+    {
       "t": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
       "s": -0.7
     },
     {
       "t": "Juice your growth and save on taxes in this workplace investment account",
       "s": 0.7
-    },
-    {
-      "t": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-      "s": 0.69
     }
   ]
 }
