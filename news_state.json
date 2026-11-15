@@ -1,18 +1,26 @@
 {
-  "ts": "2026-11-15 17:38 UTC",
+  "ts": "2026-11-15 22:41 UTC",
   "feeds_live": 5,
   "headlines": 100,
-  "recent": 2,
-  "avg_sentiment": -0.3,
+  "recent": 4,
+  "avg_sentiment": -0.025,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
-      "s": -0.6
+      "t": "My older brother, who has no children, cut our only sister out of his will. I\u2019ll get everything. Do I tell her?",
+      "s": -0.1
     },
     {
-      "t": "Bessent calls for \u2018dramatic shakeup\u2019 at Nvidia, urges outside CEO",
+      "t": "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in years",
+      "s": 0.0
+    },
+    {
+      "t": "Budget airlines are going upscale with first-class seats and faster wifi",
+      "s": 0.0
+    },
+    {
+      "t": "'We slept here': Flight delays linger but schedule is back on track for Monday",
       "s": 0.0
     }
   ]
