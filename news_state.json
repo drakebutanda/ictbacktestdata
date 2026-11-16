@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-16 10:55 UTC",
+  "ts": "2026-11-16 20:54 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 10,
-  "avg_sentiment": 0.018,
+  "headlines": 100,
+  "recent": 12,
+  "avg_sentiment": -0.04,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "AI is reshaping banking jobs \u2013 but its ability to drive profits remains unclear",
-      "s": 0.65
+      "t": "The FDA declined to approve one of biotech\u2019s most closely watched cancer drugs. The company\u2019s stock tumbled.",
+      "s": -0.69
+    },
+    {
+      "t": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+      "s": -0.57
     },
     {
       "t": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
       "s": 0.54
     },
     {
-      "t": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker",
-      "s": -0.53
+      "t": "California sues OpenAI over Hugging Face, other AI model loss of control",
+      "s": 0.13
     },
     {
-      "t": "Why Morgan Stanley says it\u2019s time to go \u2018max\u2019 overweight on stocks",
-      "s": -0.36
-    },
-    {
-      "t": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
-      "s": -0.3
+      "t": "Jensen Huang\u2019s fans want him back as Nvidia CEO. This is why that\u2019s unlikely.",
+      "s": 0.08
     }
   ]
 }
