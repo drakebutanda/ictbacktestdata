@@ -1,31 +1,15 @@
 {
-  "ts": "2026-11-16 20:54 UTC",
+  "ts": "2026-11-17 03:38 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 12,
-  "avg_sentiment": -0.04,
-  "burst": true,
-  "mood": "neutral",
+  "headlines": 99,
+  "recent": 1,
+  "avg_sentiment": 0.542,
+  "burst": false,
+  "mood": "risk-on",
   "top": [
-    {
-      "t": "The FDA declined to approve one of biotech\u2019s most closely watched cancer drugs. The company\u2019s stock tumbled.",
-      "s": -0.69
-    },
-    {
-      "t": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-      "s": -0.57
-    },
     {
       "t": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
       "s": 0.54
-    },
-    {
-      "t": "California sues OpenAI over Hugging Face, other AI model loss of control",
-      "s": 0.13
-    },
-    {
-      "t": "Jensen Huang\u2019s fans want him back as Nvidia CEO. This is why that\u2019s unlikely.",
-      "s": 0.08
     }
   ]
 }
