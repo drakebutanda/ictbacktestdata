@@ -1,15 +1,31 @@
 {
-  "ts": "2026-11-17 03:38 UTC",
+  "ts": "2026-11-17 13:01 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 1,
-  "avg_sentiment": 0.542,
-  "burst": false,
-  "mood": "risk-on",
+  "recent": 9,
+  "avg_sentiment": 0.108,
+  "burst": true,
+  "mood": "neutral",
   "top": [
     {
-      "t": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "s": 0.54
+      "t": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "s": 0.71
+    },
+    {
+      "t": "Now\u2019s the perfect time for networking. Here\u2019s how to send a cringe-free email.",
+      "s": 0.57
+    },
+    {
+      "t": "Fund managers just slashed their tech bets at the fastest pace in two decades \u2014 and this is the tail risk keeping them up at night",
+      "s": -0.46
+    },
+    {
+      "t": "Ukraine damages Putin\u2019s prized Crimea bridge as Zelenskyy lauds \u2018unprecedented operation\u2019",
+      "s": 0.13
+    },
+    {
+      "t": "Nvidia has lost $2 trillion in value. Here's what options traders expect from earnings",
+      "s": 0.03
     }
   ]
 }
