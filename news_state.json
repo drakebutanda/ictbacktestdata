@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-18 13:45 UTC",
+  "ts": "2026-11-18 21:46 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 19,
-  "avg_sentiment": 0.063,
+  "headlines": 100,
+  "recent": 12,
+  "avg_sentiment": -0.026,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Target posts best sales growth in five years, raises guidance",
-      "s": 0.78
+      "t": "Grand Theft Callout: \u2018GTA 6\u2019 fans are missing work to play \u2014 and some companies are making the game\u2019s release a holiday",
+      "s": 0.71
     },
     {
-      "t": "Democrat Mary Peltola wins Alaska Senate election",
-      "s": 0.57
+      "t": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "s": -0.61
     },
     {
-      "t": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "s": 0.54
+      "t": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+      "s": -0.49
     },
     {
-      "t": "Lowe's posts strong online sales, raises outlook despite slow housing market",
-      "s": 0.51
+      "t": "CEO turned informant: How the FDA built a case against executives promising cheap medications",
+      "s": 0.4
     },
     {
-      "t": "Paris Hilton, Alexandria Ocasio-Cortez press House to pass Defiance Act to fight AI deepfake pornography",
-      "s": -0.38
+      "t": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm?",
+      "s": -0.36
     }
   ]
 }
