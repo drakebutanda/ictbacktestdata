@@ -1,10 +1,10 @@
 {
-  "ts": "2026-11-20 02:56 UTC",
+  "ts": "2026-11-20 11:19 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 4,
-  "avg_sentiment": -0.163,
-  "burst": false,
+  "recent": 9,
+  "avg_sentiment": -0.273,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
@@ -12,16 +12,20 @@
       "s": -0.77
     },
     {
-      "t": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-      "s": 0.27
+      "t": "How Bear Grylls lived in the harsh conditions of his own home on an abandoned island with \u2018no power, no water, no roof\u2019",
+      "s": -0.74
     },
     {
-      "t": "Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
-      "s": -0.15
+      "t": "Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine",
+      "s": 0.69
     },
     {
-      "t": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
-      "s": 0.0
+      "t": "Apple seems to be building its own AI agent. This could be bad news for Meta\u2019s Muse.",
+      "s": -0.54
+    },
+    {
+      "t": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who\u2019s right?",
+      "s": -0.44
     }
   ]
 }
