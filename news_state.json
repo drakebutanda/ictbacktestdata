@@ -1,31 +1,27 @@
 {
-  "ts": "2026-11-19 21:19 UTC",
+  "ts": "2026-11-20 02:56 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 19,
-  "avg_sentiment": -0.037,
-  "burst": true,
+  "headlines": 99,
+  "recent": 4,
+  "avg_sentiment": -0.163,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "3-step method to influence people and win them over, from a Stanford expert: \u2018Your voice is like a muscle\u2019",
-      "s": 0.74
+      "t": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "s": -0.77
     },
     {
-      "t": "Peterson: Nvidia\u2019s leadership crisis tests the chipmaker\u2019s role as the \u2018central bank of AI\u2019",
-      "s": -0.62
+      "t": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+      "s": 0.27
     },
     {
-      "t": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
-      "s": -0.46
+      "t": "Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
+      "s": -0.15
     },
     {
-      "t": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-      "s": 0.42
-    },
-    {
-      "t": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm?",
-      "s": -0.36
+      "t": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+      "s": 0.0
     }
   ]
 }
