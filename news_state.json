@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-20 11:19 UTC",
+  "ts": "2026-11-20 19:55 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 9,
-  "avg_sentiment": -0.273,
+  "headlines": 100,
+  "recent": 16,
+  "avg_sentiment": -0.025,
   "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "t": "Nvidia stock plunges 12%, rides longest weekly losing streak since 2008 financial crisis",
       "s": -0.77
     },
     {
-      "t": "How Bear Grylls lived in the harsh conditions of his own home on an abandoned island with \u2018no power, no water, no roof\u2019",
-      "s": -0.74
+      "t": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled spring'",
+      "s": 0.64
     },
     {
-      "t": "Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine",
-      "s": 0.69
+      "t": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "s": -0.59
     },
     {
-      "t": "Apple seems to be building its own AI agent. This could be bad news for Meta\u2019s Muse.",
-      "s": -0.54
+      "t": "Stocks could face a \u2018doom loop\u2019 if Wall Street underestimates the risk of an economic downturn, strategist warns",
+      "s": -0.56
     },
     {
-      "t": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who\u2019s right?",
-      "s": -0.44
+      "t": "Trump says he still has confidence in Lutnick",
+      "s": 0.51
     }
   ]
 }
