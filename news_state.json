@@ -1,31 +1,27 @@
 {
-  "ts": "2026-11-21 09:32 UTC",
+  "ts": "2026-11-21 17:17 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 0,
-  "avg_sentiment": 0.018,
+  "headlines": 99,
+  "recent": 4,
+  "avg_sentiment": -0.24,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-      "s": -0.8
+      "t": "Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020",
+      "s": -0.74
     },
     {
-      "t": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
-      "s": 0.79
+      "t": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "s": -0.7
     },
     {
-      "t": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-      "s": -0.77
+      "t": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+      "s": 0.56
     },
     {
-      "t": "These stocks were crushed the most this week as the tech wreck accelerated",
-      "s": -0.69
-    },
-    {
-      "t": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-      "s": 0.69
+      "t": "Is Social Security a Ponzi scheme? No. Don\u2019t get carried away with 1930s-era prophecies of doom.",
+      "s": -0.08
     }
   ]
 }
