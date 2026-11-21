@@ -1,16 +1,12 @@
 {
-  "ts": "2026-11-21 01:20 UTC",
+  "ts": "2026-11-21 09:32 UTC",
   "feeds_live": 5,
   "headlines": 100,
   "recent": 0,
-  "avg_sentiment": 0.01,
+  "avg_sentiment": 0.018,
   "burst": false,
   "mood": "neutral",
   "top": [
-    {
-      "t": "US judge rejects CFTC emergency bid to block New York from policing Kalshi",
-      "s": -0.83
-    },
     {
       "t": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
       "s": -0.8
@@ -26,6 +22,10 @@
     {
       "t": "These stocks were crushed the most this week as the tech wreck accelerated",
       "s": -0.69
+    },
+    {
+      "t": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "s": 0.69
     }
   ]
 }
