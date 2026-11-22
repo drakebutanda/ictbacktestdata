@@ -1,31 +1,19 @@
 {
-  "ts": "2026-11-22 03:00 UTC",
+  "ts": "2026-11-22 12:26 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 0,
-  "avg_sentiment": -0.005,
+  "recent": 2,
+  "avg_sentiment": 0.389,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "America is definitely rich enough to fix Social Security and Medicare. Here\u2019s how.",
-      "s": 0.83
+      "t": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
+      "s": 0.78
     },
     {
-      "t": "UBS assesses impact of nationwide ground stop on US airlines\u2019 4Q outlook",
-      "s": -0.79
-    },
-    {
-      "t": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
-      "s": 0.79
-    },
-    {
-      "t": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-      "s": -0.77
-    },
-    {
-      "t": "Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020",
-      "s": -0.74
+      "t": "The Nasdaq is in freefall. Here's one stock to look at",
+      "s": 0.0
     }
   ]
 }
