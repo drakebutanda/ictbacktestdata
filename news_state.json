@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-23 01:30 UTC",
+  "ts": "2026-11-23 10:36 UTC",
   "feeds_live": 5,
-  "headlines": 100,
-  "recent": 0,
-  "avg_sentiment": 0.043,
-  "burst": false,
+  "headlines": 99,
+  "recent": 10,
+  "avg_sentiment": 0.008,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
-      "s": 0.79
+      "t": "\u2018Worst COP ever\u2019: Climate talks collapse after draft deal fails to include fossil fuels",
+      "s": -0.72
     },
     {
-      "t": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
-      "s": 0.78
+      "t": "Zelenskyy praises \u2018exemplary\u2019 drone operation that sank Russian warship in a Libyan port",
+      "s": 0.4
     },
     {
-      "t": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "s": -0.77
+      "t": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+      "s": 0.3
     },
     {
-      "t": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-      "s": -0.77
+      "t": "Treasury yields jump as stock futures rebound, investors await New York Fed President Williams speech",
+      "s": 0.3
     },
     {
-      "t": "Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020",
-      "s": -0.74
+      "t": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
+      "s": -0.25
     }
   ]
 }
