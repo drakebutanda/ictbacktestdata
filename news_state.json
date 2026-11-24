@@ -1,15 +1,31 @@
 {
-  "ts": "2026-11-24 06:53 UTC",
+  "ts": "2026-11-24 18:47 UTC",
   "feeds_live": 5,
-  "headlines": 99,
-  "recent": 1,
-  "avg_sentiment": 0.0,
-  "burst": false,
+  "headlines": 97,
+  "recent": 16,
+  "avg_sentiment": 0.087,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Jensen Huang is \u2018too big to fire,\u2019 putting Nvidia\u2019s governance in focus: analysts",
-      "s": 0.0
+      "t": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what\u2019s making them richer.",
+      "s": 0.77
+    },
+    {
+      "t": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
+      "s": 0.68
+    },
+    {
+      "t": "The AI debt market isn\u2019t convinced the worst is over for investors",
+      "s": -0.6
+    },
+    {
+      "t": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+      "s": 0.6
+    },
+    {
+      "t": "We're adding to our position in a tech giant that is too cheap to ignore",
+      "s": -0.36
     }
   ]
 }
