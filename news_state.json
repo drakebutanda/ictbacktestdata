@@ -1,31 +1,15 @@
 {
-  "ts": "2026-11-23 22:30 UTC",
+  "ts": "2026-11-24 06:53 UTC",
   "feeds_live": 5,
   "headlines": 99,
-  "recent": 16,
-  "avg_sentiment": 0.197,
-  "burst": true,
+  "recent": 1,
+  "avg_sentiment": 0.0,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
-      "s": 0.87
-    },
-    {
-      "t": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
-      "s": 0.6
-    },
-    {
-      "t": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
-      "s": 0.53
-    },
-    {
-      "t": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-      "s": 0.46
-    },
-    {
-      "t": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
-      "s": 0.34
+      "t": "Jensen Huang is \u2018too big to fire,\u2019 putting Nvidia\u2019s governance in focus: analysts",
+      "s": 0.0
     }
   ]
 }
