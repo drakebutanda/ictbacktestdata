@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-24 18:47 UTC",
+  "ts": "2026-11-25 02:59 UTC",
   "feeds_live": 5,
-  "headlines": 97,
-  "recent": 16,
-  "avg_sentiment": 0.087,
-  "burst": true,
+  "headlines": 98,
+  "recent": 6,
+  "avg_sentiment": -0.045,
+  "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what\u2019s making them richer.",
-      "s": 0.77
+      "t": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+      "s": -0.8
     },
     {
-      "t": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
-      "s": 0.68
+      "t": "Trump open to pardoning Jensen Huang if needed: NY Post",
+      "s": 0.4
     },
     {
-      "t": "The AI debt market isn\u2019t convinced the worst is over for investors",
-      "s": -0.6
+      "t": "Op-ed: Trump\u2019s Nvidia board intervention put a price on national security. Our adversaries will take note",
+      "s": 0.1
     },
     {
-      "t": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
-      "s": 0.6
+      "t": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+      "s": 0.03
     },
     {
-      "t": "We're adding to our position in a tech giant that is too cheap to ignore",
-      "s": -0.36
+      "t": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "s": 0.0
     }
   ]
 }
