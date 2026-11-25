@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-25 02:59 UTC",
+  "ts": "2026-11-25 12:38 UTC",
   "feeds_live": 5,
-  "headlines": 98,
-  "recent": 6,
-  "avg_sentiment": -0.045,
+  "headlines": 97,
+  "recent": 7,
+  "avg_sentiment": 0.261,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-      "s": -0.8
+      "t": "Here\u2019s how to find value in cybersecurity stocks after a strong year",
+      "s": 0.69
     },
     {
-      "t": "Trump open to pardoning Jensen Huang if needed: NY Post",
-      "s": 0.4
+      "t": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
+      "s": 0.67
     },
     {
-      "t": "Op-ed: Trump\u2019s Nvidia board intervention put a price on national security. Our adversaries will take note",
-      "s": 0.1
+      "t": "This strategist\u2019s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.",
+      "s": 0.44
     },
     {
-      "t": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-      "s": 0.03
+      "t": "The S&P 500 is headed to 8,200 \u2014 and downturns like this one are actually part of the reason, says JPMorgan",
+      "s": 0.36
     },
     {
-      "t": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "s": 0.0
+      "t": "Budget carrier Norse Atlantic falls 77% after warning its finances are \u2018critical\u2019 amid soaring fuel costs",
+      "s": -0.34
     }
   ]
 }
