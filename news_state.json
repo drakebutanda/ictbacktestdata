@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-25 12:38 UTC",
+  "ts": "2026-11-25 22:20 UTC",
   "feeds_live": 5,
   "headlines": 97,
-  "recent": 7,
-  "avg_sentiment": 0.261,
-  "burst": false,
+  "recent": 10,
+  "avg_sentiment": -0.015,
+  "burst": true,
   "mood": "neutral",
   "top": [
     {
-      "t": "Here\u2019s how to find value in cybersecurity stocks after a strong year",
-      "s": 0.69
+      "t": "How to spot \u2018bogus boutiques\u2019 and other Black Friday shopping scams",
+      "s": -0.59
     },
     {
-      "t": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-      "s": 0.67
+      "t": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+      "s": -0.57
     },
     {
-      "t": "This strategist\u2019s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.",
-      "s": 0.44
+      "t": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+      "s": 0.42
     },
     {
-      "t": "The S&P 500 is headed to 8,200 \u2014 and downturns like this one are actually part of the reason, says JPMorgan",
+      "t": "Vance says he was assured Jensen Huang was not under DOJ investigation",
       "s": 0.36
     },
     {
-      "t": "Budget carrier Norse Atlantic falls 77% after warning its finances are \u2018critical\u2019 amid soaring fuel costs",
-      "s": -0.34
+      "t": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
+      "s": 0.2
     }
   ]
 }
