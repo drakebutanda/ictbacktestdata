@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-26 14:56 UTC",
+  "ts": "2026-11-26 23:41 UTC",
   "feeds_live": 5,
-  "headlines": 96,
-  "recent": 5,
-  "avg_sentiment": 0.172,
+  "headlines": 95,
+  "recent": 0,
+  "avg_sentiment": 0.03,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
-      "s": 0.66
+      "t": "Planes, trains and automobiles: The best ways to beat travel fatigue\u2014so you can come home feeling rested and fulfilled",
+      "s": 0.82
     },
     {
-      "t": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
-      "s": 0.2
+      "t": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "s": -0.77
     },
     {
-      "t": "Nvidia and the whole AI trade aren\u2019t out of the woods \u2014 not by a long shot",
-      "s": 0.0
+      "t": "Switzerland\u2019s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
+      "s": -0.77
     },
     {
-      "t": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
-      "s": 0.0
+      "t": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "s": 0.69
     },
     {
-      "t": "What is \u2018texture-maxxing\u2019? The food trend putting crunch on the menu",
-      "s": 0.0
+      "t": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
+      "s": 0.67
     }
   ]
 }
