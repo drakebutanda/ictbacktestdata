@@ -1,31 +1,31 @@
 {
-  "ts": "2026-11-26 04:52 UTC",
+  "ts": "2026-11-26 14:56 UTC",
   "feeds_live": 5,
   "headlines": 96,
   "recent": 5,
-  "avg_sentiment": 0.266,
+  "avg_sentiment": 0.172,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "How Trump\u2019s latest tariff moves hand India an edge over rival Asian exporters",
-      "s": 0.49
+      "t": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
+      "s": 0.66
     },
     {
-      "t": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
-      "s": 0.38
+      "t": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+      "s": 0.2
     },
     {
-      "t": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
-      "s": 0.34
+      "t": "Nvidia and the whole AI trade aren\u2019t out of the woods \u2014 not by a long shot",
+      "s": 0.0
     },
     {
-      "t": "Hedge funds are no longer just for the rich. They\u2019re wooing everyday investors",
-      "s": 0.34
+      "t": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+      "s": 0.0
     },
     {
-      "t": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
-      "s": -0.23
+      "t": "What is \u2018texture-maxxing\u2019? The food trend putting crunch on the menu",
+      "s": 0.0
     }
   ]
 }
