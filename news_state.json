@@ -1,23 +1,27 @@
 {
-  "ts": "2026-11-27 07:58 UTC",
+  "ts": "2026-11-27 18:05 UTC",
   "feeds_live": 5,
-  "headlines": 94,
-  "recent": 3,
-  "avg_sentiment": 0.188,
+  "headlines": 97,
+  "recent": 4,
+  "avg_sentiment": 0.452,
   "burst": false,
-  "mood": "neutral",
+  "mood": "risk-on",
   "top": [
     {
-      "t": "SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations",
+      "t": "SpaceX shares jump over 3% amid tech rally and after Musk says he will expand on Trump Account share donations",
       "s": 0.69
     },
     {
-      "t": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
-      "s": -0.13
+      "t": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+      "s": 0.55
     },
     {
-      "t": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
-      "s": 0.0
+      "t": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "s": 0.44
+    },
+    {
+      "t": "Clearing out my parents\u2019 house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+      "s": 0.13
     }
   ]
 }
