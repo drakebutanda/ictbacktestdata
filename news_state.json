@@ -1,31 +1,23 @@
 {
-  "ts": "2026-11-26 23:41 UTC",
+  "ts": "2026-11-27 07:58 UTC",
   "feeds_live": 5,
-  "headlines": 95,
-  "recent": 0,
-  "avg_sentiment": 0.03,
+  "headlines": 94,
+  "recent": 3,
+  "avg_sentiment": 0.188,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Planes, trains and automobiles: The best ways to beat travel fatigue\u2014so you can come home feeling rested and fulfilled",
-      "s": 0.82
-    },
-    {
-      "t": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "s": -0.77
-    },
-    {
-      "t": "Switzerland\u2019s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
-      "s": -0.77
-    },
-    {
-      "t": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "t": "SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations",
       "s": 0.69
     },
     {
-      "t": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-      "s": 0.67
+      "t": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+      "s": -0.13
+    },
+    {
+      "t": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+      "s": 0.0
     }
   ]
 }
