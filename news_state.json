@@ -1,27 +1,31 @@
 {
-  "ts": "2026-11-27 18:05 UTC",
-  "feeds_live": 5,
-  "headlines": 97,
-  "recent": 4,
-  "avg_sentiment": 0.452,
+  "ts": "2026-11-28 01:51 UTC",
+  "feeds_live": 4,
+  "headlines": 88,
+  "recent": 0,
+  "avg_sentiment": 0.044,
   "burst": false,
-  "mood": "risk-on",
+  "mood": "neutral",
   "top": [
     {
-      "t": "SpaceX shares jump over 3% amid tech rally and after Musk says he will expand on Trump Account share donations",
-      "s": 0.69
+      "t": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends \u2018whenever I want it\u2019",
+      "s": -0.9
     },
     {
-      "t": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
-      "s": 0.55
+      "t": "Planes, trains and automobiles: The best ways to beat travel fatigue\u2014so you can come home feeling rested and fulfilled",
+      "s": 0.82
     },
     {
-      "t": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
-      "s": 0.44
+      "t": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+      "s": -0.8
     },
     {
-      "t": "Clearing out my parents\u2019 house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
-      "s": 0.13
+      "t": "Switzerland\u2019s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
+      "s": -0.77
+    },
+    {
+      "t": "China\u2019s factories are growing profits again, but the AI boom is picking the winners",
+      "s": 0.75
     }
   ]
 }
