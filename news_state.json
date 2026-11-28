@@ -1,31 +1,19 @@
 {
-  "ts": "2026-11-28 10:07 UTC",
-  "feeds_live": 4,
-  "headlines": 87,
-  "recent": 0,
-  "avg_sentiment": 0.035,
+  "ts": "2026-11-28 18:46 UTC",
+  "feeds_live": 5,
+  "headlines": 98,
+  "recent": 2,
+  "avg_sentiment": -0.169,
   "burst": false,
   "mood": "neutral",
   "top": [
     {
-      "t": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends \u2018whenever I want it\u2019",
-      "s": -0.9
+      "t": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who\u2019s right?",
+      "s": -0.44
     },
     {
-      "t": "Planes, trains and automobiles: The best ways to beat travel fatigue\u2014so you can come home feeling rested and fulfilled",
-      "s": 0.82
-    },
-    {
-      "t": "Africa\u2019s richest man is taking his mega-refinery public in a blockbuster IPO",
-      "s": 0.81
-    },
-    {
-      "t": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
-      "s": -0.8
-    },
-    {
-      "t": "Switzerland\u2019s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
-      "s": -0.77
+      "t": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
+      "s": 0.1
     }
   ]
 }
