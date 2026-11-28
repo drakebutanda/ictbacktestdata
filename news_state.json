@@ -1,9 +1,9 @@
 {
-  "ts": "2026-11-28 01:51 UTC",
+  "ts": "2026-11-28 10:07 UTC",
   "feeds_live": 4,
-  "headlines": 88,
+  "headlines": 87,
   "recent": 0,
-  "avg_sentiment": 0.044,
+  "avg_sentiment": 0.035,
   "burst": false,
   "mood": "neutral",
   "top": [
@@ -16,16 +16,16 @@
       "s": 0.82
     },
     {
+      "t": "Africa\u2019s richest man is taking his mega-refinery public in a blockbuster IPO",
+      "s": 0.81
+    },
+    {
       "t": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
       "s": -0.8
     },
     {
       "t": "Switzerland\u2019s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
       "s": -0.77
-    },
-    {
-      "t": "China\u2019s factories are growing profits again, but the AI boom is picking the winners",
-      "s": 0.75
     }
   ]
 }
